@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="126007" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>O que Balteira ora quer vingar</INCIPIT>
+
+      <NUCANT>126 7</NUCANT>
+
+      <RM BCA="B" EM="NO" F="336r" I.FI="lb336r" MU="NON" NM="1597"></RM>
+
+      <RM BCA="V" EM="NO" F="185v" I.FI="lv185v" MU="NON" NM="1129"></RM>
+
+      <RM BCA="V" EM="NO" F="186r" I.FI="lv186r" MU="NON" NM="1129"></RM>
+
+      <EDIANT T="CRITI">
+        <P>&gt;Lapa 337</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, pp. 671-672</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1499</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1129</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 333</P>
+      </EDIANT>
+
+      <DATOAU NOME="Alvar" NUA="11"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>13/03/00</DATE>
+      </RESP>
+
+      <RESP ROLE="CO">
+        <NOME>Miguel A. Pousada Cruz</NOME>
+
+        <DATE>20/06/12</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="S"></SUBTEMA></TEMA>
+
+      <TEMA CAT="VIN"><SUBTEMA CAT="S"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="vingar" N="1" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CD">O que</SEG> Balteira ora quer
+          vingar</LT>
+
+          <LL>O que Balteira ora quer vingar</LL>
+
+          <ANTRO T="REAL">Maria, a Balteira (Balteira)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="prendeu" N="2" NS="10" RI="eu">
+          <LT>das desonrras que no mundo prendeu,</LT>
+
+          <LL>das desonrras que no mundo prendeu,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="começar" N="3" NS="10" RI="ar">
+          <LT>se ben fezer, non dev' a começar</LT>
+
+          <LL>se ben fezer, non dev' a começar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="sandeu" N="4" NS="10" RI="eu">
+          <LT>en mi, que ando por ela sandeu;</LT>
+
+          <LL>en mi, que ando por ela sandeu;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Leon" N="5" NS="10" RI="on">
+          <LT>mais começ' ant' en reino de Leon,</LT>
+
+          <LL>mais começ' ant' en reino de Leon,</LL>
+
+          <TOPO CAT="CIRCUNS">Leon</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="son" N="6" NS="10" RI="on">
+          <LT>hu pres desonrras de quantos hi son,</LT>
+
+          <LL>hu pres desonrras de quantos hi son,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="peitar" N="7" NS="10" RI="ar">
+          <LT>que lh' as <SEG C="R" ID="2" N="CF">desonrras</SEG> non queren
+          peit<SEG C="R" ID="3" N="CC">ar</SEG>.</LT>
+
+          <LL>que lh' as desonrras non queren peitar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="desonrrar" N="1" NS="10" RI="ar">
+          <LT>Ca en Castela foi a <SEG C="R" ID="2" N="CF">desonrr<SEG C="R"
+                ID="3" N="CC">ar</SEG></SEG></LT>
+
+          <LL>Ca en Castela foi a desonrrar</LL>
+
+          <TOPO CAT="CIRCUNS">Castela</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="entendeu" N="2" NS="10" RI="eu">
+          <LT>muito mal home, que non entendeu</LT>
+
+          <LL>muito mal home, que non entendeu</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="catar" N="3" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CD">o que</SEG> fazia, nen soube catar</LT>
+
+          <LL>o que fazia, nen soube catar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="perdeu" N="4" NS="10" RI="eu">
+          <LT>quan muit' a dona per esto perdeu;</LT>
+
+          <LL>quan muit' a dona per esto perdeu;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="razon" N="5" NS="10" RI="on">
+          <LT>e, quen a vinga, fezer con razon</LT>
+
+          <LL>e, quen a vinga, fezer con razon</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prison" N="6" NS="10" RI="on">
+          <LT><SEG C="R" ID="4" N="CD">d' estes la vingue</SEG>, ca en ssa
+          prison</LT>
+
+          <LL>d' estes la vingue, ca en ssa prison</LL>
+        </L>
+
+        <L AC="--+-----+" ERI="enparar" N="7" NS="10" RI="ar">
+          <LT>and' eu e d' ela non m' ei d' enpar<SEG C="R" ID="5" N="CC">ar</SEG>.</LT>
+
+          <LL>and' eu e d' ela non m' ei d' enparar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="matar" N="1" NS="10" RI="ar">
+          <LT>E os mouros pensse de os mat<SEG C="R" ID="5" N="CC">ar</SEG></LT>
+
+          <LL>E os mouros pensse de os matar</LL>
+        </L>
+
+        <L AC="--+------+" ERI="colheu" N="2" NS="10" RI="eu">
+          <LT>ca de todos gram desonrra colheu</LT>
+
+          <LL>ca de todos gram desonrra colheu</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="logar" N="3" NS="10" RI="ar">
+          <LT>no corpo, ca non en outro logar;</LT>
+
+          <LL>no corpo, ca non en outro logar;</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="recebeu" N="4" NS="10" RI="eu">
+          <LT>e outro tal desonrra recebeu</LT>
+
+          <LL>e outro tal desonrra recebeu</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Aragon" N="5" NS="10" RI="on">
+          <LT>dos mais qu' á no <SEG C="M" ID="6" N="HIA">reï</SEG>no d'
+          Aragon:</LT>
+
+          <LL>dos mais qu' á no reïno d' Aragon:</LL>
+
+          <TOPO CAT="CIRCUNS">Aragon</TOPO>
+        </L>
+
+        <L AC="-----+---+" ERI="non" N="6" NS="10" RI="on">
+          <LT><SEG C="R" ID="4" N="CD">e d' este la vingu'</SEG> él, ca de min
+          non,</LT>
+
+          <LL>e d' este la vingu' él, ca de min non,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="dar" N="7" NS="10" RI="ar">
+          <LT>pois á sabor de lhi vingança dar.</LT>
+
+          <LL>pois á sabor de lhi vingança dar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,4132 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>Topónimos cantigas lírica profana galego-portuguesa</name>
+      <Placemark>
+         <name>Acre</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.0829, 32.94</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ácri</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Acre</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero d' Ambroa, se Deus mi pardon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gomez Barroso</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.0829, 32.9339</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alanquer</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Meu senhor, se vus aprouguer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Paez de Ribela</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9833, 37.3833</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alfanx'</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero eu vejo aqui trobadores</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.6749, 39.2304</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alfanx'</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mais fremosa de quantas vejo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.66, 39.2304</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alvam</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Albán</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Enmentar quer' eu do brial</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8563, 42.4</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alvan</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Albán</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O infanon ouv' atal</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8563, 42.4284</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Andaluzia</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O muy bon Rey, que conquis a fronteyra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.848656, 37.407566</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aragon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O que Balteira ora quer vingar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-0.70118,41.3856366</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aragon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ora faz ost' o senhor de Navarra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez de Pávia</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-0.8989, 41.7432</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Arcos</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mala ventura mi venha</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Paez de Ribela</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.2708, 41.2138</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ardom</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Maestr' Aceno, dereyto faria</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Moxa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.5602, 42.4362</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bagüyn</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A dona de Bagüyn</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7195, 42.3826</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Belenha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mala ventura mi venha</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Paez de Ribela</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.188, 40.9261</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Belfurad'</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.1928, 42.4194</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Belfurado</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.2, 42.4194</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Benavente</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Tercer dia ante Natal</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.6781, 42.0009</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bizcaya</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A donzela de Bizcaya</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Paez de Ribela</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.9833, 43.25</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Burgos</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Un dia fui cavalgar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.6967, 42.3481</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Burgos</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Os de Burgos son coitados</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.7, 42.3481</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Burgos</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quen mh' ora quysesse cruzar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.7, 42.34</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Carrion</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Un dia fui cavalgar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.6, 42.34</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Carrion</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Noutro dia, en Carrion</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.6015, 42.35</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Carrion</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ũa pregunta vos quero fazer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Gomez Charinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.6, 42.35</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Carron</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Carrión de los Condes</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Que muyto mi de Fernan Diaz praz</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.6015, 42.3395</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Par Deus, coitada vivo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gonçalvez de Portocarreiro</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.302,42.0358848</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O que Balteira ora quer vingar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.3, 42</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pois boas donas son desemparadas</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.302, 42</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castela e León</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>De quantas cousas eno mundo son</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Gomez Charinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.4262, 41.6605415</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castro Mentireiro - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Catalonha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O meu amig', amiga, que me gran ben fazia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Mafaldo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>1.7458, 41.6922484</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Chartes</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Chegou Paio de maas artes</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Mendiz da Fonseca</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>1.4858, 48.4436</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Coira</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero Coelho  deitado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Men Rodriguez de Briteiros</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.7995, 42.2176</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Coira</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-6.5371, 39.9877</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Compostela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quand' eu hun dia fuy en Compostela</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5, 42.89</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Conca</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Hun bispo diz aqui, por sy</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.1296, 40.0786</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Condado</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mandei pedir noutro dia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedro de Portugal, Conde de Barcelos</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.612058, 41.529207</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Coronha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.41268, 43.3618742</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Eixarês</name>
+         <description><![CDATA[
+                <ul>
+                  <li>Topónimo actual: Jerez de la Frontera</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pedr' Amigo, quero de vs saber</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vasco Perez Pardal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-6.1166, 36.7</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Elvas</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Moyr', e faço dereyto</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vidal, judeu d' Elvas</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.162778, 38.88</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Elvas</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Faz-m' agora por ssy morrer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vidal, judeu d' Elvas</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.16, 38.9</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Espanha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ay Pedr' Amigo, vós que vos tẽedes</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Vasquiz de Talaveira</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.71, 40.20</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Espanna</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quantos aqui d' Espanna son</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Soarez de Taveirós</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.71, 40.2085</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Estela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quand' eu hun dia fuy en Compostela</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.0293, 42.6691</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Estela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ora faz ost' o senhor de Navarra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez de Pávia</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2, 42.6691</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Estremadura</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Met' el-rey barcas no rio forte</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Zorro</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.999438, 39.722706</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>França</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero Coelho é deitado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Men Rodriguez de Briteiros</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>2.20, 46.2157467</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Freixeeiro - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Galisteu</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-6.2664, 39.9771</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Galiza</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mj quer mal o infançon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.01, 42.7999285</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Geén</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Jaén</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ay, Santiago, padrón sabido</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Gomez Charinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.8, 37.7697</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Graada</name>
+         <description><![CDATA[
+                <ul>
+                  <li>Topónimo actual: Granada</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Meu senhor, direi-vos ora</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gomez Barroso</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.592, 37.2</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Granada</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Rogo-te, ay Amor, que queyras migo morar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Martinz do Casal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.592, 37.1809</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Granada</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Muit' ei, ai Amor, que te gradescer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Martinz do Casal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.6, 37.2</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ierusalen</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Joan Fernández, o mund' é torvado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.22, 31.7</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Iherusalen</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Xerusalén
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quen mh' ora quysesse cruzar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.2166, 31.783333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Iherusalen</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Marinha Mejouchi, Pero d' Anbroa</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.2166, 31.8</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Iherusalen</name>
+         <description><![CDATA[
+                <ul>
+                 <li>Topónimo actual: Xerusalén
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Joham Baveca e Pero d' Anbra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.21, 31.79</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Jaen</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Un infanon mi  convidado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nunes</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.7888, 37.7797</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Jaén</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pedr' Amigo, quero de vós saber</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vasco Perez Pardal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.7888, 37.7697</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Jerusalen</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.22, 31.783333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Julhan -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                <li>Talvez San Xulián da Veiga</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Do meu amig', a que eu quero ben</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Veer (Ver)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.4429,42.8689</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Julhan -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                <li>Talvez San Xulián da Veiga</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ai Deus, que doo que eu de mi ei</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Veer (Ver)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.4429,42.89</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lagares -Dúvida</name>
+         <description><![CDATA[
+                <ul>
+                <li>Copiado dos portugueses: Eventualmente, Lagares da Beira, povoação do concelho de Oliveira do Hospital, 
+                Beira Alta, próxima do mosteiro do Lorvão (e da atual barragem da Aguieira); mas existem igualmente duas 
+                outras povoações homónimas, uma em Felgueiras e outra em Penafiel </li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Nostro Senhor, que ben alberguey</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8621, 40.4016</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lecia -DÚVIDA</name>
+         <!--            Na base de dados lisboeta editam como "Lemos" baseando-se na rúbrica... -->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Tercer dia ante Natal</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Leirea</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Un sangrador de Leirea</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Men Rodriguez de Briteiros</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.8087, 39.7545</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Leon - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                <li>Reino ou cidade? parece que é cidade...</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Que muyto mi de Fernan Diaz praz</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.566,42.6</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Leon - DÚVIDA</name>
+         <!--    
+                E prometeu-m'ũas armas entom,
+        		nom destas maas feitas de León,  -->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Leon - DÚVIDA</name>
+         <!--            Reino ou Cidade??-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mj quer mal o infançon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>León -DUVIDA (foro de Leon)</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ũa pregunta vos quero fazer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Gomez Charinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.577, 42.6036056</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lisboa</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Don Estêvan fezo sa partiçon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-9.17, 38.7</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lixboa</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Martim Vasquez, noutro dia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedro de Portugal, Conde de Barcelos</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-9.1666, 38.7166</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lixboa</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>En Lixboa sobre lo mar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Zorro</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-9.17, 38.7166</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lobatom</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A Lobatom quero eu ir</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Viviaez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.0252, 41.6477</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Loulé</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.0185, 37.1371</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Marselha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>5.3831, 43.2953</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Meca</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pedr' Amigo, quero de vós saber</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vasco Perez Pardal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>39.8261, 21.4225</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Moeda Velha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Direi-vos ora que o dizer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Vasquiz de Talaveira</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5437, 42.8819</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Monpirller</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Montpellier</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quen mh' ora quysesse cruzar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>3.88, 43.611</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Montpellier</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Sabedes vs: Meestre Nicolao</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>3.8727, 43.6086</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Monçonha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Monçón</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ũa pregunta vos quero fazer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pai Gomez Charinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.4814, 42.0787</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mora</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Meu senhor, direi-vos ora</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gomez Barroso</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.7709, 39.6861</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Morrazo -DÚVIDA</name>
+         <!--            Suficientemente grande como para ser em preto?-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Saben en Morraz' e en Salnês</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.73, 42.3325</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Navarra - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ora faz ost' o senhor de Navarra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez de Pávia</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-1.7273, 42.8564</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nogueirol -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.720, 42.52</coordinates>
+            <!--              Mesmo que Nogueira-->
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nogueyra -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Non est a de Nogueyra a freyra que m' en poder ten</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Eanes Solaz</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.720, 42.5166753</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Olide</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quand' eu d' Olide sa</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-1.6508, 42.4824</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Olmedo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>"De longas vias, mui longas mentiras"</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Fernandez (Torneol?)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.6831, 41.2851</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Orzelhon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Se m' el Rey dess' algo, i m' iria</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.139275, 42.429185</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Orzelhon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Enmentar quer' eu do brial</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.13, 42.42</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Orzelhon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mj quer mal o infanon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.13, 42.43</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Outeiro - DÚVIDA</name>
+         <!--  E prometeu-m'ũas armas entom,
+			nom destas maas feitas de León,
+			mais melhores, d'Outeir'em Freixeeiro.-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ena primeira rua que cheguemos</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Anes Marinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paraiso -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mandei pedir noutro dia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedro de Portugal, Conde de Barcelos</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paraíso -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>De Don Fernan Daz Estaturo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paris -DÚVIDA</name>
+         <!--          Este é o de candeas de Paris, e isso nom é um topónimo (igual que ensaladilla rusa nom é um gentilício...)-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Non vou eu a San Clemeno orar e fao gram razon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Treez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Portugal</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Rei Don Alfonso, se Deus vos pardon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vasco Gil</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.85, 39.557191</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Portugal</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Muytus a que Deus quis dar muy bon sen</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Goterrez, cavaleiro</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.9, 39.557191</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Portugal</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Moir' eu aqui de dessoriam</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gomez Barroso</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.85, 39.56</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Portugal</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Johan Vaasquez, moiro por saber</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lourenço, jogral</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.85, 39.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rocamador</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quand' eu hun dia fuy en Compostela</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>1.6238, 44.8058</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rocamador</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>1.6238, 44.81</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roda - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Possivelmente o município da província de Sevilha, 
+                    que fazia fronteira com o reino muçulmano de Granada. Mas há igualmente outra 
+                    localidade homónima, Roda de Eresma, na província de Segovia </li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Maestr' Aceno, dereyto faria</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Moxa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.77916, 37.2035084</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roma</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pedr' Amigo, quero de vs saber</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Vasco Perez Pardal</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>12.5, 41.9</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roma</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mort' é Don Martin Marcos, ¡ai, Deus! ¿se é verdade?</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>12.55, 41.95</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roma</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Joan Fernández, o mund' é torvado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>12.4, 41.9</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Salnês</name>
+         <!--            Suficientemente grande como para ser em preto?-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Saben en Morraz' e en Salnês</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7986, 42.5089</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sam Salvador</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Por Deus que vos non ps</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Padrozelos (Pedrozelos)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.143139, 42.190524</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Clemenç'</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Des quando vos fostes d' aqui</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Treez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.75,42.341</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Clemenço</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>San Clemenço do mar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Treez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7537,42.3501</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Clemenço</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Non vou eu a San Clemenço orar e faço gram razon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Treez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7537,42.36</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Clemenço</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Estava m' en San Clemenço, u fora fazer oraçon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Treez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.76,42.3501</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Fagundo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Sahagún</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero d' Armea, quando composestes</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.0273, 42.3712</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Fagundo</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Sahagún</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>De Pero Bõo and' ora espantado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5, 42.3712</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Leuter - DÚVIDA</name>
+         <!--           
+                santuário galego, que poderá corresponder a vários 
+                lugares do mesmo nome (um a sul de Santiago de Compostela, um outro em Friol, Lugo, 
+                e um terceiro nas Rias Altas, Corunha).-->
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Por Deus vos rogo, madre, que mi digades</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo, jogral</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5471,42.8592</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Martinho</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Direi-vos ora que o dizer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Vasquiz de Talaveira</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5446, 42.8819</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Paayo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Nostro Senhor, que ben alberguey</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.841, 40.3529</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Salvador</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Probabelmente se refire ao santuario de S. Salvador de Bastavales (concello de Brión) [Souto Cabo, José António (no prelo),
+                    "In capella domini regis, in Ulixbona e outras nótulas trovadorescas", in <em>Actas del XIV Congreso de la Asociación Hispánica de
+                    Literatura Medieval</em>, Murcia, setembro de 2011.]</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>En outro dia en San Salvador</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Sancho Sanchez, clérigo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.6, 42.8328596</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Salvador de Mao? (San Salvador) - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Amig', avia queixume</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Padrozelos (Pedrozelos)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Simion</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Seiam' eu na ermida de San Simion,</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Mendinho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.628757, 42.307357</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>San Simon de Val de Prados</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pois nossas madres van a San Simon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Viviaez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-6.9619,41.5378</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sanctaren</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero eu vejo aqui trobadores</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.685, 39.2369</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Cecilia - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Ermida difícil de localizar. Na paróquia galega de Santa Marinha 
+                    de Ginzo, concelho de Ponteareas, possível região de origem do jogral,
+                    nenhuma ermida corresponde a este topónimo. </li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Treides, ai mia madr', en romaria</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Ginzo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Cecilia - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Se vos prouguer, madr', oj' este dia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Ginzo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Cecilia - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Non poss' eu, madre, ir a Santa Cecilia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Ginzo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Cecilia - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ai vertudes de Santa Cecilia</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Ginzo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Maria - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Do meu amig', a que eu quero ben</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Veer (Ver)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.3815,42.8727</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Maria - DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A Santa Maria fiz ir meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Veer (Ver)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.4,42.8727</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Marta -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Sanhudo m' é meu amig' e non sei</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Bardia (Berdia)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Marta -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Jurava mh o meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Bardia (Berdia)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.504,42.9553343</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santa Marta -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Assanhou s' o meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero de Bardia (Berdia)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.504,42.96</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santarem</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.695, 39.2369</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santaren</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Amigos, des que me parti</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.69, 39.2369</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santaren</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mais fremosa de quantas vejo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.685, 39.24</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santaren</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Don Estêvan fezo sa partiçon</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.75, 39.2369</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santiago</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quem seu parente vendia,</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5, 42.9</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santïago</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>De Pero Bõo and' ora espantado</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5, 42.8802049</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sar -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quand' eu hun dia fuy en Compostela</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5370, 42.8719</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Segóvia</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Dun tal ricome vos quero contar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.1176, 40.9478</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sentirigo - DÚVIDA</name>
+         <!--           Mistura de "Santa Íria" com Santarém, eu digo de nom considerá-lo um topónimo -->
+         <description><![CDATA[
+                <ul>
+                
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mais fremosa de quantas vejo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.67, 39.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Seserigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero eu vejo aqui trobadores</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.6397, 39.2591</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Seserigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A mais fremosa de quantas vejo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amor.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.6397, 39.26</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sevilha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Madre, quer' oj' eu ir veer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Roi Fernandiz, clérigo de Santiago</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-6, 37.3833</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sevilha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O muy bon Rey, que conquis a fronteyra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.99, 37.3833</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sevilha</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>En este son de negrada farey hun cantar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.98, 37.38</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Soca de Ven -DÚVIDA</name>
+         <description><![CDATA[
+                <ul>
+                <li>O equívoco toponímico, que claramente existe, não é fácil de deslindar. No ms. lê-se çoca de ueu. 
+                Lapa, corrigindo ligeiramente esta lição, leu: Çoco de Ven, pensando num arabismo com o sentido de mercado (souk); 
+                "mercado de vento" seria pois o sentido para o que ele afirma ser um pseudo-topónimo. Ao longo do cancioneiro satírico, no entanto, 
+                sempre que os trovadores jogam com nomes de lugares, são sempre lugares reais e reconhecíveis o que acabamos por encontrar. É possível, 
+                pois, que, numa primeira leitura, se trate efetivamente de uma alusão ao Zocodover, a principal praça e centro nevrálgico de Toledo, 
+                como lembrou Joaquim Ventura2. Mas a sugestão de Lapa1 para o sentido equívoco parece absolutamente adequada.
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Marinha Mejouchi, Pero d' Anbroa</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Somportes</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero non fui a Ultramar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-0.532, 42.7993</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sousela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pois boas donas son desemparadas</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Soarez</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.183333, 41.366667</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Soveral</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A dona fremosa do Soveral</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.712730, 42.385735</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Soveral</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>A dona de Bagüyn</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Lopo Lias</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.72, 42.39</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ssan Felizes</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Saelices
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Pero d' Armea, quando composestes</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-3.322, 42.3867</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tarraçona</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ora faz ost' o senhor de Navarra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez de Pávia</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-1.7233, 41.9044</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Todela</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ora faz ost' o senhor de Navarra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez de Pávia</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-1.6061, 42.061</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Toledo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Eu, en Toledo, sempr' ouço dizer</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.0286, 39.8606</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Toledo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>"De longas vias, mui longas mentiras"</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Fernandez (Torneol?)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4, 39.8606</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Touro</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Meu senhor, direi-vos ora</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Gomez Barroso</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.3911, 41.527561</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Uclés</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Ocrês</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Chegou Paio de maas artes</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Mendiz da Fonseca</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.8622, 39.9819</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ultramar</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Querri' agora fazer hun cantar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.13, 31.5947623</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ultramar</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Fernam Diaz, este que and' aqui</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35, 31.5947623</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ultramar</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Maria Pérez, a nossa cruzada</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.15, 31.5947623</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ultramar</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quen mh' ora quysesse cruzar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.13, 31.6</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ultramar</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Marinha Mejouchi, Pero d' Anbra</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pedr' Amigo de Sevilha</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>35.12, 31.6</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valedolide</name>
+         <description><![CDATA[
+                <ul>
+                    <li>Topónimo actual: Valladolid</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>"De longas vias, mui longas mentiras"</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Nuno Fernandez (Torneol?)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-4.7278,41.6523</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valença</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O que Valença conquereu</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero da Ponte</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-0.36, 39.4077852</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valongo</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: San Martín de Balongo</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Madr', enviou-vo-lo meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Padrozelos (Pedrozelos)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.143139, 42.2</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valongo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ai meu amigo, coitada</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Padrozelos (Pedrozelos)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.143139, 42.18</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valongo (Valongu')</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Gran sazon á, meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin de Padrozelos (Pedrozelos)</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.15, 42.190524</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vig'</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mia irmana fremosa, treides comigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7210, 42.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Quantas sabedes amar amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7210, 42.2403</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ondas do mar de Vigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7, 42.2403</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mia irmana fremosa, treides comigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7210, 42.25</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Mandad' ei comigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.71, 42.2403</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Eno sagrado en Vigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.73, 42.2403</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vigo</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Ai Deus, se sab' ora meu amigo</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Martin Codax</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.73, 42.25</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Viveyro</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Que muyto mi de Fernan Diaz praz</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.594,43.6612607,</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>del Poy</name>
+         <description><![CDATA[
+                <ul>
+                <li>Topónimo actual: Lo Puèg</li>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>Fernam Diaz, este que and' aqui</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia Burgalês</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>0.0624, 44.6586</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>reino de Leon</name>
+         <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong>
+                        <em>O que Balteira ora quer vingar</em>
+                    </li>
+                    <li>
+                        <strong>Autor: </strong>Pero Garcia d' Ambroa</li>
+                </ul>
+            ]]></description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/escarnho-preto.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.577,42.6036056,</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

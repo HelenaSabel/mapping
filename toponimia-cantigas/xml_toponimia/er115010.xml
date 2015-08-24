@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="115010" NE="4" OL="NON" SG="NO" TC="MEST" XE="A">
+      <INCIPIT>Quantos aqui d&#39; Espanna son</INCIPIT>
+
+      <NUCANT>115 10</NUCANT>
+
+      <RM BCA="A" EM="YES" F="8r" I.FI="la008r" MU="NON" NM="33"></RM>
+
+      <RM BCA="A" EM="YES" F="8v" I.FI="la008v" MU="NON" NM="33"></RM>
+
+      <RM BCA="B" EM="NO" F="37v" I.FI="lb037v" MU="NON" NM="148"></RM>
+
+      <RM BCA="B" EM="NO" F="38r" I.FI="lb038r" MU="NON" NM="148"></RM>
+
+      <EDIANT T="CRITI">
+        <P>CA 33</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 121</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 120</P>
+      </EDIANT>
+
+      <DATOAU NOME="Vallín" NUA="6"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>27/12/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima a dobla; c I = b II; c III = b IV)</P></FRI>
+
+      <NOTC>q cuidi <COMNOTC><P>Reclamo situado na marxe inferior, debaixo da
+      columna b do folio 37v de B. Fai referencia ó comezo do verso 2 III que
+      aparece no folio seguinte. Enriba do q figura un sinal de abreviatura.</P></COMNOTC></NOTC>
+
+      <NOTC>deseiar <COMNOTC><P>Nota colocciana situada na marxe superior, á
+      altura da columna a do folio 38r de B. Refírese a palabra que está
+      subliñada no verso 3 III: desejando.</P></COMNOTC></NOTC>
+
+      <NOTC>cambhar <COMNOTC><P>Nota colocciana situada na marxe superior, á
+      altura da columna a do folio 38r de B. Refírese a palabra que está
+      subliñada no verso 5 IV: cambiar.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="COI"></TEMA>
+
+      <TEMA CAT="PS"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="son" N="1" NS="8" RI="on">
+          <LT>Quantos aqui d&#39; Espanna son,</LT>
+
+          <LL>Quantos aqui d&#39; Espanna son,</LL>
+
+          <TOPO CAT="CIRCUNS">Espanna</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="dormir" N="2" NS="8" RI="ir">
+          <LT>todos perderon o <SEG C="R" ID="1" N="RD">dormir</SEG></LT>
+
+          <LL>todos perderon o dormir</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ir" N="3" NS="8" RI="ir">
+          <LT>con gran sabor que an de s&#39; ir;</LT>
+
+          <LL>con gran sabor que an de s&#39; ir;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="perdi" N="4" NS="8" RI="i">
+          <LT><SEG C="R" ID="2" N="CD">mais</SEG> eu nunca sono perd<SEG C="R"
+          ID="3" N="RETR">i</SEG>,</LT>
+
+          <LL>mais eu nunca sono perdi,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="saí" N="5" NS="8" RI="i">
+          <LT>des quando d&#39; Espanna sa<SEG C="R" ID="3" N="RETR">í</SEG>,</LT>
+
+          <LL>des quando d&#39; Espanna saí,</LL>
+
+          <TOPO CAT="CIRCUNS">Espanna</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="enton" N="6" NS="8" RI="on">
+          <LT>ca<SEG C="M" ID="4" N="SIN"> mi-o</SEG> perdera ja ent<SEG C="R"
+          ID="5" N="CC"><SEG C="R" ID="3" N="RETR">on</SEG></SEG>.</LT>
+
+          <LL>ca mi-o perdera ja enton.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="perdon" N="1" NS="8" RI="on">
+          <LT>E eles, si Deus me perd<SEG C="R" ID="5" N="CC"><SEG C="R"
+ID="3" N="RETR">on</SEG></SEG>,</LT>
+
+          <LL>E eles, si Deus me perdon,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="assi" N="2" NS="8" RI="i">
+          <LT>desejan sas terras ass<SEG C="R" ID="3" N="RETR">i</SEG></LT>
+
+          <LL>desejan sas terras assi</LL>
+        </L>
+
+        <L AC="---+---+" ERI="aí" N="3" NS="8" RI="i">
+          <LT>que non dormiron muit&#39; a<SEG C="R" ID="3" N="RETR">í</SEG>;</LT>
+
+          <LL>que non dormiron muit&#39; aí;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="dormiran" N="4" NS="8" RI="an">
+          <LT><SEG C="R" ID="2" N="CD">mais</SEG>, pois i foren, <SEG C="R"
+          ID="1" N="RD">dormiran</SEG>,</LT>
+
+          <LL>mais, pois i foren, dormiran,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="an" N="5" NS="8" RI="an">
+          <LT>ca non desejan al, nen <SEG C="R" ID="6" N="RD">an</SEG></LT>
+
+          <LL>ca non desejan al, nen an</LL>
+        </L>
+
+        <L AC="--+----+" ERI="non" N="6" NS="8" RI="on">
+          <LT>outra coita, se esta non.</LT>
+
+          <LL>outra coita, se esta non.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="peor" N="1" NS="8" RI="or">
+          <LT>E estou end&#39; eu mui peor,</LT>
+
+          <LL>E estou end&#39; eu mui peor,</LL>
+        </L>
+
+        <L AC="-----+-+" ERI="sen" N="2" NS="8" RI="en">
+          <LT>que coid&#39; i a perder o sen,</LT>
+
+          <LL>que coid&#39; i a perder o sen,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="ben" N="3" NS="8" RI="en">
+          <LT>desejando sempre aquel ben</LT>
+
+          <LL>desejando sempre aquel ben</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="aver" N="4" NS="8" RI="er">
+          <LT>do mundo mais grave d&#39; <SEG C="R" ID="6" N="RD">av<SEG C="R"
+ID="7" N="RETR">er</SEG></SEG>,</LT>
+
+          <LL>do mundo mais grave d&#39; aver,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="fazer" N="5" NS="8" RI="er">
+          <LT>como desejar ben faz<SEG C="R" ID="7" N="RETR">er</SEG></LT>
+
+          <LL>como desejar ben fazer</LL>
+        </L>
+
+        <L AC="---+---+" ERI="sennor" N="6" NS="8" RI="or">
+          <LT>da mui fremosa mia senn<SEG C="R" ID="8" N="CC"><SEG C="R"
+ID="7" N="RETR">or</SEG></SEG>.</LT>
+
+          <LL>da mui fremosa mia sennor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="mayor" N="1" NS="8" RI="or">
+          <LT>E, de pran, est&#39; est&#39; o may<SEG C="R" ID="8" N="CC"><SEG
+C="R" ID="7" N="RETR">or</SEG></SEG></LT>
+
+          <LL>E, de pran, est&#39; est&#39; o mayor</LL>
+        </L>
+
+        <L AC="---+---+" ERI="saber" N="2" NS="8" RI="er">
+          <LT>ben que og&#39; eu posso sab<SEG C="R" ID="7" N="RETR">er</SEG>;</LT>
+
+          <LL>ben que og&#39; eu posso saber;</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="querer" N="3" NS="8" RI="er">
+          <LT>e Deus, que<SEG C="M" ID="9" N="SIN"> mi-á</SEG> fez ben quer<SEG
+          C="R" ID="7" N="RETR">er</SEG>,</LT>
+
+          <LL>e Deus, que mi-á fez ben querer,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="dar" N="4" NS="8" RI="ar">
+          <LT>se m&#39; este ben quisesse dar,</LT>
+
+          <LL>se m&#39; este ben quisesse dar,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="cambiar" N="5" NS="8" RI="ar">
+          <LT>non me cuidaria cambiar</LT>
+
+          <LL>non me cuidaria cambiar</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="emperador" N="6" NS="8" RI="or">
+          <LT>por rei nen por emperador.</LT>
+
+          <LL>por rei nen por emperador.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

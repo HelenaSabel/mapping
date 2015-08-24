@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="091001" NE="6" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Ai Deus, se sab' ora meu amigo</INCIPIT>
+
+      <NUCANT>91 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="269v" I.FI="lb269v" MU="NON" NM="1281"></RM>
+
+      <RM BCA="B" EM="NO" F="270r" I.FI="lb270r" MU="NON" NM="1281"></RM>
+
+      <RM BCA="V" EM="NO" F="139v" I.FI="lv139v" MU="NON" NM="887"></RM>
+
+      <RM BCA="V" EM="NO" F="140r" I.FI="lv140r" MU="NON" NM="887"></RM>
+
+      <RM BCA="K" EM="NO" F="198r" I.FI="lk198r" MU="NON" NM="887"><NOTMAN
+      N="1">En K falta a primeira cobra.</NOTMAN></RM>
+
+      <RM BCA="K" EM="NO" F="198v" I.FI="lk198v" MU="NON" NM="887"><NOTMAN
+      N="1">En K falta a primeira cobra.</NOTMAN></RM>
+
+      <RM BCA="N" EM="NO" F="1r" I.FI="ln001r" MU="SI" NM="4"><NOTMAN N="1">A
+      cantiga está copiada nas columnas b e c do pergamiño.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Cunha, Codax, 4</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Oviedo y Arce 4</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Nunes, Martim Codax, 4</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 494</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 259</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1230</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 887</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 155</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 71</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/macedo, Cinquenta cant., 30</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 156</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 159-160</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 70</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 105</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 112</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 214-215, 514-515</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 516</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 143</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Codax" NUA="4"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>03/11/04</DATE>
+      </RESP>
+
+      <FRI>c. alt.</FRI>
+
+      <NOTC>syllab <COMNOTC>
+          <P>Nota colocciana situada na columna b, na parte inferior do folio
+          269v. É unha aclaración colocciana que ten que ver co número de
+          sílabas dos versos.</P>
+        </COMNOTC></NOTC>
+
+      <NOTC>Comeu <COMNOTC>
+          <P>Reclamo situado na marxe inferior dereita do folio 198r, e que
+          reproduce as palabras coas que se inicia a estrofa seguinte da
+          cantiga K 887, copiada no folio 198v.</P>
+        </COMNOTC></NOTC>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="COI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="amigo" N="1" NS="9" RI="igo">
+          <LT><SEG C="R" ID="1" N="PL">Ai Deus, se sab' ora meu <SEG C="R"
+                ID="2" N="RD">amigo</SEG></SEG></LT>
+
+          <LL>Ai Deus, se sab' ora meu amigo</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="Vigo" N="2" NS="9" RI="igo">
+          <LT><SEG C="R" ID="3" N="PL"><SEG C="R" ID="4" N="LP">com' eu senneira estou en Vigo</SEG></SEG>!</LT>
+
+          <LL>com' eu senneira estou en Vigo!</LL>
+
+          <TOPO CAT="CIUDAD">Vigo</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="5" N="CFR"><SEG C="R" ID="2" N="RD">namorada</SEG></SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="amado" N="1" NS="9" RI="ado">
+          <LT><SEG C="R" ID="1" N="PL">Ai Deus, se sab' ora meu <SEG C="R"
+                ID="5" N="CFR"><SEG C="R" ID="2" N="RD">amado</SEG></SEG></SEG></LT>
+
+          <LL>Ai Deus, se sab' ora meu amado</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="manno" N="2" NS="9" RI="anno">
+          <LT><SEG C="R" ID="3" N="PL"><SEG C="R" ID="4" N="LP">com' eu en Vigo senneira manno</SEG></SEG>!</LT>
+
+          <LL>com' eu en Vigo senneira manno!</LL>
+
+          <TOPO CAT="CIUDAD">Vigo</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="2" N="RD">namorada</SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="Vigo" N="1" NS="9" RI="igo">
+          <LT><SEG C="R" ID="4" N="LP">Com' eu senneira estou en Vigo</SEG></LT>
+
+          <LL>Com' eu senneira estou en Vigo</LL>
+
+          <TOPO CAT="CIUDAD">Vigo</TOPO>
+        </L>
+
+        <L AC="---+----+-" ERI="comigo" N="2" NS="9" RI="igo">
+          <LT><SEG C="R" ID="6" N="PL"><SEG C="R" ID="4" N="LP">e nullas gardas non ei <SEG
+                  C="R" ID="7" N="PV">comigo</SEG></SEG></SEG>!</LT>
+
+          <LL>e nullas gardas non ei comigo!</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="2" N="RD">namorada</SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="manno" N="1" NS="9" RI="anno">
+          <LT><SEG C="R" ID="4" N="LP">Com' eu senneira en Vigo manno</SEG>,</LT>
+
+          <LL>Com' eu senneira en Vigo manno,</LL>
+
+          <TOPO CAT="CIUDAD">Vigo</TOPO>
+        </L>
+
+        <L AC="---+----+-" ERI="trago" N="2" NS="9" RI="ago">
+          <LT><SEG C="R" ID="6" N="PL"><SEG C="R" ID="4" N="LP">e nullas gardas migo non trago</SEG></SEG>!</LT>
+
+          <LL>e nullas gardas migo non trago!</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="2" N="RD">namorada</SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="comigo" N="1" NS="9" RI="igo">
+          <LT><SEG C="R" ID="4" N="LP">E nullas gardas non ei <SEG C="R"
+                ID="7" N="PV">comigo</SEG></SEG>,</LT>
+
+          <LL>E nullas gardas non ei comigo,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="migo" N="2" NS="9" RI="igo">
+          <LT><SEG C="R" ID="8" N="PL">ergas meus ollos que choran <SEG C="R"
+                ID="9" N="CF"><SEG C="R" ID="7" N="PV">migo</SEG></SEG></SEG>!</LT>
+
+          <LL>ergas meus ollos que choran migo!</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="2" N="RD">namorada</SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 5'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:100</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="trago" N="1" NS="9" RI="ago">
+          <LT><SEG C="R" ID="4" N="LP">E nullas gardas <SEG C="R" ID="9"
+                N="CF">migo</SEG> non trago</SEG>,</LT>
+
+          <LL>E nullas gardas migo non trago,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="ambos" N="2" NS="9" RI="ambos">
+          <LT><SEG C="R" ID="8" N="PL">ergas meus ollos que choran ambos</SEG>!</LT>
+
+          <LL>ergas meus ollos que choran ambos!</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-" ERI="namorada" N="3" NS="5" RI="ada">
+            <LT>E vou <SEG C="R" ID="2" N="RD">namorada</SEG>!</LT>
+
+            <LL>E vou namorada!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

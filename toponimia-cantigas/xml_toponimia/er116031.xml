@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="116031" NE="4+F" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Quen mh&#39; ora quysesse cruzar</INCIPIT>
+
+      <NUCANT>116 31</NUCANT>
+
+      <RM BCA="B" EM="NO" F="355r" I.FI="lb355r" MU="NON" NM="1661"></RM>
+
+      <RM BCA="V" EM="NO" F="197v" I.FI="lv197v" MU="NON" NM="1195"></RM>
+
+      <RM BCA="V" EM="NO" F="198r" I.FI="lv198r" MU="NON" NM="1195"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 313</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Rangl. VII, pp683-684</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1565</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1195</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 34</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 272-273, 548-550</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 280</P>
+      </EDIANT>
+
+      <DATOAU NOME="Marroni" NUA="26"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>25/01/00</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima c sing.)</P></FRI>
+
+      <NOTC>9ged <COMNOTC><P>Nota de Colocci á cantiga 1661 de B. Está situada
+      por riba da cantiga na columna a do folio 355r dese manuscrito. Fai
+      referencia á presencia de fiinda na composición.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="VIX"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:53</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+" ERI="cruzar" N="1" NS="8" RI="ar">
+          <LT>Quen mh&#39; ora quysesse cruzar,</LT>
+
+          <LL>Quen mh&#39; ora quysesse cruzar,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="hyr" N="2" NS="8" RI="ir">
+          <LT><SEG C="R" ID="1" N="CD">ben</SEG> assy poderia hyr</LT>
+
+          <LL>ben assy poderia hyr</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Ultramar" N="3" NS="8" RI="ar">
+          <LT><SEG C="R" ID="1" N="CD">ben</SEG> como foy a <SEG C="R" ID="2"
+          N="DO"><SEG C="R" ID="3" N="RD">Ultramar</SEG></SEG></LT>
+
+          <LL>ben como foy a Ultramar</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="servyr" N="4" NS="8" RI="ir">
+          <LT>Pero d&#39; Ambrõa Deus servyr,</LT>
+
+          <LL>Pero d&#39; Ambrõa Deus servyr,</LL>
+
+          <ANTRO T="REAL">Pero d&#39; Ambrõa</ANTRO>
+        </L>
+
+        <L AC="--+----+" ERI="morou" N="5" NS="8" RI="ou">
+          <LT>morar tanto quant&#39; el <SEG C="R" ID="4" N="RD">morou</SEG></LT>
+
+          <LL>morar tanto quant&#39; el morou</LL>
+        </L>
+
+        <L AC="---+---+" ERI="achou" N="6" NS="8" RI="ou">
+          <LT>na melhor rua que achou</LT>
+
+          <LL>na melhor rua que achou</LL>
+        </L>
+
+        <L AC="--+----+" ERI="Ultramar" N="7" NS="8" RI="ar">
+          <LT><SEG C="R" ID="5" N="CD">e dizer</SEG>: &#34;- Venho d&#39; <SEG
+          C="R" ID="2" N="DO"><SEG C="R" ID="3" N="RD">Ultram<SEG C="R" ID="6"
+N="CC">ar</SEG></SEG></SEG>&#34;.</LT>
+
+          <LL>e dizer: &#34;- Venho d&#39; Ultramar&#34;.</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:53</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="buscar" N="1" NS="8" RI="ar">
+          <LT>E tal vyla foy el busc<SEG C="R" ID="6" N="CC">ar</SEG>,</LT>
+
+          <LL>E tal vyla foy el buscar,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="sayr" N="2" NS="8" RI="ir">
+          <LT>de que nunca quyso sayr,</LT>
+
+          <LL>de que nunca quyso sayr,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="osmar" N="3" NS="8" RI="ar">
+          <LT>atá que pôde ben <SEG C="R" ID="2" N="DO">osmar</SEG></LT>
+
+          <LL>atá que pôde ben osmar</LL>
+        </L>
+
+        <L AC="--+----+" ERI="vĩir" N="4" NS="8" RI="ir">
+          <LT>que podia hir e vĩir</LT>
+
+          <LL>que podia hir e vĩir</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="Iherusalen" N="5" NS="8" RI="en">
+          <LT>outr&#39; ome de Iherusalen;</LT>
+
+          <LL>outr&#39; ome de Iherusalen;</LL>
+
+          <TOPO CAT="LCULTO">Xerusalém (Iherusalen)</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="ben" N="6" NS="8" RI="en">
+          <LT><SEG C="R" ID="7" N="CD">e poss&#39;</SEG> eu hir, se andar ben,</LT>
+
+          <LL>e poss&#39; eu hir, se andar ben,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="osmar" N="7" NS="8" RI="ar">
+          <LT>hu el foy tod&#39; aquest&#39; <SEG C="R" ID="2" N="DO">osm<SEG
+C="R" ID="8" N="CC">ar</SEG></SEG>,</LT>
+
+          <LL>hu el foy tod&#39; aquest&#39; osmar,</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:53</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+-+" ERI="morar" N="1" NS="8" RI="ar">
+          <LT><SEG C="R" ID="7" N="CD">e poss&#39;</SEG> en Monpirller <SEG
+          C="R" ID="4" N="RD">mor<SEG C="R" ID="8" N="CC">ar</SEG></SEG>,</LT>
+
+          <LL>e poss&#39; en Monpirller morar,</LL>
+
+          <TOPO CAT="CIUDAD">Montpellier (Monpirller)</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="mentir" N="2" NS="8" RI="ir">
+          <LT><SEG C="R" ID="1" N="CD">ben</SEG> co<SEG C="M" ID="9" N="SIN">me el</SEG>
+          fez, por nus mentir;</LT>
+
+          <LL>ben come el fez, por nus mentir;</LL>
+        </L>
+
+        <L AC="----+--+" ERI="mar" N="3" NS="8" RI="ar">
+          <LT>e, ante que cheg&#39; a<SEG C="R" ID="2" N="DO">o <SEG C="R"
+ID="3" N="RD">mar</SEG></SEG>,</LT>
+
+          <LL>e, ante que cheg&#39; ao mar,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="departir" N="4" NS="8" RI="ir">
+          <LT>tornar-me poss&#39; e departir,</LT>
+
+          <LL>tornar-me poss&#39; e departir,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Deus" N="5" NS="8" RI="eus">
+          <LT>com&#39; el depart&#39;, en como Deus</LT>
+
+          <LL>com&#39; el depart&#39;, en como Deus</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="judeus" N="6" NS="8" RI="eus">
+          <LT>prês mort&#39; en poder dus judeus,</LT>
+
+          <LL>prês mort&#39; en poder dus judeus,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="mar" N="7" NS="8" RI="ar">
+          <LT>e enas tormentas d<SEG C="R" ID="2" N="DO">o <SEG C="R" ID="3"
+N="RD">m<SEG C="R" ID="10" N="CC">ar</SEG></SEG></SEG>.</LT>
+
+          <LL>e enas tormentas do mar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:53</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="enganar" N="1" NS="8" RI="ar">
+          <LT>E, se m&#39; eu quiser engan<SEG C="R" ID="10" N="CC">ar</SEG></LT>
+
+          <LL>E, se m&#39; eu quiser enganar</LL>
+        </L>
+
+        <L AC="---+---+" ERI="conprir" N="2" NS="8" RI="ir">
+          <LT>Deus, ben o poss&#39; aqui conprir</LT>
+
+          <LL>Deus, ben o poss&#39; aqui conprir</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="preguntar" N="3" NS="8" RI="ar">
+          <LT>en Burgos, ca, sse <SEG C="R" ID="2" N="DO">preguntar</SEG></LT>
+
+          <LL>en Burgos, ca, sse preguntar</LL>
+
+          <TOPO CAT="CIUDAD">Burgos</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="oyr" N="4" NS="8" RI="ir">
+          <LT>por novas, ben as po<SEG C="M" ID="11" N="SIN">sso o</SEG>yr</LT>
+
+          <LL>por novas, ben as posso oyr</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Monpirller" N="5" NS="8" RI="er">
+          <LT><SEG C="R" ID="12" N="CD">tan ben</SEG> co<SEG C="M" ID="13"
+          N="SIN">me el</SEG> en Monpirller</LT>
+
+          <LL>tan ben come el en Monpirller</LL>
+
+          <TOPO CAT="CIUDAD">Montpellier (Monpirller)</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="quenquer" N="6" NS="8" RI="er">
+          <LT><SEG C="R" ID="5" N="CD">e dizê</SEG>-las poys a <SEG C="R"
+          ID="14" N="RD">quenquer</SEG></LT>
+
+          <LL>e dizê-las poys a quenquer</LL>
+        </L>
+
+        <L AC="---+---+" ERI="preguntar" N="7" NS="8" RI="ar">
+          <LT>que me por <SEG C="R" ID="15" N="CF">novas</SEG> <SEG C="R"
+          ID="2" N="DO">preguntar</SEG>.</LT>
+
+          <LL>que me por novas preguntar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Sobre IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="souber" N="1" NS="8" RI="er">
+          <LT>E, poys end&#39; as <SEG C="R" ID="15" N="CF">novas</SEG>
+          souber,</LT>
+
+          <LL>E, poys end&#39; as novas souber,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="quiser" N="2" NS="8" RI="er">
+          <LT><SEG C="R" ID="12" N="CD">tan ben</SEG> poss&#39; eu, se mi <SEG
+          C="R" ID="14" N="RD">quiser</SEG>,</LT>
+
+          <LL>tan ben poss&#39; eu, se mi quiser,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="chufar" N="3" NS="8" RI="ar">
+          <LT>co<SEG C="M" ID="16" N="SIN">me hun</SEG> gram palmeyro chufar.</LT>
+
+          <LL>come hun gram palmeyro chufar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

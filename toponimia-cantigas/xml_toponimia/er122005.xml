@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="122005" NE="4" OL="NON" SG="NO" TC="REFR" XE="M MR">
+      <INCIPIT>Sanhudo m&#39; é meu amig&#39; e non sei</INCIPIT>
+
+      <NUCANT>122 5</NUCANT>
+
+      <RM BCA="B" EM="NO" F="239v" I.FI="lb239v" MU="NON" NM="1118"></RM>
+
+      <RM BCA="V" EM="NO" F="113v" I.FI="lv113v" MU="NON" NM="709"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1051</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 709</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 344</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="349p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>25/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b III = a IV)</P></FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1118 e
+      situada no fol. 239v, columna b, enriba da cantiga, á dereita. Enriba do
+      &#34;o&#34; hai unha especie de til agudo que está abreviando un
+      &#34;r&#34;. Fai referencia á presencia de refrán na cantiga.</P></COMNOTC></NOTC>
+
+      <RUBRICA>pero de bardia <COMRUBRI><P>Rúbrica atributiva situada enriba
+      da cantiga V 709, no fol. 113 v, columna a. A rúbrica está subliñada.
+      Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SNH"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:206</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="sei" N="1" NS="10" RI="ei">
+          <LT>Sanhudo m&#39; é meu amig&#39; e non sei,</LT>
+
+          <LL>Sanhudo m&#39; é meu amig&#39; e non sei,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="assanhou" N="2" NS="10" RI="ou">
+          <LT>Deu-lo sabe, por que xi m&#39; assanhou,</LT>
+
+          <LL>Deu-lo sabe, por que xi m&#39; assanhou,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="mandou" N="3" NS="10" RI="ou">
+          <LT>ca toda ren que m&#39; el a mi mandou</LT>
+
+          <LL>ca toda ren que m&#39; el a mi mandou</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="errei" N="4" NS="10" RI="ei">
+          <LT>fazer, fij&#39; eu e nunca lh&#39; <SEG C="I" ID="1" N="RE">i</SEG>
+          errei,</LT>
+
+          <LL>fazer, fij&#39; eu e nunca lh&#39; i errei,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="ren" N="5" NS="10" RI="en">
+            <LT>e por aquesto non tenh&#39; eu en ren</LT>
+
+            <LL>e por aquesto non tenh&#39; eu en ren</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="R" ID="2" N="CFR">sanha</SEG>, que sei onde mi verrá
+            ben</LT>
+
+            <LL>sanha, que sei onde mi verrá ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:206</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="quiser" N="1" NS="10" RI="er">
+          <LT>Tan <SEG C="R" ID="2" N="CFR">sanhudo</SEG> non m&#39; é, se
+          m&#39; eu quiser,</LT>
+
+          <LL>Tan sanhudo non m&#39; é, se m&#39; eu quiser,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="viver" N="2" NS="10" RI="er">
+          <LT>que muit&#39; alhur sen mi possa viver,</LT>
+
+          <LL>que muit&#39; alhur sen mi possa viver,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="meter" N="3" NS="10" RI="er">
+          <LT>e en sobervha lho quer&#39; eu meter</LT>
+
+          <LL>e en sobervha lho quer&#39; eu meter</LL>
+        </L>
+
+        <L AC="--+------+" ERI="poder" N="4" NS="10" RI="er">
+          <LT>que o faça, se o fazer poder,</LT>
+
+          <LL>que o faça, se o fazer poder,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="ren" N="5" NS="10" RI="en">
+            <LT>e por aquesto non tenh&#39; eu <SEG C="I" ID="3" N="RE">en ren</SEG></LT>
+
+            <LL>e por aquesto non tenh&#39; eu en ren</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="I" ID="3" N="RE">sanha, que sei onde mi verrá ben</SEG></LT>
+
+            <LL>sanha, que sei onde mi verrá ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:206</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="sair" N="1" NS="10" RI="ir">
+          <LT>E, des que eu de mandado sair,</LT>
+
+          <LL>E, des que eu de mandado sair,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="guardar" N="2" NS="10" RI="ar">
+          <LT>non se pode meu amigo guardar</LT>
+
+          <LL>non se pode meu amigo guardar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="rogar" N="3" NS="10" RI="ar">
+          <LT>que me non aja pois muit&#39; a rogar</LT>
+
+          <LL>que me non aja pois muit&#39; a rogar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="gracir" N="4" NS="10" RI="ir">
+          <LT>polo que m&#39; agora non quer gracir,</LT>
+
+          <LL>polo que m&#39; agora non quer gracir,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="ren" N="5" NS="10" RI="en">
+            <LT>e por aquesto non tenh&#39; eu en ren</LT>
+
+            <LL>e por aquesto non tenh&#39; eu en ren</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="I" ID="4" N="RE">sanha, que sei onde mi verrá ben</SEG></LT>
+
+            <LL>sanha, que sei onde mi verrá ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:206</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="estar" N="1" NS="10" RI="ar">
+          <LT>Quando m&#39; el vir en Santa Mar<SEG C="M" ID="5" N="SIN">ta es</SEG>tar</LT>
+
+          <LL>Quando m&#39; el vir en Santa Marta estar</LL>
+
+          <TOPO CAT="LCULTO">Santa Marta</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="leu" N="2" NS="10" RI="eu">
+          <LT>mui fremosa, meu amigo ben leu</LT>
+
+          <LL>mui fremosa, meu amigo ben leu</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="eu" N="3" NS="10" RI="eu">
+          <LT>querrá falar mi<SEG C="M" ID="6" N="SIN">go e</SEG> non querrei
+          eu;</LT>
+
+          <LL>querrá falar migo e non querrei eu;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="vingar" N="4" NS="10" RI="ar">
+          <LT>enton me cuido ben del a vingar,</LT>
+
+          <LL>enton me cuido ben del a vingar,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="ren" N="5" NS="10" RI="en">
+            <LT>e por aquesto non <SEG C="I" ID="7" N="RE">tenh&#39; eu en ren</SEG></LT>
+
+            <LL>e por aquesto non tenh&#39; eu en ren</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="I" ID="7" N="RE">sanha, que sei onde mi verrá ben</SEG></LT>
+
+            <LL>sanha, que sei onde mi verrá ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

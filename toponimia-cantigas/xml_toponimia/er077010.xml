@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="077010" NE="4" OL="NON" SG="NO" TC="REFR" XE="EP">
+      <INCIPIT>Don Domingo Caorinha</INCIPIT>
+
+      <NUCANT>77 10</NUCANT>
+
+      <RM BCA="V" EM="NO" F="166v" I.FI="lv166v" MU="NON" NM="1030"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Camargo et alii, João Servando, 22</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1677</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1030</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 190</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="227"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>8/05/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>fragm.</P></FRI>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="S"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+5">
+        <ESQRIM TIPO="ababababCCDCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 3&#39; 7&#39; 3&#39; 7&#39; 3&#39; 7&#39; 7&#39;
+          7&#39; 7&#39; 3 7&#39; 7</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="Caorinha" N="1" NS="7" RI="inha">
+          <LT><SEG C="R" ID="1" N="CD">Don Domingo</SEG> Caorinha</LT>
+
+          <LL>Don Domingo Caorinha</LL>
+
+          <ANTRO T="REAL">Don Domingo Caorinha</ANTRO>
+        </L>
+
+        <L AC="--+-" ERI="proe" N="2" NS="3" RI="oe">
+          <LT><SEG C="R" ID="2" N="CD">non á</SEG> proe</LT>
+
+          <LL>non á proe</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Marinha" N="3" NS="7" RI="inha">
+          <LT>de sobir en<SEG C="I" ID="3" N="RE">a</SEG> Marinha</LT>
+
+          <LL>de sobir ena Marinha</LL>
+
+          <ANTRO T="REAL">Marinha Caadoe (Marinha)</ANTRO>
+        </L>
+
+        <L AC="--+-" ERI="Caadoe" N="4" NS="3" RI="oe">
+          <LT>Caadoe;</LT>
+
+          <LL>Caadoe;</LL>
+
+          <ANTRO T="REAL">Marinha Caadoe (Caadoe)</ANTRO>
+        </L>
+
+        <L AC="---+--+-" ERI="sobinha" N="5" NS="7" RI="inha">
+          <LT>quand&#39; ela jaze, sobinha,</LT>
+
+          <LL>quand&#39; ela jaze, sobinha,</LL>
+        </L>
+
+        <L AC="+-+-" ERI="roe" N="6" NS="3" RI="oe">
+          <LT>mal a roe</LT>
+
+          <LL>mal a roe</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="misquinha" N="7" NS="7" RI="inha">
+          <LT>a grossa pixa misquinha,</LT>
+
+          <LL>a grossa pixa misquinha,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="moe" N="8" NS="7" RI="oe">
+          <LT>que lhi no seu cono moe.</LT>
+
+          <LL>que lhi no seu cono moe.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Domingo" N="9" NS="7" RI="ingo">
+            <LT>Por aquesto, Don Domingo,</LT>
+
+            <LL>Por aquesto, Don Domingo,</LL>
+
+            <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+          </L>
+
+          <L AC="--+---+-" ERI="enfingo" N="10" NS="7" RI="ingo">
+            <LT>non digades que m&#39; enfingo</LT>
+
+            <LL>non digades que m&#39; enfingo</LL>
+          </L>
+
+          <L AC="--+" ERI="trobar" N="11" NS="3" RI="ar">
+            <LT>de trobar:</LT>
+
+            <LL>de trobar:</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="cingo" N="12" NS="7" RI="ingo">
+            <LT>e<SEG C="I" ID="4" N="RE">u</SEG> doutra cinta me cingo</LT>
+
+            <LL>eu doutra cinta me cingo</LL>
+          </L>
+
+          <L AC="-+----+" ERI="Colhar" N="13" NS="7" RI="ar">
+            <LT>e doutra Martin Colhar.</LT>
+
+            <LL>e doutra Martin Colhar.</LL>
+
+            <ANTRO T="REAL">Martin Colhar</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+5">
+        <ESQRIM TIPO="abab-babCCDCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; - 7&#39; 7&#39; 7&#39; 7&#39;
+          7&#39; 3 7&#39; 7</ESQMET>
+
+          <NOTMET>
+            <P>A propósito da estr. II, Tavani escribe &#34;v. 5 mancate&#34;.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="loado" N="1" NS="7" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Don Domin<SEG C="M" ID="5" N="SIN">go</SEG></SEG><SEG
+          C="M" ID="5" N="SIN">, a</SEG> Deus loado,</LT>
+
+          <LL>Don Domingo, a Deus loado,</LL>
+
+          <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+        </L>
+
+        <L AC="-+----+-" ERI="Toledo" N="2" NS="7" RI="edo">
+          <LT>daqui atró en Toledo</LT>
+
+          <LL>daqui atró en Toledo</LL>
+
+          <TOPO CAT="CIUDAD">Toledo</TOPO>
+        </L>
+
+        <L AC="-+----+-" ERI="prelado" N="3" NS="7" RI="ado">
+          <LT><SEG C="R" ID="2" N="CD">non á</SEG> clérigo prelado</LT>
+
+          <LL>non á clérigo prelado</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="degredo" N="4" NS="7" RI="edo">
+          <LT>que non tenha o degredo</LT>
+
+          <LL>que non tenha o degredo</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT><SEG C="I" ID="6" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="dedo" N="6" NS="7" RI="edo">
+          <LT>e vós, Marinha, co dedo</LT>
+
+          <LL>e vós, Marinha, co dedo</LL>
+
+          <ANTRO T="REAL">Marinha Caadoe (Marinha)</ANTRO>
+        </L>
+
+        <L AC="----+-+-" ERI="usado" N="7" NS="7" RI="ado">
+          <LT>avede lo con&#39; usado,</LT>
+
+          <LL>avede lo con&#39; usado,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="medo" N="8" NS="7" RI="edo">
+          <LT>que <SEG C="R" ID="7" N="CF">non pode</SEG> teer medo.</LT>
+
+          <LL>que non pode teer medo.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Domingo" N="9" NS="7" RI="ingo">
+            <LT>Por aquesto, Don Domingo,</LT>
+
+            <LL>Por aquesto, Don Domingo,</LL>
+
+            <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+          </L>
+
+          <L AC="--+---+-" ERI="enfingo" N="10" NS="7" RI="ingo">
+            <LT>non digades que m&#39; enfingo</LT>
+
+            <LL>non digades que m&#39; enfingo</LL>
+          </L>
+
+          <L AC="--+" ERI="trobar" N="11" NS="3" RI="ar">
+            <LT>de trobar:</LT>
+
+            <LL>de trobar:</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="cingo" N="12" NS="7" RI="ingo">
+            <LT>e<SEG C="I" ID="8" N="RE">u</SEG> doutra cinta me cingo</LT>
+
+            <LL>eu doutra cinta me cingo</LL>
+          </L>
+
+          <L AC="-+----+" ERI="Colhar" N="13" NS="7" RI="ar">
+            <LT>e doutra Martin Colhar.</LT>
+
+            <LL>e doutra Martin Colhar.</LL>
+
+            <ANTRO T="REAL">Martin Colhar</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+5">
+        <ESQRIM TIPO="a-a-a-abCCDCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; - 7&#39; - 7&#39; - 7&#39; 7&#39; 7&#39; 7&#39; 3
+          7&#39; 7</ESQMET>
+
+          <NOTMET>
+            <P>Os versos 2, 4, 6 da cobra III figuran no manuscrito, sen
+            embargo Lapa non os transcribe por ser de significado moi escuro.
+            Polo tanto, o noso esquema presenta diferencias con respecto ó de
+            Tavani (cf. RM, p. 284)</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="podedes" N="1" NS="7" RI="edes">
+          <LT><SEG C="R" ID="1" N="CD">Don Domingo</SEG>, <SEG C="R" ID="7"
+          N="CF">non podedes</SEG></LT>
+
+          <LL>Don Domingo, non podedes</LL>
+
+          <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+        </L>
+
+        <L AC="na" ERI="-" N="2" NS="0" RI="-">
+          <LT><SEG C="I" ID="9" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="tragedes" N="3" NS="7" RI="edes">
+          <LT>que con a pissa tragedes</LT>
+
+          <LL>que con a pissa tragedes</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="-">
+          <LT><SEG C="I" ID="10" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="fodedes" N="5" NS="7" RI="edes">
+          <LT>mais como moa fodedes</LT>
+
+          <LL>mais como moa fodedes</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="11" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="decedes" N="7" NS="7" RI="edes">
+          <LT>e sobides e decedes,</LT>
+
+          <LL>e sobides e decedes,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="colhões" N="8" NS="7" RI="ões">
+          <LT><SEG C="I" ID="12" N="RE">que</SEG>brand&#39; i <SEG C="I"
+          ID="13" N="RE">vossos</SEG> colhões.</LT>
+
+          <LL>quebrand&#39; i vossos colhões.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Domingo" N="9" NS="7" RI="ingo">
+            <LT>Por aquesto, Don Domingo,</LT>
+
+            <LL>Por aquesto, Don Domingo,</LL>
+
+            <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+          </L>
+
+          <L AC="--+---+-" ERI="enfingo" N="10" NS="7" RI="ingo">
+            <LT>non digades que m&#39; enfingo</LT>
+
+            <LL>non digades que m&#39; enfingo</LL>
+          </L>
+
+          <L AC="--+" ERI="trobar" N="11" NS="3" RI="ar">
+            <LT>de trobar:</LT>
+
+            <LL>de trobar:</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="cingo" N="12" NS="7" RI="ingo">
+            <LT>e<SEG C="I" ID="14" N="RE">u</SEG> doutra cinta me cingo</LT>
+
+            <LL>eu doutra cinta me cingo</LL>
+          </L>
+
+          <L AC="-+----+" ERI="Colhar" N="13" NS="7" RI="ar">
+            <LT>e doutra Martin Colhar.</LT>
+
+            <LL>e doutra Martin Colhar.</LL>
+
+            <ANTRO T="REAL">Martin Colhar</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+5">
+        <ESQRIM TIPO="ababababCCDCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 3&#39; 7&#39; 3&#39; 7&#39; 7&#39; 7&#39; 7&#39;
+          7&#39; 7&#39; 3 7&#39; 7</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="vida" N="1" NS="7" RI="ida">
+          <LT><SEG C="R" ID="1" N="CD">Don Domingo</SEG>, vossa vida</LT>
+
+          <LL>Don Domingo, vossa vida</LL>
+
+          <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+        </L>
+
+        <L AC="--+-" ERI="pea" N="2" NS="7" RI="ea">
+          <LT>é con pea,</LT>
+
+          <LL>é con pea,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="transsida" N="3" NS="7" RI="ida">
+          <LT>pois Marinha jaz transsida</LT>
+
+          <LL>pois Marinha jaz transsida</LL>
+
+          <ANTRO T="REAL">Marinha Caadoe (Marinha)</ANTRO>
+        </L>
+
+        <L AC="--+-" ERI="cea" N="4" NS="3" RI="ea">
+          <LT>e sen cea,</LT>
+
+          <LL>e sen cea,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="sobida" N="5" NS="7" RI="ida">
+          <LT>per que vos aa sobida</LT>
+
+          <LL>per que vos aa sobida</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="cordovea" N="6" NS="7" RI="ea">
+          <LT>cansou essa cordovea:</LT>
+
+          <LL>cansou essa cordovea:</LL>
+        </L>
+
+        <L AC="-+-----+-" ERI="espida" N="7" NS="7" RI="ida">
+          <LT>ficou-vo-la pi<SEG C="M" ID="15" N="SIN">ssa es</SEG>pida,</LT>
+
+          <LL>ficou-vo-la pissa espida,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="enfrea" N="8" NS="7" RI="ea">
+          <LT>que já xe vos <SEG C="I" ID="16" N="RE">non</SEG> enfrea.</LT>
+
+          <LL>que já xe vos non enfrea.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Domingo" N="9" NS="7" RI="ingo">
+            <LT>Por aquesto, Don Domingo,</LT>
+
+            <LL>Por aquesto, Don Domingo,</LL>
+
+            <ANTRO T="REAL">Don Domingo Caorinha (Don Domingo)</ANTRO>
+          </L>
+
+          <L AC="--+---+-" ERI="enfingo" N="10" NS="7" RI="ingo">
+            <LT>non digades que m&#39; enfingo</LT>
+
+            <LL>non digades que m&#39; enfingo</LL>
+          </L>
+
+          <L AC="--+" ERI="trobar" N="11" NS="3" RI="ar">
+            <LT>de trobar:</LT>
+
+            <LL>de trobar:</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="cingo" N="12" NS="7" RI="ingo">
+            <LT>e<SEG C="I" ID="17" N="RE">u</SEG> doutra cinta me cingo</LT>
+
+            <LL>eu doutra cinta me cingo</LL>
+          </L>
+
+          <L AC="-+----+" ERI="Colhar" N="13" NS="7" RI="ar">
+            <LT>e doutra Martin Colhar.</LT>
+
+            <LL>e doutra Martin Colhar.</LL>
+
+            <ANTRO T="REAL">Martin Colhar</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

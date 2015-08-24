@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="006005" NE="3" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Ir quer' oj' eu, fremosa, de coraçon,</INCIPIT>
+
+      <NUCANT>6 5</NUCANT>
+
+      <RM BCA="B" EM="NO" F="160v" I.FI="lb160v" MU="NON" NM="739"></RM>
+
+      <RM BCA="V" EM="NO" F="55r" I.FI="lv055r" MU="NON" NM="341"></RM>
+
+      <RM BCA="V" EM="NO" F="55v" I.FI="lv055v" MU="NON" NM="341"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 238</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 703</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 341</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 8-9, 407</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 174</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen 228p</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lorenzo Gradín" NUA="5">Lorenzo Gradín</DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>David González Couso</NOME>
+
+        <DATE>19/11/08</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 8' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+----+" ERI="coraçon" N="1" NS="11" RI="on">
+          <LT><SEG C="R" ID="1" N="PL">Ir quer' oj' eu, fremosa, de coraçon</SEG>,</LT>
+
+          <LL>Ir quer' oj' eu, fremosa, de coraçon,</LL>
+        </L>
+
+        <L AC="--+--+----+" ERI="oraçon" N="2" NS="11" RI="on">
+          <LT>por fazer romaria e oraçon</LT>
+
+          <LL>por fazer romaria e oraçon</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras,</LT>
+
+            <LL>a Santa Maria das Leiras,</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+--+" ERI="vén" N="4" NS="7" RI="en">
+            <LT>pois meu amigo i vén.</LT>
+
+            <LL>pois meu amigo i vén.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 8' 7</ESQMET>
+
+          <NOTMET>
+            <P>Por respecto ao esquema proposto, e de acordo co numero de
+            esquema indicado por Tavani, metricamente non é computable o
+            segmento marcado "o meu amigo"</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>47:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--++-+-+" ERI="prazer" N="1" NS="11" RI="er">
+          <LT>Des que s' <SEG C="I" ID="1a" N="IL">el d' aqui</SEG> foi, nunca
+          vi prazer,</LT>
+
+          <LL>Des que s' el d' aqui foi, nunca vi prazer,</LL>
+        </L>
+
+        <L AC="-+-+-+----+" ERI="veer" N="2" NS="11" RI="er">
+          <LT><SEG C="R" ID="1" N="PL">e quer' oj' ir, fremosa, polo <SEG
+                C="R" ID="2" N="CF"><SEG C="R" ID="3" N="RD">veer,</SEG></SEG></SEG></LT>
+
+          <LL>e quer' oj' ir, fremosa, polo veer,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras,</LT>
+
+            <LL>a Santa Maria das Leiras,</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+--+" ERI="vén" N="4" NS="7" RI="en">
+            <LT>pois <SEG C="I" ID="4" N="RE">[meu amigo i vén].</SEG></LT>
+
+            <LL>pois [meu amigo i vén].</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 8' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---++---+-+" ERI="vir" N="1" NS="11" RI="ir">
+          <LT>Nunca serei <SEG C="I" ID="4" N="RE"></SEG> leda, se o [eu] non
+          <SEG C="R" ID="2" N="CF"><SEG C="R" ID="3" N="RD">vir</SEG></SEG>,</LT>
+
+          <LL>Nunca serei leda, se o [eu] non vir,</LL>
+        </L>
+
+        <L AC="--+--+-++-+" ERI="ir" N="2" NS="11" RI="ir">
+          <LT><SEG C="R" ID="1" N="PL">e per esto, fremosa, quer' ora ir</SEG></LT>
+
+          <LL>e per esto, fremosa, quer' ora ir</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras,</LT>
+
+            <LL>a Santa Maria das Leiras,</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+--+" ERI="vén" N="4" NS="7" RI="en">
+            <LT>pois meu <SEG C="I" ID="5" N="RE">[amigo i vén].</SEG></LT>
+
+            <LL>pois meu [amigo i vén].</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

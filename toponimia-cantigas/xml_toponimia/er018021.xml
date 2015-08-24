@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="018021" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Joan Rodriguiz foi esmar a Balteira</INCIPIT>
+
+      <NUCANT>18 21</NUCANT>
+
+      <RM BCA="B" EM="NO" F="107r" I.FI="lb107r" MU="NON" NM="481"></RM>
+
+      <RM BCA="B" EM="NO" F="107v" I.FI="lb107v" MU="NON" NM="481"></RM>
+
+      <RM BCA="V" EM="NO" F="4r" I.FI="lv004r" MU="NON" NM="64"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, p. 669</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 426</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 64</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesía obscena, 40</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 167</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 11</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 40</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="27"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>21/10/04</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <RUBRICA>El rey Dom Affonso de Castilla he de Leom <COMRUBRI>
+          <P>Rúbrica atributiva situada na marxe superior do folio 4r de V.
+          Man do copista</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="S"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11' 11 11 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>38:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+--+-" ERI="Balteira" N="1" NS="11" RI="eira">
+          <LT>Joan Rodriguiz foi esmar a Balteira</LT>
+
+          <LL>Joan Rodriguiz foi esmar a Balteira</LL>
+
+          <ANTRO T="REAL">Joan Rodríguiz</ANTRO>
+
+          <ANTRO T="ALTER">Maria Perez (Balteira)</ANTRO>
+        </L>
+
+        <L AC="--+---+---+-" ERI="madeira" N="2" NS="11" RI="eira">
+          <LT>sa midida, per que colha sa madeira;</LT>
+
+          <LL>sa midida, per que colha sa madeira;</LL>
+        </L>
+
+        <L AC="--+----+--+" ERI="fazer" N="3" NS="11" RI="er">
+          <LT><SEG C="R" ID="1" N="CD">e diss'</SEG> e<SEG C="I" ID="2"
+          N="RE">le</SEG>: - Se ben queredes fazer,</LT>
+
+          <LL>e diss' ele: - Se ben queredes fazer,</LL>
+        </L>
+
+        <L AC="---+--+---+" ERI="colher" N="4" NS="11" RI="er">
+          <LT>de tal midid' a devedes a colher,</LT>
+
+          <LL>de tal midid' a devedes a colher,</LL>
+        </L>
+
+        <L AC="-+---+----+-" ERI="maneira" N="5" NS="11" RI="eira">
+          <LT><SEG C="I" ID="3" N="RE">assi</SEG> e non meor, per nulha
+          man<SEG C="R" ID="4" N="CC">eira</SEG>.</LT>
+
+          <LL>assi e non meor, per nulha maneira.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11' 11 11 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>38:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+---+-" ERI="certeira" N="1" NS="11" RI="eira">
+          <LT><SEG C="R" ID="1" N="CD">E disse</SEG>: - Esta <SEG C="M" ID="5"
+          N="SIN">é a</SEG> madeira cert<SEG C="R" ID="4" N="CC">eira</SEG>,</LT>
+
+          <LL>E disse: - Esta é a madeira certeira,</LL>
+        </L>
+
+        <L AC="--+--+--+-+-" ERI="sinlheira" N="2" NS="11" RI="eira">
+          <LT>e, de mais, nona dei eu a vós si<SEG C="I" ID="6" N="RE">n</SEG>lheira;</LT>
+
+          <LL>e, de mais, nona dei eu a vós sinlheira;</LL>
+        </L>
+
+        <L AC="-+---+----+" ERI="meter" N="3" NS="11" RI="er">
+          <LT>e, pois que s' en compasso á de meter,</LT>
+
+          <LL>e, pois que s' en compasso á de meter,</LL>
+        </L>
+
+        <L AC="--+---+---+" ERI="seer" N="4" NS="11" RI="er">
+          <LT>atan longa deve toda <SEG C="I" ID="7" N="RE">a</SEG> seer,</LT>
+
+          <LL>atan longa deve toda a seer,</LL>
+        </L>
+
+        <L AC="----+-+---+-" ERI="'scaleira" N="5" NS="11" RI="eira">
+          <LT><SEG C="I" ID="8" N="RE">que vaa</SEG> per antr' as pernas da
+          'scaleira.</LT>
+
+          <LL>que vaa per antr' as pernas da 'scaleira.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11' 11 11 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>38:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+--+-" ERI="tamanha" N="1" NS="11" RI="anha">
+          <LT>A Maior Moniz dei ja outra tamanha,</LT>
+
+          <LL>A Maior Moniz dei ja outra tamanha,</LL>
+
+          <ANTRO T="REAL">Maior Moniz</ANTRO>
+        </L>
+
+        <L AC="---+--+---+-" ERI="sanha" N="2" NS="11" RI="anha">
+          <LT>e foi-a ela colher logo sen sanha;</LT>
+
+          <LL>e foi-a ela colher logo sen sanha;</LL>
+        </L>
+
+        <L AC="--+---+---+" ERI="tal" N="3" NS="11" RI="al">
+          <LT>e Mari' Aires fe<SEG C="M" ID="9" N="SIN">ze-o</SEG> logo outro
+          tal,</LT>
+
+          <LL>e Mari' Aires feze-o logo outro tal,</LL>
+
+          <ANTRO T="REAL">Mari' Aires</ANTRO>
+        </L>
+
+        <L AC="--+---+---+" ERI="Portugal" N="4" NS="11" RI="al">
+          <LT>e Alvela, que andou en Portugal;</LT>
+
+          <LL>e Alvela, que andou en Portugal;</LL>
+
+          <ANTRO T="REAL">Alvela</ANTRO>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="--+--+----+-" ERI="montanha" N="5" NS="11" RI="anha">
+          <LT>e ja i a colheron <SEG C="I" ID="10" N="RE">ẽ</SEG>na mont<SEG
+          C="R" ID="11" N="CC">anha</SEG>.</LT>
+
+          <LL>e ja i a colheron ẽna montanha.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11' 11 11 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>38:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+--+-" ERI="Espanha" N="1" NS="11" RI="anha">
+          <LT><SEG C="R" ID="1" N="CD">E diss'</SEG>: - Esta é a midida d'
+          Esp<SEG C="R" ID="11" N="CC">anha</SEG>,</LT>
+
+          <LL>E diss': - Esta é a midida d' Espanha,</LL>
+
+          <TOPO CAT="CIRCUNS">Espanha</TOPO>
+        </L>
+
+        <L AC="-----+----+-" ERI="Alamanha" N="2" NS="11" RI="anha">
+          <LT>ca non de Lombardia nen d' Alamanha;</LT>
+
+          <LL>ca non de Lombardia nen d' Alamanha;</LL>
+
+          <TOPO CAT="CIRCUNS">Lombardia</TOPO>
+
+          <TOPO CAT="CIRCUNS">Alamanha</TOPO>
+        </L>
+
+        <L AC="----+---+-+" ERI="mal" N="3" NS="11" RI="al">
+          <LT>e, por que é grossa, non vos seja mal,</LT>
+
+          <LL>e, por que é grossa, non vos seja mal,</LL>
+        </L>
+
+        <L AC="--+---+---+" ERI="val" N="4" NS="11" RI="al">
+          <LT>ca delgada pera gata ren non val;</LT>
+
+          <LL>ca delgada pera gata ren non val;</LL>
+        </L>
+
+        <L AC="---+-+----+-" ERI="danha" N="5" NS="11" RI="anha">
+          <LT>e desto mui mais sei eu: <SEG C="I" ID="12" N="RE">ou</SEG> cab'
+          ou danha.</LT>
+
+          <LL>e desto mui mais sei eu: ou cab' ou danha.</LL>
+
+          <ANTRO T="ALTER">Abondanha</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

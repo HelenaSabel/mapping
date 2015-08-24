@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "022001" TC = "REFR" NE = "3" SG = "NO" XE = "A MR" OL = "NON">
+<INCIPIT>A Bonaval quer' eu, mha senhor, hir</INCIPIT>
+<NUCANT>22 1</NUCANT>
+<RM BCA = "B" NM = "1069" F = "226v" MU = "NON" EM = "NO" I.FI = "lb226v"></RM>
+<RM BCA = "V" NM = "660" F = "105r" MU = "NON" EM = "NO" I.FI = "lv105r"></RM>
+<EDIANT T = "CRITI">
+<P>Amor 213</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1003</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 660</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;, Antolog&iacute;a, 32</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., p. 29</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, p. 45</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 18</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 58-59, 437</P></EDIANT>
+<DATOAU NOME = "Indini" NUA = "8"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>18/02/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "EN"></TEMA>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "CEG"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8</ESQMET></INFMET>
+<NUMESQ>26:75</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "hir" AC = "---++---++">
+<LT>A Bonaval quer' eu, mha senhor, hir</LT>
+<LL>A Bonaval quer' eu, mha senhor, hir</LL>
+<TOPO CAT = "LCULTO">Bonaval</TOPO></L>
+<L N = "2" NS = "10" RI = "ir" ERI = "partir" AC = "---++--+-+">
+<LT><SEG C = "R" N = "PL" ID = "1">e, des quand' eu ora de v&oacute;s partir</SEG></LT>
+<LL>e, des quand' eu ora de v&oacute;s partir</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "an" ERI = "dormiran" AC = "--+----+">
+<LT>os meus olhos, non dormiran.</LT>
+<LL>os meus olhos, non dormiran.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8</ESQMET></INFMET>
+<NUMESQ>26:75</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "fazer" AC = "-+--++---+">
+<LT>Hir-m' ey, pero m' &eacute; grave de fazer,</LT>
+<LL>Hir-m' ey, pero m' &eacute; grave de fazer,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "tolher" AC = "---++--+-+">
+<LT><SEG C = "R" N = "PL" ID = "1">e, des quand' eu de v&oacute;s tolher</SEG></LT>
+<LL>e, des quand' eu de v&oacute;s tolher</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "an" ERI = "dormiran" AC = "--+----+">
+<LT>os meus olhos, non <SEG C = "I" N = "RE" ID = "2">dormiran</SEG>.</LT>
+<LL>os meus olhos, non dormiran.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8</ESQMET></INFMET>
+<NUMESQ>26:75</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "provar" AC = "--+-+-+--+">
+<LT>Todavya ben ser&aacute; de provar</LT>
+<LL>Todavya ben ser&aacute; de provar</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "quitar" AC = "-+---+-+-+">
+<LT>de m' ir; <SEG C = "R" N = "PL" ID = "1">mays, des quand' eu de v&oacute;s quitar</SEG></LT>
+<LL>de m' ir; mays, des quand' eu de v&oacute;s quitar</LL>
+</L>
+<L N = "3" NS = "8" RI = "an" ERI = "dormiran" AC = "--+----+">
+<LT>os meus olhos, non dor<SEG C = "I" N = "RE" ID = "3">miran</SEG>.</LT>
+<LL>os meus olhos, non dormiran.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

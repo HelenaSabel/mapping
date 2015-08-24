@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018043" TC = "REFR" NE = "3" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Tanto sei de v&oacute;s, ricomen: pois fordes na alcaria</INCIPIT>
+<NUCANT>18 43</NUCANT>
+<RM BCA = "B" NM = "462" F = "102r" MU = "NON" EM = "NO" I.FI = "lb102r"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 354</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 404</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, p. 63</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 32</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 25</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "7"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>28/10/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "AVA">
+<SUBTEMA CAT = "RI"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 7' 7'</ESQMET></INFMET>
+<NUMESQ>16:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ia" ERI = "alcaria" AC = "----+----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Tanto sei de v&oacute;s, ricomen: pois fordes na alcaria</SEG></LT>
+<LL>Tanto sei de v&oacute;s, ricomen: pois fordes na alcaria</LL>
+</L>
+<L N = "2" NS = "15" RI = "ia" ERI = "dia" AC = "-----+---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"> <SEG C = "R" N = "CD" ID = "2">e virde-<SEG C = "M" N = "SIN" ID = "3">la azei</SEG>tona</SEG>, ledo seeredes esse dia</SEG>:</LT>
+<LL>e virde-la azeitona, ledo seeredes esse dia:</LL>
+</L>
+<L N = "3" NS = "15" RI = "ia" ERI = "pia" AC = "------+---+---+-">
+<LT><SEG C = "R" N = "CP" ID = "4">pisaredes as olivas conos pees ena pia</SEG>.</LT>
+<LL>pisaredes as olivas conos pees ena pia.</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "oso" ERI = "astroso" AC = "--+---+-">
+<LT>Ficaredes por astroso,</LT>
+<LL>Ficaredes por astroso,</LL>
+</L>
+<L N = "5" NS = "7" RI = "oso" ERI = "lixoso" AC = "--+---+-">
+<LT>por untad' e por lixoso.</LT>
+<LL>por untad' e por lixoso.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 7' 7'</ESQMET></INFMET>
+<NUMESQ>16:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "afe" ERI = "Exarafe" AC = "----+----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Ben sei que seeredes ledo, pois fordes no Exarafe</SEG></LT>
+<LL>Ben sei que seeredes ledo, pois fordes no Exarafe</LL>
+
+<TOPO CAT = "CIRCUNS">Exarafe</TOPO></L>
+<L N = "2" NS = "15" RI = "afe" ERI = "Xacafe" AC = "------+-----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">e virdes as azeitonas</SEG> que foran de Don Xacafe</SEG>:</LT>
+<LL>e virdes as azeitonas que foran de Don Xacafe:</LL>
+
+<ANTRO T = "REAL">Don Xacafe</ANTRO></L>
+<L N = "3" NS = "15" RI = "afe" ERI = "bafe" AC = "------+---+---+-">
+<LT><SEG C = "R" N = "CP" ID = "4">torceredes as olivas, como quer que outren bafe</SEG>.</LT>
+<LL>torceredes as olivas, como quer que outren bafe.</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "oso" ERI = "astroso" AC = "--+---+-">
+<LT>Ficaredes por astroso,</LT>
+<LL>Ficaredes por astroso,</LL>
+</L>
+<L N = "5" NS = "7" RI = "oso" ERI = "lixoso" AC = "--+---+-">
+<LT>por untado, por lixoso.</LT>
+<LL>por untado, por lixoso.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 7' 7'</ESQMET></INFMET>
+<NUMESQ>16:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ares" ERI = "p&otilde;&otilde;bares" AC = "------+--+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Pois fordes na alcaria e virdes os p&otilde;&otilde;bares</SEG></LT>
+<LL>Pois fordes na alcaria e virdes os p&otilde;&otilde;bares</LL>
+</L>
+<L N = "2" NS = "15" RI = "ares" ERI = "lagares" AC = "------+--+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">e virdes as azeitonas</SEG> jazer per esses lagares</SEG>,</LT>
+<LL>e virdes as azeitonas jazer per esses lagares,</LL>
+</L>
+<L N = "3" NS = "15" RI = "ares" ERI = "calcanhares" AC = "---+---+------+-">
+<LT> <SEG C = "R" N = "CP" ID = "4">trilh&aacute;-las-edes <SEG C = "R" N = "RE" ID = "5">ena</SEG> pia, con esses ca<SEG C = "R" N = "RE" ID = "6">l</SEG>canhares</SEG>.</LT>
+<LL> trilh&aacute;-las-edes ena pia, con esses calcanhares.</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "oso" ERI = "astroso" AC = "--+---+-">
+<LT>Ficaredes por astroso,</LT>
+<LL>Ficaredes por astroso,</LL>
+</L>
+<L N = "5" NS = "7" RI = "oso" ERI = "lixoso" AC = "--+---+-">
+<LT><SEG C = "I" N = "RE" ID = "7">por untado, por lixoso</SEG>.</LT>
+<LL>por untado, por lixoso.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

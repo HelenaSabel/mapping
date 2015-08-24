@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="018028" NE="HI+5" OL="NON" SG="NO" TC="MEST" XE="EPO">
+      <INCIPIT>O genete</INCIPIT>
+
+      <NUCANT>18 28</NUCANT>
+
+      <RM BCA="B" EM="NO" F="109v" I.FI="lb109v" MU="NON" NM="491"></RM>
+
+      <RM BCA="V" EM="NO" F="6r" I.FI="lv006r" MU="NON" NM="74"></RM>
+
+      <RM BCA="V" EM="NO" F="6r" I.FI="lv006r" MU="NON" NM="74a"><NOTMAN N="1">En
+      V preséntase esta cantiga como se fosen dúas.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VI, pp. 289-290</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 436</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 74</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Carballo/García, Afonso X, pp. 50-51</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Paredes Núñez, La guerra de Granada, pp. 35-37</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 116</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 45</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 38</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 46-49, 430-432</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 21</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 50</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 50</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="37"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>25/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima b unis.)</P></FRI>
+
+      <TEMA CAT="COV"><SUBTEMA CAT="CA"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="EXAINI">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aabccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>3&#39; 3&#39; 7 3&#39; 3&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>52:2 <NOTNESQ><P>En ningún caso de dístico, trístico ou
+        tetrástico inicial, Tavani asigna número de esquema. Si o fai, sen
+        embargo, neste hexástico inicial, único nos nosos cancioneiros.
+        Respectamos, por tanto, o esquema que ofrece, apartándonos da forma
+        habitual de citar, que sería: x3&#39; x3&#39; y7 z3&#39; z3&#39; y7</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-" ERI="genete" N="1" NS="3" RI="ete">
+          <LT>O genete,</LT>
+
+          <LL>O genete,</LL>
+        </L>
+
+        <L AC="--+-" ERI="remete" N="2" NS="3" RI="ete">
+          <LT>pois remete</LT>
+
+          <LL>pois remete</LL>
+        </L>
+
+        <L AC="---+--+" ERI="corredor" N="3" NS="7" RI="or">
+          <LT>seu alfaraz corredor,</LT>
+
+          <LL>seu alfaraz corredor,</LL>
+        </L>
+
+        <L AC="--+-" ERI="estremece" N="4" NS="3" RI="ece">
+          <LT>estremece</LT>
+
+          <LL>estremece</LL>
+        </L>
+
+        <L AC="--+-" ERI="esmorece" N="5" NS="3" RI="ece">
+          <LT><SEG C="M" ID="1" N="SIN">e es</SEG>morece</LT>
+
+          <LL>e esmorece</LL>
+        </L>
+
+        <L AC="--+---+" ERI="pavor" N="6" NS="7" RI="or">
+          <LT>o <SEG C="R" ID="2" N="CF">coteife</SEG> con <SEG C="R" ID="3"
+          N="PV">pavor</SEG>.</LT>
+
+          <LL>o coteife con pavor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="orpelados" N="1" NS="7" RI="ados">
+          <LT><SEG C="R" ID="4" N="PL"><SEG C="R" ID="5" N="CP">Vi <SEG C="R"
+ID="2" N="CF">coteifes</SEG> orpelados</SEG></SEG></LT>
+
+          <LL>Vi coteifes orpelados</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="espantados" N="2" NS="7" RI="ados">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">estar</SEG> mui mal espantados</SEG>,</LT>
+
+          <LL>estar mui mal espantados,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="trosquiados" N="3" NS="7" RI="ados">
+          <LT>e genetes trosquiados</LT>
+
+          <LL>e genetes trosquiados</LL>
+        </L>
+
+        <L AC="---+--+" ERI="arredor" N="4" NS="7" RI="or">
+          <LT>corrian-nos arredor;</LT>
+
+          <LL>corrian-nos arredor;</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="aficados" N="5" NS="7" RI="ados">
+          <LT>tiinhan-nos mal aficados,</LT>
+
+          <LL>tiinhan-nos mal aficados,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="color" N="6" NS="7" RI="or">
+          <LT><SEG C="I" ID="7" N="RE">ca</SEG> perdian na <SEG C="R" ID="8"
+          N="PRI">color</SEG>.</LT>
+
+          <LL>ca perdian na color.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="brio" N="1" NS="7" RI="io">
+          <LT><SEG C="R" ID="4" N="PL"> <SEG C="R" ID="5" N="CP">Vi coteifes de gran brio</SEG></SEG>,</LT>
+
+          <LL>Vi coteifes de gran brio,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="estio" N="2" NS="7" RI="io">
+          <LT><SEG C="R" ID="5" N="CP">eno meio do estio</SEG>,</LT>
+
+          <LL>eno meio do estio,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="frio" N="3" NS="7" RI="io">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">estar</SEG> tremendo sen frio</SEG></LT>
+
+          <LL>estar tremendo sen frio</LL>
+        </L>
+
+        <L AC="--+---+" ERI="Azamor" N="4" NS="7" RI="or">
+          <LT><SEG C="R" ID="9" N="CD">ant&#39; os</SEG> mouros d&#39; Azamor;</LT>
+
+          <LL>ant&#39; os mouros d&#39; Azamor;</LL>
+
+          <ANTRO T="REAL">Azamor</ANTRO>
+        </L>
+
+        <L AC="----+-+-" ERI="rio" N="5" NS="7" RI="io">
+          <LT>e ia-se deles rio</LT>
+
+          <LL>e ia-se deles rio</LL>
+        </L>
+
+        <L AC="---+-+" ERI="maior" N="6" NS="7" RI="or">
+          <LT><SEG C="M" ID="10" N="SIN">que A</SEG>guadalquivir maior.</LT>
+
+          <LL>que Aguadalquivir maior.</LL>
+
+          <TOPO CAT="HIDRON">Auguadalquivir</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+-+-" ERI="azes" N="1" NS="7" RI="azes">
+          <LT><SEG C="R" ID="4" N="PL">Vi eu de coteifes azes</SEG></LT>
+
+          <LL>Vi eu de coteifes azes</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="siguazes" N="2" NS="7" RI="azes">
+          <LT>con infanções <SEG C="I" ID="11" N="RE">s</SEG>iguazes</LT>
+
+          <LL>con infanções siguazes</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="rapazes" N="3" NS="7" RI="azes">
+          <LT>mui peores ca rapazes;</LT>
+
+          <LL>mui peores ca rapazes;</LL>
+        </L>
+
+        <L AC="--+---+" ERI="pavor" N="4" NS="7" RI="or">
+          <LT>e ouveron tal <SEG C="R" ID="3" N="PV">pavor</SEG>,</LT>
+
+          <LL>e ouveron tal pavor,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="arrazes" N="5" NS="7" RI="azes">
+          <LT>que os seus panos d&#39; arrazes</LT>
+
+          <LL>que os seus panos d&#39; arrazes</LL>
+        </L>
+
+        <L AC="---+--+" ERI="color" N="6" NS="7" RI="or">
+          <LT>tornaron doutra <SEG C="R" ID="8" N="PRI">color</SEG>.</LT>
+
+          <LL>tornaron doutra color.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+-+-" ERI="arminhos" N="1" NS="7" RI="inhos">
+          <LT><SEG C="R" ID="4" N="PL">Vi coteifes con arminhos</SEG>,</LT>
+
+          <LL>Vi coteifes con arminhos,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="vinhos" N="2" NS="7" RI="inhos">
+          <LT>conhecedores de vinhos,</LT>
+
+          <LL>conhecedores de vinhos,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="martinhos" N="3" NS="7" RI="inhos">
+          <LT>que rapazes dos martinhos,</LT>
+
+          <LL>que rapazes dos martinhos,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="senhor" N="4" NS="7" RI="or">
+          <LT>que non tragian <SEG C="R" ID="12" N="PV">senhor</SEG>,</LT>
+
+          <LL>que non tragian senhor,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="mesquinhos" N="5" NS="7" RI="inhos">
+          <LT>sairon aos mesquinhos,</LT>
+
+          <LL>sairon aos mesquinhos,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="peor" N="6" NS="7" RI="or">
+          <LT>fezeron todo peor.</LT>
+
+          <LL>fezeron todo peor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="cochões" N="1" NS="7" RI="ões">
+          <LT><SEG C="R" ID="4" N="PL">Vi coteifes e cochões</SEG></LT>
+
+          <LL>Vi coteifes e cochões</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="granhões" N="2" NS="7" RI="ões">
+          <LT>con mui <SEG C="I" ID="13" N="RE">mais</SEG> longos granhões</LT>
+
+          <LL>con mui mais longos granhões</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="cabrões" N="3" NS="7" RI="ões">
+          <LT>que as barvas dos cabrões:</LT>
+
+          <LL>que as barvas dos cabrões:</LL>
+        </L>
+
+        <L AC="--+---+" ERI="atambor" N="4" NS="7" RI="or">
+          <LT>ao son do atambor</LT>
+
+          <LL>ao son do atambor</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="arções" N="5" NS="7" RI="ões">
+          <LT>os deitavan dos arções</LT>
+
+          <LL>os deitavan dos arções</LL>
+        </L>
+
+        <L AC="--+---+" ERI="senhor" N="6" NS="7" RI="or">
+          <LT><SEG C="R" ID="8" N="CD">ant&#39; os</SEG> pees de seu <SEG
+          C="R" ID="12" N="PV">senhor</SEG>.</LT>
+
+          <LL>ant&#39; os pees de seu senhor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

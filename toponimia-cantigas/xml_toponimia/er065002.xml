@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="065002" NE="4" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>En San Momed&#39;, u sabedes</INCIPIT>
+
+      <NUCANT>65 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="267v" I.FI="lb267v" MU="NON" NM="1267"></RM>
+
+      <RM BCA="B" EM="NO" F="268r" I.FI="lb268r" MU="NON" NM="1267"></RM>
+
+      <RM BCA="V" EM="NO" F="138r" I.FI="lv138r" MU="NON" NM="873"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1216</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Brga 873</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 187</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 480</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 89</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 502</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Johan de Cangas" NUA="1"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>29/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b II = b IV)</P></FRI>
+
+      <RUBRICA>Johã de lo Cangas <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga B 1267. Está situada no folio 267v, columna b. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Joham de Cangas <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga V 873. Está situada no folio 138r, columna a. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="abbaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>155:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="sabedes" N="1" NS="7" RI="edes">
+          <LT>En San Momed&#39;, u sabedes</LT>
+
+          <LL>En San Momed&#39;, u sabedes</LL>
+
+          <TOPO CAT="LCULTO">San Mamede</TOPO>
+        </L>
+
+        <L AC="-+----+-" ERI="amigo" N="2" NS="7" RI="igo">
+          <LT>que viste-lo meu amigo,</LT>
+
+          <LL>que viste-lo meu amigo,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="migo" N="3" NS="7" RI="igo">
+          <LT>oj&#39; ouver&#39; a seer migo;</LT>
+
+          <LL>oj&#39; ouver&#39; a seer migo;</LL>
+        </L>
+
+        <L AC="-+-+--+-" ERI="devedes" N="4" NS="7" RI="edes">
+          <LT><SEG C="R" ID="1" N="CD">mia madre</SEG>, fe que devedes,</LT>
+
+          <LL>mia madre, fe que devedes,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+-+" ERI="veer" N="5" NS="7" RI="er">
+            <LT>leixedes<SEG C="M" ID="2" N="SIN">mio</SEG><SEG C="R" ID="3"
+            N="CFR"> ir veer</SEG>.</LT>
+
+            <LL>leixedesmio ir veer.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="abbaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>155:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="dia" N="1" NS="7" RI="ia">
+          <LT><SEG C="R" ID="4" N="CP">O que <SEG C="R" ID="3" N="CFR">vistes</SEG> esse dia</SEG></LT>
+
+          <LL>O que vistes esse dia</LL>
+        </L>
+
+        <L AC="-+-+--+-" ERI="coitado" N="2" NS="7" RI="ado">
+          <LT><SEG C="R" ID="4" N="CP">andar <SEG C="R" ID="5" N="PRI">por mi mui <SEG
+C="R" ID="6" N="RD">coitado</SEG></SEG></SEG>,</LT>
+
+          <LL>andar por mi mui coitado,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="mandado" N="3" NS="7" RI="ado">
+          <LT>chegoum&#39; ora se mandado;</LT>
+
+          <LL>chegoum&#39; ora se mandado;</LL>
+        </L>
+
+        <L AC="+--+--+-" ERI="Maria" N="4" NS="7" RI="ia">
+          <LT><SEG C="R" ID="1" N="CD">madre</SEG>, por Santa Maria,</LT>
+
+          <LL>madre, por Santa Maria,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+-+" ERI="veer" N="5" NS="7" RI="er">
+            <LT>leixedes<SEG C="M" ID="7" N="SIN">mio</SEG> ir veer.</LT>
+
+            <LL>leixedesmio ir veer.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="abbaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>155:30</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="ventura" N="1" NS="7" RI="ura">
+          <LT><SEG C="R" ID="8" N="CD">Pois el foi</SEG> d&#39; atal <SEG
+          C="R" ID="9" N="RD">ventura</SEG></LT>
+
+          <LL>Pois el foi d&#39; atal ventura</LL>
+        </L>
+
+        <L AC="--+---+" ERI="mal" N="2" NS="7" RI="al">
+          <LT><SEG C="R" ID="4" N="CP">que sofreu tan muito mal</SEG></LT>
+
+          <LL>que sofreu tan muito mal</LL>
+        </L>
+
+        <L AC="-+-+--+" ERI="val" N="3" NS="7" RI="al">
+          <LT><SEG C="R" ID="4" N="CP">por mi</SEG>, e ren non lhi val,</LT>
+
+          <LL>por mi, e ren non lhi val,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="mesura" N="4" NS="7" RI="ura">
+          <LT><SEG C="R" ID="1" N="CD">mia madre</SEG>, e por mesura,</LT>
+
+          <LL>mia madre, e por mesura,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+-+" ERI="veer" N="5" NS="7" RI="er">
+            <LT>leixedes<SEG C="M" ID="10" N="SIN">mio</SEG> ir veer.</LT>
+
+            <LL>leixedesmio ir veer.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="abbaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>155:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+-+---+-" ERI="coitada" N="1" NS="7" RI="ada">
+          <LT>Eu serei por el <SEG C="R" ID="6" N="RD">coitada</SEG>,</LT>
+
+          <LL>Eu serei por el coitada,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="coitado" N="2" NS="7" RI="ado">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="8" N="CD">pois el é</SEG> <SEG
+C="R" ID="5" N="PRI">por mi <SEG C="R" ID="6" N="RD">coitado</SEG></SEG></SEG>;</LT>
+
+          <LL>pois el é por mi coitado;</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="grado" N="3" NS="7" RI="ado">
+          <LT>se de Deus ajades grado,</LT>
+
+          <LL>se de Deus ajades grado,</LL>
+        </L>
+
+        <L AC="+-+---+-" ERI="venturada" N="4" NS="7" RI="ada">
+          <LT><SEG C="R" ID="1" N="CD">madre</SEG> ben <SEG C="R" ID="9"
+          N="RD">aventurada</SEG>,</LT>
+
+          <LL>madre ben aventurada,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+-+" ERI="veer" N="5" NS="7" RI="er">
+            <LT>leixedes<SEG C="M" ID="11" N="SIN">mio</SEG> ir veer.</LT>
+
+            <LL>leixedesmio ir veer.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

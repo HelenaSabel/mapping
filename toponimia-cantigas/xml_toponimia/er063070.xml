@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="063070" NE="1" OL="NON" SG="NO" TC="MEST" XE="T">
+      <INCIPIT>Rui Martĩiz, pois que est&#39; é assi</INCIPIT>
+
+      <NUCANT>63 70</NUCANT>
+
+      <TENSO NOME="Rui Martĩiz"><NUCANT>NA</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="223v" I.FI="lb223v" MU="NON" NM="1052"></RM>
+
+      <RM BCA="B" EM="NO" F="224r" I.FI="lb224r" MU="NON" NM="1052"></RM>
+
+      <RM BCA="V" EM="NO" F="102v" I.FI="lv102v" MU="NON" NM="642"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Joán Airas, 82</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 179</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 986</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 642</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 140</P>
+      </EDIANT>
+
+      <DATOAU NOME="Rodríguez" NUA="80"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>30/07/97</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <RUBRICA>Esta tençon fez Joan Airas de Saqqntiago a un que avia nome Rui
+      Toso, ca &#39;nton e[l] se pos nome Rui Martĩiz, e o outro respondeu
+      lhi. <COMRUBRI><P>Rui Martĩiz é o interpelado no primeiro verso da
+      cantiga de Johan Airas nº 63,70, que constitúe o canónico inicio dunha
+      tensó, pero da que só conservámo-la primeira estofa, e, presumiblemente,
+      incompleta. A rúbrica que acompaña á cantiga en V 642 (= B 1052) fornece
+      unha nota que, se cabe, aínda fai máis complicada a identificación do
+      interlocutor de Johan Airas. Non somos quen de poder identificar ese Rui
+      Toso; sen embargo, cremos que non o podemos identificar con Roi Martinz
+      do Casal (nº 145) nin con Roi Martinz d&#39; Ulveira (nº 146), aínda que
+      as datas o sitúen no mesmo eixe cronolóxico ca Johan Airas. Sen embargo
+      a referencia a Leó presente na primeira estrofa desta tensó
+      fragmentaria, cremos que fai difícil a identificación. É posible, como
+      apunta X. L. Rodríguez, que sexa un xograr. O que quedou da cantiga
+      infórmanos de que abandonou León. Polo tanto, estamos perante un autor
+      do que non quedou nada. Esta rúbrica só se conserva en V. Rúbrica
+      atributiva que precede á cantiga V 642. Está situada na columna a do
+      folio 102v. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="INH"></TEMA>
+
+      <TEMA CAT="IPR"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="abbac"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="assi" N="1" NS="10" RI="i">
+          <LT>- Rui Martĩiz, pois que est&#39; <SEG C="I" ID="1" N="RE">é</SEG>
+          assi</LT>
+
+          <LL>- Rui Martĩiz, pois que est&#39; é assi</LL>
+
+          <ANTRO T="REAL">Rui Martĩiz</ANTRO>
+        </L>
+
+        <L AC="---+----+" ERI="viver" N="2" NS="10" RI="er">
+          <LT>que vós ja máis quisestes viver</LT>
+
+          <LL>que vós ja máis quisestes viver</LL>
+        </L>
+
+        <L AC="--+------+" ERI="veer" N="3" NS="10" RI="er">
+          <LT>en Leo<SEG C="I" ID="2" N="RE">n</SEG>, e nos veestes veer,</LT>
+
+          <LL>en Leon, e nos veestes veer,</LL>
+
+          <TOPO CAT="CIUDAD">Leon</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="mí" N="4" NS="10" RI="i">
+          <LT>dized&#39; agora vós un preit&#39; a mí,</LT>
+
+          <LL>dized&#39; agora vós un preit&#39; a mí,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="perdon" N="5" NS="10" RI="on">
+          <LT>Rui Martĩiz, assi Deus vos perdon.</LT>
+
+          <LL>Rui Martĩiz, assi Deus vos perdon.</LL>
+
+          <ANTRO T="REAL">Rui Martĩiz</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

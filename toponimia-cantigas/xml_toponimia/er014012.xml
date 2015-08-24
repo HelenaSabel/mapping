@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="014012" NE="4" OL="NON" SG="NO" TC="MEST" XE="CM">
+      <INCIPIT>Porque no mundo mengou a verdade</INCIPIT>
+
+      <NUCANT>14 12</NUCANT>
+
+      <RM BCA="B" EM="NO" F="185r" I.FI="lb185r" MU="NON" NM="871"></RM>
+
+      <RM BCA="V" EM="NO" F="72v" I.FI="lv072v" MU="NON" NM="455"></RM>
+
+      <RM BCA="V" EM="NO" F="73r" I.FI="lv073r" MU="NON" NM="455"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 69</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Ayras Núñez, 2</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA II, p. 471</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 301</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Machado 812</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Monaci 455</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 455</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 23</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 5</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 447-448</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 25</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 134</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 51</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 39</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 178-179</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 38-39, 423-424</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 410</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tavani, Airas Nunez" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>10/12/96</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = c III, IV)</P></FRI>
+
+      <TEMA CAT="UBI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="verdade" N="1" NS="10" RI="ade">
+          <LT>Porque no mundo mengou a verdade</LT>
+
+          <LL>Porque no mundo mengou a verdade</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="buscar" N="2" NS="10" RI="ar">
+          <LT>puñei un dia de a ir <SEG C="R" ID="1" N="PV"><SEG C="R" ID="2"
+N="RD">buscar</SEG></SEG>,</LT>
+
+          <LL>puñei un dia de a ir buscar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="preguntar" N="3" NS="10" RI="ar">
+          <LT><SEG C="R" ID="3" N="CP">e u por ela fui <SEG C="I" ID="4"
+N="RE">a</SEG> preguntar</SEG></LT>
+
+          <LL>e u por ela fui a preguntar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="buscade" N="4" NS="10" RI="ade">
+          <LT><SEG C="R" ID="3" N="CP">dis<SEG C="I" ID="5" N="RE">s</SEG>eron todos: &#34;Allur la <SEG
+C="R" ID="2" N="RD">buscade</SEG></SEG>,</LT>
+
+          <LL>disseron todos: &#34;Allur la buscade,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="perder" N="5" NS="10" RI="er">
+          <LT><SEG C="R" ID="6" N="CD">ca</SEG> de tal guisa se foi a perder</LT>
+
+          <LL>ca de tal guisa se foi a perder</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aver" N="6" NS="10" RI="er">
+          <LT>que non podemus én novas aver,</LT>
+
+          <LL>que non podemus én novas aver,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="irmaidade" N="7" NS="10" RI="ade">
+          <LT><SEG C="R" ID="7" N="CP">nen ja non anda na irmaidade&#34;.</SEG></LT>
+
+          <LL>nen ja non anda na irmaidade&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="regrados" N="1" NS="10" RI="ados">
+          <LT>Nos moesteiros dos frades regrados</LT>
+
+          <LL>Nos moesteiros dos frades regrados</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="assi" N="2" NS="1" RI="i">
+          <LT><SEG C="R" ID="3" N="CP">a demandei, e dis<SEG C="I" ID="8"
+N="RE">s</SEG>eron-m&#39; assi</SEG>:</LT>
+
+          <LL>a demandei, e disseron-m&#39; assi:</LL>
+        </L>
+
+        <L AC="--+----+-+" ERI="aqui" N="3" NS="10" RI="i">
+          <LT><SEG C="R" ID="3" N="CP">&#34;Non busquedes vós a verdad&#39; aqui</SEG></LT>
+
+          <LL>&#34;Non busquedes vós a verdad&#39; aqui</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="passados" N="4" NS="10" RI="ados">
+          <LT><SEG C="R" ID="6" N="CD">ca</SEG> muitos anos avemos passados</LT>
+
+          <LL>ca muitos anos avemos passados</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fé" N="5" NS="10" RI="e">
+          <LT>que non morou nosco, per bõa fé,</LT>
+
+          <LL>que non morou nosco, per bõa fé,</LL>
+        </L>
+
+        <L AC="-" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="9" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="coidados" N="7" NS="10" RI="ados">
+          <LT>e d&#39; al avemos maiores coidados&#34;.</LT>
+
+          <LL>e d&#39; al avemos maiores coidados&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="soía" N="1" NS="10" RI="ia">
+          <LT><SEG C="R" ID="10" N="CD">E en</SEG> Cistel, u verdade soía</LT>
+
+          <LL>E en Cistel, u verdade soía</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="non" N="2" NS="10" RI="on">
+          <LT>sempre morar, dis<SEG C="I" ID="11" N="RE">s</SEG>eron-me que
+          non</LT>
+
+          <LL>sempre morar, disseron-me que non</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="sazon" N="3" NS="10" RI="on">
+          <LT>morava i avia gran sazon,</LT>
+
+          <LL>morava i avia gran sazon,</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="coñocia" N="4" NS="10" RI="ia">
+          <LT>nen frade d&#39; i ja a non coñocia;</LT>
+
+          <LL>nen frade d&#39; i ja a non coñocia;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="estar" N="5" NS="10" RI="ar">
+          <LT>nen <SEG C="M" ID="12" N="SIN">o a</SEG>bade outrosi no estar</LT>
+
+          <LL>nen o abade outrosi no estar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="pousar" N="6" NS="10" RI="ar">
+          <LT>sol non queria que foss&#39; i pousar</LT>
+
+          <LL>sol non queria que foss&#39; i pousar</LL>
+        </L>
+
+        <L AC="----+----+" ERI="badia" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="7" N="CP">e anda ja fora d<SEG C="I" ID="13"
+N="RE">est</SEG>a badia</SEG>.</LT>
+
+          <LL>e anda ja fora desta badia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="albergado" N="1" NS="10" RI="ado">
+          <LT><SEG C="R" ID="10" N="CD">En</SEG> Santiago, seend&#39;
+          albergado</LT>
+
+          <LL>En Santiago, seend&#39; albergado</LL>
+
+          <TOPO CAT="CIUDAD">Santiago</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="romeus" N="2" NS="10" RI="eus">
+          <LT>en mia pousada, chegaron romeus;</LT>
+
+          <LL>en mia pousada, chegaron romeus;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Deus" N="3" NS="10" RI="eus">
+          <LT><SEG C="R" ID="3" N="CP">preguntei-os e dis<SEG C="I" ID="14"
+N="RE">s</SEG>eron: &#34;Par Deus</SEG>,</LT>
+
+          <LL>preguntei-os e disseron: &#34;Par Deus,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="errado" N="4" NS="10" RI="ado">
+          <LT>muito levade-lo camiñ&#39; errado,</LT>
+
+          <LL>muito levade-lo camiñ&#39; errado,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="achar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="3" N="CP"><SEG C="R" ID="6" N="CD">ca</SEG> se verdade quiserdes achar</SEG></LT>
+
+          <LL>ca se verdade quiserdes achar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="buscar" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="3" N="CP">outro camiño conven a <SEG C="R" ID="1"
+N="PV"> <SEG C="R" ID="2" N="RD">buscar</SEG></SEG></SEG>,</LT>
+
+          <LL>outro camiño conven a buscar,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="mandado" N="7" NS="10" RI="ado">
+          <LT>ca non saben aqui d&#39; ela mandado&#34;.</LT>
+
+          <LL>ca non saben aqui d&#39; ela mandado&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

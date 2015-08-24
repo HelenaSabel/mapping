@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "016010" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Fernan D&iacute;az &eacute; aqui, como vistes</INCIPIT>
+<NUCANT>16 10</NUCANT>
+<RM BCA = "B" NM = "1479" F = "310r" MU = "NON" EM = "NO" I.FI = "lb310r">
+<NOTMAN N = "1">O primeiro verso da composici&oacute;n comeza: Aernam. Enrriba
+do A aparece un F que d&aacute; conta dunha correcci&oacute;n.</NOTMAN>
+</RM>
+<RM BCA = "B" NM = "1479" F = "310v" MU = "NON" EM = "NO" I.FI = "lb310v"></RM>
+<RM BCA = "V" NM = "1090" F = "179r" MU = "NON" EM = "NO" I.FI = "lv179r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1392</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1090</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 33</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 127</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 15</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 182-183</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 40</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 90</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "80"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>29/01/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "NB"></SUBTEMA></TEMA>
+<TEMA CAT = "CAS">
+<SUBTEMA CAT = "NB"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10 10 10'</ESQMET></INFMET>
+<NUMESQ>189:16</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "istes" ERI = "vistes" AC = "-++-+----+-">
+<LT>Fernan D&iacute;az &eacute; aqui, como <SEG C = "R" N = "PV" ID = "1">vistes</SEG>,</LT>
+<LL>Fernan D&iacute;az &eacute; aqui, como vistes,</LL>
+
+<ANTRO T = "REAL">Fernan D&iacute;az</ANTRO></L>
+<L N = "2" NS = "10" RI = "ar" ERI = "casar" AC = "-+--+----+">
+<LT>e anda en preito de se casar;</LT>
+<LL>e anda en preito de se casar;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "chegar" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">mais</SEG> non pod' &ograve; <SEG C = "R" N = "DOU" ID = "4">casamento</SEG> chegar</SEG></LT>
+<LL>mais non pod' &ograve; casamento chegar</LL>
+</L>
+<L N = "4" NS = "10" RI = "e" ERI = "&eacute;" AC = "+--+--+--+">
+<LT>- <SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "5">d' ome</SEG>, o sei eu, que sabe com' &eacute;;</SEG></LT>
+<LL>- d' ome, o sei eu, que sabe com' &eacute;;</LL>
+</L>
+<L N = "5" NS = "10" RI = "e" ERI = "f&eacute;" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "6"><SEG C = "R" N = "CD" ID = "7">e, por</SEG> aver <SEG C = "R" N = "DOU" ID = "4">casament'</SEG>, a la f&eacute;</SEG>,</LT>
+<LL>e, por aver casament', a la f&eacute;,</LL>
+</L>
+<L N = "6" NS = "10" RI = "istes" ERI = "vistes" AC = "+---+--+-+-">
+<LT><SEG C = "R" N = "CP" ID = "6"><SEG C = "R" N = "CD" ID = "5">d' ome</SEG> nunca v&oacute;s tan gran coita <SEG C = "R" N = "PV" ID = "1">vistes</SEG></SEG>.</LT>
+<LL>d' ome nunca v&oacute;s tan gran coita vistes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10 10 10'</ESQMET>
+<NOTMET>
+<P>O verso 5 &eacute; hip&eacute;rmetro.</P></NOTMET>
+</INFMET>
+<NUMESQ>189:16</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&atilde;o" ERI = "lou&ccedil;&atilde;o" AC = "---+--+--+-">
+<LT>E por end' anda vestid' e lou&ccedil;&atilde;o</LT>
+<LL>E por end' anda vestid' e lou&ccedil;&atilde;o</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "molher" AC = "-+-+--+--+">
+<LT>e diz que morre por outra molher;</LT>
+<LL>e diz que morre por outra molher;</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "quer" AC = "-+---+---+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">mais</SEG> este <SEG C = "R" N = "DOU" ID = "4">casamento</SEG> que el quer</SEG>,</LT>
+<LL>mais este casamento que el quer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "an" ERI = "daran" AC = "+--+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "5">d' ome</SEG> o sei eu que lho daran</SEG>;</LT>
+<LL>d' ome o sei eu que lho daran;</LL>
+</L>
+<L N = "5" NS = "11" RI = "an" ERI = "pran" AC = "--+---+---+">
+<LT><SEG C = "R" N = "CP" ID = "6"><SEG C = "R" N = "CD" ID = "7">e por</SEG> este <SEG C = "R" N = "DOU" ID = "4">casamento</SEG> <SEG C = "I" N = "RE" ID = "8">d</SEG>el, de pran</SEG>,</LT>
+<LL>e por este casamento del, de pran,</LL>
+</L>
+<L N = "6" NS = "10" RI = "&atilde;" ERI = "crist&atilde;o" AC = "+--+---+-+-">
+<LT><SEG C = "R" N = "CP" ID = "6"><SEG C = "R" N = "CD" ID = "5">d' o<SEG C = "M" N = "SIN" ID = "9">me </SEG></SEG><SEG C = "M" N = "SIN" ID = "9">a</SEG>tal coita nunca viu crist&atilde;o</SEG>.</LT>
+<LL>d' ome atal coita nunca viu crist&atilde;o.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10 10 10'</ESQMET>
+<NOTMET>
+<P>O verso 1 &eacute; hip&oacute;metro</P></NOTMET>
+</INFMET>
+<NUMESQ>189:23</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "undo" ERI = "Fagundo" AC = "--+---+-+-">
+<LT>Ca d' Estorga at&aacute; San Fagundo</LT>
+<LL>Ca d' Estorga at&aacute; San Fagundo</LL>
+
+<TOPO CAT = "CIUDAD">Estorga</TOPO>
+<TOPO CAT = "CIUDAD">San Fagundo</TOPO></L>
+<L N = "2" NS = "10" RI = "orto" ERI = "torto" AC = "+--+---+-+-">
+<LT>don' &aacute; que &aacute; de Don Fernando torto,</LT>
+<LL>don' &aacute; que &aacute; de Don Fernando torto,</LL>
+
+<ANTRO T = "REAL">Fernando D&iacute;az (Don Fernando)</ANTRO></L>
+<L N = "3" NS = "10" RI = "orto" ERI = "morto" AC = "--+---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "2">ca por outro <SEG C = "R" N = "DOU" ID = "4">casamen<SEG C = "M" N = "SIN" ID = "10">to </SEG></SEG><SEG C = "M" N = "SIN" ID = "10">an</SEG>da morto</SEG>,</LT>
+<LL>ca por outro casamento anda morto,</LL>
+</L>
+<L N = "4" NS = "10" RI = "a" ERI = "j&aacute;" AC = "+--+---+-+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "5">d' ome</SEG> o sei eu, que o sabe j&aacute;</SEG>;</LT>
+<LL>d' ome o sei eu, que o sabe j&aacute;;</LL>
+</L>
+<L N = "5" NS = "10" RI = "a" ERI = "&aacute;" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CP" ID = "6">e se este <SEG C = "R" N = "DOU" ID = "4">casament'</SEG> el non &aacute;</SEG>,</LT>
+<LL>e se este casament' el non &aacute;,</LL>
+</L>
+<L N = "6" NS = "10" RI = "undo" ERI = "mundo" AC = "+--+--+-+-">
+<LT><SEG C = "R" N = "CP" ID = "6"><SEG C = "R" N = "CD" ID = "5">d' om'</SEG> atal coita nunca foi no mundo</SEG>.</LT>
+<LL>d' om' atal coita nunca foi no mundo.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

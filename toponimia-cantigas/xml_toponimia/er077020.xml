@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="077020" NE="4" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Quand&#39; eu a San Servando fui un dia daqui</INCIPIT>
+
+      <NUCANT>77 20</NUCANT>
+
+      <RM BCA="B" EM="NO" F="243v" I.FI="lb243v" MU="NON" NM="1142"></RM>
+
+      <RM BCA="B" EM="NO" F="244r" I.FI="lb244r" MU="NON" NM="1142"></RM>
+
+      <RM BCA="V" EM="NO" F="117r" I.FI="lv117r" MU="NON" NM="734"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Camargo et alii, João Servando, 3</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1076</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 734</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Cidade, Poesia medieval, pp. 14-15</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 98</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 5</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 364</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="369p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>22/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tornel <COMNOTC><P>Nota colocciana que precede á cantiga B 1142.
+      Está situada na columna b do folio 243v.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Joham Seruando <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga V 734. Está situada na marxe superior. Aparece no cancioneiro
+      subliñada.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="3+4">
+        <ESQRIM TIPO="aaaBCBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 13 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>23:1 <NOTNESQ><P>Outras posibilidades, 16:4; 238:1.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/--+--+" ERI="aqui" N="1" NS="13" RI="i">
+          <LT>Quand&#39; eu a San Servando<SEG C="M" ID="1" N="CAE"></SEG> fui
+          un dia daqui</LT>
+
+          <LL>Quand&#39; eu a San Servando fui un dia daqui</LL>
+
+          <TOPO CAT="LCULTO">San Servando</TOPO>
+        </L>
+
+        <L AC="-+---+-/---+-+" ERI="vi" N="2" NS="13" RI="i">
+          <LT>faze-la romaria<SEG C="M" ID="2" N="CAE">,</SEG> e meu amig&#39;
+          i vi,</LT>
+
+          <LL>faze-la romaria, e meu amig&#39; i vi,</LL>
+        </L>
+
+        <L AC="-+---+-/-+---+" ERI="entendi" N="3" NS="13" RI="i">
+          <LT>direi vos con verdade<SEG C="M" ID="3" N="CAE"></SEG> quant&#39;
+          eu del entendi:</LT>
+
+          <LL>direi vos con verdade quant&#39; eu del entendi:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="pagada" N="4" NS="6" RI="ada">
+            <LT>muito venho pagada</LT>
+
+            <LL>muito venho pagada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="falei" N="5" NS="6" RI="ei">
+            <LT>de quanto lhi falei;</LT>
+
+            <LL>de quanto lhi falei;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="namorada" N="6" NS="6" RI="ada">
+            <LT>mais á m&#39; el namorada</LT>
+
+            <LL>mais á m&#39; el namorada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="guarrei" N="7" NS="6" RI="ei">
+            <LT>que nunca lhi guarrei</LT>
+
+            <LL>que nunca lhi guarrei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="3+4">
+        <ESQRIM TIPO="aaaBCBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 13 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>23:1 <NOTNESQ><P>Outras posibilidades, 16:4; 238:1.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/---+-+" ERI="fix" N="1" NS="13" RI="ix">
+          <LT>Que bõa romaria<SEG C="M" ID="4" N="CAE"></SEG> con meu amigo
+          fix,</LT>
+
+          <LL>Que bõa romaria con meu amigo fix,</LL>
+        </L>
+
+        <L AC="--+--+-/--+--+" ERI="quix" N="2" NS="13" RI="ix">
+          <LT><SEG C="R" ID="5" N="CD">ca lhi dix&#39;</SEG>, a Deus grado<SEG
+          C="M" ID="6" N="CAE">,</SEG> quanto lh&#39; eu dizer quix</LT>
+
+          <LL>ca lhi dix&#39;, a Deus grado, quanto lh&#39; eu dizer quix</LL>
+        </L>
+
+        <L AC="-+---+-/-+--+" ERI="prix" N="3" NS="13" RI="ix">
+          <LT><SEG C="R" ID="7" N="CP">e <SEG C="R" ID="8" N="CF">dixi lh&#39;</SEG> o gran torto<SEG
+C="M" ID="9" N="CAE"></SEG> que sempre dele prix</SEG>:</LT>
+
+          <LL>e dixi lh&#39; o gran torto que sempre dele prix:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="pagada" N="4" NS="6" RI="ada">
+            <LT>muito venho pagada</LT>
+
+            <LL>muito venho pagada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="falei" N="5" NS="6" RI="ei">
+            <LT>de quanto lhi fa<SEG C="I" ID="9a" N="RE">lei</SEG>;</LT>
+
+            <LL>de quanto lhi falei;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="namorada" N="6" NS="6" RI="ada">
+            <LT><SEG C="I" ID="9a" N="RE">mais á m&#39; el namorada</SEG></LT>
+
+            <LL>mais á m&#39; el namorada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="guarrei" N="7" NS="6" RI="ei">
+            <LT><SEG C="I" ID="9a" N="RE">que nunca lhi guarrei</SEG></LT>
+
+            <LL>que nunca lhi guarrei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="3+4">
+        <ESQRIM TIPO="aaaBCBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 13 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>23:1 <NOTNESQ><P>Outras posibilidades, 16:4; 238:1.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+-/+----+" ERI="razon" N="1" NS="13" RI="on">
+          <LT>U el falou comigo<SEG C="M" ID="10" N="CAE">,</SEG> <SEG C="R"
+          ID="8" N="CF">disse m&#39;</SEG> esta razon:</LT>
+
+          <LL>U el falou comigo, disse m&#39; esta razon:</LL>
+        </L>
+
+        <L AC="-+---+-/-+---+" ERI="enton" N="2" NS="13" RI="on">
+          <LT>por Deus, que lhi faria<SEG C="M" ID="11" N="CAE">?</SEG> e dixi
+          lh&#39; eu enton:</LT>
+
+          <LL>por Deus, que lhi faria? e dixi lh&#39; eu enton:</LL>
+        </L>
+
+        <L AC="--+--+-/--+--+" ERI="coraçon" N="3" NS="13" RI="on">
+          <LT>&#34;Averei de vós doo<SEG C="M" ID="12" N="CAE"></SEG> <SEG
+          C="I" ID="13" N="RE">e</SEG>no meu coraçon&#34;;</LT>
+
+          <LL>&#34;Averei de vós doo eno meu coraçon&#34;;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="pagada" N="4" NS="6" RI="ada">
+            <LT>mui<SEG C="I" ID="13a" N="RE">to venho pagada</SEG></LT>
+
+            <LL>muito venho pagada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="falei" N="5" NS="6" RI="ei">
+            <LT><SEG C="I" ID="13a" N="RE">de quanto lhi falei</SEG>;</LT>
+
+            <LL>de quanto lhi falei;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="namorada" N="6" NS="6" RI="ada">
+            <LT><SEG C="I" ID="13a" N="RE">mais á m&#39; el namorada</SEG></LT>
+
+            <LL>mais á m&#39; el namorada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="guarrei" N="7" NS="6" RI="ei">
+            <LT><SEG C="I" ID="13a" N="RE">que <SEG C="R" ID="14" N="CFR">nunca</SEG> lhi guarrei</SEG></LT>
+
+            <LL>que nunca lhi guarrei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="3+4">
+        <ESQRIM TIPO="aaaBCBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 13 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>23:1 <NOTNESQ><P>Outras posibilidades, 16:4; 238:1.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+-/--+--+" ERI="ben" N="1" NS="13" RI="en">
+          <LT><SEG C="R" ID="14" N="CFR">Nunca</SEG> m&#39; eu desta ida<SEG
+          C="M" ID="15" N="CAE"></SEG> acharei se non ben,</LT>
+
+          <LL>Nunca m&#39; eu desta ida acharei se non ben,</LL>
+        </L>
+
+        <L AC="-+---+-/--+--+" ERI="ten" N="2" NS="13" RI="en">
+          <LT><SEG C="R" ID="7" N="CP"><SEG C="R" ID="5" N="CD">ca dix&#39;</SEG> a meu amigo<SEG
+C="M" ID="16" N="CAE"></SEG> a coita &#39;n que me ten</SEG></LT>
+
+          <LL>ca dix&#39; a meu amigo a coita &#39;n que me ten</LL>
+        </L>
+
+        <L AC="---+-+-/-+---+" ERI="en" N="3" NS="13" RI="en">
+          <LT>o seu amor, e cuido<SEG C="M" ID="17" N="CAE"></SEG> que vai
+          ledo por en:</LT>
+
+          <LL>o seu amor, e cuido que vai ledo por en:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="pagada" N="4" NS="6" RI="ada">
+            <LT>muito venho pagada</LT>
+
+            <LL>muito venho pagada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="falei" N="5" NS="6" RI="ei">
+            <LT><SEG C="I" ID="18a" N="RE">de quanto lhi falei</SEG>;</LT>
+
+            <LL>de quanto lhi falei;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="namorada" N="6" NS="6" RI="ada">
+            <LT><SEG C="I" ID="18a" N="RE">mais á m&#39; el namorada</SEG></LT>
+
+            <LL>mais á m&#39; el namorada</LL>
+          </L>
+
+          <L AC="-+---+" ERI="guarrei" N="7" NS="6" RI="ei">
+            <LT><SEG C="I" ID="18a" N="RE">que nunca lhi guarrei</SEG></LT>
+
+            <LL>que nunca lhi guarrei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

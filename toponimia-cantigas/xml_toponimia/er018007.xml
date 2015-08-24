@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018007" TC = "REFR" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Com' eu en dia de Pascoa queria ben comer</INCIPIT>
+<NUCANT>18 7</NUCANT>
+<RM BCA = "B" NM = "490" F = "109r" MU = "NON" EM = "NO" I.FI = "lb109r"></RM>
+<RM BCA = "B" NM = "490" F = "109v" MU = "NON" EM = "NO" I.FI = "lb109v"></RM>
+<RM BCA = "V" NM = "73" F = "5v" MU = "NON" EM = "NO" I.FI = "lv005v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 435</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 73</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, p. 49</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 172</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 20</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 49</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "36"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>20/10/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel novo
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 490 de B. Est&aacute; situada na marxe
+dereita do folio 109r dese manuscrito, &aacute; altura da segunda
+estrofa.</P></COMNOTC></NOTC>
+<TEMA CAT = "DF">
+<SUBTEMA CAT = "CL"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 7</ESQMET>
+<NOTMET>
+<P>Tavani ofrece para esta cantiga o esquema 26:30 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a13 a13 B7.</P></NOTMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "er" ERI = "comer" AC = "---+--+--/-+---+">
+<LT><SEG C = "R" N = "PL" ID = "1">Com' eu en dia de Pascoa<SEG C = "M" N = "CAE" ID = "2"></SEG> queria ben comer</SEG>,</LT>
+<LL>Com' eu en dia de Pascoa queria ben comer,</LL>
+</L>
+<L N = "2" NS = "15" RI = "er" ERI = "dizer" AC = "---+--+/--+---+">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CF" ID = "4">assi</SEG> queria bon son, <SEG C = "M" N = "CAE" ID = "5"></SEG>e ligeiro de dizer,</SEG></LT>
+<LL>assi queria bon son, e ligeiro de dizer,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "an" ERI = "Joan" AC = "------+">
+<LT>pera meestre Joan.</LT>
+<LL>pera meestre Joan.</LL>
+
+<ANTRO T = "REAL">este mestre Joan ser&iacute;a o mestre Joan Afonso,
+c&oacute;engo da catedral compostel&aacute; (S. Pellegrini).</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 7</ESQMET>
+<NOTMET>
+<P>Tavani ofrece para esta cantiga o esquema 26:30 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a13 a13 B7.</P></NOTMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "on" ERI = "salmon" AC = "-----+--+/--+--+">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CF" ID = "4">Assi</SEG> com' eu queria comer<SEG C = "M" N = "CAE" ID = "6"></SEG> de bon salmon</SEG>,</LT>
+<LL>Assi com' eu queria comer de bon salmon,</LL>
+</L>
+<L N = "2" NS = "15" RI = "on" ERI = "paixon" AC = "---+---+-/--+--+">
+<LT><SEG C = "R" N = "PL" ID = "3">assi queri<SEG C = "M" N = "SIN" ID = "7">a</SEG> Avangelho<SEG C = "M" N = "CAE" ID = "8"></SEG> mui pequena paixon</SEG></LT>
+<LL>assi queria Avangelho mui pequena paixon</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "an" ERI = "Joan" AC = "------+">
+<LT>pera meestre Joan.</LT>
+<LL>pera meestre Joan.</LL>
+
+<ANTRO T = "REAL">este mestre Joan ser&iacute;a o mestre Joan Afonso,
+c&oacute;engo da catedral compostel&aacute; (S. Pellegrini).</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 7</ESQMET>
+<NOTMET>
+<P>Tavani ofrece para esta cantiga o esquema 26:30 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a13 a13 B7.</P></NOTMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "en" ERI = "ben" AC = "-----+--+/---+-+">
+<LT>Com' <SEG C = "I" N = "RE" ID = "9">eu</SEG> queria comer<SEG C = "M" N = "CAE" ID = "10"></SEG> que me soubesse ben,</LT>
+<LL>Com' eu queria comer que me soubesse ben,</LL>
+</L>
+<L N = "2" NS = "15" RI = "en" ERI = "amen" AC = "---+---+/---+--+">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CF" ID = "11">assi</SEG> queria bon son<SEG C = "M" N = "CAE" ID = "12"></SEG> <SEG C = "I" N = "RE" ID = "13">d</SEG>e <SEG C = "L" N = "OL" ID = "14">seculorum amen</SEG></SEG></LT>
+<LL>assi queria bon son de seculorum amen</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "an" ERI = "Joan" AC = "------+">
+<LT>pera meestre Joan.</LT>
+<LL>pera meestre Joan.</LL>
+
+<ANTRO T = "REAL">este mestre Joan ser&iacute;a o mestre Joan Afonso,
+c&oacute;engo da catedral compostel&aacute; (S. Pellegrini).</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 7</ESQMET>
+<NOTMET>
+<P>Tavani ofrece para esta cantiga o esquema 26:30 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a13 a13 B7.</P></NOTMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ens" ERI = "Ourens" AC = "---+--+-/---+--+">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CF" ID = "15">Assi</SEG> com' eu beveria <SEG C = "M" N = "CAE" ID = "16"></SEG>bon vinho d<SEG C = "I" N = "RE" ID = "17">e</SEG> Ourens</SEG>,</LT>
+<LL>Assi com' eu beveria bon vinho de Ourens,</LL>
+
+<TOPO CAT = "CIUDAD">Ourense (Ourens), referido con toda seguridade &oacute;
+vi&ntilde;o do Ribeiro.</TOPO></L>
+<L N = "2" NS = "15" RI = "ens" ERI = "cunctipotens" AC = "----+---+/-+---+">
+<LT><SEG C = "R" N = "PL" ID = "3">assi queria bon son<SEG C = "M" N = "CAE" ID = "18"></SEG> de <SEG C = "L" N = "OL" ID = "19"><SEG C = "I" N = "RE" ID = "20">O</SEG> cunctipotens</SEG></SEG></LT>
+<LL>assi queria bon son de O cunctipotens</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "an" ERI = "Joan" AC = "------+">
+<LT>pera meestre Joan.</LT>
+<LL>pera meestre Joan.</LL>
+
+<ANTRO T = "REAL">este mestre Joan ser&iacute;a o mestre Joan Afonso,
+c&oacute;engo da catedral compostel&aacute; (S. Pellegrini).</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

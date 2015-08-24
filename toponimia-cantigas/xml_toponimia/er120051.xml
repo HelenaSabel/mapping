@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120051" NE="4" OL="NON" SG="NO" TC="RINT" XE="ES">
+      <INCIPIT>Un dia fui cavalgar</INCIPIT>
+
+      <NUCANT>120 51</NUCANT>
+
+      <RM BCA="B" EM="NO" F="348r" I.FI="lb348r" MU="NON" NM="1629"></RM>
+
+      <RM BCA="V" EM="NO" F="191v" I.FI="lv191v" MU="NON" NM="1163"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 136-138</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 262-263</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 25</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. III, pp. 161-162</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1533</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1163</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Lopes 297</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="345"><COMAU><P>Lapa dispón tipograficamente os
+      tres últimos versos como refrán. Nós preferimos considerar unicamente os
+      vv. 5 e 7.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>9/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = a III; a II = b IV; b II = a IV)</P></FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana que precede á cantiga B 1629.
+      Está situada na columna a do folio 348r. Enriba do o de tonel aparece un
+      sinal de abreviatura que indica que falta o r.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="NB"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="ababCaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 7 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>97:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="cavalgar" N="1" NS="7" RI="ar">
+          <LT>Un dia fui cavalgar</LT>
+
+          <LL>Un dia fui cavalgar</LL>
+        </L>
+
+        <L AC="-+----+" ERI="Carrion" N="2" NS="7" RI="on">
+          <LT>de Burgos contra Carrion,</LT>
+
+          <LL>de Burgos contra Carrion,</LL>
+
+          <TOPO CAT="CIUDAD">Burgos</TOPO>
+
+          <TOPO CAT="ALDEA">Carrion</TOPO>
+        </L>
+
+        <L AC="--+---+" ERI="convidar" N="3" NS="7" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">e saiu-m&#39; a <SEG C="R" ID="2"
+N="RD">convidar</SEG></SEG></LT>
+
+          <LL>e saiu-m&#39; a convidar</LL>
+        </L>
+
+        <L AC="--+---+" ERI="infançon" N="4" NS="7" RI="on">
+          <LT>no caminh&#39; un infançon;</LT>
+
+          <LL>no caminh&#39; un infançon;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="convidou" N="5" NS="7" RI="ou">
+            <LT>e tanto me <SEG C="R" ID="2" N="RD">convidou</SEG>,</LT>
+
+            <LL>e tanto me convidou,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="-+----+" ERI="jantar" N="6" NS="7" RI="ar">
+          <LT><SEG C="R" ID="3" N="CPL">que ôuvi lo<SEG C="M" ID="4" N="SIN">go a</SEG> <SEG
+C="R" ID="5" N="RD">jantar</SEG></SEG></LT>
+
+          <LL>que ôuvi logo a jantar</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="pesou" N="7" NS="7" RI="ou">
+            <LT>con el, mal que mi pesou.</LT>
+
+            <LL>con el, mal que mi pesou.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="ababCaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 7 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>97:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="parti" N="1" NS="7" RI="i">
+          <LT>U m&#39; eu de Burgos parti,</LT>
+
+          <LL>U m&#39; eu de Burgos parti,</LL>
+
+          <TOPO CAT="CIUDAD">Burgos</TOPO>
+        </L>
+
+        <L AC="--+---+" ERI="encomendei" N="2" NS="7" RI="ei">
+          <LT><SEG C="R" ID="6" N="CP">log&#39; a Deus m&#39; encomendei</SEG></LT>
+
+          <LL>log&#39; a Deus m&#39; encomendei</LL>
+        </L>
+
+        <L AC="---+--+" ERI="assi" N="3" NS="7" RI="i">
+          <LT>e log&#39; a el prougu&#39; assi</LT>
+
+          <LL>e log&#39; a el prougu&#39; assi</LL>
+        </L>
+
+        <L AC="----+-+" ERI="achei" N="4" NS="7" RI="ei">
+          <LT><SEG C="R" ID="1" N="CP">que un infançou achei</SEG>;</LT>
+
+          <LL>que un infançou achei;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="convidou" N="5" NS="7" RI="ou">
+            <LT>e tanto me <SEG C="R" ID="2" N="RD">convidou</SEG>,</LT>
+
+            <LL>e tanto me convidou,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="----+-+" ERI="i" N="6" NS="7" RI="i">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="M" ID="4" N="SIN">que ôu</SEG>vi a jantar logu&#39; <SEG
+C="R" ID="8" N="PV">i</SEG></SEG></LT>
+
+          <LL>que ôuvia jantar logu&#39; i</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="pesou" N="7" NS="7" RI="ou">
+            <LT>con el, mal que mi pesou.</LT>
+
+            <LL>con el, mal que mi pesou.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="ababCaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 7 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>97:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+" ERI="coraçon" N="1" NS="7" RI="on">
+          <LT>E se eu de coraçon</LT>
+
+          <LL>E se eu de coraçon</LL>
+        </L>
+
+        <L AC="--+---+" ERI="ben" N="2" NS="7" RI="en">
+          <LT><SEG C="R" ID="6" N="CP">roguei Deus, baratei ben</SEG>:</LT>
+
+          <LL>roguei Deus, baratei ben:</LL>
+        </L>
+
+        <L AC="--+---+" ERI="sazon" N="3" NS="7" RI="on">
+          <LT>ca en pouca de sazon</LT>
+
+          <LL>ca en pouca de sazon</LL>
+        </L>
+
+        <L AC="-+----+" ERI="ven" N="4" NS="7" RI="en">
+          <LT><SEG C="R" ID="1" N="CP">aqué-m&#39; un infançon ven</SEG>;</LT>
+
+          <LL>aqué-m&#39; un infançon ven;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="convidou" N="5" NS="7" RI="ou">
+            <LT>e tanto me <SEG C="R" ID="2" N="RD">convidou</SEG>,</LT>
+
+            <LL>e tanto me convidou,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="-+----+" ERI="enton" N="6" NS="7" RI="on">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="M" ID="4" N="SIN">que ôu</SEG>vi a jantar enton</SEG></LT>
+
+          <LL>que ôuvi a jantar enton</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="pesou" N="7" NS="7" RI="ou">
+            <LT>con el, mal que mi pesou.</LT>
+
+            <LL>con el, mal que mi pesou.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="ababCaC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 7 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>97:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="comerei" N="1" NS="7" RI="ei">
+          <LT>E nunca já <SEG C="R" ID="10" N="RD">comerei</SEG></LT>
+
+          <LL>E nunca já comerei</LL>
+        </L>
+
+        <L AC="--+---+" ERI="comi" N="2" NS="7" RI="i">
+          <LT>com&#39; enton con el <SEG C="R" ID="10" N="RD">comi</SEG>;</LT>
+
+          <LL>com&#39; enton con el comi;</LL>
+        </L>
+
+        <L AC="--+---+" ERI="topei" N="3" NS="7" RI="ei">
+          <LT>mais, u eu con el topei,</LT>
+
+          <LL>mais, u eu con el topei,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="i" N="4" NS="7" RI="i">
+          <LT>quisera-m&#39; ir, e el <SEG C="R" ID="8" N="PV">i</SEG></LT>
+
+          <LL>quisera-m&#39; ir, e el i</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="convidou" N="5" NS="7" RI="ou">
+            <LT>atanto me <SEG C="R" ID="2" N="RD">convidou</SEG>,</LT>
+
+            <LL>atanto me convidou,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="---+--+" ERI="jantei" N="6" NS="7" RI="ei">
+          <LT><SEG C="R" ID="3" N="CPL">que, sen meu grado, <SEG C="R" ID="5"
+N="RD">jantei</SEG></SEG></LT>
+
+          <LL>que, sen meu grado, jantei</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+" ERI="pesou" N="7" NS="7" RI="ou">
+            <LT>con el, mal que mi pesou.</LT>
+
+            <LL>con el, mal que mi pesou.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

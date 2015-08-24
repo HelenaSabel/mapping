@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077023" TC = "REFR" NE = "4" SG = "NO" XE = "A" OL = "NON">
+<INCIPIT>Hun dia vi mha senhor</INCIPIT>
+<NUCANT>77 23</NUCANT>
+<RM BCA = "B" NM = "1074" F = "227v" MU = "NON" EM = "NO" I.FI = "lb227v"></RM>
+<RM BCA = "V" NM = "664" F = "106r" MU = "NON" EM = "NO" I.FI = "lv106r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 1</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1007</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 664</P></EDIANT>
+<DATOAU NOME = "Amor" NUA = "216"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>22/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1074.
+Est&aacute; situada na columna a do folio 227v.</P></COMNOTC></NOTC>
+<RUBRICA>Joha Seruando
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1074. Est&aacute; situada na columna a do folio 227v. Enriba o a
+de Joha aparece un signo de abreviatura.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Joham Seruando
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V
+664. Est&aacute; situada na marxe superior, columna a do folio 106r.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "SA"></TEMA>
+<TEMA CAT = "PAV"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7 7</ESQMET></INFMET>
+<NUMESQ>19:36</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "or" ERI = "senhor" AC = "---+--+">
+<LT>Hun dia vi mha senhor,</LT>
+<LL>Hun dia vi mha senhor,</LL>
+</L>
+<L N = "2" NS = "7" RI = "or" ERI = "amor" AC = "--+---+">
+<LT>que mi deu atal amor</LT>
+<LL>que mi deu atal amor</LL>
+</L>
+<L N = "3" NS = "7" RI = "or" ERI = "for" AC = "---+--+">
+<LT>que non direy per hu for</LT>
+<LL>que non direy per hu for</LL>
+</L>
+<L N = "4" NS = "7" RI = "en" ERI = "ren" AC = "--+---+">
+<LT>quen est' <SEG C = "I" N = "RE" ID = "1">e</SEG> per nulha ren</LT>
+<LL>quen est' e per nulha ren</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "en" ERI = "quen" AC = "--+---+">
+<LT>non ous' eu dizer por quen</LT>
+<LL>non ous' eu dizer por quen</LL>
+</L>
+<L N = "6" NS = "7" RI = "en" ERI = "ven" AC = "--+---+">
+<LT>mi ven quanto mal mi ven.</LT>
+<LL>mi ven quanto mal mi ven.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>19:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "dia" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">Preguntan-me</SEG> cada dia</SEG></LT>
+<LL>Preguntan-me cada dia</LL>
+</L>
+<L N = "2" NS = "7" RI = "ia" ERI = "ousaria" AC = "---+--+-">
+<LT>polo que non ousaria</LT>
+<LL>polo que non ousaria</LL>
+</L>
+<L N = "3" NS = "7" RI = "ia" ERI = "todavya" AC = "-+----+-">
+<LT>dizer, ca m' ey todavya</LT>
+<LL>dizer, ca m' ey todavya</LL>
+</L>
+<L N = "4" NS = "7" RI = "en" ERI = "en" AC = "---+--+">
+<LT>medo de mort', e por en</LT>
+<LL>medo de mort', e por en</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "en" ERI = "quen" AC = "--+---+">
+<LT>non ous' eu dizer por quen</LT>
+<LL>non ous' eu dizer por quen</LL>
+</L>
+<L N = "6" NS = "7" RI = "en" ERI = "ven" AC = "--+---+">
+<LT>mi ven quanto mal mi ven.</LT>
+<LL>mi ven quanto mal mi ven.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>19:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ade" ERI = "puridade" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">Preguntan-m'</SEG> en puridade</SEG></LT>
+<LL>Preguntan-m' en puridade</LL>
+</L>
+<L N = "2" NS = "7" RI = "ade" ERI = "verdade" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "4">que lhis diga</SEG> en verdade,</LT>
+<LL>que lhis diga en verdade,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ade" ERI = "lealdade" AC = "-+----+-">
+<LT>mays eu, com gran lealdade</LT>
+<LL>mays eu, com gran lealdade</LL>
+</L>
+<L N = "4" NS = "7" RI = "en" ERI = "sen" AC = "----+-+">
+<LT>e por non fazer mal sen,</LT>
+<LL>e por non fazer mal sen,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "en" ERI = "quen" AC = "--+---+">
+<LT>non ous' eu dizer por quen</LT>
+<LL>non ous' eu dizer por quen</LL>
+</L>
+<L N = "6" NS = "7" RI = "en" ERI = "ven" AC = "--+---+">
+<LT>mi ven quanto mal mi ven.</LT>
+<LL>mi ven quanto mal mi ven.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>19:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ando" ERI = "preguntando" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "2">Andam-m' assy preguntando</SEG></LT>
+<LL>Andam-m' assy preguntando</LL>
+</L>
+<L N = "2" NS = "7" RI = "ando" ERI = "ando" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "4">que lhis diga</SEG> por que ando</LT>
+<LL>que lhis diga por que ando</LL>
+</L>
+<L N = "3" NS = "7" RI = "ando" ERI = "Servando" AC = "--+---+-">
+<LT>trist' <SEG C = "I" N = "RE" ID = "5">e</SEG> eu, por San Servando,</LT>
+<LL>trist' e eu, por San Servando,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "4" NS = "7" RI = "en" ERI = "alguen" AC = "--+---+">
+<LT>con pavor que ey d' alguen,</LT>
+<LL>con pavor que ey d' alguen,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "en" ERI = "quen" AC = "--+---+">
+<LT>non ous' eu dizer por quen</LT>
+<LL>non ous' eu dizer por quen</LL>
+</L>
+<L N = "6" NS = "7" RI = "en" ERI = "ven" AC = "--+---+">
+<LT>mi ven quanto mal mi ven.</LT>
+<LL>mi ven quanto mal mi ven.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

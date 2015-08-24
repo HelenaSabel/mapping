@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077015" TC = "REFR" NE = "3" SG = "NO" XE = "M MR" OL = "NON">
+<INCIPIT>Ir-se quer o meu amigo</INCIPIT>
+<NUCANT>77 15</NUCANT>
+<RM BCA = "B" NM = "1143" F = "244r" MU = "NON" EM = "NO" I.FI = "lb244r"></RM>
+<RM BCA = "V" NM = "735" F = "117r" MU = "NON" EM = "NO" I.FI = "lv117r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 4</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1077</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 735</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 97</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 370</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "365"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>18/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1143.
+Est&aacute; situada na columna a do folio 244r.</P></COMNOTC></NOTC>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "SNH"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>99:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "1">Ir-se quer o meu amigo</SEG>,</LT>
+<LL>Ir-se quer o meu amigo,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ar" ERI = "vingar" AC = "--+---+">
+<LT>non me sei eu d' el vingar,</LT>
+<LL>non me sei eu d' el vingar,</LL>
+</L>
+<L N = "3" NS = "7" RI = "igo" ERI = "migo" AC = "---+--+-">
+<LT>e, pero mal est&aacute; migo,</LT>
+<LL>e, pero mal est&aacute; migo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ar" ERI = "assanhar" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "2">se me lh' eu ant' <SEG C = "R" N = "RD" ID = "3">assanhar</SEG></SEG>,</LT>
+<LL>se me lh' eu ant' assanhar,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ir" ERI = "vir" AC = "--+---+">
+<LT>quando m' el sanhuda vir,</LT>
+<LL>quando m' el sanhuda vir,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ir" ERI = "ir" AC = "---+--+">
+<LT>non s' ousar&aacute; d' aquend' <SEG C = "R" N = "CFR" ID = "4">ir</SEG>.</LT>
+<LL>non s' ousar&aacute; d' aquend' ir.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7 7</ESQMET></INFMET>
+<NUMESQ>99:67</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "edo" ERI = "cedo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "1"><SEG C = "R" N = "CFR" ID = "4">Ir</SEG>-se quer el d' aqui cedo</SEG>,</LT>
+<LL>Ir-se quer el d' aqui cedo,</LL>
+</L>
+<L N = "2" NS = "7" RI = "anha" ERI = "companha" AC = "----+-+-">
+<LT>por mi non fazer companha,</LT>
+<LL>por mi non fazer companha,</LL>
+</L>
+<L N = "3" NS = "7" RI = "edo" ERI = "medo" AC = "+-----+-">
+<LT>mais, pero que non &aacute; medo</LT>
+<LL>mais, pero que non &aacute; medo</LL>
+</L>
+<L N = "4" NS = "7" RI = "anha" ERI = "sanha" AC = "----+-+-">
+<LT>de lhi mal fazer mia <SEG C = "R" N = "RD" ID = "3">sanha</SEG>,</LT>
+<LL>de lhi mal fazer mia sanha,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ir" ERI = "vir" AC = "--+---+">
+<LT>quando m' el sanhuda vir,</LT>
+<LL>quando m' el sanhuda vir,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ir" ERI = "ir" AC = "---+--+">
+<LT>non s' ousar&aacute; d' aquend' <SEG C = "R" N = "CFR" ID = "5">ir</SEG>.</LT>
+<LL>non s' ousar&aacute; d' aquend' ir.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7 7</ESQMET></INFMET>
+<NUMESQ>99:67</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "dia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "5">Foi</SEG> el fazer noutro dia</LT>
+<LL>Foi el fazer noutro dia</LL>
+</L>
+<L N = "2" NS = "7" RI = "ando" ERI = "Servando" AC = "--+---+-">
+<LT>ora&ccedil;on a San Servando,</LT>
+<LL>ora&ccedil;on a San Servando,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "3" NS = "7" RI = "ia" ERI = "via" AC = "--+---+-">
+<LT>por s' ir j&aacute; d' aqui sa via,</LT>
+<LL>por s' ir j&aacute; d' aqui sa via,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ando" ERI = "assanhando" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "2">mais, se m' eu for <SEG C = "R" N = "RD" ID = "3">assanhando</SEG></SEG>,</LT>
+<LL>mais, se m' eu for assanhando,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ir" ERI = "vir" AC = "--+---+">
+<LT>quando m' el sanhuda vir,</LT>
+<LL>quando m' el sanhuda vir,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ir" ERI = "ir" AC = "---+--+">
+<LT>non s' ousar&aacute; d' aquend' ir.</LT>
+<LL>non s' ousar&aacute; d' aquend' ir.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

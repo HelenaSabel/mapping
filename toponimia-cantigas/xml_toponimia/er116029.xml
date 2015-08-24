@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "116029" TC = "MEST" NE = "6" SG = "NO" XE = "A P" OL = "NON">
+<INCIPIT>Quand' eu hun dia fuy en Compostela</INCIPIT>
+<NUCANT>116 29</NUCANT>
+<RM BCA = "B" NM = "1098" F = "235r" MU = "NON" EM = "NO" I.FI = "lb235r"></RM>
+<RM BCA = "V" NM = "689" F = "110r" MU = "NON" EM = "NO" I.FI = "lv110r"></RM>
+<RM BCA = "V" NM = "689" F = "110v" MU = "NON" EM = "NO" I.FI = "lv110v"></RM>
+<EDIANT T = "CRITI">
+<P>Amigo 330</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 234-235</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1031</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 689</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 56</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 69</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp 108-109</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 466-467</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Tavares, Textos medievais, pp. 53-55</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Spina, L&iacute;rica, pp. 324-326</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 217</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena. Lit. Galega, II, 140</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 53</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 19</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 268-271, 546-548</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, pp. 455-456</P></EDIANT>
+<DATOAU NOME = "Marroni" NUA = "5"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>21/01/00</DATE></RESP>
+<FRI>c. doblas</FRI>
+<NOTC>Compostela
+<COMNOTC>
+<P>Nota de Colocci na que repite este top&oacute;nimo que aparece na cantiga
+1098 de B. Est&aacute; situada na parte inferior desta cantiga na columna a do
+folio 235r de B.</P></COMNOTC></NOTC>
+<NOTC>romaria
+<COMNOTC>
+<P>Nota de Colocci na que repite esta forma que aparece na cantiga 1098 de B.
+Est&aacute; situada na parte inferior desta cantiga, na columna a do folio 235r
+de B.</P></COMNOTC></NOTC>
+<NOTC>ad 2 (...)
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 1098 de B. Est&aacute; situada por riba
+desta na columna a do folio 235r dese manuscrito.</P></COMNOTC></NOTC>
+<TEMA CAT = "DA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ela" ERI = "Compostela" AC = "---+-----+-">
+<LT>Quand' eu hun dia fuy en Compostela</LT>
+<LL>Quand' eu hun dia fuy en Compostela</LL>
+<TOPO CAT = "LCULTO">Compostela (Santiago de Compostela)</TOPO></L>
+<L N = "2" NS = "10" RI = "or" ERI = "pastor" AC = "---+-----+">
+<LT>en romaria, vi hunha <SEG C = "R" N = "RD" ID = "1">pastor</SEG></LT>
+<LL>en romaria, vi hunha pastor</LL>
+</L>
+<L N = "3" NS = "10" RI = "ela" ERI = "bela" AC = "---+-----+-">
+<LT>que, poys fuy nado, nunca vi tan bela,</LT>
+<LL>que, poys fuy nado, nunca vi tan bela,</LL>
+</L>
+<L N = "4" NS = "10" RI = "or" ERI = "milhor" AC = "--+------+">
+<LT>nen vi outra que falasse milhor,</LT>
+<LL>nen vi outra que falasse milhor,</LL>
+</L>
+<L N = "5" NS = "10" RI = "or" ERI = "amor" AC = "---+-----+">
+<LT>e demandey-lhe logo seu <SEG C = "R" N = "RD" ID = "2">amor</SEG></LT>
+<LL>e demandey-lhe logo seu amor</LL>
+</L>
+<L N = "6" NS = "10" RI = "ela" ERI = "pastorela" AC = "---+-----+-">
+<LT>e fiz por ela esta <SEG C = "R" N = "RD" ID = "1">pastor<SEG C = "R" N = "CC" ID = "3">ela</SEG></SEG>.</LT>
+<LL>e fiz por ela esta pastorela.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ela" ERI = "poncela" AC = "--+------+-">
+<LT><SEG C = "R" N = "CD" ID = "4">Dix<SEG C = "I" N = "RE" ID = "5">i-lh</SEG>' eu</SEG> logo: &quot;Fremosa ponc<SEG C = "R" N = "CC" ID = "3">ela</SEG>,</LT>
+<LL>Dixi-lh' eu logo: &quot;Fremosa poncela,</LL>
+</L>
+<L N = "2" NS = "10" RI = "or" ERI = "entendedor" AC = "----+----+">
+<LT>queredes v&oacute;s min por entendedor,</LT>
+<LL>queredes v&oacute;s min por entendedor,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ela" ERI = "Estela" AC = "---+-----+-">
+<LT>que vos darey boas toucas d' Estela,</LT>
+<LL>que vos darey boas toucas d' Estela,</LL>
+<TOPO CAT = "CIUDAD">Estela</TOPO></L>
+<L N = "4" NS = "10" RI = "or" ERI = "Rrocamador" AC = "---+-----+">
+<LT>e boas cintas de Rrocamador,</LT>
+<LL>e boas cintas de Rrocamador,</LL>
+<TOPO CAT = "LCULTO">Rocamador</TOPO></L>
+<L N = "5" NS = "10" RI = "or" ERI = "sabor" AC = "---+-----+">
+<LT>e d' outras doas a vosso sabor,</LT>
+<LL>e d' outras doas a vosso sabor,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ela" ERI = "gonela" AC = "----+----+-">
+<LT>e ffremoso pano pera gonela?&quot;</LT>
+<LL>e ffremoso pano pera gonela?&quot;</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "queria" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "6">E ela disse</SEG>: &quot;Eu non vos queria</LT>
+<LL>E ela disse: &quot;Eu non vos queria</LL>
+</L>
+<L N = "2" NS = "10" RI = "i" ERI = "vi" AC = "----+----+">
+<LT><SEG C = "R" N = "CD" ID = "7">por entendedor</SEG>, ca nunca vos vi</LT>
+<LL>por entendedor, ca nunca vos vi</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "filharia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "8">se non</SEG> agora, nen vus <SEG C = "R" N = "RD" ID = "9">filharia</SEG></LT>
+<LL>se non agora, nen vus filharia</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "min" AC = "---+-----+">
+<LT>doas que sey que non som pera min,</LT>
+<LL>doas que sey que non som pera min,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "assy" AC = "---+-----+">
+<LT>pero cuyd' eu, sse as filhass' assy,</LT>
+<LL>pero cuyd' eu, sse as filhass' assy,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ia" ERI = "pesaria" AC = "--+------+-">
+<LT>que tal &aacute; no mun<SEG C = "M" N = "SIN" ID = "10">do a</SEG> que <SEG C = "R" N = "RD" ID = "11">pesar<SEG C = "R" N = "CC" ID = "12">ia</SEG></SEG>.</LT>
+<LL>que tal &aacute; no mundo a que pesaria.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "diria" AC = "----+----+-">
+<LT>E, se v&etilde;ess' outra, que lhi dir<SEG C = "R" N = "CC" ID = "12">ia</SEG>,</LT>
+<LL>E, se v&etilde;ess' outra, que lhi diria,</LL>
+</L>
+<L N = "2" NS = "10" RI = "i" ERI = "perdi" AC = "---+-----+">
+<LT>sse me dizesse ca per v&oacute;s perdi</LT>
+<LL>sse me dizesse ca per v&oacute;s perdi</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "tragia" AC = "--+------+-">
+<LT>meu amigu' e doas que me tragia?</LT>
+<LL>meu amigu' e doas que me tragia?</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "aly" AC = "---+-----+">
+<LT>Eu non sey rem que lhi dissess' aly;</LT>
+<LL>Eu non sey rem que lhi dissess' aly;</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "8">se non</SEG> foss' esto de que me tem' i,</LT>
+<LL>se non foss' esto de que me tem' i,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ia" ERI = "faria" AC = "---+-----+-">
+<LT>non vos <SEG C = "R" N = "CF" ID = "13">dig'</SEG> ora que o non faria&quot;.</LT>
+<LL>non vos dig' ora que o non faria&quot;.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ada" ERI = "rraz&otilde;ada" AC = "-+-------+-">
+<LT><SEG C = "R" N = "CD" ID = "4"><SEG C = "R" N = "CF" ID = "13">Dix'</SEG> eu</SEG>: &quot;Pastor ssodes bem rraz&otilde;ada,</LT>
+<LL>Dix' eu: &quot;Pastor ssodes bem rraz&otilde;ada,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT>e pero creede, se vos non <SEG C = "R" N = "RD" ID = "11">pesar</SEG>,</LT>
+<LL>e pero creede, se vos non pesar,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ada" ERI = "nada" AC = "----+----+-">
+<LT>que non est' oj' outra no mundo nada,</LT>
+<LL>que non est' oj' outra no mundo nada,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "amar" AC = "---+-----+">
+<LT>se v&oacute;s non sodes, que eu s&aacute;<SEG C = "M" N = "SIN" ID = "14">bia <SEG C = "R" N = "RD" ID = "2">a</SEG></SEG><SEG C = "R" N = "RD" ID = "2">mar</SEG>,</LT>
+<LL>se v&oacute;s non sodes, que eu s&aacute;bia amar,</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "rrogar" AC = "---+-----+">
+<LT>e por aquesto vos venho rrogar</LT>
+<LL>e por aquesto vos venho rrogar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ada" ERI = "vegada" AC = "-----+---+-">
+<LT>que eu seja voss' o<SEG C = "M" N = "SIN" ID = "15">me es</SEG>ta veg<SEG C = "R" N = "CC" ID = "16">ada</SEG>&quot;.</LT>
+<LL>que eu seja voss' ome esta vegada&quot;.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ada" ERI = "ensinada" AC = "-+------+-">
+<LT><SEG C = "R" N = "CD" ID = "6">E diss' ela</SEG>, come bem ensin<SEG C = "R" N = "CC" ID = "16">ada</SEG>:</LT>
+<LL>E diss' ela, come bem ensinada:</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "filhar" AC = "----+----+">
+<LT><SEG C = "R" N = "CD" ID = "7">&quot;Por entendedor</SEG> vos quero <SEG C = "R" N = "RD" ID = "9">filhar</SEG></LT>
+<LL>&quot;Por entendedor vos quero filhar</LL>
+</L>
+<L N = "3" NS = "10" RI = "ada" ERI = "acabada" AC = "------+--+-">
+<LT>e, poys for a rromari<SEG C = "M" N = "SIN" ID = "17">a a</SEG>cabada,</LT>
+<LL>e, poys for a rromaria acabada,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "Sar" AC = "---+-----+">
+<LT>aqui, d' u s&otilde;o natural, do Sar,</LT>
+<LL>aqui, d' u s&otilde;o natural, do Sar,</LL>
+<TOPO CAT = "TOPOME">Sar</TOPO></L>
+<L N = "5" NS = "10" RI = "ar" ERI = "levar" AC = "--+------+">
+<LT>cuydo-<SEG C = "I" N = "RE" ID = "18">m' eu</SEG>, se me queredes levar,</LT>
+<LL>cuydo-m' eu, se me queredes levar,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ada" ERI = "pagada" AC = "----+----+-">
+<LT>ir-m' ei vosqu' e fico vossa pagada.&quot;</LT>
+<LL>ir-m' ei vosqu' e fico vossa pagada.&quot;</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+

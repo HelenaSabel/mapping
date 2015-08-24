@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="091006" NE="4" OL="NON" SG="NO" TC="REFR" XE="M MAR">
+      <INCIPIT>Ondas do mar de Vigo</INCIPIT>
+
+      <NUCANT>91 6</NUCANT>
+
+      <RM BCA="B" EM="NO" F="269r" I.FI="lb269r" MU="NON" NM="1278"></RM>
+
+      <RM BCA="B" EM="NO" F="269v" I.FI="lb269v" MU="NON" NM="1278"></RM>
+
+      <RM BCA="V" EM="NO" F="139v" I.FI="lv139v" MU="NON" NM="884"></RM>
+
+      <RM BCA="K" EM="NO" F="197v" I.FI="lk197v" MU="NON" NM="884"></RM>
+
+      <RM BCA="K" EM="NO" F="198r" I.FI="lk198r" MU="NON" NM="884"></RM>
+
+      <RM BCA="N" EM="NO" F="1r" I.FI="ln001r" MU="SI" NM="1"><NOTMAN N="1">A
+      cantiga aparece copiada no Pergamiño na columna a.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Cunha, Codax, 1</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Oviedo y Arce 1</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Nunes, Martim Codax, 1</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Bell, Martín Codax, 1</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 491</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, pp. 259-260</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1227</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 884</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Oliveira/Machado, p. 95</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/Macedo, Cinquenta cant., 27</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Beltrán, O cervo, 37</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Cidade, Poesia medieval, p. 4</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., p. 101</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, p. 76</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Tavares, Textos medievais, pp. 56-57</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 67</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 11</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 2</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Auswahl 48</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 111</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 206-207, 511-512</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 142</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 513</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Codax" NUA="1"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>03/11/04</DATE>
+      </RESP>
+
+      <RESP ROLE="CO">
+        <NOME>Miguel A. Pousada Cruz</NOME>
+
+        <DATE>26/06/12</DATE>
+      </RESP>
+
+      <FRI>c. alt.</FRI>
+
+      <NOTC>tornel <COMNOTC>
+          <P>Nota colocciana situada na parte final da columna b do folio
+          269r, referida á existencia de refrán na cantiga B 1278. O corpo da
+          nota está subliñado.</P>
+        </COMNOTC></NOTC>
+
+      <RUBRICA>Martin Codax <COMRUBRI>
+          <P>Rúbrica atributiva situada na parte final da columna b do folio
+          269r, enriba do comezo da cantiga B 1278. O texto da úbrica está
+          subliñado. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>MArtin Codax <COMRUBRI>
+          <P>Rúbrica atributiva situada na columna a do folio 139v, na parte
+          superior do folio, e da cantiga V 884. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>Martin Codax <COMRUBRI>
+          <P>Rúbrica atributiva situada no folio 197v, na parte superior da
+          cantiga K 884. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="TRI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6' 6' 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+-" ERI="Vigo" N="1" NS="6" RI="igo">
+          <LT><SEG C="R" ID="1" N="PL">Ondas do mar de Vigo</SEG>,</LT>
+
+          <LL>Ondas do mar de Vigo,</LL>
+
+          <TOPO CAT="CIUDAD">Vigo</TOPO>
+        </L>
+
+        <L AC="-+---+-" ERI="amigo" N="2" NS="6" RI="igo">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">se vistes meu <SEG
+                  C="R" ID="4" N="RD">amigo</SEG></SEG></SEG>,</LT>
+
+          <LL>se vistes meu amigo,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="cedo" N="3" NS="7" RI="edo">
+            <LT>e, ai Deus, se verra cedo!</LT>
+
+            <LL>e, ai Deus, se verra cedo!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6' 6' 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+-" ERI="levado" N="1" NS="6" RI="ado">
+          <LT><SEG C="R" ID="1" N="PL">Ondas do mar levado</SEG>,</LT>
+
+          <LL>Ondas do mar levado,</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="amado" N="2" NS="6" RI="ado">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">se vistes meu <SEG
+                  C="R" ID="4" N="RD">amado</SEG></SEG></SEG>,</LT>
+
+          <LL>se vistes meu amado,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="cedo" N="3" NS="7" RI="edo">
+            <LT>e, ai Deus, se verra cedo!</LT>
+
+            <LL>e, ai Deus, se verra cedo!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6' 6' 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-" ERI="amigo" N="1" NS="6" RI="igo">
+          <LT><SEG C="R" ID="3" N="LP">Se vistes meu <SEG C="R" ID="4" N="RD">amigo</SEG></SEG>,</LT>
+
+          <LL>Se vistes meu amigo,</LL>
+        </L>
+
+        <L AC="-----+-" ERI="sospiro" N="2" NS="6" RI="iro">
+          <LT><SEG C="R" ID="5" N="PL">o por que eu sospiro</SEG>,</LT>
+
+          <LL>o por que eu sospiro,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="cedo" N="3" NS="7" RI="edo">
+            <LT>e, ai Deus, se verra cedo!</LT>
+
+            <LL>e, ai Deus, se verra cedo!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6' 6' 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:124</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-" ERI="amado" N="1" NS="6" RI="ado">
+          <LT><SEG C="R" ID="3" N="LP">Se vistes meu <SEG C="R" ID="4" N="RD">amado</SEG></SEG>,</LT>
+
+          <LL>Se vistes meu amado,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="coidado" N="2" NS="6" RI="ado">
+          <LT><SEG C="R" ID="5" N="PL">o por <SEG C="M" ID="6" N="SIN">que ei</SEG> gran coidado</SEG>,</LT>
+
+          <LL>o por que ei gran coidado,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="cedo" N="3" NS="7" RI="edo">
+            <LT>e, ai Deus, se verra cedo!</LT>
+
+            <LL>e, ai Deus, se verra cedo!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

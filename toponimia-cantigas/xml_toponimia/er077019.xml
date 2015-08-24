@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077019" TC = "REFR" NE = "4" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Ora van a San Servando donas fazer romaria</INCIPIT>
+<NUCANT>77 19</NUCANT>
+<RM BCA = "B" NM = "1146" F = "244r" MU = "NON" EM = "NO" I.FI = "lb244r">
+<NOTMAN N = "1">Cf. outra variante en 77,19.</NOTMAN></RM>
+<RM BCA = "B" NM = "1146" F = "244v" MU = "NON" EM = "NO" I.FI = "lb244v">
+<NOTMAN N = "1">Cf. outra variante en 77,19.</NOTMAN></RM>
+<RM BCA = "V" NM = "738" F = "117v" MU = "NON" EM = "NO" I.FI = "lv117v">
+<NOTMAN N = "1">Cf. outra variante en 77,19.</NOTMAN></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 7</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1080</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 738</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 64</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 28</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 462</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 96</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 88-89</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 373</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "368">
+<COMAU>
+<P>Apart&aacute;monos da edici&oacute;n seguida en que
+dispo&ntilde;&eacute;mo-lo texto en vv. longos, seguindo a Lapa, O
+texto, p. 184.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>19/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1146.
+Est&aacute; situada na columna b do folio 244r.</P></COMNOTC></NOTC>
+<TEMA CAT = "OR"></TEMA>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7'</ESQMET></INFMET>
+<NUMESQ>26:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ia" ERI = "romaria" AC = "--+---+-/---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Ora van a San Servando<SEG C = "M" N = "CAE" ID = "2"></SEG> donas fazer romaria</SEG></LT>
+<LL>Ora van a San Servando donas fazer romaria</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "2" NS = "15" RI = "ia" ERI = "iria" AC = "---+--+-/--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CP" ID = "3">e non me leixan con elas<SEG C = "M" N = "CAE" ID = "4"></SEG> <SEG C = "R" N = "CF" ID = "5">ir</SEG>, ca log' al&aacute; <SEG C = "R" N = "RD" ID = "6">iria</SEG></SEG></SEG>,</LT>
+<LL>e non me leixan con elas ir, ca log' al&aacute; iria,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "7">por que</SEG> ven i meu amigo.</LT>
+<LL>por que ven i meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7'</ESQMET></INFMET>
+<NUMESQ>26:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ida" ERI = "guarida" AC = "--+---+-/-+----+-">
+<LT>Se eu <SEG C = "R" N = "CF" ID = "5">foss'</SEG> en tal companha<SEG C = "M" N = "CAE" ID = "8"></SEG> de donas, fora guarida,</LT>
+<LL>Se eu foss' en tal companha de donas, fora guarida,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ida" ERI = "ida" AC = "---+--+-/--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "3">mais non quis oje mia madre<SEG C = "M" N = "CAE" ID = "9"></SEG> que fezess' end' eu a <SEG C = "R" N = "CF" ID = "10"><SEG C = "R" N = "RD" ID = "6">ida</SEG></SEG></SEG>,</LT>
+<LL>mais non quis oje mia madre que fezess' end' eu a ida,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "7">por que</SEG> ven i meu amigo.</LT>
+<LL>por que ven i meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 7'</ESQMET></INFMET>
+<NUMESQ>26:22
+<NOTNESQ>
+<P>Outras posibilidades, 230:9 (I, II, IV), 230:7 (III)</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ar" ERI = "par" AC = "---+--+-/--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">Tal romaria de donas<SEG C = "M" N = "CAE" ID = "11"></SEG> <SEG C = "R" N = "RD" ID = "6">vai</SEG> al&aacute;, que non &aacute; par</SEG>,</LT>
+<LL>Tal romaria de donas vai al&aacute;, que non &aacute; par,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ar" ERI = "leixar" AC = "----+-+-/---+--+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CP" ID = "2">e <SEG C = "R" N = "CF" ID = "12">fora</SEG> oj' eu con elas<SEG C = "M" N = "CAE" ID = "13">,</SEG> mais non me queren leixar</SEG></SEG>,</LT>
+<LL>e fora oj' eu con elas, mais non me queren leixar,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "7">por que</SEG> ven i meu amigo.</LT>
+<LL>por que ven i meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7'</ESQMET></INFMET>
+<NUMESQ>26:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ada" ERI = "vingada" AC = "----+-+-/-+----+-">
+<LT>Nunca me mia madre veja<SEG C = "M" N = "CAE" ID = "14">,</SEG> se d' ela non <SEG C = "R" N = "CF" ID = "12">for</SEG> vingada,</LT>
+<LL>Nunca me mia madre veja, se d' ela non for vingada,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ada" ERI = "guardada" AC = "--+---+-/-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "7">por que</SEG> oj' a San Servando<SEG C = "M" N = "CAE" ID = "15"></SEG> non vou e me ten guardada</SEG>,</LT>
+<LL>por que oj' a San Servando non vou e me ten guardada,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "7">por que</SEG> ven i meu amigo.</LT>
+<LL>por que ven i meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

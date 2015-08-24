@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120017" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Eu, en Toledo, sempr&#39; ouço dizer</INCIPIT>
+
+      <NUCANT>120 17</NUCANT>
+
+      <RM BCA="B" EM="NO" F="353r" I.FI="lb353r" MU="NON" NM="1653"></RM>
+
+      <RM BCA="B" EM="NO" F="353v" I.FI="lb353v" MU="NON" NM="1653"></RM>
+
+      <RM BCA="V" EM="NO" F="196r" I.FI="lv196r" MU="NON" NM="1187"></RM>
+
+      <RM BCA="V" EM="NO" F="196v" I.FI="lv196v" MU="NON" NM="1187"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 198-200</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, p. 210</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 49</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1557</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1187</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 320</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="368"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>21/02/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima a unis.)</P></FRI>
+
+      <RUBRICA>Pero de <COMRUBRI><P>Rúbrica atributiva situada na marxe
+      superior do folio 353v de B. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="POB"></TEMA>
+
+      <TEMA CAT="DF"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:76</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="dizer" N="1" NS="10" RI="er">
+          <LT>Eu, en Toledo, sempr&#39; ouço <SEG C="R" ID="1" N="PV">dizer</SEG></LT>
+
+          <LL>Eu, en Toledo, sempr&#39; ouço dizer</LL>
+
+          <TOPO CAT="CIUDAD">Toledo</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="é" N="2" NS="10" RI="e">
+          <LT>que mui maa <SEG C="I" ID="2" N="RE">vila</SEG> de pescad&#39;
+          é;</LT>
+
+          <LL>que mui maa vila de pescad&#39; é;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fé" N="3" NS="10" RI="e">
+          <LT>mais nono creo <SEG C="I" ID="3" N="RE">já</SEG> per bõa fé,</LT>
+
+          <LL>mais nono creo já per bõa fé,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="saber" N="4" NS="10" RI="er">
+          <LT>ca mi fui eu a verdad&#39; en saber:</LT>
+
+          <LL>ca mi fui eu a verdad&#39; en saber:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="5" NS="10" RI="i">
+          <LT>ca, noutro dia, quand&#39; eu entrei i,</LT>
+
+          <LL>ca, noutro dia, quand&#39; eu entrei i,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="vi" N="6" NS="10" RI="i">
+          <LT><SEG C="R" ID="4" N="CP">ben vos jur&#39; ò que ten a vida, vi</SEG></LT>
+
+          <LL>ben vos jur&#39; ò que ten a vida, vi</LL>
+        </L>
+
+        <L AC="--+------+" ERI="jazer" N="7" NS="10" RI="er">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">a Peixota</SEG> su u<SEG
+C="I" ID="6" N="RE">n</SEG> leito <SEG C="R" ID="7" N="RD">jaz<SEG C="R"
+ID="8" N="CC">er</SEG></SEG></SEG>.</LT>
+
+          <LL>a Peixota su un leito jazer.</LL>
+
+          <ANTRO T="ALTER">a Peixota</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:76</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="aver" N="1" NS="10" RI="er">
+          <LT>En dõado, ben podera av<SEG C="R" ID="8" N="CC">er</SEG></LT>
+
+          <LL>En dõado, ben podera aver</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="filhar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="5" N="CD">Peixota</SEG> quena quisesse filhar,</LT>
+
+          <LL>Peixota quena quisesse filhar,</LL>
+
+          <ANTRO T="ALTER">Peixota</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="parar" N="3" NS="10" RI="ar">
+          <LT>ca non&#39; avia nulh&#39; o<SEG C="M" ID="9" N="SIN">me a parar</SEG>;</LT>
+
+          <LL>ca non&#39; avia nulh&#39; ome a parar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="dizer" N="4" NS="10" RI="er">
+          <LT>e ũa cousa vos quero <SEG C="R" ID="1" N="PV">dizer</SEG>:</LT>
+
+          <LL>e ũa cousa vos quero dizer:</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="assaz" N="5" NS="10" RI="az">
+          <LT>tenh&#39; eu por mui bõa vile<SEG C="M" ID="10" N="SIN">za a</SEG>ssaz:</LT>
+
+          <LL>tenh&#39; eu por mui bõa vileza assaz:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="jaz" N="6" NS="10" RI="az">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">ũa Peixota</SEG> su o leito <SEG
+C="R" ID="7" N="RD">jaz</SEG></SEG></LT>
+
+          <LL>ũa Peixota su o leito jaz</LL>
+
+          <ANTRO T="ALTER">Peixota</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="prender" N="7" NS="10" RI="er">
+          <LT>e sol nulh&#39; ome nona <SEG C="R" ID="11" N="CF">quer</SEG>
+          prend<SEG C="R" ID="12" N="CC">er</SEG>.</LT>
+
+          <LL>e sol nulh&#39; ome nona quer prender.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:10</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="aprender" N="1" NS="10" RI="er">
+          <LT>E se de min <SEG C="R" ID="11" N="CF">quiserdes</SEG> aprend<SEG
+          C="R" ID="12" N="CC">er</SEG></LT>
+
+          <LL>E se de min quiserdes aprender</LL>
+        </L>
+
+        <L AC="--+------+" ERI="sazon" N="2" NS="10" RI="on">
+          <LT>qual pescado teen en esta sazon,</LT>
+
+          <LL>qual pescado teen en esta sazon,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="salmon" N="3" NS="10" RI="on">
+          <LT>non<SEG C="I" ID="13" N="RE">o</SEG> á i, sol lhis ven i salmon;</LT>
+
+          <LL>nono á i, sol lhis ven i salmon;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="despender" N="4" NS="10" RI="er">
+          <LT>mais pescad&#39; outro, pera despender,</LT>
+
+          <LL>mais pescad&#39; outro, pera despender,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="mentir" N="5" NS="10" RI="ir">
+          <LT>mui rafeç&#39; é, por vos eu non mentir:</LT>
+
+          <LL>mui rafeç&#39; é, por vos eu non mentir:</LL>
+        </L>
+
+        <L AC="--+------+" ERI="remanir" N="6" NS="10" RI="ir">
+          <LT><SEG C="R" ID="4" N="CP">ca vi eu a Peixota remanir</SEG></LT>
+
+          <LL>ca vi eu a Peixota remanir</LL>
+
+          <ANTRO T="ALTER">a Peixota</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="pardon" N="7" NS="10" RI="on">
+          <LT><SEG C="R" ID="4" N="CP">i sô un leit&#39;, assi Deus mi pardon</SEG>.</LT>
+
+          <LL>i sô un leit&#39;, assi Deus mi pardon.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

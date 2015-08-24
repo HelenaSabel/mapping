@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="049001" NE="DI+5" OL="NON" SG="NO" TC="REFR" XE="EP">
+      <INCIPIT>Ai, amor, amore de Pero Cantone</INCIPIT>
+
+      <NUCANT>49 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="324r" I.FI="lb324r" MU="NON" NM="1553"></RM>
+
+      <RM BCA="B" EM="NO" F="324v" I.FI="lb324v" MU="NON" NM="1553"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 426</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1465</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 104</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="141"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>26/05/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Fernã Soarez <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cantiga B 1553. Está situada no
+          folio B 324r, columna b. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="DA"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="DISINI">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="BB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11'</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+-+--+-" ERI="Cantone" N="1" NS="11" RI="one">
+          <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+          <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+          <ANTRO T="REAL">Pero Cantone</ANTRO>
+        </L>
+
+        <L AC="--+---+---+-" ERI="tapone" N="2" NS="11" RI="one">
+          <LT>que amor tan saboro<SEG C="M" ID="1" N="SIN">so e</SEG> sen
+          tapone!</LT>
+
+          <LL>que amor tan saboroso e sen tapone!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 11' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:13</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+--+-" ERI="são" N="1" NS="19" RI="ão">
+          <LT><SEG C="R" ID="2" N="CPL">Que amor tan viçoso e tan são</SEG>,</LT>
+
+          <LL>Que amor tan viçoso e tan são,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="verão" N="2" NS="10" RI="ão">
+          <LT><SEG C="R" ID="3" N="CPL">queno podesse teer a<SEG C="M" ID="4"
+                N="SIN">tá o</SEG> verão</SEG>!</LT>
+
+          <LL>queno podesse teer atá o verão!</LL>
+        </L>
+
+        <L AC="--+--+---+-" ERI="Chorrichão" N="3" NS="10" RI="ão">
+          <LT><SEG C="R" ID="5" N="CPL">Mais valria<SEG C="M" ID="6" N="SIN"> que a</SEG>mor de Chorrichão</SEG></LT>
+
+          <LL>Mais valria que amor de Chorrichão</LL>
+
+          <ANTRO T="REAL">Chorrichão</ANTRO>
+        </L>
+
+        <L AC="---+-+---+-" ERI="Zorzelhone" N="4" NS="10" RI="one">
+          <LT>nen de Martin Gonçálvez Zorzelhone.</LT>
+
+          <LL>nen de Martin Gonçálvez Zorzelhone.</LL>
+
+          <ANTRO T="REAL">Martin Gonçálvez Zorzelhone</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+-+--+-" ERI="Cantone" N="5" NS="11" RI="one">
+            <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+            <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+            <ANTRO T="REAL">Pero Cantone</ANTRO>
+          </L>
+
+          <L AC="--+---+---+-" ERI="tapone" N="6" NS="11" RI="one">
+            <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="7" N="CFR">que amor tan</SEG> saboro<SEG
+                  C="M" ID="8" N="SIN">so e</SEG> sen tapone</SEG>!</LT>
+
+            <LL>que amor tan saboroso e sen tapone!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 11' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:13</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+-" ERI="frio" N="1" NS="10" RI="io">
+          <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="7" N="CFR">Que amor tan</SEG> delgado e tan frio</SEG>,</LT>
+
+          <LL>Que amor tan delgado e tan frio,</LL>
+        </L>
+
+        <L AC="--+--+---+-" ERI="estio" N="2" NS="10" RI="io">
+          <LT><SEG C="R" ID="3" N="CPL">mais non creo que du<SEG C="M" ID="9"
+                N="SIN">re a</SEG>tá<SEG C="M" ID="10" N="SIN"> o es</SEG>tio</SEG>,</LT>
+
+          <LL>mais non creo que dure atá o estio,</LL>
+        </L>
+
+        <L AC="--+---+--+-" ERI="tio" N="3" NS="10" RI="io">
+          <LT><SEG C="M" ID="11" N="SIN">ca a</SEG>tal era outr' amor de meu
+          tio,</LT>
+
+          <LL>ca atal era outr' amor de meu tio,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="sazone" N="4" NS="10" RI="one">
+          <LT><SEG C="R" ID="12" N="CD">que</SEG> se botou á pouca de
+          sazone.</LT>
+
+          <LL>que se botou á pouca de sazone.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+-+--+-" ERI="Cantone" N="5" NS="11" RI="one">
+            <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+            <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+            <ANTRO T="REAL">Pero Cantone</ANTRO>
+          </L>
+
+          <L AC="--+---+---+-" ERI="tapone" N="6" NS="11" RI="one">
+            <LT><SEG C="R" ID="2" N="CPL"> <SEG C="R" ID="13" N="CFR">que amor tan</SEG> saboro<SEG
+                  C="M" ID="14" N="SIN">so e</SEG> sen tapone</SEG>!</LT>
+
+            <LL>que amor tan saboroso e sen tapone!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 11' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:13</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+-" ERI="cuidades" N="1" NS="10" RI="ades">
+          <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="13" N="CFR">Que amor tan</SEG> pontoso, se cuidades</SEG>;</LT>
+
+          <LL>Que amor tan pontoso, se cuidades;</LL>
+        </L>
+
+        <L AC="-+-+-+---+-" ERI="gostades" N="2" NS="10" RI="ades">
+          <LT>fazer-vos-á chorar, se o gostades,</LT>
+
+          <LL>faze- vos-á chorar, se o gostades,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="provades" N="3" NS="10" RI="ades">
+          <LT>e semelhar-vos-á, se o provades,</LT>
+
+          <LL>e semelhar-vos-á, se o provades,</LL>
+        </L>
+
+        <L AC="-+---+---+-" ERI="Gordone" N="4" NS="10" RI="one">
+          <LT>amor de Don Palaio de Gordone.</LT>
+
+          <LL>amor de Don Palaio de Gordone.</LL>
+
+          <ANTRO T="REAL">Don Palaio de Gordone</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+-+--+-" ERI="Cantone" N="5" NS="11" RI="one">
+            <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+            <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+            <ANTRO T="REAL">Pero Cantone</ANTRO>
+          </L>
+
+          <L AC="--+---+---+-" ERI="tapone" N="6" NS="11" RI="one">
+            <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="15" N="CFR">que amor tan</SEG> saboro<SEG
+                  C="M" ID="16" N="SIN">so e</SEG> sen tapone</SEG>!</LT>
+
+            <LL>que amor tan saboroso e sen tapone!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 11' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:13</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+-" ERI="delgado" N="1" NS="10" RI="ado">
+          <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="15" N="CFR">Que amor tan</SEG> astro<SEG
+                C="R" ID="17" N="SIN">so e</SEG> tan delgado</SEG>;</LT>
+
+          <LL>Que amor tan astroso e tan delgado;</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="soterrado" N="2" NS="10" RI="ado">
+          <LT><SEG C="R" ID="3" N="CPL">queno tevess' un ano soterrado</SEG>!</LT>
+
+          <LL>queno tevess' un ano soterrado!</LL>
+        </L>
+
+        <L AC="--+--+-+-+-" ERI="nado" N="3" NS="10" RI="ado">
+          <LT>Aquel fora en bõo ponto nado</LT>
+
+          <LL>Aquel fora en bõo ponto nado</LL>
+        </L>
+
+        <L AC="--+-+--+-+-" ERI="bençone" N="4" NS="10" RI="one">
+          <LT><SEG C="R" ID="12" N="CD">que</SEG> depois ouvesse del bõa
+          bençone.</LT>
+
+          <LL>que depois ouvesse del bõa bençone.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+-+--+-" ERI="Cantone" N="5" NS="11" RI="one">
+            <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+            <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+            <ANTRO T="REAL">Pero Cantone</ANTRO>
+          </L>
+
+          <L AC="--+---+---+-" ERI="tapone" N="6" NS="11" RI="one">
+            <LT><SEG C="R" ID="2" N="CPL"><SEG C="R" ID="18" N="CFR">que amor tan</SEG> saboro<SEG
+                  C="M" ID="19" N="SIN">so e</SEG> sen tapone</SEG>!</LT>
+
+            <LL>que amor tan saboroso e sen tapone!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 11' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:13</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+-" ERI="pungente" N="1" NS="10" RI="ente">
+          <LT><SEG C="R" ID="2" N="CPL"> <SEG C="R" ID="18" N="CFR">Que amor tan</SEG> astros' e tan pungente</SEG>,</LT>
+
+          <LL>Que amor tan astros' e tan pungente,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="remordente" N="2" NS="10" RI="ente">
+          <LT><SEG C="R" ID="3" N="CPL">queno podess' aver en remordente</SEG>!</LT>
+
+          <LL>queno podess' aver en remordente!</LL>
+        </L>
+
+        <L AC="--+--+---+-" ERI="parente" N="3" NS="10" RI="ente">
+          <LT><SEG C="R" ID="5" N="CPL">Mais valria<SEG C="M" ID="20" N="SIN"> que a</SEG>mor dun meu parente</SEG>,</LT>
+
+          <LL>Mais valria que amor dun meu parente,</LL>
+        </L>
+
+        <L AC="-+---+---+-" ERI="Leone" N="4" NS="10" RI="one">
+          <LT><SEG C="R" ID="12" N="CD">que</SEG> mora muit' acerca de
+          Leone.</LT>
+
+          <LL>que mora muit' acerca de Leone.</LL>
+
+          <TOPO CAT="CIRCUNS">Leone</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+-+--+-" ERI="Cantone" N="5" NS="11" RI="one">
+            <LT>Ai, amor, amore de Pero Cantone,</LT>
+
+            <LL>Ai, amor, amore de Pero Cantone,</LL>
+
+            <ANTRO T="REAL">Pero Cantone</ANTRO>
+          </L>
+
+          <L AC="--+---+---+-" ERI="tapone" N="6" NS="11" RI="one">
+            <LT><SEG C="R" ID="2" N="CPL">que amor tan saboro<SEG C="M"
+                  ID="21" N="SIN">so e</SEG> sen tapone</SEG>!</LT>
+
+            <LL>que amor tan saboroso e sen tapone!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

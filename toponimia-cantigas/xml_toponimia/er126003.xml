@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="126003" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP MPR">
+      <INCIPIT>De Pero Bõo and&#39; ora espantado</INCIPIT>
+
+      <NUCANT>126 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="331v" I.FI="lb331v" MU="NON" NM="1575"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 332</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 439</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1477</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 328</P>
+      </EDIANT>
+
+      <DATOAU NOME="Alvar" NUA="6"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>13/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = a III; b II = c IV)</P></FRI>
+
+      <TEMA CAT="TRA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:38</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+-" ERI="espantado" N="1" NS="10" RI="ado">
+          <LT>De Pero Bõo and&#39; o<SEG C="M" ID="1" N="SIN">ra es</SEG>pantado,</LT>
+
+          <LL>De Pero Bõo and&#39; ora espantado,</LL>
+
+          <ANTRO T="REAL">Pero Bõo</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="ligeiro" N="2" NS="10" RI="eiro">
+          <LT>de como era valent&#39; e ligeiro</LT>
+
+          <LL>de como era valent&#39; e ligeiro</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="arrizado" N="3" NS="10" RI="ado">
+          <LT>e vivedoi<SEG C="M" ID="2" N="SIN">re a</SEG>saz e <SEG C="R"
+          ID="3" N="PV">arrizado</SEG>;</LT>
+
+          <LL>e vivedoire asaz e arrizado;</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="cavaleiro" N="4" NS="10" RI="eiro">
+          <LT>e disse-mh&#39; agora hun cavaleiro</LT>
+
+          <LL>e disse-mh&#39; agora hun cavaleiro</LL>
+        </L>
+
+        <L AC="--+-----+-" ERI="serão" N="5" NS="10" RI="ã">
+          <LT><SEG C="M" ID="4" N="SIN">que o</SEG> leixara eire, ao serão,</LT>
+
+          <LL>que o leixara eire, ao serão,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="são" N="6" NS="10" RI="ã">
+          <LT>sser ant&#39; a sa porta guarid&#39; e são,</LT>
+
+          <LL>sser ant&#39; a sa porta guarid&#39; e são,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="peideiro" N="7" NS="10" RI="eiro">
+          <LT>e, ante luz, acharon-no peideiro.</LT>
+
+          <LL>e, ante luz, acharon-no peideiro.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:38</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+-" ERI="mundo" N="1" NS="10" RI="undo">
+          <LT>E com&#39; é traedor aqueste mundo:</LT>
+
+          <LL>E com&#39; é traedor aqueste mundo:</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="fia" N="2" NS="10" RI="ia">
+          <LT>em maao á quen sse d&#39; el muito fia:</LT>
+
+          <LL>em maao á quen sse d&#39; el muito fia:</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="Fagundo" N="3" NS="10" RI="undo">
+          <LT>ca de San<SEG C="M" ID="5" N="HIA">tïa</SEG>g&#39; ataá San
+          Fagundo</LT>
+
+          <LL>ca de Santïag&#39; ataá San Fagundo</LL>
+
+          <TOPO CAT="CIUDAD">Santïago</TOPO>
+
+          <TOPO CAT="ALDEA">San Fagundo</TOPO>
+        </L>
+
+        <L AC="---+-----+-" ERI="avia" N="4" NS="10" RI="ia">
+          <LT>mais ruidoiro omen non avia,</LT>
+
+          <LL>mais ruidoiro omen non avia,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="visse" N="5" NS="10" RI="isse">
+          <LT><SEG C="R" ID="6" N="CD">e dizen</SEG> todos: &#34;Quem-no assi
+          visse</LT>
+
+          <LL>e dizen todos: &#34;Quem-no assi visse</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="dormisse" N="6" NS="10" RI="isse">
+          <LT>jazer peendo como sse dormisse,</LT>
+
+          <LL>jazer peendo como sse dormisse,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="perderia" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="7" N="CD">ja</SEG> d&#39; el mazela nunca
+          perderia&#34;.</LT>
+
+          <LL>ja d&#39; el mazela nunca perderia&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:211</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="arrizado" N="1" NS="10" RI="ado">
+          <LT>E este era o mais <SEG C="R" ID="3" N="PV">arrizado</SEG></LT>
+
+          <LL>E este era o mais arrizado</LL>
+        </L>
+
+        <L AC="+--------+-" ERI="terra" N="2" NS="10" RI="erra">
+          <LT>ome de toda esta nossa terra,</LT>
+
+          <LL>ome de toda esta nossa terra,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="guerra" N="3" NS="10" RI="erra">
+          <LT>e viveu sempre en exequ&#39; e &#39;n guerra.</LT>
+
+          <LL>e viveu sempre en exequ&#39; e &#39;n guerra.</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="loado" N="4" NS="10" RI="ado">
+          <LT><SEG C="R" ID="8" N="CD">Mais</SEG> peeu ora e, a Deus loado,</LT>
+
+          <LL>Mais peeu ora e, a Deus loado,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="dereito" N="5" NS="10" RI="eito">
+          <LT><SEG C="R" ID="6" N="CD">dizen</SEG> os omens, e dizen dereito,</LT>
+
+          <LL>dizen os omens, e dizen dereito,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="leito" N="6" NS="10" RI="eito">
+          <LT>que peeu ben, pois peeu en sseu leito,</LT>
+
+          <LL>que peeu ben, pois peeu en sseu leito,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="maenfestado" N="7" NS="10" RI="ado">
+          <LT>pero non <SEG C="R" ID="9" N="CF">peeu</SEG> bem maenfestado.</LT>
+
+          <LL>pero non peeu bem maenfestado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:38</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+-" ERI="galos" N="1" NS="10" RI="alos">
+          <LT>El <SEG C="R" ID="9" N="CF">peeu</SEG> quando cantavan os galos</LT>
+
+          <LL>El peeu quando cantavan os galos</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="chegava" N="2" NS="10" RI="ava">
+          <LT>e por ssa molher que y non chegava,</LT>
+
+          <LL>e por ssa molher que y non chegava,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="vassalos" N="3" NS="10" RI="alos">
+          <LT>non-no ousavan changer sseus vassalos;</LT>
+
+          <LL>non-no ousavan changer sseus vassalos;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="amava" N="4" NS="10" RI="ava">
+          <LT><SEG C="R" ID="8" N="CD">mais</SEG> ũu deles, o <SEG C="M"
+          ID="10" N="SIN">que el</SEG> mais amava,</LT>
+
+          <LL>mais ũu deles, o que el mais amava,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="fazia" N="5" NS="10" RI="ia">
+          <LT>e que sempr&#39; ante muito ben fazia,</LT>
+
+          <LL>e que sempr&#39; ante muito ben fazia,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="podia" N="6" NS="10" RI="ia">
+          <LT><SEG C="R" ID="7" N="CD">já</SEG> s&#39; entom a el chegar non
+          podia,</LT>
+
+          <LL>já s&#39; entom a el chegar non podia,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="cheirava" N="7" NS="10" RI="ava">
+          <LT>atan mal dizia que lhe cheirava.</LT>
+
+          <LL>atan mal dizia que lhe cheirava.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

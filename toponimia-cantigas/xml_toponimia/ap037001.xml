@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="037001" NE="TI+2+F" OL="NON" SG="NO" TC="NA" XE="CA">
+      <INCIPIT>Do Port&#39; ando e vou mudar</INCIPIT>
+
+      <NUCANT>37 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="170v" I.FI="lb170v" MU="NON" NM="803"><NOTMAN
+      N="1">Neste manuscrito aparece a numeración 803 e a nota de Colocci
+      &#34;deest&#34; ó inicio do espacio reservado para a cantiga, na columna
+      b dese folio 170v.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="61v" I.FI="lv061v" MU="NON" NM="387"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Braga 387</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1633</P>
+      </EDIANT>
+
+      <DATOAU NOME="Rodiño, Fernand&#39; Eanes" NUA="568-569p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>12/05/00</DATE>
+      </RESP>
+
+      <FRI>NA <P>Redondilla (con mote inicial e unha fiinda de dous versos).</P></FRI>
+
+      <NOTC>deest <COMNOTC><P>Nota de Colocci á cantiga 803 de B. Esta situada
+      na parte superior do espacio reservado para a cantiga que non se
+      conserva nese manuscrito, na columna b do folio 170v dese manuscrito.</P></COMNOTC></NOTC>
+
+      <NOTC>esta troba <COMNOTC><P>Nota de Colocci á cantiga 387 de V. Está
+      situada na parte superior do folio 61v dese manuscrito. Repite o inicio
+      da rúbrica explicativa que precede á cantiga.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Esta troba fez Fernam d Eanes porque queria bem a huã molher e
+      nom lhe ffalou en j partendo d onde ella estava, Maria Moniz.
+      <COMRUBRI><P>Rúbrica explicativa que precede á cantiga 387 de V, na
+      columna b do folio 61v dese manuscrito. Man de copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Fernan dan <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga 387 de V, na columna b do folio 61v dese manuscrito. Man de
+      Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="TEINI">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="xyyx"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 7 7</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+" ERI="mudar" N="1" NS="7" RI="ar">
+          <LT>Do Port&#39; ando <SEG C="I" ID="1" N="RE">e</SEG> vou mudar</LT>
+
+          <LL>Do Port&#39; ando e vou mudar</LL>
+
+          <TOPO CAT="CIUDAD">Porto</TOPO>
+        </L>
+
+        <L AC="--+---+" ERI="dyrey" N="2" NS="7" RI="ei">
+          <LT>por partida mall direy,</LT>
+
+          <LL>por partida mall direy,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="faley" N="3" NS="7" RI="ei">
+          <LT>a que amo nom faley</LT>
+
+          <LL>a que amo nom faley</LL>
+        </L>
+
+        <L AC="--+---+" ERI="pesar" N="4" NS="7" RI="ar">
+          <LT>do que tomo gram pesar.</LT>
+
+          <LL>do que tomo gram pesar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababbccd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>94:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="sobeyo" N="1" NS="7" RI="ejo">
+          <LT>Desejoso muy sobejo</LT>
+
+          <LL>Desejoso muy sobejo</LL>
+        </L>
+
+        <L AC="--+---+" ERI="cuidar" N="2" NS="7" RI="ar">
+          <LT>e<SEG C="I" ID="2" N="RE">u</SEG> nom leixo de cuidar,</LT>
+
+          <LL>eu nom leixo de cuidar,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="veyo" N="3" NS="7" RI="ejo">
+          <LT>desejando eu nom vejo</LT>
+
+          <LL>desejando eu nom vejo</LL>
+        </L>
+
+        <L AC="--+---+" ERI="aprisuar" N="4" NS="7" RI="ar">
+          <LT>quem me faz aprisuar</LT>
+
+          <LL>quem me faz aprisuar</LL>
+        </L>
+
+        <L AC="--+---+" ERI="soportar" N="5" NS="7" RI="ar">
+          <LT>e mais penas soportar.</LT>
+
+          <LL>e mais penas soportar.</LL>
+        </L>
+
+        <L AC="---+--+" ERI="adaçam" N="6" NS="7" RI="an">
+          <LT>Nom <SEG C="M" ID="2" N="SIN">me es</SEG>vae<SEG C="M" ID="3"
+          N="SIN">ce a</SEG>daçam</LT>
+
+          <LL>Nom me esvaece adaçam</LL>
+        </L>
+
+        <L AC="--+---+" ERI="afriçam" N="7" NS="7" RI="an">
+          <LT>donde ouve afriçam:</LT>
+
+          <LL>donde ouve afriçam:</LL>
+        </L>
+
+        <L AC="--+---+" ERI="sofrerey" N="8" NS="7" RI="ei">
+          <LT>esta morte sofrerey.</LT>
+
+          <LL>esta morte sofrerey.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababbccd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>94:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+" ERI="direy" N="1" NS="7" RI="ei">
+          <LT>E, fim desto, nom direy</LT>
+
+          <LL>E, fim desto, nom direy</LL>
+        </L>
+
+        <L AC="--+---+" ERI="afriçam" N="2" NS="7" RI="an">
+          <LT>por quem passo afriçam,</LT>
+
+          <LL>por quem passo afriçam,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="mudarey" N="3" NS="7" RI="ei">
+          <LT>se nom sempre mudarey</LT>
+
+          <LL>se nom sempre mudarey</LL>
+        </L>
+
+        <L AC="--+---+" ERI="descreçam" N="4" NS="7" RI="an">
+          <LT>a su nobre descreçam,</LT>
+
+          <LL>a su nobre descreçam,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="devaçam" N="5" NS="7" RI="an">
+          <LT>em que tenho devaçam,</LT>
+
+          <LL>em que tenho devaçam,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="valer" N="6" NS="7" RI="er">
+          <LT>que me á &#39;la de valer.</LT>
+
+          <LL>que me á &#39;la de valer.</LL>
+        </L>
+
+        <L AC="--+---+" ERI="poder" N="7" NS="7" RI="er">
+          <LT>Pois me tom&#39; a sou poder,</LT>
+
+          <LL>Pois me tom&#39; a sou poder,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="louvar" N="8" NS="7" RI="ar">
+          <LT>a De<SEG C="I" ID="5" N="RE">us</SEG> tenho de louvar.</LT>
+
+          <LL>a Deus tenho de louvar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="ed"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 6</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="partida" N="1" NS="5" RI="ida">
+          <LT>Nunca foi partida</LT>
+
+          <LL>Nunca foi partida</LL>
+        </L>
+
+        <L AC="-+---+" ERI="fogar" N="2" NS="6" RI="ar">
+          <LT>tam triste de fogar.</LT>
+
+          <LL>tam triste de fogar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

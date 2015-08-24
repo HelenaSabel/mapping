@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="022016" NE="2" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Rogar vos quer&#39; eu, mha madre e mha senhor</INCIPIT>
+
+      <NUCANT>22 16</NUCANT>
+
+      <RM BCA="B" EM="NO" F="243v" I.FI="lb243v" MU="NON" NM="1141"></RM>
+
+      <RM BCA="V" EM="NO" F="116v" I.FI="lv116v" MU="NON" NM="732"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 362</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1074</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 732</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 20</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Indini 18</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="367p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>21/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="OR"></TEMA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"><NOTRIM><P>Seguímos o esquema proposto por Cohen,
+        dístico monorrimo máis refrán.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>12 12 10</ESQMET>
+
+          <NOTMET>
+            <P>Para Tavani, 180:1, que corresponde á estrutura: a12 b9 b7 C6</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+-+---+" ERI="senhor" N="1" NS="12" RI="or">
+          <LT><SEG C="R" ID="1" N="CP">Rogar vos quer&#39; eu, mha madre <SEG
+C="I" ID="2" N="RE">e</SEG> mha senhor</SEG>,</LT>
+
+          <LL>Rogar vos quer&#39; eu, mha madre e mha senhor,</LL>
+        </L>
+
+        <L AC="----+-+-+--+" ERI="for" N="2" NS="12" RI="or">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="R" ID="1" N="CP">que mi non digades oje <SEG
+C="R" ID="4" N="PR">mal</SEG></SEG></SEG>, <SEG C="R" ID="1" N="CP">se eu <SEG
+C="R" ID="5" N="RD">for</SEG></SEG></LT>
+
+          <LL>que mi non digades oje mal, se eu for</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+---+-+" ERI="ven" N="3" NS="10" RI="en">
+            <LT>a Bonaval, pois meu amig&#39; i ven</LT>
+
+            <LL>a Bonaval, pois meu amig&#39; i ven</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"><NOTRIM><P>Seguímos o esquema proposto por Cohen,
+        dístico monorrimo máis refrán.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>12 12 10</ESQMET>
+
+          <NOTMET>
+            <P>Para Tavani, 180:1, que corresponde á estrutura: a12 b9 b7 C6</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+--+-+" ERI="ei" N="1" NS="12" RI="ei">
+          <LT><SEG C="R" ID="1" N="CP">Se vos non pesar, mha madre, rogar vos ei</SEG>,</LT>
+
+          <LL>Se vos non pesar, mha madre, rogar vos ei,</LL>
+        </L>
+
+        <L AC="-+----+-+--+" ERI="irei" N="2" NS="12" RI="ei">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="R" ID="1" N="CP">por Deus, que mi non digades <SEG
+C="R" ID="4" N="PR">mal</SEG></SEG></SEG>, <SEG C="R" ID="1" N="CP">e <SEG
+C="R" ID="5" N="RD">irei</SEG></SEG></LT>
+
+          <LL>por Deus, que mi non digades mal, e irei</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+---+-+" ERI="ven" N="3" NS="10" RI="en">
+            <LT>a Bonaval, pois meu <SEG C="I" ID="6" N="RE">amig&#39; i ven</SEG></LT>
+
+            <LL>a Bonaval, pois meu amig&#39; i ven</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

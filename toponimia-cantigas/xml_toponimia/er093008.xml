@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "093008" TC = "REFR" NE = "4" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Treides, ai mia madr', en romaria</INCIPIT>
+<NUCANT>93 8</NUCANT>
+<RM BCA = "B" NM = "1272" F = "268v" MU = "NON" EM = "NO" I.FI = "lb268v"></RM>
+<RM BCA = "V" NM = "878" F = "138v" MU = "NON" EM = "NO" I.FI = "lv138v"></RM>
+<EDIANT T = "CRITI">
+<P>Lopes, Ginzo, 3</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 255</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Macahdo 1221</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 218-219, 516-517</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 507</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "485"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>6/05/99</DATE></RESP>
+<FRI>c. alt.</FRI>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 6 9 6</ESQMET></INFMET>
+<NUMESQ>42:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ia" ERI = "romaria" AC = "----+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Treides, ai mia madr', en romaria</SEG></LT>
+<LL>Treides, ai mia madr', en romaria</LL>
+</L>
+<L N = "2" NS = "9" RI = "ilia" ERI = "Cecilia" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "2">orar u chamam Santa Cecilia</SEG>:</LT>
+<LL>orar u chamam Santa Cecilia:</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana irei</SEG>,</LT>
+<LL>e, lou&ccedil;ana irei,</LL>
+</L>
+<L N = "4" NS = "9" RI = "ei" ERI = "namorei" AC = "---+----+">
+<LT>ca j&aacute; i est' o que namorei,</LT>
+<LL>ca j&aacute; i est' o que namorei,</LL>
+</L>
+<L N = "5" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>.</LT>
+<LL>e, lou&ccedil;ana, irei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 6 9 6</ESQMET></INFMET>
+<NUMESQ>42:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "grado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">E treides migo, madre, de grado</SEG>,</LT>
+<LL>E treides migo, madre, de grado,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "coitado" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "2">ca meu amigu' &eacute; por mi coitado</SEG>:</LT>
+<LL>ca meu amigu' &eacute; por mi coitado:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>,</LT>
+<LL>e, lou&ccedil;ana, irei,</LL>
+</L>
+<L N = "4" NS = "9" RI = "ei" ERI = "namorei" AC = "---+----+">
+<LT>ca j&aacute; i est' o que namorei,</LT>
+<LL>ca j&aacute; i est' o que namorei,</LL>
+</L>
+<L N = "5" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>.</LT>
+<LL>e, lou&ccedil;ana, irei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 6 9 6</ESQMET></INFMET>
+<NUMESQ>42:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ilia" ERI = "Cecilia" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "2">Orar u chaman Santa Cecilia</SEG>,</LT>
+<LL>Orar u chaman Santa Cecilia,</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<L N = "2" NS = "9" RI = "ia" ERI = "queria" AC = "--+-----+-">
+<LT>pois m' aduss' o que <SEG C = "I" N = "RE" ID = "4">eu</SEG> ben queria:</LT>
+<LL>pois m' aduss' o que eu ben queria:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>,</LT>
+<LL>e, lou&ccedil;ana, irei,</LL>
+</L>
+<L N = "4" NS = "9" RI = "ei" ERI = "namorei" AC = "---+----+">
+<LT>ca j&aacute; i est' o que namorei,</LT>
+<LL>ca j&aacute; i est' o que namorei,</LL>
+</L>
+<L N = "5" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>.</LT>
+<LL>e, lou&ccedil;ana, irei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 6 9 6</ESQMET></INFMET>
+<NUMESQ>42:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "coitado" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "2">Ca meu amigu' &eacute; por mi coitado</SEG></LT>
+<LL>Ca meu amigu' &eacute; por mi coitado</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "mandado" AC = "--+-----+-">
+<LT>e, pois, eu non farei seu mandado?</LT>
+<LL>e, pois, eu non farei seu mandado?</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>,</LT>
+<LL>e, lou&ccedil;ana, irei,</LL>
+</L>
+<L N = "4" NS = "9" RI = "ei" ERI = "namorei" AC = "---+----+">
+<LT>ca j&aacute; i est' o que namorei,</LT>
+<LL>ca j&aacute; i est' o que namorei,</LL>
+</L>
+<L N = "5" NS = "6" RI = "ei" ERI = "irei" AC = "--+--+">
+<LT><SEG C = "R" N = "RR" ID = "3">e, lou&ccedil;ana, irei</SEG>.</LT>
+<LL>e, lou&ccedil;ana, irei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

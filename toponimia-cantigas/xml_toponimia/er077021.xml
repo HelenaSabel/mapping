@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077021" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Se meu amig' a San Servando for</INCIPIT>
+<NUCANT>77 21</NUCANT>
+<RM BCA = "B" NM = "1148" F = "244v" MU = "NON" EM = "NO" I.FI = "lb244v">
+<NOTMAN N = "1">En B falta a terceira cobra</NOTMAN></RM>
+<RM BCA = "V" NM = "740" F = "117v" MU = "NON" EM = "NO" I.FI = "lv117v"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 9</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1082</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 740</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 94-95</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 375</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "370"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>22/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1148.
+Est&aacute; situada na columna b do folio 244v.</P></COMNOTC></NOTC>
+<TEMA CAT = "EN"></TEMA>
+<TEMA CAT = "OR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8</ESQMET>
+<NOTMET>
+<P>O verso 2 &eacute; hip&eacute;rmetro</P></NOTMET></INFMET>
+<NUMESQ>26:77</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "or" ERI = "for" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Se meu amig' a San Servando for</SEG></LT>
+<LL>Se meu amig' a San Servando for</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "2" NS = "11" RI = "or" ERI = "amor" AC = "----+-----+">
+<LT>e lho deus aguisa, polo seu amor</LT>
+<LL>e lho deus aguisa, polo seu amor</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "er" ERI = "veer" AC = "---+---+">
+<LT><SEG C = "R" N = "CFR" ID = "2">i</SEG>-lo quer' eu, madre, veer.</LT>
+<LL>i-lo quer' eu, madre, veer.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8</ESQMET></INFMET>
+<NUMESQ>26:77</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ou" ERI = "demandou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">E, se el <SEG C = "R" N = "CFR" ID = "2">for</SEG>, como me demandou</SEG>,</LT>
+<LL>E, se el for, como me demandou,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ou" ERI = "buscou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">a San Servand', u m' outra vez buscou</SEG>,</LT>
+<LL>a San Servand', u m' outra vez buscou,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "er" ERI = "veer" AC = "---+---+">
+<LT>i-lo quer' eu, madre, veer.</LT>
+<LL>i-lo quer' eu, madre, veer.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 8</ESQMET></INFMET>
+<NUMESQ>26:80</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edes" ERI = "tolhedes" AC = "---+-----+-">
+<LT>O meu amigo, que mi v&oacute;s tolhedes,</LT>
+<LL>O meu amigo, que mi v&oacute;s tolhedes,</LL>
+</L>
+<L N = "2" NS = "10" RI = "edes" ERI = "dizedes" AC = "---+-----+-">
+<LT>pero m' agora por el mal dizedes,</LT>
+<LL>pero m' agora por el mal dizedes,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "er" ERI = "veer" AC = "---+---+">
+<LT>i-lo quer' eu, madre, veer.</LT>
+<LL>i-lo quer' eu, madre, veer.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

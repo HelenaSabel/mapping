@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "147009" TC = "RINT" NE = "2" SG = "NO" XE = "EP B" OL = "NON">
+<INCIPIT>Meu senhor, se vus aprouguer</INCIPIT>
+<NUCANT>147 9</NUCANT>
+<RM BCA = "B" NM = "1440" F = "299v" MU = "NON" EM = "NO" I.FI = "lb299v"></RM>
+<RM BCA = "V" NM = "1050" F = "170v" MU = "NON" EM = "NO" I.FI = "lv170v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 417</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Monaci 1050</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1352</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1050</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 51</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 385</P></EDIANT>
+<DATOAU NOME = "Barbieri" NUA = "21"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>30/03/00</DATE></RESP>
+<FRI>c. unis.</FRI>
+<RUBRICA>Roy paez
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na columna a do folio 299v, enriba da
+cantiga B 1440. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "TRA">
+<SUBTEMA CAT = "MT"></SUBTEMA></TEMA>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "MT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aAabAB"></ESQRIM>
+<INFMET>
+<ESQMET>8 10 9 9' 10 9'</ESQMET></INFMET>
+<NUMESQ>13:46</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "aprouguer" AC = "--+----+">
+<LT>Meu senhor, se vus aprouguer,</LT>
+<LL>Meu senhor, se vus aprouguer,</LL>
+</L>
+<REFRAN>
+<L N = "2" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT><SEG C = "R" N = "RR" ID = "1">comendador, dade-mi mha molher</SEG>,</LT>
+<LL>comendador, dade-mi mha molher,</LL>
+</L>
+</REFRAN>
+<L N = "3" NS = "9" RI = "er" ERI = "der" AC = "----+---+">
+<LT>e se vo-la outra vez ar der,</LT>
+<LL>e se vo-la outra vez ar der,</LL>
+</L>
+<L N = "4" NS = "9" RI = "ura" ERI = "ventura" AC = "--+-----+-">
+<LT>d&ecirc;-mi Deus muyta de maa ventura;</LT>
+<LL>d&ecirc;-mi Deus muyta de maa ventura;</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT><SEG C = "R" N = "RR" ID = "1">comendador, dade-mi mha molher</SEG>,</LT>
+<LL>comendador, dade-mi mha molher,</LL>
+</L>
+<L N = "6" NS = "9" RI = "ura" ERI = "mesura" AC = "--+-----+-">
+<LT>que vus dey, e <SEG C = "R" N = "CFR" ID = "2">fazede</SEG> mesura.</LT>
+<LL>que vus dey, e fazede mesura.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aAabAB"></ESQRIM>
+<INFMET>
+<ESQMET>8 10 9 9' 10 9'</ESQMET></INFMET>
+<NUMESQ>13:46</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "mester" AC = "---+---+">
+<LT>De <SEG C = "R" N = "CFR" ID = "2">fazer</SEG> filhos m' &eacute; mester,</LT>
+<LL>De fazer filhos m' &eacute; mester,</LL>
+</L>
+<REFRAN>
+<L N = "2" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT><SEG C = "R" N = "RR" ID = "1">comendador, dade-mi mha molher</SEG>,</LT>
+<LL>comendador, dade-mi mha molher,</LL>
+</L>
+</REFRAN>
+<L N = "3" NS = "9" RI = "er" ERI = "Alanquer" AC = "---+----+">
+<LT>e dar-vus-ei outra d' Alanquer</LT>
+<LL>e dar-vus-ei outra d' Alanquer</LL>
+<TOPO CAT = "TOPOME">Alanquer</TOPO></L>
+<L N = "4" NS = "9" RI = "ura" ERI = "caentura" AC = "---+----+-">
+<LT>en que percades a caentura;</LT>
+<LL>en que percades a caentura;</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT><SEG C = "R" N = "RR" ID = "1">comendador, dade-<SEG C = "I" N = "RE" ID = "3">mi</SEG> m<SEG C = "I" N = "RE" ID = "4">h</SEG>a molher</SEG></LT>
+<LL>comendador, dade-mi mha molher</LL>
+</L>
+<L N = "6" NS = "9" RI = "ura" ERI = "mesura" AC = "--+-----+-">
+<LT><SEG C = "I" N = "RE" ID = "5">que vus dey, e fazede mesura</SEG>.</LT>
+<LL>que vus dey, e fazede mesura.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

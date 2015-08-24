@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="030035" NE="7" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Vós, Don Josep, venho eu preguntar</INCIPIT>
+
+      <NUCANT>30 35</NUCANT>
+
+      <TENSO NOME="Josep"><NUCANT>84 1</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="281r" I.FI="lb281r" MU="NON" NM="1315"></RM>
+
+      <RM BCA="B" EM="NO" F="281v" I.FI="lb281v" MU="NON" NM="1315"></RM>
+
+      <RM BCA="V" EM="NO" F="145r" I.FI="lv145r" MU="NON" NM="920"></RM>
+
+      <RM BCA="V" EM="NO" F="145v" I.FI="lv145v" MU="NON" NM="920"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Pagani 24</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1264</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 920</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Lopes 453</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="126"><COMAU><P>Nos vv. 7 I e 2 II adoptámo-la
+      lectura de Pagani (peytar), onde Lapa le reitar.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>26/03/97</DATE>
+      </RESP>
+
+      <FRI>c. doblas<P>(rima b III-IV sing.; b IV, VI = c V)</P><P>fragm.</P><P>Esta
+      cantiga é fragmentaria porque falta unha cobra. Sería a que estivese
+      situada entre a cuarta e a que aquí consta como a quinta, a cargo de
+      Estevan da Guarda</P></FRI>
+
+      <TEMA CAT="ENG"><SUBTEMA CAT="MX"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:109</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="preguntar" N="1" NS="10" RI="ar">
+          <LT>- <SEG C="R" ID="1" N="CD">Vós</SEG>, Don Josep, venho eu
+          preguntar,</LT>
+
+          <LL>- Vós, Don Josep, venho eu preguntar,</LL>
+
+          <ANTRO T="REAL">Don Josep</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="talhadores" N="2" NS="10" RI="ores">
+          <LT><SEG C="R" ID="2" N="CD">pois</SEG> pelos vossos judeus <SEG
+          C="R" ID="3" N="RD">talhadores</SEG></LT>
+
+          <LL>pois pelos vossos judeus talhadores</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="meores" N="3" NS="10" RI="ores">
+          <LT>vos é talha<SEG C="M" ID="4" N="SIN">do, a</SEG> grandes e
+          meores,</LT>
+
+          <LL>vos é talhado, a grandes e meores,</LL>
+        </L>
+
+        <L AC="------+--+" ERI="dar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="5" N="CD">quanto</SEG> cada un judeu á-de <SEG
+          C="R" ID="6" N="RD">dar</SEG>:</LT>
+
+          <LL>quanto cada un judeu á-de dar:</LL>
+        </L>
+
+        <L AC="---+----+" ERI="judeu" N="5" NS="10" RI="eu">
+          <LT>per qual razon Don Foão judeu,</LT>
+
+          <LL>per qual razon Don Foão judeu,</LL>
+
+          <ANTRO T="REAL">Don Foão</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="seu" N="6" NS="10" RI="eu">
+          <LT>a que já talha foi posta no seu,</LT>
+
+          <LL>a que já talha foi posta no seu,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="peytar" N="7" NS="10" RI="ar">
+          <LT>s&#39; escusa sempre de vosco <SEG C="R" ID="7" N="RD">peyt<SEG
+C="R" ID="8" N="CC">ar</SEG></SEG>?</LT>
+
+          <LL>s&#39; escusa sempre de vosco peytar?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3 é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:109</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="quitar" N="1" NS="10" RI="ar">
+          <LT>- <SEG C="R" ID="9" N="CD">Estêvan da Guarda</SEG>, pode <SEG
+          C="R" ID="10" N="RD">quit<SEG C="R" ID="8" N="CC">ar</SEG></SEG></LT>
+
+          <LL>- Estêvan da Guarda, pode quitar</LL>
+
+          <ANTRO T="REAL">Estêvan da Guarda</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="senhores" N="2" NS="10" RI="ores">
+          <LT><SEG C="R" ID="11" N="CD">qual</SEG> judeu quer de peytar os
+          senhores,</LT>
+
+          <LL>qual judeu quer de peytar os senhores,</LL>
+        </L>
+
+        <L AC="----+---+-" ERI="amores" N="3" NS="9" RI="ores">
+          <LT>mais, na talha, graças nem amores</LT>
+
+          <LL>mais, na talha, graças nem amores</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="talhar" N="4" NS="10" RI="ar">
+          <LT>non lhi faran os que an de <SEG C="R" ID="3" N="RD">talhar</SEG>;</LT>
+
+          <LL>non lhi faran os que an de talhar;</LL>
+        </L>
+
+        <L AC="---+----+" ERI="eu" N="5" NS="10" RI="eu">
+          <LT>e Don Foão já per vezes <SEG C="R" ID="6" N="RD">deu</SEG></LT>
+
+          <LL>e Don Foão já per vezes deu</LL>
+
+          <ANTRO T="REAL">Don Foão</ANTRO>
+        </L>
+
+        <L AC="------+--+" ERI="meu" N="6" NS="10" RI="eu">
+          <LT>o que talharon, com&#39; eu dou do meu;</LT>
+
+          <LL>o que talharon, com&#39; eu dou do meu;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="livrar" N="7" NS="10" RI="ar">
+          <LT>er dará mais, e querrá-se livrar.</LT>
+
+          <LL>er dará mais, e querrá-se livrar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso 1 é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:109</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+" ERI="razon" N="1" NS="9" RI="on">
+          <LT>- <SEG C="R" ID="12" N="CD">Don Josep</SEG>, tenho por
+          sen-razon,</LT>
+
+          <LL>- Don Josep, tenho por sen-razon,</LL>
+
+          <ANTRO T="REAL">Don Josep</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="igualdade" N="2" NS="10" RI="ade">
+          <LT><SEG C="R" ID="2" N="CD">pois</SEG> já fal vosqu&#39; en talha
+          igualdade,</LT>
+
+          <LL>pois já fal vosqu&#39; en talha igualdade,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="talhad&#39; e" N="3" NS="10" RI="ade">
+          <LT>que do seu den quanto lhi foi <SEG C="R" ID="3" N="RD">talhad&#39; e</SEG></LT>
+
+          <LL>que do seu den quanto lhi foi talhad&#39; e</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="defenson" N="4" NS="10" RI="on">
+          <LT>que, pois senhores an já defenson</LT>
+
+          <LL>que, pois senhores an já defenson</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="peitador" N="5" NS="10" RI="or">
+          <LT>de non peitar com&#39; outro <SEG C="R" ID="7" N="RD">peitador</SEG>,</LT>
+
+          <LL>de non peitar com&#39; outro peitador,</LL>
+        </L>
+
+        <L AC="------+--+" ERI="talhador" N="6" NS="7" RI="or">
+          <LT><SEG C="R" ID="13" N="CD">como</SEG> peitan <SEG C="I" ID="14"
+          N="RE">a</SEG> qualquer <SEG C="R" ID="3" N="RD">talhador</SEG></LT>
+
+          <LL>como peitan a qualquer talhador</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="escusaçon" N="7" NS="10" RI="on">
+          <LT><SEG C="R" ID="5" N="CD">quanto</SEG> lhi talhan, sen escusaç<SEG
+          C="R" ID="15" N="CC">on</SEG>?</LT>
+
+          <LL>quanto lhi talhan, sen escusaçon?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:109</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="auçon" N="1" NS="10" RI="on">
+          <LT>- <SEG C="R" ID="9" N="CD">Estêvan da Guarda</SEG>, per tal auç<SEG
+          C="R" ID="15" N="CC">on</SEG></LT>
+
+          <LL>- Estêvan da Guarda, per tal auçon</LL>
+
+          <ANTRO T="REAL">Estêvan da Guarda</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="demandado" N="2" NS="10" RI="ado">
+          <LT><SEG C="R" ID="11" N="CD">qual</SEG> vós dizedes, foi já
+          demandado</LT>
+
+          <LL>qual vós dizedes, foi já demandado</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="desputado" N="3" NS="10" RI="ado">
+          <LT>e foi per el seu feito <SEG C="R" ID="16" N="RD">desputado</SEG>,</LT>
+
+          <LL>e foi per el seu feito desputado,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="desputaçon" N="4" NS="10" RI="on">
+          <LT>assi que dura na <SEG C="R" ID="16" N="RD">desputaçon</SEG>;</LT>
+
+          <LL>assi que dura na desputaçon;</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="melhor" N="5" NS="10" RI="or">
+          <LT>e do talho non ten <SEG C="I" ID="17" N="RE">i</SEG> o melhor,</LT>
+
+          <LL>e do talho non ten i o melhor,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="senhor" N="6" NS="10" RI="or">
+          <LT>ca deu gran peça; mais pois seu senhor</LT>
+
+          <LL>ca deu gran peça; mais pois seu senhor</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="quitaçon" N="7" NS="10" RI="on">
+          <LT>lha peita, quanto val tal <SEG C="R" ID="10" N="RD">quitaçon</SEG>!</LT>
+
+          <LL>lha peita, quanto val tal quitaçon!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="na" ERI="-" N="1" NS="0" RI="-">
+          <LT><SEG C="I" ID="18" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="2" NS="0" RI="-">
+          <LT><SEG C="I" ID="19" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="20" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="-">
+          <LT><SEG C="I" ID="21" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT><SEG C="I" ID="22" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="23" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="7" NS="0" RI="-">
+          <LT><SEG C="I" ID="24" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10&#39; 10&#39; 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:113 <NOTNESQ><P>Tavani dá este esquema para as estrofas V
+        e VI.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="diz" N="1" NS="10" RI="iz">
+          <LT>- Já Don Foan, por mal que mi quer, diz</LT>
+
+          <LL>- Já Don Foan, por mal que mi quer, diz</LL>
+
+          <ANTRO T="REAL">Don Foan</ANTRO>
+        </L>
+
+        <L AC="----+----+-" ERI="nada" N="2" NS="10" RI="ada">
+          <LT><SEG C="R" ID="25" N="CD">que</SEG> nego quant&#39; ei, por non
+          peitar nada;</LT>
+
+          <LL>que nego quant&#39; ei, por non peitar nada;</LL>
+        </L>
+
+        <L AC="------+--+-" ERI="apostada" N="3" NS="10" RI="ada">
+          <LT>e de com&#39; é mia fazend&#39; apostada</LT>
+
+          <LL>e de com&#39; é mia fazend&#39; apostada</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fiz" N="4" NS="10" RI="iz">
+          <LT><SEG C="R" ID="1" N="CD">vós</SEG>, Don Estêvan, sodes en ben
+          <SEG C="R" ID="26" N="PV">fiz</SEG></LT>
+
+          <LL>vós, Don Estêvan, sodes en ben fiz</LL>
+
+          <ANTRO T="REAL">Don Estêvan</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="negado" N="5" NS="10" RI="ado">
+          <LT>que nunca foi de mia talha <SEG C="R" ID="27" N="PV">negado</SEG>,</LT>
+
+          <LL>que nunca foi de mia talha negado,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="apregoado" N="6" NS="10" RI="ado">
+          <LT>mais sabu<SEG C="M" ID="28" N="SIN">do e</SEG> certo, apregoado</LT>
+
+          <LL>mais sabudo e certo, apregoado</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="raiz" N="7" NS="10" RI="iz">
+          <LT><SEG C="R" ID="5" N="CD">quant&#39;</SEG> ei na terra, móvil e
+          ra<SEG C="R" ID="29" N="CC">iz</SEG>.</LT>
+
+          <LL>quant&#39; ei na terra, móvil e raiz.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="7" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10&#39; 10&#39; 10</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="fiz" N="1" NS="10" RI="iz">
+          <LT>- <SEG C="R" ID="12" N="CD">Don Josep</SEG>, já eu <SEG C="I"
+          ID="30" N="RE">son</SEG> certo e <SEG C="R" ID="26" N="PV">f<SEG
+C="R" ID="29" N="CC">iz</SEG></SEG></LT>
+
+          <LL>- Don Josep, já eu son certo e fiz</LL>
+
+          <ANTRO T="REAL">Don Josep</ANTRO>
+        </L>
+
+        <L AC="-----+---+-" ERI="negado" N="2" NS="10" RI="ado">
+          <LT><SEG C="R" ID="25" N="CD">que</SEG> do vosso non é cousa <SEG
+          C="R" ID="27" N="PV">negado</SEG>,</LT>
+
+          <LL>que do vosso non é cousa negado,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="apreçado" N="3" NS="10" RI="ado">
+          <LT>mais é <SEG C="I" ID="31" N="RE">a</SEG>tan certo e apreçado</LT>
+
+          <LL>mais é atan certo e apreçado</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Alhariz" N="4" NS="10" RI="iz">
+          <LT><SEG C="R" ID="13" N="CD">com&#39;</SEG> é o vinho for<SEG C="M"
+          ID="32" N="SIN">te en</SEG> Alhariz;</LT>
+
+          <LL>com&#39; é o vinho forte en Alhariz;</LL>
+
+          <TOPO CAT="ALDEA">Alhariz</TOPO>
+        </L>
+
+        <L AC="-----+---+-" ERI="desarreigado" N="5" NS="10" RI="ado">
+          <LT><SEG C="M" ID="33" N="SIN">e el</SEG> queria de vós,
+          desarreigado,</LT>
+
+          <LL>e el queria de vós, desarreigado,</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="aspeitado" N="6" NS="10" RI="ado">
+          <LT>de vos veer assi <SEG C="M" ID="34" N="RE">mal</SEG> aspeitado,</LT>
+
+          <LL>de vos veer assi mal aspeitado,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="juiz" N="7" NS="10" RI="iz">
+          <LT><SEG C="R" ID="13" N="CD">com&#39;</SEG> oj&#39; el é pelo maior
+          juiz.</LT>
+
+          <LL>com&#39; oj&#39; el é pelo maior juiz.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

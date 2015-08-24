@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="022007" NE="4" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Diss' a fremosa en Bonaval assy</INCIPIT>
+
+      <NUCANT>22 7</NUCANT>
+
+      <RM BCA="B" EM="NO" F="243v" I.FI="lb243v" MU="NON" NM="1140"></RM>
+
+      <RM BCA="V" EM="NO" F="116v" I.FI="lv116v" MU="NON" NM="731"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 361</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 194</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1073</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 731</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 366</P>
+      </EDIANT>
+
+      <DATOAU NOME="Indini" NUA="17"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>26/02/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:87</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+---+-+" ERI="assy" N="1" NS="10" RI="y">
+          <LT>Diss' a fremo<SEG C="M" ID="1" N="SIN">sa en</SEG> Bonaval
+          assy:</LT>
+
+          <LL>Diss' a fremosa en Bonaval assy:</LL>
+
+          <TOPO CAT="LCULTO">Bonaval</TOPO>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="aqui" N="2" NS="10" RI="i">
+          <LT>"Ay, Deus! Hu <SEG C="R" ID="2" N="CF">é</SEG> meu amigo d'
+          aqui,</LT>
+
+          <LL>"Ay, Deus! Hu é meu amigo d' aqui,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="Bonaval" N="3" NS="4" RI="al">
+            <LT>de Bonaval?</LT>
+
+            <LL>de Bonaval?</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:87</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--++-----+" ERI="coraçon" N="1" NS="10" RI="on">
+          <LT>Cuyd' eu, coitad' <SEG C="R" ID="2" N="CF">é</SEG> no seu
+          coraçon</LT>
+
+          <LL>Cuyd' eu, coitad' é no seu coraçon</LL>
+        </L>
+
+        <L AC="-+-++----+" ERI="sagraçon" N="2" NS="10" RI="on">
+          <LT>porquê non foy <SEG C="R" ID="3" N="CF">migo</SEG> na
+          sagraçon</LT>
+
+          <LL>porquê non foy migo na sagraçon</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="Bonaval" N="3" NS="4" RI="al">
+            <LT>de Bonaval.</LT>
+
+            <LL>de Bonaval.</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:87</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+-+--+" ERI="ey" N="1" NS="10" RI="ey">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">Poys</SEG> eu <SEG
+                C="R" ID="3" N="CF">migo</SEG> seu mandado non ey</SEG></LT>
+
+          <LL>Poys eu migo seu mandado non ey</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="poderey" N="2" NS="10" RI="ey">
+          <LT><SEG C="R" ID="4" N="CP">já m' eu leda partir non poderey</SEG></LT>
+
+          <LL>já m' eu leda partir non poderey</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="Bonaval" N="3" NS="4" RI="al">
+            <LT>de Bonaval.</LT>
+
+            <LL>de Bonaval.</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:87</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+" ERI="chegou" N="1" NS="10" RI="ou">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">Poys</SEG> m' aqui seu mandado non chegou</SEG>,</LT>
+
+          <LL>Poys m' aqui seu mandado non chegou,</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="vou" N="2" NS="10" RI="ou">
+          <LT><SEG C="R" ID="4" N="CP">muyto vin-eu mays leda ca me vou</SEG></LT>
+
+          <LL>muyto vin-eu mays leda ca me vou</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="Bonaval" N="3" NS="4" RI="al">
+            <LT>de Bona<SEG C="I" ID="6" N="RE">val</SEG>".</LT>
+
+            <LL>de Bonaval".</LL>
+
+            <TOPO CAT="LCULTO">Bonaval</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

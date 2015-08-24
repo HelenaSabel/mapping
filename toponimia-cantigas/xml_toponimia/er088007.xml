@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="088007" NE="3" OL="NON" SG="NO" TC="MEST" XE="T EL">
+      <INCIPIT>Johan Vaasquez, moiro por saber</INCIPIT>
+
+      <NUCANT>88 7</NUCANT>
+
+      <TENSO NOME="Johan Vasquiz de Talaveira"><NUCANT>81 9</NUCANT></TENSO>
+
+      <RM BCA="V" EM="NO" F="167v" I.FI="lv167v" MU="NON" NM="1035"></RM>
+
+      <RM BCA="V" EM="NO" F="168r" I.FI="lv168r" MU="NON" NM="1035"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 275</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1682</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1035</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 96</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 40</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 343</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 238</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tavani, Lourenço" NUA="16"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>22/04/99</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <TEMA CAT="BT"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso dous é hipérmetro e o verso sete é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:60</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="saber" N="1" NS="10" RI="er">
+          <LT><SEG C="R" ID="1" N="CD">Johan Vaasquez</SEG>, moiro por
+          saber</LT>
+
+          <LL>Johan Vaasquez, moiro por saber</LL>
+
+          <ANTRO T="REAL">Johan Vasquiz de Talaveira (Johan Vaasquez)</ANTRO>
+        </L>
+
+        <L AC="-+--------+" ERI="trobar" N="2" NS="11" RI="ar">
+          <LT>de vós porque mi leixastes o <SEG C="R" ID="2" N="PV">trobar</SEG>,</LT>
+
+          <LL>de vós porque mi leixastes o trobar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="leixar" N="3" NS="10" RI="ar">
+          <LT>ou se foy el vos primeiro leixar.</LT>
+
+          <LL>ou se foy el vos primeiro leixar.</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="dizer" N="4" NS="10" RI="er">
+          <LT>Ca, vedes, a<SEG C="M" ID="3" N="SIN">que ou</SEG><SEG C="M"
+          ID="4" N="SIN">ço a</SEG> todos dizer</LT>
+
+          <LL>Ca, vedes, aque ouço a todos dizer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="atal" N="5" NS="10" RI="al">
+          <LT>ca o trobar acordou-s' en atal</LT>
+
+          <LL>ca o trobar acordou-s' en atal</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="mortal" N="6" NS="10" RI="al">
+          <LT>qu' estava vos<SEG C="M" ID="5" N="SIN">co en</SEG> pecado
+          mortal,</LT>
+
+          <LL>qu' estava vosco en pecado mortal,</LL>
+        </L>
+
+        <L AC="-+------+" ERI="perder" N="7" NS="9" RI="er">
+          <LT>e leixa-vos por se non perd<SEG C="R" ID="6" N="CC">er</SEG>.</LT>
+
+          <LL>e leixa-vos por se non perder.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:60</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="aprender" N="1" NS="10" RI="er">
+          <LT>Lourenço tu vẽes por aprend<SEG C="R" ID="6" N="CC">er</SEG></LT>
+
+          <LL>Lourenço tu vẽes por aprender</LL>
+
+          <ANTRO T="REAL">Lourenço, jogral (Lourenço)</ANTRO>
+        </L>
+
+        <L AC="-+-------+" ERI="negar" N="2" NS="10" RI="ar">
+          <LT>de min, e eu non ch' o quero negar:</LT>
+
+          <LL>de min, e eu non ch' o quero negar:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="trobar" N="3" NS="10" RI="ar">
+          <LT>eu trobo ben quando quero <SEG C="R" ID="2" N="PV">trobar</SEG>,</LT>
+
+          <LL>eu trobo ben quando quero trobar,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="fazer" N="4" NS="10" RI="er">
+          <LT>p'ro non o quero sempre fazer.</LT>
+
+          <LL>p'ro non o quero sempre fazer.</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="desigual" N="5" NS="10" RI="al">
+          <LT>Mais di-me tu, que trobas desigual,</LT>
+
+          <LL>Mais di-me tu, que trobas desigual,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Portugal" N="6" NS="10" RI="al">
+          <LT>se te deitam por én de Portugal,</LT>
+
+          <LL>se te deitam por én de Portugal,</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="aver" N="7" NS="10" RI="er">
+          <LT>ou matas<SEG C="M" ID="7" N="SIN">te ho</SEG>men ou <SEG C="R"
+          ID="8" N="CF">roubas<SEG C="M" ID="9" N="SIN">te</SEG></SEG><SEG
+          C="M" ID="9" N="SIN">a</SEG>ver.</LT>
+
+          <LL>ou mataste homen ou roubaste aver.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:60</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="rem" N="1" NS="10" RI="en">
+          <LT><SEG C="R" ID="1" N="CD">Johan Vaasquez</SEG>, nunca <SEG C="R"
+          ID="8" N="CF">roubei</SEG> rem</LT>
+
+          <LL>Johan Vaasquez, nunca roubei rem</LL>
+
+          <ANTRO T="REAL">Johan Vasquiz de Talaveira (Johan Vaasquez)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="mereci" N="2" NS="10" RI="i">
+          <LT>nen matey homen nen ar mereci</LT>
+
+          <LL>nen matey homen nen ar mereci</LL>
+        </L>
+
+        <L AC="----+----+" ERI="aqui" N="3" NS="10" RI="i">
+          <LT>por que mi deitassem, mais vin aqui</LT>
+
+          <LL>por que mi deitassem, mais vin aqui</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ben" N="4" NS="10" RI="en">
+          <LT>por gãar al<SEG C="M" ID="10" N="SIN">go, e</SEG> po<SEG C="I"
+          ID="11" N="RE">i</SEG>s se<SEG C="M" ID="12" N="SIN">i i</SEG>guar-mi
+          ben</LT>
+
+          <LL>por gãar algo, e pois sei iguar-mi ben</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="estou" N="5" NS="10" RI="ou">
+          <LT>co<SEG C="M" ID="13" N="SIN">mo o</SEG> trobar vosso; maes
+          estou</LT>
+
+          <LL>como o trobar vosso; maes estou</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="quitou" N="6" NS="10" RI="ou">
+          <LT>que se predia tan vosqu', e quitou-</LT>
+
+          <LL>que se predia tan vosqu', e quitou-</LL>
+        </L>
+
+        <L AC="--+------+" ERI="én" N="7" NS="10" RI="en">
+          <LT>-sse de vós, e non trobades por én.</LT>
+
+          <LL>-sse de vós, e non trobades por én.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

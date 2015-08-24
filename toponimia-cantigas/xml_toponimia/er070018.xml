@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="070018" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Elvira López, aqui, noutro dia</INCIPIT>
+
+      <NUCANT>70 18</NUCANT>
+
+      <RM BCA="B" EM="NO" F="312r" I.FI="lb312r" MU="NON" NM="1489"></RM>
+
+      <RM BCA="V" EM="NO" F="180v" I.FI="lv180v" MU="NON" NM="1100"></RM>
+
+      <RM BCA="V" EM="NO" F="181r" I.FI="lv181r" MU="NON" NM="1100"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Nobiling 52</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Domingues, Guilhade, 41</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1402</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1100</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesía obscena, 27</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 165</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="206"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>4/08/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rimas b I, c sing.)</P></FRI>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:145</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+--+--+-" ERI="dia" N="1" NS="10" RI="ia">
+          <LT>Elvira López, aqui, noutro dia,</LT>
+
+          <LL>Elvira López, aqui, noutro dia,</LL>
+
+          <ANTRO T="REAL">Elvira López</ANTRO>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="cajon" N="2" NS="10" RI="on">
+          <LT>se Deus mi valha, prendeu un cajon:</LT>
+
+          <LL>se Deus mi valha, prendeu un cajon:</LL>
+        </L>
+
+        <L AC="-+-+-+---+" ERI="peon" N="3" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CP">deitou na casa sigo un peon</SEG>,</LT>
+
+          <LL>deitou na casa sigo un peon,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="tragia" N="4" NS="10" RI="ia">
+          <LT>e sa maeta e quanto <SEG C="R" ID="2" N="PV">tragia</SEG></LT>
+
+          <LL>e sa maeta e quanto tragia</LL>
+        </L>
+
+        <L AC="+---+----+" ERI="adormeceu" N="5" NS="10" RI="eu">
+          <LT>pôs cabo de si e <SEG C="R" ID="3" N="RD">adormeceu</SEG>;</LT>
+
+          <LL>pôs cabo de si e adormeceu;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="fodeu" N="6" NS="10" RI="eu">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">e o peon</SEG> levantou-s&#39; e fodeu</SEG>,</LT>
+
+          <LL>e o peon levantou-s&#39; e fodeu,</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="ia" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="6" N="CD">e nun<SEG
+C="M" ID="7" N="SIN">ca ar</SEG> soube</SEG> de contra u s&#39; <SEG C="R"
+ID="8" N="CC">ia</SEG></SEG>.</LT>
+
+          <LL>e nunca ar soube de contra u s&#39; ia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:145</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+---+-+-" ERI="faria" N="1" NS="10" RI="ia">
+          <LT>Ante, lh&#39; eu díxi que mal sen <SEG C="R" ID="9" N="RD">far<SEG
+C="R" ID="8" N="CC">ia</SEG></SEG></LT>
+
+          <LL>Ante, lh&#39; eu díxi que mal sen faria</LL>
+        </L>
+
+        <L AC="----+-+--+" ERI="aguardar" N="2" NS="10" RI="ar">
+          <LT>que se non queria d&#39; el <SEG C="R" ID="10" N="PRI">aguardar</SEG></LT>
+
+          <LL>que se non queria d&#39; el aguardar</LL>
+        </L>
+
+        <L AC="-+--+-+--+" ERI="jeitar" N="3" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="I" ID="11" N="RE">e</SEG> sigo na ca<SEG
+C="M" ID="12" N="SIN">sa o</SEG> ia jeitar</SEG>;</LT>
+
+          <LL>e sigo na casa o ia jeitar;</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="averria" N="4" NS="10" RI="ia">
+          <LT>e díxi-lh&#39; eu quanto lh&#39; end&#39; averria,</LT>
+
+          <LL>e díxi-lh&#39; eu quanto lh&#39; end&#39; averria,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="fez" N="5" NS="10" RI="ez">
+          <LT>ca vos direi do peon como <SEG C="R" ID="9" N="RD">fez</SEG>:</LT>
+
+          <LL>ca vos direi do peon como fez:</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="vez" N="6" NS="10" RI="ez">
+          <LT><SEG C="R" ID="4" N="CP">abriu a por<SEG C="M" ID="13" N="SIN">ta e</SEG> fodeu ũa vez</SEG>,</LT>
+
+          <LL>abriu a porta e fodeu ũa vez,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="sabedoria" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="6" N="CD"><SEG C="I"
+ID="14" N="RE">e</SEG> nunca soube</SEG> d&#39;el <SEG C="R" ID="15" N="RD">sabedor<SEG
+C="R" ID="16" N="CC">ia</SEG></SEG></SEG>.</LT>
+
+          <LL>e nunca soube d&#39;el sabedoria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:145</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+--+--+-" ERI="avia" N="1" NS="10" RI="ia">
+          <LT>Mal se guardou e perdeu quant&#39; av<SEG C="R" ID="16" N="CC">ia</SEG>,</LT>
+
+          <LL>Mal se guardou e perdeu quant&#39; avia,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="guardar" N="2" NS="10" RI="ar">
+          <LT>ca se non soub&#39; a cativa <SEG C="R" ID="10" N="PRI">guardar</SEG>:</LT>
+
+          <LL>ca se non soub&#39; a cativa guardar:</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="albergar" N="3" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">leixô-o sigo na ca<SEG C="M" ID="17"
+N="SIN">sa al</SEG>bergar</SEG>,</LT>
+
+          <LL>leixô-o sigo na casa albergar,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="dormia" N="4" NS="10" RI="ia">
+          <LT><SEG C="R" ID="5" N="CD">e o peon</SEG> fez <SEG C="I" ID="18"
+          N="RE">como</SEG> que <SEG C="R" ID="3" N="RD">dormia</SEG>,</LT>
+
+          <LL>e o peon fez como que dormia,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="traedor" N="5" NS="10" RI="or">
+          <LT><SEG C="R" ID="4" N="CP">e levantou-s&#39; o peon traedor</SEG></LT>
+
+          <LL>e levantou-s&#39; o peon traedor</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="sabedor" N="6" NS="10" RI="or">
+          <LT>e, como x&#39; era de mal <SEG C="R" ID="15" N="RD">sabedor</SEG>,</LT>
+
+          <LL>e, como x&#39; era de mal sabedor,</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="via" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="4" N="CP">fodeu-a tost&#39; e foi logo sa via</SEG>.</LT>
+
+          <LL>fodeu-a tost&#39; e foi logo sa via.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="dda"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---++----+" ERI="Santarén" N="1" NS="10" RI="en">
+          <LT><SEG C="R" ID="5" N="CD">E o peon</SEG> viron en Santarén;</LT>
+
+          <LL>E o peon viron en Santarén;</LL>
+
+          <TOPO CAT="CIUDAD">Santarén</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="ren" N="2" NS="10" RI="en">
+          <LT>e non<SEG C="M" ID="19" N="SIN"> se a</SEG>vanta nen dá por en
+          ren,</LT>
+
+          <LL>e non se avanta nen dá por en ren,</LL>
+        </L>
+
+        <L AC="-+-+-----+-" ERI="tragia" N="3" NS="10" RI="ia">
+          <LT>mais lev&#39; o Demo quant<SEG C="I" ID="20" N="RE">o</SEG> en
+          <SEG C="R" ID="2" N="PV">tragia</SEG>!</LT>
+
+          <LL>mais lev&#39; o Demo quanto en tragia!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

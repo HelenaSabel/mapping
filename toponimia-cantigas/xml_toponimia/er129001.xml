@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "129001" TC = "MEST" NE = "3+F" SG = "NO" XE = "A" OL = "NON">
+<INCIPIT>Muytus a que Deus quis dar muy bon sen</INCIPIT>
+<NUCANT>129 1</NUCANT>
+<RM BCA = "B" NM = "921" F = "198r" MU = "NON" EM = "NO" I.FI = "lb198r"></RM>
+<RM BCA = "V" NM = "509" F = "81r" MU = "NON" EM = "NO" I.FI = "lv081r"></RM>
+<EDIANT T = "CRITI">
+<P>Amor 167</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 865</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 509</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 11</P></EDIANT>
+<DATOAU NOME = "Donati" NUA = "1"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>13/03/00</DATE></RESP>
+<FRI>c. unis.</FRI>
+<NOTC>&con;ged
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 921 de B. Est&aacute; situada na parte
+superior da cantiga, na columna a do folio 198r dese manuscrito. Marca a
+existencia de fiinda.</P></COMNOTC></NOTC>
+<NOTC>sel diss
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 921 de B. Est&aacute; situada na marxe
+esquerda do folio 198r de B. Lembra unha composici&oacute;n de
+Petrarca.</P></COMNOTC></NOTC>
+<RUBRICA>Pero Goterez Caualeiro
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga 921 de B, situada na
+columna a do folio 198r. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Pero Goterez cavaleiro
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga 509 de V, situada por
+riba desta na columna a do folio 81r dese manuscrito. Man de
+Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "SNH"></TEMA>
+<TEMA CAT = "IND"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "sen" AC = "----+----+">
+<LT>Muytus a que Deus quis dar muy bon <SEG C = "R" N = "PR" ID = "1">sen</SEG></LT>
+<LL>Muytus a que Deus quis dar muy bon sen</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "poder" AC = "-----+---+">
+<LT>e muit' alto lynhaj' e gram poder</LT>
+<LL>e muit' alto lynhaj' e gram poder</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "plazer" AC = "----+----+">
+<LT>e muyt' outro ben, polo seu plazer,</LT>
+<LL>e muyt' outro ben, polo seu plazer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "ben" AC = "--+------+">
+<LT>de tod' esto me poden vencer <SEG C = "R" N = "PR" ID = "1">ben</SEG>;</LT>
+<LL>de tod' esto me poden vencer ben;</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>sei-m' eu aquesto e al sei de mi:</LT>
+<LL>sei-m' eu aquesto e al sei de mi:</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "venci" AC = "------+--+">
+<LT><SEG C = "R" N = "CP" ID = "2">ca todolos d' este mun<SEG C = "M" N = "SIN" ID = "3">do eu</SEG> <SEG C = "R" N = "RD" ID = "4">venci</SEG></SEG></LT>
+<LL>ca todolos d' este mundo eu venci</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">d' amar, aman<SEG C = "M" N = "SIN" ID = "5">do a</SEG> que m' en poder <SEG C = "R" N = "PR" ID = "1">t<SEG C = "R" N = "CC" ID = "6">en</SEG></SEG></SEG>.</LT>
+<LL>d' amar, amando a que m' en poder ten.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "sen" AC = "---+-----+">
+<LT>A melhor dona e de melhor <SEG C = "R" N = "PR" ID = "1">s<SEG C = "R" N = "CC" ID = "6">en</SEG></SEG></LT>
+<LL>A melhor dona e de melhor sen</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "nacer" AC = "---+-----+">
+<LT>a mays fremosa que Deus fez nacer,</LT>
+<LL>a mays fremosa que Deus fez nacer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "querer" AC = "------+--+">
+<LT><SEG C = "R" N = "CP" ID = "2">essa sei de cora&ccedil;on ben <SEG C = "R" N = "MDI" ID = "7">querer</SEG></SEG>,</LT>
+<LL>essa sei de cora&ccedil;on ben querer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "ben" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "8">mais de quantus</SEG> donas <SEG C = "R" N = "MDI" ID = "7">quiserom</SEG> <SEG C = "R" N = "PR" ID = "1">ben</SEG></SEG></LT>
+<LL>mais de quantus donas quiserom ben</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "asi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">nen querran ja; e, pero est' &eacute; <SEG C = "R" N = "PV" ID = "9">asi</SEG></SEG>,</LT>
+<LL>nen querran ja; e, pero est' &eacute; asi,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "mereci" AC = "--+------+">
+<LT>aven-m' ende o <SEG C = "M" N = "SIN" ID = "10">que eu</SEG> non mereci:</LT>
+<LL>aven-m' ende o que eu non mereci:</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "tem" AC = "---+-----+">
+<LT>gran <SEG C = "R" N = "CF" ID = "11">desamor</SEG> que m' ela por &eacute;n <SEG C = "R" N = "PR" ID = "1">t<SEG C = "R" N = "CC" ID = "12">em</SEG></SEG>.</LT>
+<LL>gran desamor que m' ela por &eacute;n tem.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "sen" AC = "------+--+">
+<LT><SEG C = "R" N = "CP" ID = "2">Pero de a tant' <SEG C = "R" N = "CF" ID = "11">amar</SEG>, a meu <SEG C = "R" N = "PR" ID = "1">s<SEG C = "R" N = "CC" ID = "12">en</SEG></SEG></SEG>,</LT>
+<LL>Pero de a tant' amar, a meu sen,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "fazer" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "8">mays de quantus</SEG> outros Deus quis fazer</SEG></LT>
+<LL>mays de quantus outros Deus quis fazer</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "vencer" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "2">nen quantos me cuydan d' est' a <SEG C = "R" N = "MDI" ID = "7"> <SEG C = "R" N = "RD" ID = "4">vencer</SEG></SEG></SEG>,</LT>
+<LL>nen quantos me cuydan d' est' a  vencer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "ben" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "MDI" ID = "7">ven&ccedil;o</SEG>-os eu querendo-lhy gram <SEG C = "R" N = "PR" ID = "1">ben</SEG></SEG>,</LT>
+<LL>ven&ccedil;o-os eu querendo-lhy gram ben,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "entendy" AC = "---+-----+">
+<LT>pero que nunca d' el' al entendy</LT>
+<LL>pero que nunca d' el' al entendy</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT>se non gran sanha, des quando a vi,</LT>
+<LL>se non gran sanha, des quando a vi,</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>e mal talante que contra mi <SEG C = "R" N = "PR" ID = "1">ten</SEG>.</LT>
+<LL>e mal talante que contra mi ten.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "cca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "i" ERI = "aqui" AC = "---+-----+">
+<LT>E, senhor rey de Portugal, aqui</LT>
+<LL>E, senhor rey de Portugal, aqui</LL>
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+<L N = "2" NS = "10" RI = "i" ERI = "asy" AC = "-----+---+">
+<LT>julgad' ora se eu, amand' <SEG C = "R" N = "PV" ID = "9">asy</SEG>,</LT>
+<LL>julgad' ora se eu, amand' asy,</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "&eacute;n" AC = "------+--+">
+<LT>dev' a seer desamado por &eacute;n.</LT>
+<LL>dev' a seer desamado por &eacute;n.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="022013" NE="4" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Pois mi dizedes, amigo, ca mi queredes vós melhor</INCIPIT>
+
+      <NUCANT>22 13</NUCANT>
+
+      <RM BCA="B" EM="NO" F="243r" I.FI="lb243r" MU="NON" NM="1138"></RM>
+
+      <RM BCA="V" EM="NO" F="116r" I.FI="lv116r" MU="NON" NM="729"></RM>
+
+      <RM BCA="V" EM="NO" F="116v" I.FI="lv116v" MU="NON" NM="729"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 359</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 193</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1071</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 729</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Indini 15</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="364p"><COMAU>
+          <P>Seguimos a proposta de Cohen, p. 364, polo que respecta á
+          disposición da cantiga en versos longos.</P>
+        </COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>21/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Bernal de Bonaval <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cantiga B 1138. Está situada na
+          columna a do folio 243r. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="PA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 16</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:1 <NOTNESQ>
+            <P>Outras posibilidades, 37:2; 244:6 (I), 244:4 (II, III), 244:2
+            (IV)</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-/---+---+" ERI="melhor" N="1" NS="16" RI="or">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="2" N="CD">Pois</SEG> mi dizedes, amigo,<SEG
+                C="M" ID="3" N="CAE"></SEG> ca mi queredes vós melhor</SEG></LT>
+
+          <LL>Pois mi dizedes, amigo, ca mi queredes vós melhor</LL>
+        </L>
+
+        <L AC="-----+-+/-+-----+" ERI="Senhor" N="2" NS="16" RI="or">
+          <LT><SEG C="R" ID="1" N="CP">de quantas eno mundo son,<SEG C="M"
+                ID="4" N="CAE"></SEG> <SEG C="R" ID="5" N="CF">dizede</SEG>, por Nostro Senhor</SEG>,</LT>
+
+          <LL>de quantas eno mundo son, dizede, por Nostro Senhor,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+--+/+---+--+" ERI="daquen" N="3" NS="16" RI="en">
+            <LT>se mi vós queredes gran ben, <SEG C="M" ID="5a"
+            N="CAE"></SEG>como podedes <SEG C="I" ID="5b" N="RE">ir</SEG>
+            daquen?</LT>
+
+            <LL>se mi vós queredes gran ben, como podedes ir daquen?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 16</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:1 <NOTNESQ>
+            <P>Outras posibilidades, 37:2; 244:6 (I), 244:4 (II, III), 244:2
+            (IV)</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+/--+----+" ERI="amar" N="1" NS="16" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">E, <SEG C="R" ID="2" N="CD">pois</SEG> <SEG
+                C="R" ID="5" N="CF">dizedes</SEG> ca poder<SEG C="M" ID="6"
+                N="CAE"></SEG>non avedes d' al tant' amar</SEG></LT>
+
+          <LL>E, pois dizedes ca poder non avedes d' al tant' amar</LL>
+        </L>
+
+        <L AC="--+---+-/-+--+--+" ERI="ampar" N="2" NS="16" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="7" N="CD">come min</SEG>, ai meu amigo,<SEG
+                C="M" ID="8" N="CAE"></SEG> <SEG C="R" ID="9" N="CF">dizede</SEG>, se Deus vos ampar</SEG>,</LT>
+
+          <LL>come min, ai meu amigo, dizede, se Deus vos ampar,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+--+/+---+--+" ERI="daquen" N="3" NS="16" RI="en">
+            <LT>se mi vós queredes <SEG C="I" ID="10" N="RE">gran ben,<SEG
+                  C="M" ID="10a" N="CAE"></SEG> como podedes ir daquen</SEG>?</LT>
+
+            <LL>se mi vós queredes gran ben, como podedes ir daquen?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 16</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:1 <NOTNESQ>
+            <P>Outras posibilidades, 37:2; 244:6 (I), 244:4 (II, III), 244:2
+            (IV)</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+/---+---+" ERI="al" N="1" NS="16" RI="al">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="2" N="CD">E, pois</SEG> vos eu ouço <SEG
+                C="R" ID="9" N="CF">dizer</SEG><SEG C="M" ID="11" N="CAE"></SEG> ca non amades tan muit' al</SEG></LT>
+
+          <LL>E, pois vos eu ouço dizer ca non amades tan muit' al</LL>
+        </L>
+
+        <L AC="----+-+-/-+-+---+" ERI="Bonaval" N="2" NS="16" RI="al">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="7" N="CD">come mi</SEG>, <SEG
+                C="R" ID="12" N="CF">dized'</SEG>, amigo,<SEG C="M" ID="13"
+                N="CAE"></SEG>se Deus vos lev' a Bonaval</SEG>,</LT>
+
+          <LL>come mi, dized', amigo, se Deus vos lev' a Bonaval,</LL>
+
+          <TOPO CAT="LCULTO">Bonaval</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+--+/+---+--+" ERI="daquen" N="3" NS="16" RI="en">
+            <LT>se mi vós queredes <SEG C="I" ID="14" N="RE">gran ben<SEG
+                  C="M" ID="14a" N="CAE"></SEG>, como podedes ir daquen</SEG>?</LT>
+
+            <LL>se mi vós queredes gran ben, como podedes ir daquen?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 16</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:1 <NOTNESQ>
+            <P>Outras posibilidades, 37:2; 244:6 (I), 244:4 (II, III), 244:2
+            (IV)</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+/-+---+-+" ERI="molher" N="1" NS="16" RI="er">
+          <LT>Por que oí sempre <SEG C="R" ID="12" N="CF">dizer</SEG>,<SEG
+          C="M" ID="15" N="CAE"></SEG> du home muit' amou molher,</LT>
+
+          <LL>Por que oí sempre dizer, du home muit' amou molher,</LL>
+        </L>
+
+        <L AC="----+-+/-+--+--+" ERI="souber" N="2" NS="16" RI="er">
+          <LT>que se non podia end' ir,<SEG C="M" ID="16" N="CAE"></SEG>pesar
+          <SEG C="M" ID="17" N="SIN">mh á</SEG>, se eu non souber:</LT>
+
+          <LL>que se non podia end' ir,pesar mh á, se eu non souber:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-+--+/+---+--+" ERI="daquen" N="3" NS="16" RI="en">
+            <LT>se mi vós queredes <SEG C="I" ID="18" N="RE">gran ben<SEG
+                  C="M" ID="19" N="CAE"></SEG>, como podedes ir daquen</SEG>?</LT>
+
+            <LL>se mi vós queredes gran ben, como podedes ir daquen?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

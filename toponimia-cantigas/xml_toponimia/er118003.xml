@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="118003" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Martim Vasquez, noutro dia</INCIPIT>
+
+      <NUCANT>118 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="298r" I.FI="lb298r" MU="NON" NM="1432"><NOTMAN
+      N="1">Despois do terceiro verso da IV cobra aparece a rúbrica atributiva
+      Dom Pedro Conde de Portugal e despois un espacio en branco, onde segundo
+      M. Simões estaría o resto desta cobra e unha posible fiinda de tres
+      versos.</NOTMAN></RM>
+
+      <RM BCA="B" EM="NO" F="298v" I.FI="lb298v" MU="NON" NM="1432"><NOTMAN
+      N="1">Despois do terceiro verso da IV cobra aparece a rúbrica atributiva
+      Dom Pedro Conde de Portugal e despois un espacio en branco, onde segundo
+      M. Simões estaría o resto desta cobra e unha posible fiinda de tres
+      versos.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="169v" I.FI="lv169v" MU="NON" NM="1042"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 329</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1344</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1042</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 243-244</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 474</P>
+      </EDIANT>
+
+      <DATOAU NOME="Simões" NUA="10"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>14/01/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>A estrofa IV é fragmentaria.</P></FRI>
+
+      <NOTC>deest <COMNOTC><P>Nota colocciana situada ne marxe dereita á do
+      último verso conservado, columna b do folio 298r de B 1432.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Esta cantiga suso escrita que se começa &#34;Martim Vasquez, no
+      outro dia&#34; fez o conde a ũu jograr que avia nome Martim Vasquez e
+      preçava se que sabia d&#39; estrelogia e non sabia én nada e tolheu
+      vaidade na mão ca avia d&#39; aver eigreja de mil libras ou de mil e
+      quinhentas e mandou fazer corõa e razou a barba e foy se alem Doiro e
+      nom ouve nen migalha e o conde fez lhi esta cantiga.
+      <COMRUBRI><P>Rúbrica explicativa posposta á cantiga B 1432. Está situada
+      na columna a do folio 298v. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Dom Pedro de Portugal <COMRUBRI><P>Rúbrica atributiva situada
+      despois do último verso conservado (v. 3 IV) de B 1432. Está situana na
+      columna a do folio 298v. Despois desta rúbrica aparece un espacio en
+      branco onde segundo M. Simões estaría o que falta da cobra e unha
+      posible fiinda. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Esta cantiga suso escrita que se começa &#34;Martim Vasquez, no
+      outro dia&#34; fez o conde a ũu jograr que avia nome Martim Vasquez e
+      preçava se que sabia d&#39; estrelogia e non sabia én nada e tolheu
+      vaidade na mão ca avia d&#39; aver eigreja de mil libras ou de mil e
+      quinhentas e mandou fazer corõa e razou a barba e foy se alem Doiro e
+      nom ouve nen migalha e o conde fez lhi esta cantiga.
+      <COMRUBRI><P>Rúbrica explicativa posposta á cantiga B 1042. Está situada
+      na columna b do folio 169v. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SUP"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:297</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="dia" N="1" NS="7" RI="ia">
+          <LT>Martim Vasquez, noutro dia,</LT>
+
+          <LL>Martim Vasquez, noutro dia,</LL>
+
+          <ANTRO T="REAL">Martim Vasquez</ANTRO>
+        </L>
+
+        <L AC="--+---+-" ERI="Lixboa" N="2" NS="7" RI="oa">
+          <LT>u <SEG C="I" ID="1" N="RE">e</SEG>stava en Lixboa,</LT>
+
+          <LL>u estava en Lixboa,</LL>
+
+          <TOPO CAT="CIUDAD">Lixboa</TOPO>
+        </L>
+
+        <L AC="---+--+-" ERI="coroa" N="3" NS="7" RI="oa">
+          <LT>mandou fazer gram coroa,</LT>
+
+          <LL>mandou fazer gram coroa,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="estrologia" N="4" NS="7" RI="ia">
+          <LT>ca vio per <SEG C="R" ID="2" N="RD">estrologia</SEG></LT>
+
+          <LL>ca vio per estrologia</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="igreja" N="5" NS="7" RI="eja">
+          <LT><SEG C="R" ID="3" N="CD">que averia</SEG> igreja</LT>
+
+          <LL>que averia igreja</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="deseja" N="6" NS="7" RI="eja">
+          <LT>grande, qual la el deseja,</LT>
+
+          <LL>grande, qual la el deseja,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="valia" N="7" NS="7" RI="ia">
+          <LT>de mil libras en valia.</LT>
+
+          <LL>de mil libras en valia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:297</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="estrela" N="1" NS="7" RI="ela">
+          <LT><SEG C="R" ID="4" N="CPL">E diz que vio na <SEG C="R" ID="2"
+N="RD"><SEG C="R" ID="5" N="RE">e</SEG>strela</SEG></SEG>,</LT>
+
+          <LL>E diz que vio na estrela,</LL>
+        </L>
+
+        <L AC="+-----+-" ERI="demande" N="2" NS="7" RI="ande">
+          <LT>pero que a non demande,</LT>
+
+          <LL>pero que a non demande,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="grande" N="3" NS="7" RI="ande">
+          <LT><SEG C="R" ID="6" N="CP">d&#39; aver igreja mui grande</SEG>,</LT>
+
+          <LL>d&#39; aver igreja mui grande,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="mesela" N="4" NS="7" RI="ela">
+          <LT><SEG C="R" ID="6" N="CP"><SEG C="R" ID="7" N="CD">ca non</SEG> igreja mesela</SEG>;</LT>
+
+          <LL>ca non igreja mesela;</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="cura" N="5" NS="7" RI="ura">
+          <LT>ca da pequena nom cura,</LT>
+
+          <LL>ca da pequena nom cura,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="loucura" N="6" NS="7" RI="ura">
+          <LT>ca lhe seria loucura</LT>
+
+          <LL>ca lhe seria loucura</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="dela" N="7" NS="7" RI="ela">
+          <LT>d&#39; el aver a curar dela.</LT>
+
+          <LL>d&#39; el aver a curar dela.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:297</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="lũa" N="1" NS="7" RI="ua">
+          <LT><SEG C="R" ID="4" N="CPL">E diz que vio na lũa</SEG></LT>
+
+          <LL>E diz que vio na lũa</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="contenda" N="2" NS="7" RI="enda">
+          <LT><SEG C="M" ID="8" N="SIN">que a</SEG>veria, sem contenda,</LT>
+
+          <LL>que averia, sem contenda,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="renda" N="3" NS="7" RI="enda">
+          <LT><SEG C="R" ID="6" N="CP">igreja de mui gran renda</SEG></LT>
+
+          <LL>igreja de mui gran renda</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="nũa" N="4" NS="7" RI="ua">
+          <LT><SEG C="R" ID="6" N="CP"><SEG C="R" ID="7" N="CD">ca nom</SEG> pequena e nũa</SEG>;</LT>
+
+          <LL>ca nom pequena e nũa;</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="tardando" N="5" NS="7" RI="ando">
+          <LT>e porque lhe vai tardando</LT>
+
+          <LL>e porque lhe vai tardando</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="agravando" N="6" NS="7" RI="ando">
+          <LT>el vai-se mui<SEG C="M" ID="9" N="SIN">to a</SEG>gravando</LT>
+
+          <LL>el vai-se muito agravando</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="nenhũa" N="7" NS="7" RI="ua">
+          <LT>porque lhe nom dam nenhũa.</LT>
+
+          <LL>porque lhe nom dam nenhũa.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="espera" N="1" NS="7" RI="era">
+          <LT>El acercou na espera</LT>
+
+          <LL>El acercou na espera</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="certa" N="2" NS="7" RI="erta">
+          <LT>qual planeta tem por certa</LT>
+
+          <LL>qual planeta tem por certa</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="referta" N="3" NS="7" RI="erta">
+          <LT>que<SEG C="M" ID="10" N="SIN"> lhe ou</SEG>torga sem referta.</LT>
+
+          <LL>que lhe outorga sem referta.</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="-">
+          <LT><SEG C="I" ID="11" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

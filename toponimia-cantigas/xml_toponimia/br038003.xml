@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="038003bis" NE="4" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>Disse hum infante ante sa companha</INCIPIT>
+
+      <NUCANT>38 3bis</NUCANT>
+
+      <ATRIB NOME="Anónimo">
+        <NUCANT>157 14</NUCANT>
+
+        <P>Tavani parece inclinarse por considerala anónima (157,14). En
+        realidade, a rúbrica de B 1607 remite a un Fernand, e a de V 1140 a
+        Ernan. A maioría dos estudiosos atribúea a Fernand&#39; Esquio, pola
+        proximidade a B 1604 e B [1604bis], atribuídas a este trobador, das
+        que está separada por dous textos de Vidal (B 1605 e 1606). En C, todo
+        o grupo (da 1604 á 1607) aparece atribuído a Fernand&#39; Esquio.</P>
+      </ATRIB>
+
+      <RM BCA="B" EM="NO" F="340r" I.FI="lb340r" MU="NON" NM="1607"></RM>
+
+      <RM BCA="B" EM="NO" F="340v" I.FI="lb340v" MU="NON" NM="1607"></RM>
+
+      <RM BCA="V" EM="NO" F="187v" I.FI="lv187v" MU="NON" NM="1140"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 149</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1510</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1140</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 102-103</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, Apéndice I, 38</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 457</P>
+      </EDIANT>
+
+      <DATOAU NOME="Toriello" NUA="10"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>8/04/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(c I = c III)</P></FRI>
+
+      <RUBRICA>fernand <COMRUBRI><P>Rúbrica atributiva que precede á cantiga B
+      1607. Está situada na columna b do folio 340r. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>HERNAN... <COMRUBRI><P>Rúbrica atributiva situada na marxe
+      esquerda por non haber sitio enriba da cantiga V 1140. Está situada na
+      columna a do folio 187v. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="POB"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:204</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="companha" N="1" NS="10" RI="anha">
+          <LT>Dis<SEG C="I" ID="1" N="RE">s</SEG><SEG C="M" ID="2" N="SIN">e hum</SEG>
+          infante ante sa companha</LT>
+
+          <LL>Disse hum infante ante sa companha</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="fronteyra" N="2" NS="10" RI="eira">
+          <LT>que me daria besta na fronteyra:</LT>
+
+          <LL>que me daria besta na fronteyra:</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="veyra" N="3" NS="10" RI="eira">
+          <LT><SEG C="R" ID="3" N="CD">e non</SEG> será ja murzela, nen veyra,</LT>
+
+          <LL>e non será ja murzela, nen veyra,</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="castanha" N="4" NS="10" RI="anha">
+          <LT><SEG C="R" ID="3" N="CD">nen</SEG> branca, nem vermelha, nem
+          castanha;</LT>
+
+          <LL>nen branca, nem vermelha, nem castanha;</LL>
+        </L>
+
+        <L AC="------+--+" ERI="for" N="5" NS="7" RI="or">
+          <LT>pois amarela nen parda <SEG C="R" ID="5" N="PV">non for</SEG>,</LT>
+
+          <LL>pois amarela nen parda non for,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ladrador" N="6" NS="10" RI="or">
+          <LT>a pran sserá a besta ladrador</LT>
+
+          <LL>a pran sserá a besta ladrador</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Bretanha" N="7" NS="10" RI="anha">
+          <LT>que lh&#39; adurán do reino de Bretanha.</LT>
+
+          <LL>que lh&#39; adurán do reino de Bretanha.</LL>
+
+          <TOPO CAT="CIRCUNS">Bretanha</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:204</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+--+-" ERI="mandada" N="1" NS="10" RI="ada">
+          <LT><SEG C="R" ID="6" N="CP"><SEG C="R" ID="7" N="CD">Atal</SEG> besta como m&#39; el á mandada</SEG></LT>
+
+          <LL>Atal besta como m&#39; el á mandada</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="semelhas" N="2" NS="10" RI="elhas">
+          <LT><SEG C="R" ID="3" N="CD">non</SEG> foy home que lhe vis<SEG
+          C="I" ID="8" N="RE">s</SEG><SEG C="M" ID="9" N="SIN">e as</SEG>
+          semelhas:</LT>
+
+          <LL>non foy home que lhe visse as semelhas:</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="orelhas" N="3" NS="10" RI="elhas">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> ten rostro, nen olhos, nen
+          orelhas,</LT>
+
+          <LL>nen ten rostro, nen olhos, nen orelhas,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="delgada" N="4" NS="10" RI="ada">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> he gorda, nen magra, nen
+          delgada,</LT>
+
+          <LL>nen he gorda, nen magra, nen delgada,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ferrar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> he ferrada, nen é por ferrar,</LT>
+
+          <LL>nen he ferrada, nen é por ferrar,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="enfrear" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CD">nem</SEG> foy homen <SEG C="M" ID="10"
+          N="SIN">que a</SEG> vis<SEG C="I" ID="11" N="RE">s</SEG>e enfrear,</LT>
+
+          <LL>nem foy homen que a visse enfrear,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="cevada" N="7" NS="10" RI="ada">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> co<SEG C="M" ID="12" N="SIN">me er</SEG>va,
+          nen palha, nen cevada.</LT>
+
+          <LL>nen come erva, nen palha, nen cevada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:204</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-----+-" ERI="infante" N="1" NS="10" RI="ante">
+          <LT><SEG C="R" ID="6" N="CP"><SEG C="R" ID="7" N="CD">Atal</SEG> besta <SEG
+C="M" ID="13" N="SIN">mh-á</SEG> manda<SEG C="M" ID="14" N="SIN">da</SEG> este infante</SEG>!</LT>
+
+          <LL>Atal besta mh-á mandada este infante!</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="falha" N="2" NS="10" RI="alha">
+          <LT>ben vo-lo juro, amigo<SEG C="I" ID="15" N="RE">s</SEG>, sen
+          falha,</LT>
+
+          <LL>ben vo-lo juro, amigos, sen falha,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="valha" N="3" NS="10" RI="alha">
+          <LT><SEG C="R" ID="3" N="CD">non</SEG> sey eno mun<SEG C="M" ID="16"
+          N="SIN">do a</SEG>ver que a valha:</LT>
+
+          <LL>non sey eno mundo aver que a valha:</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="deante" N="4" NS="10" RI="ante">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> vay a çaga, nen vay adeante,</LT>
+
+          <LL>nen vay a çaga, nen vay adeante,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Senhor" N="5" NS="10" RI="or">
+          <LT>e tem, vus juro par Nostro Senhor,</LT>
+
+          <LL>e tem, vus juro par Nostro Senhor,</LL>
+        </L>
+
+        <L AC="na" ERI="for" N="6" NS="0" RI="or">
+          <LT><SEG C="I" ID="17" N="AU">...</SEG> poys nós morrermos, <SEG
+          C="R" ID="5" N="PV">non for</SEG></LT>
+
+          <LL>... poys nós morrermos, non for</LL>
+        </L>
+
+        <L AC="na" ERI="-ante" N="7" NS="0" RI="ante">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> <SEG C="I" ID="18" N="AU">...</SEG>
+          e foron <SEG C="I" ID="19" N="AU">...</SEG> <SEG C="I" ID="20"
+          N="RE">-ante</SEG>.</LT>
+
+          <LL>nen ... e foron ... -ante.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:212</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="------+--+-" ERI="besta" N="1" NS="10" RI="esta">
+          <LT><SEG C="R" ID="7" N="CD">Tal</SEG> rrapaz que lh&#39; á mester
+          d&#39; esta besta</LT>
+
+          <LL>Tal rrapaz que lh&#39; á mester d&#39; esta besta</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="achado" N="2" NS="10" RI="ado">
+          <LT>eu cuydo ben que lh&#39; o tenho achado:</LT>
+
+          <LL>eu cuydo ben que lh&#39; o tenho achado:</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="recado" N="3" NS="10" RI="ado">
+          <LT>que, prol nen coyta, non peça recado,</LT>
+
+          <LL>que, prol nen coyta, non peça recado,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="esta" N="4" NS="10" RI="esta">
+          <LT><SEG C="M" ID="21" N="SIN">que a</SEG> seu dono non <SEG C="I"
+          ID="22" N="RE">gaste nen a esta</SEG>,</LT>
+
+          <LL>que a seu dono non gaste nen a esta,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="ledo" N="5" NS="10" RI="edo">
+          <LT><SEG C="R" ID="3" N="CD">e non</SEG> ande triste, nen ande <SEG
+          C="I" ID="23" N="RE">l</SEG>edo,</LT>
+
+          <LL>e non ande triste, nen ande ledo,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="derredo" N="6" NS="10" RI="edo">
+          <LT><SEG C="R" ID="4" N="CD">nen</SEG> vaa deante, nen a derredo,</LT>
+
+          <LL>nen vaa deante, nen a derredo,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="vesta" N="7" NS="10" RI="esta">
+          <LT>e nunca cômha, nen beva, nen vesta.</LT>
+
+          <LL>e nunca cômha, nen beva, nen vesta.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

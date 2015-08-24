@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="089001" NE="6" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Ena primeira rua que cheguemos</INCIPIT>
+
+      <NUCANT>89 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="346r" I.FI="lb346r" MU="NON" NM="1621"></RM>
+
+      <RM BCA="B" EM="NO" F="346v" I.FI="lb346v" MU="NON" NM="1621"></RM>
+
+      <RM BCA="V" EM="NO" F="190r" I.FI="lv190r" MU="NON" NM="1154"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Cotarelo, Mariño, pp. 15-16</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1525</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1154</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 69-70</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 36</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 466</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="276"><COMAU><P>Lapa edita a cobra VI en letra
+      itálica e entre corchetes e dá a seguinte explicación: &#34;Tal vez por
+      isso mesmo, no final se nos oferece uma estrofe, que é uma nova
+      redacção, com variantes, da 4ª, não se sabendo se é versão do própio
+      autor ou alteração de qualquer escriba&#34;. (p. 182). Nós presentámola
+      sen corchetes paras evitar confusións, xa que estes signos son
+      empregados cando se trata de reconstruccións e este non é o caso, pois
+      esta cobra está presente nos dous manuscritos.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>27/04/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a IV = a VI; b IV, VI = a V; c IV = c VI)</P></FRI>
+
+      <RUBRICA>Martin anes morinho fez esta cantiga d&#39; escarnh&#39; e de
+      mal diz <COMRUBRI><P>Rúbrica explicativa que precede á cantiga B 1621.
+      Está situada na columna a do folio 346r. Enriba do z de dizer aparece un
+      sinal de abreviatura que indica que faltan as letras er. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Martin anes morinho <COMRUBRI><P>Rúbrica atributiva que precede
+      á cantiga B 1621. Está situada na columna a do folio 346r. Man do
+      copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Martim Anes Morinho <COMRUBRI><P>Rúbrica atributiva que precede
+      á cantiga V 1154. Está situada na columna a do folio 190r, concretamente
+      na marxe superior. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="POB"></TEMA>
+
+      <TEMA CAT="FAL"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:39</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+-" ERI="cheguemos" N="1" NS="10" RI="emos">
+          <LT>Ena primeira rua que cheguemos,</LT>
+
+          <LL>Ena primeira rua que cheguemos,</LL>
+        </L>
+
+        <L AC="---+----+" ERI="ben" N="2" NS="10" RI="en">
+          <LT>guarnir-nos-á Don Foan mui ben</LT>
+
+          <LL>guarnir-nos-á Don Foan mui ben</LL>
+
+          <ANTRO T="REAL">Don Foan</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="sabemos" N="3" NS="10" RI="emos">
+          <LT>dun pan&#39; estranho que todos sabemos,</LT>
+
+          <LL>dun pan&#39; estranho que todos sabemos,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ten" N="4" NS="10" RI="en">
+          <LT>dũa gualdrapa perrexil que ten;</LT>
+
+          <LL>dũa gualdrapa perrexil que ten;</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="pano" N="5" NS="10" RI="ano">
+          <LT>e as calças seran de melhor pano:</LT>
+
+          <LL>e as calças seran de melhor pano:</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="antano" N="6" NS="10" RI="ano">
+          <LT>feitas seran de névoa d&#39; antano;</LT>
+
+          <LL>feitas seran de névoa d&#39; antano;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="seremos" N="7" NS="10" RI="emos">
+          <LT>e nós de chufas guarnidos seremos.</LT>
+
+          <LL>e nós de chufas guarnidos seremos.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:43</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="capa" N="1" NS="10" RI="apa">
+          <LT><SEG C="R" ID="1" N="CD">E prometeu-m&#39;</SEG> el ũa bõa <SEG
+          C="R" ID="2" N="PV">capa</SEG>,</LT>
+
+          <LL>E prometeu-m&#39; el ũa bõa capa,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="luito" N="2" NS="10" RI="uito">
+          <LT>ca non destas maas feitas de luito,</LT>
+
+          <LL>ca non destas maas feitas de luito,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="gualdrapa" N="3" NS="10" RI="apa">
+          <LT>mais outra bõa, feita de gualdrapa,</LT>
+
+          <LL>mais outra bõa, feita de gualdrapa,</LL>
+        </L>
+
+        <L AC="-+-------+-" ERI="muito" N="4" NS="10" RI="uito">
+          <LT>cintada, e de non pouco nen muito;</LT>
+
+          <LL>cintada, e de non pouco nen muito;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="mizcradas" N="5" NS="10" RI="adas">
+          <LT>e ũa pena, non destas mizcradas,</LT>
+
+          <LL>e ũa pena, non destas mizcradas,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="paradas" N="6" NS="10" RI="adas">
+          <LT>mais outra bõa, de chufas paradas;</LT>
+
+          <LL>mais outra bõa, de chufas paradas;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="capa" N="7" NS="10" RI="apa">
+          <LT>já m&#39; eu daqui non irei sen a <SEG C="R" ID="2" N="PV">capa</SEG>.</LT>
+
+          <LL>já m&#39; eu daqui non irei sen a capa.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="mentira" N="1" NS="10" RI="ira">
+          <LT>Viste-lo potro coor de <SEG C="R" ID="3" N="RD">mentira</SEG>,</LT>
+
+          <LL>Viste-lo potro coor de mentira,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="janeiro" N="2" NS="10" RI="eiro">
+          <LT><SEG C="R" ID="4" N="CD">que<SEG C="M" ID="5" N="SIN"> mi</SEG></SEG><SEG
+          C="M" ID="5" N="SIN"> an</SEG>tano prometeu en janeiro,</LT>
+
+          <LL>que mi antano prometeu en janeiro,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="vira" N="3" NS="10" RI="ira">
+          <LT>que nunca ome melhor aqui vira?</LT>
+
+          <LL>que nunca ome melhor aqui vira?</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Mentireiro" N="4" NS="10" RI="eiro">
+          <LT>Criado foi en Castro <SEG C="R" ID="3" N="RD">Mentireiro</SEG>.</LT>
+
+          <LL>Criado foi en Castro Mentireiro.</LL>
+
+          <TOPO CAT="TOPOME">Castro Mentireiro</TOPO>
+        </L>
+
+        <L AC="---+----+" ERI="enton" N="5" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CD">E prometeu-m&#39;</SEG> ũas armas
+          enton,</LT>
+
+          <LL>E prometeu-m&#39; ũas armas enton,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Leon" N="6" NS="10" RI="on">
+          <LT>non destas maas feitas de Leon,</LT>
+
+          <LL>non destas maas feitas de Leon,</LL>
+
+          <TOPO CAT="CIUDAD">Leon</TOPO>
+        </L>
+
+        <L AC="--+------+-" ERI="Freixeeiro" N="7" NS="10" RI="eiro">
+          <LT>mais melhores, d&#39; Outeir&#39; en Freixeeiro.</LT>
+
+          <LL>mais melhores, d&#39; Outeir&#39; en Freixeeiro.</LL>
+
+          <TOPO CAT="TOPOME">Outeiro</TOPO>
+
+          <TOPO CAT="TOPOME">Freixeeiro</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:43</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+-" ERI="loriga" N="1" NS="10" RI="iga">
+          <LT><SEG C="R" ID="6" N="CP">Con grande lavor, mi deu a <SEG C="R"
+ID="7" N="PRI">loriga</SEG></SEG>,</LT>
+
+          <LL>Con grande lavor, mi deu a loriga,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="viada" N="2" NS="10" RI="ada">
+          <LT><SEG C="R" ID="6" N="CP">e toda era de chufas <SEG C="R" ID="8"
+N="PRI">viada</SEG></SEG>;</LT>
+
+          <LL>e toda era de chufas viada;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="diga" N="3" NS="10" RI="iga">
+          <LT><SEG C="R" ID="9" N="CP">e, como quer que vos end&#39; eu al <SEG
+C="R" ID="10" N="PRI"><SEG C="R" ID="11" N="RD">diga</SEG></SEG></SEG>,</LT>
+
+          <LL>e, como quer que vos end&#39; eu al diga,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="pousada" N="4" NS="10" RI="ada">
+          <LT><SEG C="R" ID="9" N="CP"><SEG C="R" ID="12" N="CD">nunca</SEG> mi a ome viu na <SEG
+C="R" ID="13" N="PRI">pousada</SEG></SEG>;</LT>
+
+          <LL>nunca mi a ome viu na pousada;</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="mesonha" N="5" NS="10" RI="onha">
+          <LT><SEG C="R" ID="14" N="CP">e <SEG C="I" ID="15" N="RE">atan</SEG> cravelada de mesonha</SEG></LT>
+
+          <LL>e atan cravelada de mesonha</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Coronha" N="6" NS="10" RI="onha">
+          <LT><SEG C="R" ID="14" N="CP">e tan lev&#39; era, que ben de Coronha</SEG></LT>
+
+          <LL>e tan lev&#39; era, que ben de Coronha</LL>
+
+          <TOPO CAT="TOPOME">Coronha</TOPO>
+        </L>
+
+        <L AC="---+-----+-" ERI="formiga" N="7" NS="10" RI="iga">
+          <LT><SEG C="R" ID="14" N="CP">a trageri<SEG C="M" ID="16" N="SIN">a <SEG
+C="R" ID="17" N="PRI">a</SEG></SEG> <SEG C="R" ID="17" N="PRI">qui ũa formiga</SEG></SEG>.</LT>
+
+          <LL>a trageria a qui ũa formiga.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>100:41</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="preçada" N="1" NS="10" RI="ada">
+          <LT><SEG C="R" ID="1" N="CD">E prometeu-m&#39;</SEG> ũa arma
+          preçada,</LT>
+
+          <LL>E prometeu-m&#39; ũa arma preçada,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="conhoceron" N="2" NS="10" RI="eron">
+          <LT>como dizen os que a conhoceron;</LT>
+
+          <LL>como dizen os que a conhoceron;</LL>
+        </L>
+
+        <L AC="----+-----+-" ERI="espada" N="3" NS="11" RI="ada">
+          <LT>&#34;gualdrapa fariz&#34; avia nom&#39;<SEG C="M" ID="18"
+          N="SIN"> a es</SEG>pada,</LT>
+
+          <LL>&#34;gualdrapa fariz&#34; avia nom&#39; a espada,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="perderon" N="4" NS="10" RI="eron">
+          <LT>de mouros foi, non sei u xa perderon;</LT>
+
+          <LL>de mouros foi, non sei u xa perderon;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="i" N="5" NS="10" RI="i">
+          <LT>e perponto mi prometeu logu&#39; i</LT>
+
+          <LL>e perponto mi prometeu logu&#39; i</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="recebi" N="6" NS="10" RI="i">
+          <LT>de nevoei<SEG C="M" ID="19" N="SIN">ro, e</SEG> eu lho recebi,</LT>
+
+          <LL>de nevoeiro, e eu lho recebi,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="nada" N="7" NS="10" RI="ada">
+          <LT>que me pagass&#39;, a seu poder, de nada.</LT>
+
+          <LL>que me pagass&#39;, a seu poder, de nada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39; 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:43</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-------+-" ERI="loriga" N="1" NS="10" RI="iga">
+          <LT><SEG C="R" ID="6" N="CP">De preç&#39; e con labor foi a <SEG
+C="R" ID="7" N="PRI">loriga</SEG></SEG></LT>
+
+          <LL>De preç&#39; e con labor foi a loriga</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="aviada" N="2" NS="10" RI="ada">
+          <LT><SEG C="R" ID="6" N="CP"><SEG C="R" ID="4" N="CD">que m&#39;</SEG> el mandou e de burl&#39; <SEG
+C="R" ID="8" N="PRI">aviada</SEG></SEG>;</LT>
+
+          <LL>que m&#39; el mandou e de burl&#39; aviada;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="diga" N="3" NS="10" RI="iga">
+          <LT><SEG C="R" ID="9" N="CP">mais, como quer que vo-lo omen <SEG
+C="R" ID="10" N="PRI"><SEG C="R" ID="11" N="RD">diga</SEG></SEG></SEG>,</LT>
+
+          <LL>mais, como quer que vo-lo omen diga,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="pousada" N="4" NS="10" RI="ada">
+          <LT><SEG C="R" ID="9" N="CP"><SEG C="R" ID="12" N="CD">nunc&#39;</SEG><SEG
+C="M" ID="20" N="SIN"> a a</SEG> min viron teer na <SEG C="R" ID="13" N="PRI">pousada</SEG></SEG>:</LT>
+
+          <LL>nunc&#39; a a min viron teer na pousada:</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="çamponha" N="5" NS="10" RI="onha">
+          <LT><SEG C="R" ID="14" N="CP">ben cravelada e<SEG C="I" ID="21"
+N="RE">ra</SEG> de çamponha</SEG>,</LT>
+
+          <LL>ben cravelada era de çamponha,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Monconha" N="6" NS="10" RI="onha">
+          <LT><SEG C="R" ID="14" N="CP">des i tan leve, que ben de Monconha</SEG></LT>
+
+          <LL>des i tan leve, que ben de Monconha</LL>
+
+          <TOPO CAT="TOPOME">Monconha</TOPO>
+        </L>
+
+        <L AC="--+------+-" ERI="formiga" N="7" NS="10" RI="iga">
+          <LT><SEG C="R" ID="14" N="CP"><SEG C="M" ID="22" N="SIN">mi a</SEG> aduria <SEG
+C="R" ID="17" N="PRI">aqui ũa formiga</SEG></SEG>.</LT>
+
+          <LL>mi a aduria aqui ũa formiga.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

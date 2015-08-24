@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="060012" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Pero Fernandiz, home de barnage</INCIPIT>
+
+      <NUCANT>60 12</NUCANT>
+
+      <RM BCA="V" EM="NO" F="160r" I.FI="lv160r" MU="NON" NM="1000"></RM>
+
+      <RM BCA="V" EM="NO" F="160v" I.FI="lv160v" MU="NON" NM="1000"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 168</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1647</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1000</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 128</P>
+      </EDIANT>
+
+      <DATOAU NOME="Víñez" NUA="9"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>12/06/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(c I = c III)</P></FRI>
+
+      <RUBRICA>Estas cantigas son de mal dizer e fezeas tonçal&#39; eanes do
+      uinhal <COMRUBRI><P>Rúbrica atributiva que precede á cantiga V 1000.
+      Está no folio 160r, columna b. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Gonçal&#39; eanes do vinhal <COMRUBRI><P>Rúbrica atributiva que
+      precede á cantiga V 1000. Está situada no folio 160r, columna b: Man de
+      Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="POB"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O v. 2 é hipérmetro, e o v. 5 é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>101:32</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+-+---+-" ERI="barnage" N="1" NS="10" RI="age">
+          <LT>Pero Fernandiz, home de barnage,</LT>
+
+          <LL>Pero Fernandiz, home de barnage,</LL>
+
+          <ANTRO T="REAL">Pero Barnage</ANTRO>
+        </L>
+
+        <L AC="---+-+--+-+-" ERI="muu" N="2" NS="10" RI="uu">
+          <LT>que me non quer de noyte guardar o muu,</LT>
+
+          <LL>que me non quer de noyte guardar o muu,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="peage" N="3" NS="10" RI="age">
+          <LT>se aca d&#39; el travarem por peage,</LT>
+
+          <LL>se aca d&#39; el travarem por peage,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="huu" N="4" NS="10" RI="uu">
+          <LT><SEG C="R" ID="1" N="CD">como</SEG> non trage dinheiro nen huu,</LT>
+
+          <LL>como non trage dinheiro nen huu,</LL>
+        </L>
+
+        <L AC="--+--+--+" ERI="travar" N="5" NS="9" RI="ar">
+          <LT>non lhi vaam na capa travar,</LT>
+
+          <LL>non lhi vaam na capa travar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ssanhar" N="6" NS="10" RI="ar">
+          <LT>neno assanhen, ca sse ss&#39; assanhar,</LT>
+
+          <LL>neno assanhen, ca sse ss&#39; assanhar,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="cuu" N="7" NS="10" RI="uu">
+          <LT><SEG C="R" ID="2" N="CP">pagar-lhis-á el peage de cuu</SEG>.</LT>
+
+          <LL>pagar-lhis-á el peage de cuu.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:28</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+-" ERI="companha" N="1" NS="10" RI="anha">
+          <LT>¡D&#39; esses<SEG C="M" ID="3" N="SIN"> mh-am</SEG> i d&#39;
+          andar en mha companha!,</LT>
+
+          <LL>¡D&#39; esses mh-am i d&#39; andar en mha companha!,</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="vi" N="2" NS="10" RI="i">
+          <LT>ca nunca home tan sanhudo vi;</LT>
+
+          <LL>ca nunca home tan sanhudo vi;</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="Espanha" N="3" NS="10" RI="anha">
+          <LT>eu oy ja que hun home d&#39; Espanha</LT>
+
+          <LL>eu oy ja que hun home d&#39; Espanha</LL>
+
+          <TOPO CAT="CIRCUNS">Espanha</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="aqui" N="4" NS="1" RI="i">
+          <LT>sobre peagen mataron aqui;</LT>
+
+          <LL>sobre peagen mataron aqui;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="coraçon" N="5" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CD">e com&#39;</SEG> é home de gram
+          coraçon,</LT>
+
+          <LL>e com&#39; é home de gram coraçon,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="Gaston" N="6" NS="10" RI="on">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="4" N="CD">se lhi peagen</SEG> pedir o Gaston</SEG>,</LT>
+
+          <LL>se lhi peagen pedir o Gaston,</LL>
+
+          <ANTRO T="REAL">Gaston</ANTRO>
+        </L>
+
+        <L AC="-+--+----+" ERI="hy" N="7" NS="10" RI="i">
+          <LT><SEG C="R" ID="2" N="CP">peage de cuu pagará hy</SEG>.</LT>
+
+          <LL>peage de cuu pagará hy.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:28</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+----+-" ERI="ardura" N="1" NS="10" RI="ura">
+          <LT>Ca el ven quebrando con grand&#39; ardura</LT>
+
+          <LL>Ca el ven quebrando con grand&#39; ardura</LL>
+        </L>
+
+        <L AC="----+----+" ERI="ja" N="2" NS="10" RI="a">
+          <LT>con este mandado que oyu ja,</LT>
+
+          <LL>con este mandado que oyu ja,</LL>
+        </L>
+
+        <L AC="-+--+--+-+-" ERI="loucura" N="3" NS="10" RI="ura">
+          <LT>e ferve-lh&#39; o san<SEG C="M" ID="5" N="SIN">gui e</SEG> fará
+          loucura</LT>
+
+          <LL>e ferve-lh&#39; o sangui e fará loucura</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="esguardará" N="4" NS="10" RI="a">
+          <LT>que nulha ren hy non esguardará;</LT>
+
+          <LL>que nulha ren hy non esguardará;</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="demandar" N="5" NS="10" RI="andar">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="4" N="CD">se lhi peagen</SEG> foren demandar</SEG></LT>
+
+          <LL>se lhi peagen foren demandar</LL>
+        </L>
+
+        <L AC="--+---+--+" ERI="Bear" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP">os porteiros do Gaston de Bear</SEG>,</LT>
+
+          <LL>os porteiros do Gaston de Bear,</LL>
+
+          <ANTRO T="REAL">Gaston de Bear</ANTRO>
+        </L>
+
+        <L AC="+---+---+-+" ERI="dará" N="7" NS="10" RI="a">
+          <LT><SEG C="R" ID="2" N="CP">bevan a peagen que lhis el dará</SEG>.</LT>
+
+          <LL>bevan a peagen que lhis el dará.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

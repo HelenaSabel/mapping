@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018024" TC = "REFR" NE = "3" SG = "NO" XE = "EA" OL = "NON">
+<INCIPIT>Med' ei ao pertigueiro que ten De&ccedil;a</INCIPIT>
+<NUCANT>18 24</NUCANT>
+<RM BCA = "B" NM = "460" F = "101v" MU = "NON" EM = "NO" I.FI = "lb101v"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 352</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 402</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 30</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 23</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "5"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>21/10/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "OR">
+<SUBTEMA CAT = "NB"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 12' 10'</ESQMET></INFMET>
+<NUMESQ>19:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "e&ccedil;a" ERI = "De&ccedil;a" AC = "-+---+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Med' ei ao pertigueiro que ten De&ccedil;a</SEG>:</LT>
+<LL>Med' ei ao pertigueiro que ten De&ccedil;a:</LL>
+
+<TOPO CAT = "CIRCUNS">De&ccedil;a</TOPO></L>
+<L N = "2" NS = "10" RI = "e&ccedil;a" ERI = "calvare&ccedil;a" AC = "-+---+---+-">
+<LT><SEG C = "R" N = "PL" ID = "2">semelha Pedro Gil na calvare&ccedil;a</SEG>,</LT>
+<LL>semelha Pedro Gil na calvare&ccedil;a,</LL>
+
+<ANTRO T = "REAL">Pedro Gil</ANTRO></L>
+<L N = "3" NS = "10" RI = "e&ccedil;a" ERI = "pe&ccedil;a" AC = "-----+---+-">
+<LT>e non vi mia senhor <SEG C = "I" N = "RE" ID = "3">&aacute;</SEG> mui gran pe&ccedil;a,</LT>
+<LL>e non vi mia senhor &aacute; mui gran pe&ccedil;a,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">M&iacute;lia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>M&iacute;lia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L>
+<L N = "5" NS = "12" RI = "amo" ERI = "chamo" AC = "-+---+-----+-">
+<LT>Antolha-xe-me riso, pertigueiro: chamo</LT>
+<LL>Antolha-xe-me riso, pertigueiro: chamo</LL>
+</L>
+<L N = "6" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">M&iacute;lia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>M&iacute;lia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 12' 10'</ESQMET></INFMET>
+<NUMESQ>19:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "oo" ERI = "soo" AC = "-+---+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Med' ei ao pertigueir' e ando soo</SEG>,</LT>
+<LL>Med' ei ao pertigueir' e ando soo,</LL>
+</L>
+<L N = "2" NS = "10" RI = "oo" ERI = "feijoo" AC = "--+---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "2">que semelha Pero Gil no feijoo</SEG>,</LT>
+<LL>que semelha Pero Gil no feijoo,</LL>
+
+<ANTRO T = "REAL">Pedro Gil</ANTRO></L>
+<L N = "3" NS = "10" RI = "oo" ERI = "doo" AC = "--+--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "5">e non vi mia senhor, ond' <SEG C = "R" N = "CF" ID = "6">ei</SEG> gran doo</SEG>,</LT>
+<LL>e non vi mia senhor, ond' ei gran doo,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">Milia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>Milia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L>
+<L N = "5" NS = "12" RI = "amo" ERI = "chamo" AC = "-+---+-----+-">
+<LT>Antolha-xe-me riso, pertigueiro: chamo</LT>
+<LL>Antolha-xe-me riso, pertigueiro: chamo</LL>
+</L>
+<L N = "6" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">Milia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>Milia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 12' 10'</ESQMET></INFMET>
+<NUMESQ>19:12</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ejo" ERI = "mejo" AC = "-+---+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Med' <SEG C = "R" N = "CF" ID = "6">ei</SEG> do pertigueiro tal que mejo</SEG>,</LT>
+<LL>Med' ei do pertigueiro tal que mejo,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ejo" ERI = "vedejo" AC = "--+---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "2">que semelha Pero Gil no vedejo</SEG>,</LT>
+<LL>que semelha Pero Gil no vedejo,</LL>
+
+<ANTRO T = "REAL">Pero Gil</ANTRO></L>
+<L N = "3" NS = "10" RI = "ejo" ERI = "desejo" AC = "--+--+-+-+-">
+<LT><SEG C = "R" N = "PL" ID = "5">e non vi mia senhor, ond' ei desejo</SEG>,</LT>
+<LL>e non vi mia senhor, ond' ei desejo,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">Milia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>Milia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L>
+<L N = "5" NS = "12" RI = "amo" ERI = "chamo" AC = "-+---+-----+-">
+<LT>Antolha-xe-me riso, pertigueiro: chamo</LT>
+<LL>Antolha-xe-me riso, pertigueiro: chamo</LL>
+</L>
+<L N = "6" NS = "10" RI = "amo" ERI = "amo" AC = "+----+---+-">
+<LT><SEG C = "R" N = "RR" ID = "4">Milia Sancha Fern&aacute;ndiz, que muit' amo</SEG>.</LT>
+<LL>Milia Sancha Fern&aacute;ndiz, que muit' amo.</LL>
+
+<ANTRO T = "REAL">M&iacute;lia Sancha Fern&aacute;ndiz</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

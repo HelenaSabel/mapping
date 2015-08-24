@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="018013" NE="4+F" OL="NON" SG="NO" TC="MEST" XE="EPO">
+      <INCIPIT>Don Foan, quand&#39; ogano aqui chegou</INCIPIT>
+
+      <NUCANT>18 13</NUCANT>
+
+      <RM BCA="B" EM="NO" F="108v" I.FI="lb108v" MU="NON" NM="486"></RM>
+
+      <RM BCA="V" EM="NO" F="4v" I.FI="lv004v" MU="NON" NM="69"></RM>
+
+      <RM BCA="V" EM="NO" F="5r" I.FI="lv005r" MU="NON" NM="69"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VI, pp. 287-288</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 431</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 69</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Carballo/García, Afonso X, pp. 43-44</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 16</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 45</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="32"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>20/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima c unis.)</P></FRI>
+
+      <NOTC>ffoao <COMNOTC><P>En B aparece esta nota lingüística que se refire
+      á palabra ffoado, que está suliñada, no verso 1 I. Está situada enriba
+      da palabra á que se refire.</P></COMNOTC></NOTC>
+
+      <RUBRICA>El rey Dom Affonso de Castela he de Leom <COMRUBRI><P>Rúbrica
+      atributiva situada na amrxe superior do folio 5r de V. Man do copista</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="COV"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+--+" ERI="chegou" N="1" NS="10" RI="ou">
+          <LT>Don Foan, quand&#39; oga<SEG C="M" ID="1" N="SIN">no a</SEG>qui
+          chegou</LT>
+
+          <LL>Don Foan, quand&#39; ogano aqui chegou</LL>
+
+          <ANTRO T="REAL">Don Foan</ANTRO>
+        </L>
+
+        <L AC="---+-+---+-" ERI="guerra" N="2" NS="10" RI="erra">
+          <LT>primeirament&#39; e viu volta e guerra,</LT>
+
+          <LL>primeirament&#39; e viu volta e guerra,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="terra" N="3" NS="10" RI="erra">
+          <LT>tan gran sabor ouve d&#39; ir a sa terra</LT>
+
+          <LL>tan gran sabor ouve d&#39; ir a sa terra</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="filhou" N="4" NS="10" RI="ou">
+          <LT>que logu&#39; enton por adail filhou</LT>
+
+          <LL>que logu&#39; enton por adail filhou</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="leixar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP">seu coraçon; e el fez-lh&#39; i <SEG
+C="R" ID="3" N="PR"> <SEG C="R" ID="4" N="PV">leixar</SEG></SEG></SEG>,</LT>
+
+          <LL>seu coraçon; e el fez-lh&#39; i leixar,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="alongar" N="6" NS="10" RI="ar">
+          <LT>polo mais toste da guerr&#39; alongar,</LT>
+
+          <LL>polo mais toste da guerr&#39; alongar,</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="serra" N="7" NS="10" RI="erra">
+          <LT><SEG C="R" ID="5" N="CD">prez</SEG> e esforço, e passou a serra.</LT>
+
+          <LL>prez e esforço, e passou a serra.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-+" ERI="sen" N="1" NS="10" RI="en">
+          <LT>En esto fez come de bõo sen:</LT>
+
+          <LL>En esto fez come de bõo sen:</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="conhocia" N="2" NS="10" RI="ia">
+          <LT>en filhar adail que conhocia;</LT>
+
+          <LL>en filhar adail que conhocia;</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="sabia" N="3" NS="10" RI="ia">
+          <LT>que estes passos maos ben <SEG C="R" ID="6" N="RD">sabia</SEG>,</LT>
+
+          <LL>que estes passos maos ben sabia,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="ben" N="4" NS="10" RI="en">
+          <LT>e el guardo-o logu&#39; enton mui ben</LT>
+
+          <LL>e el guardo-o logu&#39; enton mui ben</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="leixar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP">deles e fez-lhi de destro <SEG C="R"
+ID="3" N="PR">leixar</SEG></SEG></LT>
+
+          <LL>deles e fez-lhi de destro leixar</LL>
+        </L>
+
+        <L AC="--+---+--+" ERI="lidar" N="6" NS="10" RI="ar">
+          <LT>lealdad&#39; e de seestro lidar</LT>
+
+          <LL>lealdad&#39; e de seestro lidar</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="-ia" N="7" NS="10" RI="ia">
+          <LT>...<SEG C="I" ID="7" N="RE">-ia</SEG>.</LT>
+
+          <LL>...-ia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 7 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>163:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+" ERI="sabedor" N="1" NS="10" RI="or">
+          <LT>O adail é mui <SEG C="I" ID="8" N="RE">gran</SEG> <SEG C="R"
+          ID="6" N="RD">sabedor</SEG>,</LT>
+
+          <LL>O adail é mui gran sabedor,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="carreira" N="2" NS="10" RI="eira">
+          <LT>que o guiou per aquela carreira:</LT>
+
+          <LL>que o guiou per aquela carreira:</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="fronteira" N="3" NS="10" RI="eira">
+          <LT>por que <SEG C="I" ID="9" N="RE">o</SEG> fez desguiar da
+          fronteira</LT>
+
+          <LL>por que o fez desguiar da fronteira</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="senhor" N="4" NS="10" RI="or">
+          <LT>e en tal guerra leixar seu senhor;</LT>
+
+          <LL>e en tal guerra leixar seu senhor;</LL>
+        </L>
+
+        <L AC="--+----+-+" ERI="leixar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP">e direi-vos al que lhi fez <SEG C="R"
+ID="3" N="PR"><SEG C="R" ID="4" N="PV">leixar</SEG></SEG></SEG>:</LT>
+
+          <LL>e direi-vos al que lhi fez leixar:</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="ficar" N="6" NS="10" RI="ar">
+          <LT>ben que podera fazer por ficar,</LT>
+
+          <LL>ben que podera fazer por ficar,</LL>
+        </L>
+
+        <L AC="----+-----+-" ERI="Talaveira" N="7" NS="11" RI="eira">
+          <LT>e fe<SEG C="M" ID="10" N="SIN">ze-o</SEG> poer aalen a
+          Talaveira.</LT>
+
+          <LL>e feze-o poer aalen a Talaveira.</LL>
+
+          <TOPO CAT="CIUDAD">Talaveira</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+" ERI="perdon" N="1" NS="10" RI="on">
+          <LT>Muito foi ledo, se Deus me perdon,</LT>
+
+          <LL>Muito foi ledo, se Deus me perdon,</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="fora" N="2" NS="10" RI="ora">
+          <LT>quando se viu daqueles passos fora</LT>
+
+          <LL>quando se viu daqueles passos fora</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="ora" N="3" NS="10" RI="ora">
+          <LT>que vos ja dix&#39;, e diss&#39; en essa ora:</LT>
+
+          <LL>que vos ja dix&#39;, e diss&#39; en essa ora:</LL>
+        </L>
+
+        <L AC="----+----+" ERI="razon" N="4" NS="10" RI="on">
+          <LT>- Par Deus, adail, muit&#39; ei gran razon</LT>
+
+          <LL>- Par Deus, adail, muit&#39; ei gran razon</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="leixar" N="5" NS="10" RI="ar">
+          <LT>de sempr&#39; en vós mia fazenda <SEG C="R" ID="3" N="PR"><SEG
+C="R" ID="4" N="PV">leixar</SEG></SEG>;</LT>
+
+          <LL>de sempr&#39; en vós mia fazenda leixar;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="logar" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="11" N="CD">ca non</SEG> me mova d<SEG C="I"
+          ID="12" N="RE">aqu</SEG>este logar,</LT>
+
+          <LL>ca non me mova daqueste logar,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="Lora" N="7" NS="10" RI="ora">
+          <LT>se ja mais nunca cuidei passar Lora.</LT>
+
+          <LL>se ja mais nunca cuidei passar Lora.</LL>
+
+          <TOPO CAT="ALDEA">Lora</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="ccb"><NOTRIM><P>Rima sobre IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="acomendar" N="1" NS="10" RI="ar">
+          <LT>E ao Demo vou acomendar</LT>
+
+          <LL>E ao Demo vou acomendar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="lidar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="5" N="CD">prez</SEG> deste mun<SEG C="M" ID="13"
+          N="SIN">do, e</SEG> armas e lidar,</LT>
+
+          <LL>prez deste mundo, e armas e lidar,</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="chora" N="3" NS="10" RI="ora">
+          <LT><SEG C="R" ID="11" N="CD">ca non</SEG> é jog&#39; o de que omen
+          chora!</LT>
+
+          <LL>ca non é jog&#39; o de que omen chora!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

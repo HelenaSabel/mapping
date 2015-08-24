@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="079026" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP MCM">
+      <INCIPIT>Joan Fernández, o mund&#39; é torvado</INCIPIT>
+
+      <NUCANT>79 26</NUCANT>
+
+      <RM BCA="V" EM="NO" F="163r" I.FI="lv163r" MU="NON" NM="1013"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, p. 685</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 287</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1660</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1013</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 25</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 183</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 118</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 174-175, 495-495</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 193</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="230"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>12/03/99</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima a)</P></FRI>
+
+      <FRI>c. sing.<P>(rima b)</P></FRI>
+
+      <TEMA CAT="VIX"></TEMA>
+
+      <TEMA CAT="INS"><SUBTEMA CAT="MX"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="ababba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>79:10</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+--+--+-" ERI="torvado" N="1" NS="10" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Joan Fernández</SEG>, o mund&#39; é
+          torvado</LT>
+
+          <LL>Joan Fernández, o mund&#39; é torvado</LL>
+
+          <ANTRO T="REAL">Joan Fernández</ANTRO>
+        </L>
+
+        <L AC="--+-+--+-+" ERI="fiir" N="2" NS="10" RI="ir">
+          <LT>e, de pran, cuidamos que quer <SEG C="R" ID="2" N="RD">fiir</SEG>:</LT>
+
+          <LL>e, de pran, cuidamos que quer fiir:</LL>
+        </L>
+
+        <L AC="-+----+--+-" ERI="levantado" N="3" NS="10" RI="ado">
+          <LT>veemo<SEG C="M" ID="3" N="SIN">-lo Em</SEG>perador levantado</LT>
+
+          <LL>veemo-lo Emperador levantado</LL>
+
+          <ANTRO T="REAL">Frederico (Emperador 1241 e 1244)</ANTRO>
+        </L>
+
+        <L AC="--+--+---+" ERI="viir" N="4" NS="10" RI="ir">
+          <LT>contra Roma e Tártaros viir,</LT>
+
+          <LL>contra Roma e Tártaros viir,</LL>
+
+          <TOPO CAT="CIUDAD">Roma</TOPO>
+
+          <ANTRO T="ALTER">Tártaros</ANTRO>
+        </L>
+
+        <L AC="---+---+-+" ERI="pedir" N="5" NS="10" RI="ir">
+          <LT><SEG C="R" ID="4" N="CD">e ar</SEG> veemos aqui don pedir</LT>
+
+          <LL>e ar veemos aqui don pedir</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="cruzado" N="6" NS="10" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Joan Fernández</SEG>, o mouro cruz<SEG
+          C="R" ID="5" N="CC">ado</SEG>.</LT>
+
+          <LL>Joan Fernández, o mouro cruzado.</LL>
+
+          <ANTRO T="REAL">Joan Fernández</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="ababba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>79:10</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+---+-" ERI="profetizado" N="1" NS="10" RI="ado">
+          <LT>E sempre esto foi profetiz<SEG C="R" ID="5" N="CC">ado</SEG></LT>
+
+          <LL>E sempre esto foi profetizado</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="fin" N="2" NS="10" RI="in">
+          <LT>par dez e cinque sinaes da <SEG C="R" ID="2" N="RD">fin</SEG>:</LT>
+
+          <LL>par dez e cinque sinaes da fin:</LL>
+        </L>
+
+        <L AC="-+-+-+-+-+-" ERI="mizcrado" N="3" NS="10" RI="ado">
+          <LT>seer o mun<SEG C="M" ID="6" N="SIN">do a</SEG>ssi como é
+          mizcrado</LT>
+
+          <LL>seer o mundo assi como é mizcrado</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="pelegrin" N="4" NS="10" RI="in">
+          <LT><SEG C="R" ID="4" N="CD">e ar</SEG> torná-ss&#39; o mouro
+          pelegrin.</LT>
+
+          <LL>e ar torná-ss&#39; o mouro pelegrin.</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="min" N="5" NS="10" RI="in">
+          <LT><SEG C="R" ID="1" N="CD">Joan Fernández</SEG>, creed&#39;
+          est&#39; a mi<SEG C="I" ID="7" N="RE">n</SEG>,</LT>
+
+          <LL>Joan Fernández, creed&#39; est&#39; a min,</LL>
+
+          <ANTRO T="REAL">Joan Fernández</ANTRO>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="leterado" N="6" NS="10" RI="ado">
+          <LT>que soo ome <SEG C="I" ID="8" N="RE">mui</SEG> ben leter<SEG
+          C="R" ID="9" N="CC">ado</SEG>.</LT>
+
+          <LL>que soo ome mui ben leterado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="ababba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>79:10</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-+-" ERI="nado" N="1" NS="10" RI="ado">
+          <LT>E se non foss&#39; o Antecristo n<SEG C="R" ID="9" N="CC">ado</SEG>,</LT>
+
+          <LL>E se non foss&#39; o Antecristo nado,</LL>
+
+          <ANTRO T="ALTER">Antecristo</ANTRO>
+        </L>
+
+        <L AC="---+-+---+" ERI="aven" N="2" NS="10" RI="en">
+          <LT>non averria esto que aven:</LT>
+
+          <LL>non averria esto que aven:</LL>
+        </L>
+
+        <L AC="--+---+--+-" ERI="malado" N="3" NS="10" RI="ado">
+          <LT>nen fiar<SEG C="I" ID="10" N="RE">a</SEG> o senhor no malado</LT>
+
+          <LL>nen fiara o senhor no malado</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ren" N="4" NS="10" RI="en">
+          <LT>neno malado <SEG C="I" ID="11" N="RE">e</SEG>no senhor ren,</LT>
+
+          <LL>neno malado eno senhor ren,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Ierusalen" N="5" NS="10" RI="en">
+          <LT>nen ar iria a Ierusalen</LT>
+
+          <LL>nen ar iria a Ierusalen</LL>
+
+          <TOPO CAT="LCULTO">Ierusalen</TOPO>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="bautiçado" N="6" NS="10" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Joan Fernández</SEG>, <SEG C="I"
+          ID="12" N="RE">se</SEG>non bautiçado.</LT>
+
+          <LL>Joan Fernández, senon bautiçado.</LL>
+
+          <ANTRO T="REAL">Joan Fernández</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="128004" NE="4" OL="NON" SG="NO" TC="MEST" XE="M">
+      <INCIPIT>Par Deus, coitada vivo</INCIPIT>
+
+      <NUCANT>128 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="197v" I.FI="lb197v" MU="NON" NM="918"></RM>
+
+      <RM BCA="V" EM="NO" F="80v" I.FI="lv080v" MU="NON" NM="505"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Calderón 1</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, pp. 210-211</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 861</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 505</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 10</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/Macedo, Cinquenta cant., 10</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antologia lit., pp. 76-77</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 17</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Spina, Lírica, pp. 344-345</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 65</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Toubadours, pp. 138-139</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 328-329, 575-576</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 202</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 321</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="260"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>14/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima b unis.)</P></FRI>
+
+      <RUBRICA>pero Gluez de porto carreyro <COMRUBRI><P>Rúbrica atributiva
+      que precede á cantiga 918 de B, na columna a do folio 197v dese
+      manuscrito. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Pero gluez d. porto carreyro <COMRUBRI><P>Rúbrica atributiva
+      que precede á cantiga 505 de V, na columna b do folio 80v dese
+      manuscrito. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="OR"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>33:23</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+-" ERI="vivo" N="1" NS="6" RI="ivo">
+          <LT>Par Deus, coitada vivo,</LT>
+
+          <LL>Par Deus, coitada vivo,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="amigo" N="2" NS="6" RI="igo">
+          <LT><SEG C="R" ID="1" N="CD">pois non ven</SEG> meu amigo;</LT>
+
+          <LL>pois non ven meu amigo;</LL>
+        </L>
+
+        <L AC="--+--+" ERI="farei" N="3" NS="6" RI="ei">
+          <LT><SEG C="R" ID="1" N="CD">pois non vem</SEG>, <SEG C="R" ID="2"
+          N="PRI">que farei</SEG>?</LT>
+
+          <LL>pois non vem, que farei?</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="sirgo" N="4" NS="6" RI="irgo">
+          <LT><SEG C="R" ID="3" N="CP">meus cabelos, con sirgo</SEG></LT>
+
+          <LL>meus cabelos, con sirgo</LL>
+        </L>
+
+        <L AC="+----+" ERI="liarei" N="5" NS="6" RI="ei">
+          <LT><SEG C="R" ID="4" N="CPL"><SEG C="R" ID="3" N="CP">eu non vos liarei</SEG></SEG>.</LT>
+
+          <LL>eu non vos liarei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>33:23</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+-" ERI="Castela" N="1" NS="6" RI="ela">
+          <LT><SEG C="R" ID="1" N="CD">Pois non ven</SEG> de Castela,</LT>
+
+          <LL>Pois non ven de Castela,</LL>
+
+          <TOPO CAT="CIRCUNS">Castela</TOPO>
+        </L>
+
+        <L AC="--+--+-" ERI="mesela" N="2" NS="6" RI="ela">
+          <LT>non é viv&#39;, ai mesela,</LT>
+
+          <LL>non é viv&#39;, ai mesela,</LL>
+        </L>
+
+        <L AC="---+-+" ERI="rei" N="3" NS="6" RI="ei">
+          <LT>ou <SEG C="M" ID="5" N="SIN">mi-o</SEG> detem el-rei:</LT>
+
+          <LL>ou mi-o detem el-rei:</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="Estela" N="4" NS="6" RI="ela">
+          <LT><SEG C="R" ID="3" N="CP">mias toucas <SEG C="M" ID="6" N="SIN">da Es</SEG>tela</SEG>,</LT>
+
+          <LL>mias toucas da Estela,</LL>
+        </L>
+
+        <L AC="+----+" ERI="tragerei" N="5" NS="6" RI="ei">
+          <LT><SEG C="R" ID="4" N="CPL"><SEG C="R" ID="3" N="CP"><SEG C="R"
+ID="7" N="CF">eu</SEG> non vos tragerei</SEG></SEG>.</LT>
+
+          <LL>eu non vos tragerei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6&#39; 6 6&#39; 6</ESQMET>
+
+          <NOTMET>
+            <P>O verso 1 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>33:23</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="semelho" N="1" NS="6" RI="elho">
+          <LT>Pero m&#39; <SEG C="R" ID="7" N="CF">eu</SEG> leda semelho,</LT>
+
+          <LL>Pero m&#39; eu leda semelho,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="conselho" N="2" NS="6" RI="elho">
+          <LT>non me sei dar conselho;</LT>
+
+          <LL>non me sei dar conselho;</LL>
+        </L>
+
+        <L AC="-+---+" ERI="farei" N="3" NS="6" RI="ei">
+          <LT>amigas, <SEG C="R" ID="2" N="PRI">que farei</SEG>?</LT>
+
+          <LL>amigas, que farei?</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="espelho" N="4" NS="6" RI="elho">
+          <LT><SEG C="R" ID="3" N="CP">en vós, ai meu espelho</SEG>,</LT>
+
+          <LL>en vós, ai meu espelho,</LL>
+        </L>
+
+        <L AC="+----+" ERI="veerei" N="5" NS="6" RI="ei">
+          <LT><SEG C="R" ID="4" N="CPL"><SEG C="R" ID="3" N="CP">eu non me veerei</SEG></SEG>.</LT>
+
+          <LL>eu non me veerei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="aabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6&#39; 6 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>33:23</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+-" ERI="belas" N="1" NS="6" RI="elas">
+          <LT>Estas dõas mui belas</LT>
+
+          <LL>Estas dõas mui belas</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="donzelas" N="2" NS="6" RI="elas">
+          <LT>el <SEG C="M" ID="8" N="SIN">mi-as</SEG> deu, ai donzelas,</LT>
+
+          <LL>el mi-as deu, ai donzelas,</LL>
+        </L>
+
+        <L AC="-+---+" ERI="negarei" N="3" NS="6" RI="ei">
+          <LT>non vo-las negarei:</LT>
+
+          <LL>non vo-las negarei:</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="fivelas" N="4" NS="6" RI="elas">
+          <LT><SEG C="R" ID="3" N="CP">mias cintas das fivelas</SEG>,</LT>
+
+          <LL>mias cintas das fivelas,</LL>
+        </L>
+
+        <L AC="+----+" ERI="cingerei" N="5" NS="6" RI="ei">
+          <LT><SEG C="R" ID="4" N="CPL"><SEG C="R" ID="3" N="CP">eu non vos cingerei</SEG></SEG>.</LT>
+
+          <LL>eu non vos cingerei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

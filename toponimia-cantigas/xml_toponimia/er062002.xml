@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="062002" NE="4+F" OL="NON" SG="NO" TC="MEST" XE="PR">
+      <INCIPIT>Os namorados que troban d&#39; amor</INCIPIT>
+
+      <NUCANT>62 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="239r" I.FI="lb239r" MU="NON" NM="1117"></RM>
+
+      <RM BCA="B" EM="NO" F="239v" I.FI="lb239v" MU="NON" NM="1117"></RM>
+
+      <RM BCA="V" EM="NO" F="113r" I.FI="lv113r" MU="NON" NM="708"></RM>
+
+      <RM BCA="V" EM="NO" F="113v" I.FI="lv113v" MU="NON" NM="708"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1050</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 708</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Oliveira/Machado, p. 75</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., pp. 64-65</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, pp. 64-65</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 2</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 237-238</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 24</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Gonçalves/Ramos, A lírica 102</P>
+      </EDIANT>
+
+      <DATOAU NOME="Arias, Antoloxía," NUA="241"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>17/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = c III, IV; b I = c II = b IV)</P></FRI>
+
+      <RUBRICA>Johã Jograr morador en leon <COMRUBRI><P>Rúbrica atributiva que
+      precede á cantiga B 1117. Está situada na columna b do folio 239r. Man
+      do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="PR"><SUBTEMA CAT="RE"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:33</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="amor" N="1" NS="10" RI="or">
+          <LT>Os namorados que troban d&#39; amor</LT>
+
+          <LL>Os namorados que troban d&#39; amor</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fazer" N="2" NS="10" RI="er">
+          <LT>todos devian gran doo <SEG C="R" ID="1" N="PRI">fazer</SEG></LT>
+
+          <LL>todos devian gran doo fazer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prazer" N="3" NS="10" RI="er">
+          <LT>e non tomar en si nen un prazer,</LT>
+
+          <LL>e non tomar en si nen un prazer,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="senhor" N="4" NS="10" RI="or">
+          <LT><SEG C="R" ID="2" N="CPL">porque perderon tan boo senhor</SEG></LT>
+
+          <LL>porque perderon tan boo senhor</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Portugal" N="5" NS="10" RI="al">
+          <LT>co<SEG C="M" ID="3" N="SIN">me el</SEG> rei don Denis de
+          Portugal,</LT>
+
+          <LL>come el rei don Denis de Portugal,</LL>
+
+          <ANTRO T="REAL">Rei dom Denis de Portugal</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="mal" N="6" NS="10" RI="al">
+          <LT><SEG C="R" ID="4" N="CD">de que</SEG> non pode dizer nen un mal</LT>
+
+          <LL>de que non pode dizer nen un mal</LL>
+        </L>
+
+        <L AC="----+----+" ERI="posfaçador" N="7" NS="10" RI="or">
+          <LT>homen, pero seja posfaçador.</LT>
+
+          <LL>homen, pero seja posfaçador.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 10 10 9&#39; 10 10 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:220</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="ficaron" N="1" NS="9" RI="aron">
+          <LT>Os trobadores que pois ficaron</LT>
+
+          <LL>Os trobadores que pois ficaron</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Leon" N="2" NS="10" RI="on">
+          <LT>eno seu regno e no de Leon,</LT>
+
+          <LL>eno seu regno e no de Leon,</LL>
+
+          <TOPO CAT="CIRCUNS">Leon</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="Aragon" N="3" NS="10" RI="on">
+          <LT>no de Castela <SEG C="I" ID="5" N="RE">e</SEG> no d&#39; Aragon,</LT>
+
+          <LL>no de Castela e no d&#39; Aragon,</LL>
+
+          <TOPO CAT="CIRCUNS">Aragom</TOPO>
+        </L>
+
+        <L AC="--+-----+-" ERI="trobaron" N="4" NS="9" RI="aron">
+          <LT>nunca pois de sa morte <SEG C="R" ID="6" N="RD">trobaron</SEG>;</LT>
+
+          <LL>nunca pois de sa morte trobaron;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="dizer" N="5" NS="10" RI="er">
+          <LT><SEG C="R" ID="7" N="CD">e dos</SEG> jograres vos quero dizer:</LT>
+
+          <LL>e dos jograres vos quero dizer:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aver" N="6" NS="10" RI="er">
+          <LT>nunca cobraron panos nen aver,</LT>
+
+          <LL>nunca cobraron panos nen aver,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="desejaron" N="7" NS="9" RI="aron">
+          <LT>e o seu ben muito desejaron.</LT>
+
+          <LL>e o seu ben muito desejaron.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 9&#39; 9&#39; 9&#39; 10 10 9&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso sete é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:229</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="cidadãos" N="1" NS="9" RI="ãos">
+          <LT>Os cavaleiros e cidadãos</LT>
+
+          <LL>Os cavaleiros e cidadãos</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="dinheiros" N="2" NS="9" RI="eiros">
+          <LT>que deste rei avian dinheiros,</LT>
+
+          <LL>que deste rei avian dinheiros,</LL>
+
+          <ANTRO T="REAL">Don Denis (rei)</ANTRO>
+        </L>
+
+        <L AC="----+---+-" ERI="scudeiros" N="3" NS="9" RI="eiros">
+          <LT>e outrossi donas e scudeiros,</LT>
+
+          <LL>e outrossi donas e scudeiros,</LL>
+        </L>
+
+        <L AC="----+---+-" ERI="mãos" N="4" NS="9" RI="ãos">
+          <LT>matar se devian con sas mãos,</LT>
+
+          <LL>matar se devian con sas mãos,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="senhor" N="5" NS="10" RI="or">
+          <LT><SEG C="R" ID="2" N="CPL">porque perderon atan bon senhor</SEG>,</LT>
+
+          <LL>porque perderon atan bon senhor,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="pavor" N="6" NS="10" RI="or">
+          <LT><SEG C="R" ID="4" N="CD">de que</SEG> po<SEG C="M" ID="8"
+          N="SIN">sso eu</SEG> ben dizer sen pavor,</LT>
+
+          <LL>de que posso eu ben dizer sen pavor,</LL>
+        </L>
+
+        <L AC="---+---+-" ERI="cristiãos" N="7" NS="8" RI="ãos">
+          <LT>que non ficou tal nos cristiãos.</LT>
+
+          <LL>que non ficou tal nos cristiãos.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:33</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="rei" N="1" NS="10" RI="ei">
+          <LT>E máis vos quero dizer deste <SEG C="R" ID="9" N="PV">rei</SEG></LT>
+
+          <LL>E máis vos quero dizer deste rei</LL>
+
+          <ANTRO T="REAL">Don Denis (rei)</ANTRO>
+        </L>
+
+        <L AC="-----+---+" ERI="fazer" N="2" NS="10" RI="er">
+          <LT><SEG C="R" ID="7" N="CD">e dos</SEG> que d&#39; el avian ben
+          <SEG C="R" ID="1" N="PRI">fazer</SEG>:</LT>
+
+          <LL>e dos que d&#39; el avian ben fazer:</LL>
+        </L>
+
+        <L AC="------+--+" ERI="perder" N="3" NS="10" RI="er">
+          <LT>devian-se deste mun<SEG C="M" ID="10" N="SIN">do a</SEG> perder</LT>
+
+          <LL>devian-se deste mundo a perder</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="sei" N="4" NS="10" RI="ei">
+          <LT>quand&#39; el morreu, per quant&#39; eu vi e sei,</LT>
+
+          <LL>quand&#39; el morreu, per quant&#39; eu vi e sei,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prestador" N="5" NS="10" RI="or">
+          <LT>ca el for rei as<SEG C="I" ID="10a" N="RE">s</SEG>az mui
+          prestador</LT>
+
+          <LL>ca el for rei assaz mui prestador</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="trobador" N="6" NS="10" RI="or">
+          <LT>e saboro<SEG C="M" ID="11" N="SIN">so e</SEG> d&#39; amor <SEG
+          C="R" ID="6" N="RD">trobador</SEG>.</LT>
+
+          <LL>e saboroso e d&#39; amor trobador.</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="poderei" N="7" NS="10" RI="ei">
+          <LT>¡Todo seu ben dizer non poderei!</LT>
+
+          <LL>¡Todo seu ben dizer non poderei!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="dda"><NOTRIM><P>Rima sobre IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+---+" ERI="confortar" N="1" NS="10" RI="ar">
+          <LT>Mais con tanto me quero confortar</LT>
+
+          <LL>Mais con tanto me quero confortar</LL>
+        </L>
+
+        <L AC="--+------+" ERI="semelhar" N="2" NS="10" RI="ar">
+          <LT>en seu neto, que o vai semelhar</LT>
+
+          <LL>en seu neto, que o vai semelhar</LL>
+
+          <ANTRO T="REAL">Alfonso XI, rei de Castela (neto)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="rei" N="3" NS="10" RI="ei">
+          <LT>en fazer feitos de muito boo <SEG C="R" ID="9" N="PV">rei</SEG>.</LT>
+
+          <LL>en fazer feitos de muito boo rei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

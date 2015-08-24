@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063058" TC = "MEST" NE = "4" SG = "NO" XE = "M P" OL = "NON">
+<INCIPIT>Pelo souto de Crecente</INCIPIT>
+<NUCANT>63 58</NUCANT>
+<RM BCA = "B" NM = "967" F = "209r" MU = "NON" EM = "NO" I.FI = "lb209r">
+<NOTMAN N = "1">En B s&oacute;se presenta parte da primeira estrofa,
+os catro primeiros versos e parte do quinto</NOTMAN></RM>
+<RM BCA = "V" NM = "554" F = "87v" MU = "NON" EM = "NO" I.FI = "lv087v"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 24</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 280</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 240-341</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 910</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 554</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 120</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 50</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cat., 39</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp. 106-107</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, pp. 72-73</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 6</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, pp. 8-9</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 452-453</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Spina, L&iacute;rica, pp. 361-362</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 29-30</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 139</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 52</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 18</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 78</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 142-143, 481</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 585</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "23"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>23/07/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "MES"></TEMA>
+<TEMA CAT = "PAV"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7 7' 7' 7</ESQMET></INFMET>
+<NUMESQ>101:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ente" ERI = "Crecente" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Pelo</SEG> souto de Crecente</LT>
+<LL>Pelo souto de Crecente</LL>
+<TOPO CAT = "ALDEA">Crecente</TOPO></L>
+<L N = "2" NS = "7" RI = "ar" ERI = "andar" AC = "---+--+">
+<LT>&utilde;a pastor vi andar</LT>
+<LL>&utilde;a pastor vi andar</LL>
+</L>
+<L N = "3" NS = "7" RI = "ente" ERI = "gente" AC = "---+--+-">
+<LT>muit' alongada de gente,</LT>
+<LL>muit' alongada de gente,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ar" ERI = "cantar" AC = "---+--+">
+<LT>al&ccedil;ando voz a <SEG C = "R" N = "RD" ID = "2">cantar</SEG>,</LT>
+<LL>al&ccedil;ando voz a cantar,</LL>
+</L>
+<L N = "5" NS = "7" RI = "aia" ERI = "saia" AC = "--+---+-">
+<LT>apertando-se na saia,</LT>
+<LL>apertando-se na saia,</LL>
+</L>
+<L N = "6" NS = "7" RI = "aia" ERI = "raia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">quando sa&iacute;a</SEG> la raia</SEG></LT>
+<LL>quando sa&iacute;a la raia</LL>
+</L>
+<L N = "7" NS = "7" RI = "ar" ERI = "Sar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">do sol, nas ribas do Sar</SEG>.</LT>
+<LL>do sol, nas ribas do Sar.</LL>
+<TOPO CAT = "HIDRON">Sar</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7 7' 7' 7</ESQMET></INFMET>
+<NUMESQ>101:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "avan" ERI = "voavan" AC = "--+---+-">
+<LT>E as aves que voavan,</LT>
+<LL>E as aves que voavan,</LL>
+</L>
+<L N = "2" NS = "7" RI = "or" ERI = "alvor" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">quando sa&iacute;a</SEG> l' alvor</SEG>,</LT>
+<LL>quando sa&iacute;a l' alvor,</LL>
+</L>
+<L N = "3" NS = "7" RI = "avan" ERI = "cantavan" AC = "---+--+-">
+<LT>todas d' amores <SEG C = "R" N = "RD" ID = "2">cantavan</SEG></LT>
+<LL>todas d' amores cantavan</LL>
+</L>
+<L N = "4" NS = "7" RI = "or" ERI = "arredor" AC = "--+---+">
+<LT><SEG C = "R" N = "CD" ID = "4">pelos</SEG> ramos d' arredor;</LT>
+<LL>pelos ramos d' arredor;</LL>
+</L>
+<L N = "5" NS = "7" RI = "esse" ERI = "'stevesse" AC = "--+---+-">
+<LT>mais non sei tal qu' i <SEG C = "R" N = "RD" ID = "5">'stevesse</SEG>,</LT>
+<LL>mais non sei tal qu' i 'stevesse,</LL>
+</L>
+<L N = "6" NS = "7" RI = "esse" ERI = "podesse" AC = "--+---+-">
+<LT>que en al cuidar podesse</LT>
+<LL>que en al cuidar podesse</LL>
+</L>
+<L N = "7" NS = "7" RI = "or" ERI = "amor" AC = "--+---+">
+<LT>senon todo en amor.</LT>
+<LL>senon todo en amor.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7 7' 7' 7</ESQMET></INFMET>
+<NUMESQ>101:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "edo" ERI = "quedo" AC = "--+---+-">
+<LT>Ali 'stivi eu mui quedo</LT>
+<LL>Ali 'stivi eu mui quedo</LL>
+</L>
+<L N = "2" NS = "7" RI = "ei" ERI = "ousei" AC = "--+---+">
+<LT>quis falar e non ousei,</LT>
+<LL>quis falar e non ousei,</LL>
+</L>
+<L N = "3" NS = "7" RI = "edo" ERI = "medo" AC = "---+--+-">
+<LT>empero dix' a gran medo:</LT>
+<LL>empero dix' a gran medo:</LL>
+</L>
+<L N = "4" NS = "7" RI = "ei" ERI = "ei" AC = "---+---+">
+<LT>- Mia senhor, falar-vos-ei</LT>
+<LL>- Mia senhor, falar-vos-ei</LL>
+</L>
+<L N = "5" NS = "7" RI = "ardes" ERI = "ascuitardes" AC = "-+----+-">
+<LT>un pouco, se<SEG C = "M" N = "SIN" ID = "6"> mi as</SEG>cuitardes,</LT>
+<LL>un pouco, se mi ascuitardes,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ardes" ERI = "mandardes" AC = "--+---+-">
+<LT>e ir-m' ei quando mandardes,</LT>
+<LL>e ir-m' ei quando mandardes,</LL>
+</L>
+<L N = "7" NS = "7" RI = "ei" ERI = "estarei" AC = "--+---+">
+<LT>m&aacute;is aqui non<SEG C = "R" N = "RD" ID = "5"><SEG C = "I" N = "RE" ID = "7"> e</SEG>starei</SEG>.</LT>
+<LL>m&aacute;is aqui non estarei.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7 7' 7' 7</ESQMET></INFMET>
+<NUMESQ>101:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "Maria" AC = "-+----+-">
+<LT>- Senhor, por Santa Maria,</LT>
+<LL>- Senhor, por Santa Maria,</LL>
+</L>
+<L N = "2" NS = "7" RI = "i" ERI = "aqui" AC = "--+---+">
+<LT>non estedes m&aacute;is aqui,</LT>
+<LL>non estedes m&aacute;is aqui,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ia" ERI = "via" AC = "-+----+-">
+<LT>mais ide-vos vossa via,</LT>
+<LL>mais ide-vos vossa via,</LL>
+</L>
+<L N = "4" NS = "7" RI = "i" ERI = "i" AC = "-+----+">
+<LT>faredes mesura <SEG C = "R" N = "PV" ID = "8">i</SEG>;</LT>
+<LL>faredes mesura i;</LL>
+</L>
+<L N = "5" NS = "7" RI = "aren" ERI = "chegaren" AC = "----+-+-">
+<LT>ca os que aqui chegaren,</LT>
+<LL>ca os que aqui chegaren,</LL>
+</L>
+<L N = "6" NS = "7" RI = "aren" ERI = "acharen" AC = "----+-+-">
+<LT>pois que vos aqui acharen,</LT>
+<LL>pois que vos aqui acharen,</LL>
+</L>
+<L N = "7" NS = "7" RI = "i" ERI = "i" AC = "--+---+">
+<LT>ben diran que m&aacute;is ouv' <SEG C = "R" N = "PV" ID = "8">i</SEG>.</LT>
+<LL>ben diran que m&aacute;is ouv' i.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

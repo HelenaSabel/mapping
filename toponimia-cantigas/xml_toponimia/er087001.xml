@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="087001" NE="1" OL="NON" SG="NO" TC="NA" XE="EP">
+      <INCIPIT>A dona de Bagüyn</INCIPIT>
+
+      <NUCANT>87 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="289r" I.FI="lb289r" MU="NON" NM="1352"></RM>
+
+      <RM BCA="B" EM="NO" F="289v" I.FI="lb289v" MU="NON" NM="1352"></RM>
+
+      <RM BCA="V" EM="NO" F="152v" I.FI="lv152v" MU="NON" NM="959"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 266</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1302</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 959</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 144</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 229</P>
+      </EDIANT>
+
+      <DATOAU NOME="Pellegrini, Lopo Liáns" NUA="15"><COMAU><P>Seguindo B,
+      Pellegrini edita nunha única composició o que nós consideramos dúas:
+      87,1 e 87,17.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>14/04/99</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <RUBRICA>Cf. a rúbrica da cantiga 87,2.</RUBRICA>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7 8 8 4&#39; 5&#39; 4&#39; 8</ESQMET>
+
+          <NOTMET>
+            <P>Para Tavani 102:2, o esquema é: a7 b7 a8 b8 c4&#39; c5&#39; b7
+            b6.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+" ERI="Bagüyn" N="1" NS="7" RI="in">
+          <LT>A dona de Bagüyn,</LT>
+
+          <LL>A dona de Bagüyn,</LL>
+
+          <TOPO CAT="TOPOME">Bagüyn</TOPO>
+        </L>
+
+        <L AC="-+----+" ERI="Soveral" N="2" NS="7" RI="al">
+          <LT>que mora no Soveral,</LT>
+
+          <LL>que mora no Soveral,</LL>
+
+          <TOPO CAT="TOPOME">Soveral</TOPO>
+        </L>
+
+        <L AC="+--+-+-+" ERI="min" N="3" NS="8" RI="in">
+          <LT>dez e sey<SEG C="I" ID="1" N="RE">s</SEG> soldus á de mi<SEG
+          C="I" ID="2" N="RE">n</SEG>;</LT>
+
+          <LL>dez e seys soldus á de min;</LL>
+        </L>
+
+        <L AC="-+-+-+-+" ERI="atal" N="4" NS="8" RI="al">
+          <LT>e dey-lhos eu per preyt&#39; atal:</LT>
+
+          <LL>e dey-lhos eu per preyt&#39; atal:</LL>
+        </L>
+
+        <L AC="-+-+-" ERI="desse" N="5" NS="4" RI="esse">
+          <LT>que mhos ar desse</LT>
+
+          <LL>que mhos ar desse</LL>
+        </L>
+
+        <L AC="-+--+-" ERI="fezesse" N="6" NS="5" RI="esse">
+          <LT>ond&#39; al non fezesse,</LT>
+
+          <LL>ond&#39; al non fezesse,</LL>
+        </L>
+
+        <L AC="-+-+-" ERI="vehesse" N="7" NS="4" RI="esse">
+          <LT>se non vehesse</LT>
+
+          <LL>se non vehesse</LL>
+        </L>
+
+        <L AC="--+-+--+" ERI="Corral" N="8" NS="8" RI="al">
+          <LT>falar migu&#39; en cas don Corral.</LT>
+
+          <LL>falar migu&#39; en cas don Corral.</LL>
+
+          <ANTRO T="REAL">don Corral</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

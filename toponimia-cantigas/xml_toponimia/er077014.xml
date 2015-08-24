@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077014" TC = "REFR" NE = "3+F" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Foi-s' agora meu amigu' e por en</INCIPIT>
+<NUCANT>77 14</NUCANT>
+<RM BCA = "B" NM = "1150" F = "245r" MU = "NON" EM = "NO" I.FI = "lb245r"></RM>
+<RM BCA = "V" NM = "743" F = "118r" MU = "NON" EM = "NO" I.FI = "lv118r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 12</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1085</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 743</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 378</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "373"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>17/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "COR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>19:19</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "en" AC = "------+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Foi-s' agora meu amigu' e por en</SEG></LT>
+<LL>Foi-s' agora meu amigu' e por en</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">&aacute;-mi jurado que polo meu ben</SEG></LT>
+<LL>&aacute;-mi jurado que polo meu ben</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ren" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">me quis e quer mui melhor d' outra ren</SEG>,</LT>
+<LL>me quis e quer mui melhor d' outra ren,</LL>
+ </L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "i" ERI = "assi" AC = "---+-----+">
+<LT>mais eu ben creo que non est <SEG C = "R" N = "PV" ID = "2">assi</SEG>,</LT>
+<LL>mais eu ben creo que non est assi,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>ante cuid' eu que moira <SEG C = "R" N = "PV" ID = "3">el por mi</SEG></LT>
+<LL>ante cuid' eu que moira el por mi</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT>e eu por el, en tal ora o <SEG C = "R" N = "CFR" ID = "4">vi</SEG>.</LT>
+<LL>e eu por el, en tal ora o vi.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>19:19</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "cuidar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">quando se foi, <SEG C = "R" N = "CFR" ID = "4">viu</SEG>-me trist' e cuidar</SEG>,</LT>
+<LL>quando se foi, viu-me trist' e cuidar,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">e logo disse, por me non pesar</SEG>,</LT>
+<LL>e logo disse, por me non pesar,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "amar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CP" ID = "1">que por meu ben me soube tant' <SEG C = "R" N = "RD" ID = "6">amar</SEG></SEG></SEG>,</LT>
+<LL>que por meu ben me soube tant' amar,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "i" ERI = "assi" AC = "---+-----+">
+<LT>mais eu ben creo que non est <SEG C = "R" N = "PV" ID = "2">assi</SEG>,</LT>
+<LL>mais eu ben creo que non est assi,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>ante cuid' eu que moira <SEG C = "R" N = "PV" ID = "3">el por mi</SEG></LT>
+<LL>ante cuid' eu que moira el por mi</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT>e eu por el, en tal ora o vi.</LT>
+<LL>e eu por el, en tal ora o vi.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>19:19</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ou" ERI = "jurou" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">Aquel dia que se foi mi jurou</SEG>,</LT>
+<LL>Aquel dia que se foi mi jurou,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ou" ERI = "amou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CP" ID = "1">que por meu ben me sempre tant' <SEG C = "R" N = "RD" ID = "6">amou</SEG></SEG></SEG></LT>
+<LL>que por meu ben me sempre tant' amou</LL>
+</L>
+<L N = "3" NS = "10" RI = "ou" ERI = "come&ccedil;ou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">e amar&aacute;, pois migo come&ccedil;ou</SEG>,</LT>
+<LL>e amar&aacute;, pois migo come&ccedil;ou,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "i" ERI = "assi" AC = "---+-----+">
+<LT>mais eu ben creo que non est <SEG C = "R" N = "PV" ID = "2">assi</SEG>,</LT>
+<LL>mais eu ben creo que non est assi,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>ante cuid' eu que moira <SEG C = "R" N = "PV" ID = "3">el por mi</SEG></LT>
+<LL>ante cuid' eu que moira el por mi</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT>e eu por el, en tal ora o v<SEG C = "R" N = "CCR" ID = "7">i</SEG>.</LT>
+<LL>e eu por el, en tal ora o vi.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "bb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "i" ERI = "assi" AC = "---+-----+">
+<LT>Par San Servando, sei que ser<SEG C = "M" N = "SIN" ID = "8">&aacute; <SEG C = "R" N = "PV" ID = "2">a</SEG></SEG><SEG C = "R" N = "PV" ID = "2">ss<SEG C = "R" N = "CCR" ID = "7">i</SEG></SEG>:</LT>
+<LL>Par San Servando, sei que ser&aacute; assi:</LL>
+
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "2" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>de morrer eu por el e <SEG C = "R" N = "PV" ID = "3">el por mi</SEG>.</LT>
+<LL>de morrer eu por el e el por mi.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

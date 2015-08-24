@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "114006" TC = "MEST" NE = "4+F" SG = "NO" XE = "CE" OL = "NON">
+<INCIPIT>De quantas cousas eno mundo son</INCIPIT>
+<NUCANT>114 6</NUCANT>
+<ATRIB NOME = "An&oacute;nimo">
+<NUCANT>157 11</NUCANT>
+<P>Esta cantiga, xunto con algunhas outras, est&aacute; dentro da serie A
+246-256 (fols. 67-70, no caderno XI), &aacute; que segue unha probable lagoa (a
+XIX) e unha miniatura que introduce as cantigas de Fernan Velho. Tres textos
+desa serie aparecen en B e V (tam&eacute;n en C) atribu&iacute;dos a Pai Gomez
+Charinho, polo que as restantes poden ser consideradas tam&eacute;n obra deste
+trobador.</P></ATRIB>
+<RM BCA = "A" NM = "256" F = "70r" MU = "NON" EM = "YES" I.FI = "la070r"></RM>
+<EDIANT T = "CRITI">
+<P>Cotarelo 26</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. XIII, pp. 165-166</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 303-304</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1609</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, pp. 139-140</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Auswahl 11</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 77</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 15</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 163-164</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 178-179</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, Ap&eacute;ndice, I, 32</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 222-223</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 110</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 262-263, 539-540</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 166</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 271</P></EDIANT>
+<DATOAU NOME = "Monteagudo" NUA = "26"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>24/1/00</DATE></RESP>
+<FRI>c. doblas</FRI>
+<TEMA CAT = "ABS">
+<SUBTEMA CAT = "RE"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>100:11</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "on" ERI = "son" AC = "---+-----+">
+<LT>De quantas cousas eno mundo <SEG C = "R" N = "RD" ID = "1">son</SEG>,</LT>
+<LL>De quantas cousas eno mundo son,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "semellar" AC = "---+-----+">
+<LT>non ve<SEG C = "M" N = "SIN" ID = "2">io eu</SEG> ben qual pod' en semellar</LT>
+<LL>non veio eu ben qual pod' en semellar</LL>
+</L>
+<L N = "3" NS = "10" RI = "on" ERI = "Le&oacute;n" AC = "----+----+">
+<LT><SEG C = "R" N = "CD" ID = "3">al rey</SEG> de Castella e de Le&oacute;n</LT>
+<LL>al rey de Castella e de Le&oacute;n</LL>
+<ANTRO T = "REAL">Sancho IV? (rey)</ANTRO>
+<TOPO CAT = "CIRCUNS">Castela e Le&oacute;n</TOPO></L>
+<L N = "4" NS = "10" RI = "ar" ERI = "mar" AC = "----+----+">
+<LT>se <SEG C = "I" N = "RE" ID = "4">non</SEG> &utilde;a qual vos direi: o mar.</LT>
+<LL>se non &utilde;a qual vos direi: o mar.</LL>
+</L>
+<L N = "5" NS = "10" RI = "ei" ERI = "rei" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "5">O mar</SEG> semella muit' aqueste rei,</LT>
+<LL>O mar semella muit' aqueste rei,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ei" ERI = "direi" AC = "--+------+">
+<LT>e d' aqu&iacute; en deante vos <SEG C = "R" N = "RD" ID = "6">direi</SEG></LT>
+<LL>e d' aqu&iacute; en deante vos direi</LL>
+</L>
+<L N = "7" NS = "10" RI = "on" ERI = "raz&oacute;n" AC = "---+-----+">
+<LT>en quaes cousas, segundo raz<SEG C = "R" N = "CC" ID = "7">&oacute;n</SEG>:</LT>
+<LL>en quaes cousas, segundo raz&oacute;n:</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>100:11</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "on" ERI = "non" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "5">O mar</SEG> d&aacute; muit' e creede que n<SEG C = "R" N = "CC" ID = "7">on</SEG></LT>
+<LL>O mar d&aacute; muit' e creede que non</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "governar" AC = "---+-----+">
+<LT>se pod' o mundo sen el governar</LT>
+<LL>se pod' o mundo sen el governar</LL>
+</L>
+<L N = "3" NS = "10" RI = "on" ERI = "cora&ccedil;&oacute;n" AC = "---+-----+">
+<LT>e pode muit' e <SEG C = "I" N = "RE" ID = "8">&aacute;</SEG> tal cora&ccedil;&oacute;n</LT>
+<LL>e pode muit' e &aacute; tal cora&ccedil;&oacute;n</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "apoderar" AC = "---+-----+">
+<LT>que o non pode ren apoderar.</LT>
+<LL>que o non pode ren apoderar.</LL>
+</L>
+<L N = "5" NS = "10" RI = "ei" ERI = "sei" AC = "---+-----+">
+<LT>Des i ar <SEG C = "I" N = "RE" ID = "9">&eacute;</SEG> temudo, que non sei</LT>
+<LL>Des i ar &eacute; temudo, que non sei</LL>
+</L>
+<L N = "6" NS = "10" RI = "ei" ERI = "ey" AC = "---+-----+">
+<LT>quen o non tema, e contarvos ey</LT>
+<LL>quen o non tema, e contarvos ey</LL>
+</L>
+<L N = "7" NS = "10" RI = "on" ERI = "ent&oacute;n" AC = "---+-----+">
+<LT>a&iacute;nda mais, e iudg&aacute;<SEG C = "I" N = "RE" ID = "10">de</SEG>m' ent&oacute;n.</LT>
+<LL>a&iacute;nda mais, e iudg&aacute;dem' ent&oacute;n.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>100:11</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "caber" AC = "---+-----+">
+<LT>E no mar cabe quant' i quer caber</LT>
+<LL>E no mar cabe quant' i quer caber</LL>
+</L>
+<L N = "2" NS = "10" RI = "a" ERI = "&aacute;" AC = "---+-----+">
+<LT>e mant&eacute;n muitos, e outros y &aacute;</LT>
+<LL>e mant&eacute;n muitos, e outros y &aacute;</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "morrer" AC = "---+-----+">
+<LT>que x' ar quebranta e que faz <SEG C = "R" N = "PV" ID = "11">morrer</SEG></LT>
+<LL>que x' ar quebranta e que faz morrer</LL>
+</L>
+<L N = "4" NS = "10" RI = "a" ERI = "d&aacute;" AC = "--+------+">
+<LT>enxerdados; e outros a que d&aacute;</LT>
+<LL>enxerdados; e outros a que d&aacute;</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ben" AC = "---+-----+">
+<LT>grandes herdades, e muit' outro ben.</LT>
+<LL>grandes herdades, e muit' outro ben.</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "av&eacute;n" AC = "--+------+">
+<LT>E tod' esto que vos cuncto av&eacute;n</LT>
+<LL>E tod' esto que vos cuncto av&eacute;n</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "co&ntilde;ocer" AC = "-+-------+">
+<LT><SEG C = "R" N = "CD" ID = "3">al rey</SEG>, se o souberdes co&ntilde;oc<SEG C = "R" N = "CC" ID = "12">er</SEG>.</LT>
+<LL>al rey, se o souberdes co&ntilde;ocer.</LL>
+<ANTRO T = "REAL">Snacho IV? (rey)</ANTRO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET>
+<NOTMET>
+<P>O primeiro verso &eacute; hip&eacute;rmetro.</P></NOTMET></INFMET>
+<NUMESQ>100:11</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "dizer" AC = "----+-----+">
+<LT>E da mansedume vos quero <SEG C = "R" N = "RD" ID = "6">diz<SEG C = "R" N = "CC" ID = "12">er</SEG></SEG></LT>
+<LL>E da mansedume vos quero dizer</LL>
+</L>
+<L N = "2" NS = "10" RI = "a" ERI = "ser&aacute;" AC = "---+-----+">
+<LT>do mar: non &aacute; cont', e nunca <SEG C = "R" N = "RD" ID = "1">ser&aacute;</SEG></LT>
+<LL>do mar: non &aacute; cont', e nunca ser&aacute;</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "fazer" AC = "----+----+">
+<LT>bravo nen sannudo, se llo fazer</LT>
+<LL>bravo nen sannudo, se llo fazer</LL>
+</L>
+<L N = "4" NS = "10" RI = "a" ERI = "&aacute;" AC = "----+----+">
+<LT>outro non fezer, e sofrervos' &aacute;</LT>
+<LL>outro non fezer, e sofrervos' &aacute;</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "desd&eacute;n" AC = "---+-----+">
+<LT>t&oacute;dalas cousas, mais se en desd&eacute;n</LT>
+<LL>t&oacute;dalas cousas, mais se en desd&eacute;n</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>o per ventura alg&uacute;n louco ten</LT>
+<LL>o per ventura alg&uacute;n louco ten</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "morrer" AC = "---+-----+">
+<LT>con gran tormenta o far&aacute; <SEG C = "R" N = "PV" ID = "11">morrer</SEG>.</LT>
+<LL>con gran tormenta o far&aacute; morrer.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "cca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10</ESQMET>
+<NOTMET>
+<P>O primeiro verso &aacute; hip&oacute;metro.</P>
+<P>A fiinda est&aacute; constru&iacute;da sobre as estrofas III e
+IV</P></NOTMET>
+</INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "sen" ERI = "sen" AC = "--+-----+">
+<LT>Estas mannas, segund' o meu sen,</LT>
+<LL>Estas mannas, segund' o meu sen,</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "&eacute;n" AC = "---+-----+">
+<LT>que o mar &aacute;, &aacute; el rey, e por &eacute;n</LT>
+<LL>que o mar &aacute;, &aacute; el rey, e por &eacute;n</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "entender" AC = "--+------+">
+<LT>se semellan, quen o ben entender.</LT>
+<LL>se semellan, quen o ben entender.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

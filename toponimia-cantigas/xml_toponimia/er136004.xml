@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="136004" NE="3" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Pois nossas madres van a San Simon</INCIPIT>
+
+      <NUCANT>136 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="159v" I.FI="lb159v" MU="NON" NM="735"></RM>
+
+      <RM BCA="B" EM="NO" F="160r" I.FI="lb160r" MU="NON" NM="735"></RM>
+
+      <RM BCA="V" EM="NO" F="54v" I.FI="lv054v" MU="NON" NM="336"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 169</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 215</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 698</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Oliveira/Machado, p. 90</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 336</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Auswahl 32</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 40</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Cidade, Poesia medieval, p. 19</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/Macedo, Cinquenta cant., 26</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., pp. 93-94</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, p. 84</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 538</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Spina, Lírica, p. 343</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 145-146</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 36</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, Apéndice I, 3</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 135</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 344-345, 585-586</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Beltrami 3</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 212</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="223p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>29/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Pero Vyuyaez <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga B 735. Está situada na columna b do folio 159v. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Pero uyuyaez <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga V 336. Está situada na columna a do folio 54v. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="EN"></TEMA>
+
+      <TEMA CAT="LED"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:216</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="Simon" N="1" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CPL">Pois nossas madres van a San Simon</SEG></LT>
+
+          <LL>Pois nossas madres van a San Simon</LL>
+
+          <TOPO CAT="LCULTO">San Simon de Val de Prados (San Simon)</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="queimar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CPL">de Val de Prados candeas queimar</SEG>,</LT>
+
+          <LL>de Val de Prados candeas queimar,</LL>
+
+          <TOPO CAT="LCULTO">San Simon de Val de Prados (de Val de Prados)</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="andar" N="3" NS="10" RI="ar">
+          <LT>nós, as meninhas, punhemos d&#39; andar</LT>
+
+          <LL>nós, as meninhas, punhemos d&#39; andar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="enton" N="4" NS="10" RI="on">
+          <LT>con nossas madres, e elas enton</LT>
+
+          <LL>con nossas madres, e elas enton</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="si" N="5" NS="10" RI="i">
+            <LT>queimen candeas por nós e por si,</LT>
+
+            <LL>queimen candeas por nós e por si,</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="i" N="6" NS="10" RI="i">
+            <LT>e nós, meninhas, bailaremos i</LT>
+
+            <LL>e nós, meninhas, bailaremos i</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:216</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="irán" N="1" NS="10" RI="an">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="3" N="CD">Nossos amigos</SEG> todos lá <SEG
+C="R" ID="4" N="RD">irán</SEG></SEG></LT>
+
+          <LL>Nossos amigos todos lá irán</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="nós" N="2" NS="10" RI="os">
+          <LT><SEG C="R" ID="2" N="CP">por nos veer e andaremos nós</SEG></LT>
+
+          <LL>por nos veer e andaremos nós</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="cos" N="3" NS="10" RI="os">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="5" N="CD">bailand&#39;</SEG> ant&#39; eles fremosas en cos</SEG>;</LT>
+
+          <LL>bailand&#39; ant&#39; eles fremosas en cos;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="van" N="4" NS="10" RI="an">
+          <LT><SEG C="R" ID="1" N="CPL">e nossas madres, pois que alá <SEG
+C="R" ID="6" N="CF"><SEG C="R" ID="4" N="RD">van</SEG></SEG></SEG>,</LT>
+
+          <LL>e nossas madres, pois que alá van,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="si" N="5" NS="10" RI="i">
+            <LT>queimen candeas por nós e por si,</LT>
+
+            <LL>queimen candeas por nós e por si,</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="i" N="6" NS="10" RI="i">
+            <LT>e nós, meninhas, <SEG C="I" ID="7" N="RE">bailaremos i</SEG></LT>
+
+            <LL>e nós, meninhas, bailaremos i</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3 é hipómetro porque está incompleto.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>160:216</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="cousir" N="1" NS="10" RI="ir">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="3" N="CD">Nossos amigos</SEG> <SEG
+C="R" ID="6" N="CF">irán</SEG> por cousir</SEG></LT>
+
+          <LL>Nossos amigos irán por cousir</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="veer" N="2" NS="10" RI="er">
+          <LT><SEG C="R" ID="2" N="CP">como bailamos e poden veer</SEG></LT>
+
+          <LL>como bailamos e poden veer</LL>
+        </L>
+
+        <L AC="--+-----+" ERI="parecer" N="3" NS="9" RI="er">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="5" N="CD">bailar</SEG> <SEG
+C="I" ID="8" N="RE">i</SEG> moças de bon parecer</SEG>;</LT>
+
+          <LL>bailar i moças de bon parecer;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ir" N="4" NS="10" RI="ir">
+          <LT><SEG C="R" ID="1" N="CPL">e nossas madres, pois lá queren <SEG
+C="R" ID="4" N="RD">ir</SEG></SEG>,</LT>
+
+          <LL>e nossas madres, pois lá queren ir,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="si" N="5" NS="10" RI="i">
+            <LT>queimen candeas por nós e por si,</LT>
+
+            <LL>queimen candeas por nós e por si,</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="i" N="6" NS="10" RI="i">
+            <LT>e nós, meninhas, <SEG C="I" ID="9" N="RE">bailaremos i</SEG></LT>
+
+            <LL>e nós, meninhas, bailaremos i</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>
+

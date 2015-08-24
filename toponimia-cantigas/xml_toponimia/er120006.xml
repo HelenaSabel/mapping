@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "120006" TC = "MEST" NE = "4+F" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>De Don Fernan D&iacute;az Estatur&atilde;o</INCIPIT>
+<NUCANT>120 6</NUCANT>
+<RM BCA = "B" NM = "1649" F = "352r" MU = "NON" EM = "NO" I.FI = "lb352r"></RM>
+<RM BCA = "B" NM = "1649" F = "352v" MU = "NON" EM = "NO" I.FI = "lb352v"></RM>
+<RM BCA = "V" NM = "1183" F = "195r" MU = "NON" EM = "NO" I.FI = "lv195r"></RM>
+<RM BCA = "V" NM = "1183" F = "195v" MU = "NON" EM = "NO" I.FI = "lv195v"></RM>
+<EDIANT T = "CRITI">
+<P>Panunzio, pp. 190-191</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Ju&aacute;rez, pp. 252-253</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Pero da Ponte, 45</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1553</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1183</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 18</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 317</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "365"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>3/02/00</DATE></RESP>
+<FRI>c. doblas</FRI>
+<NOTC>sel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1649.
+Est&aacute; situada na columna a do folio 352r.</P></COMNOTC></NOTC>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1649.
+Est&aacute; situada na columna a do folio 352r.</P></COMNOTC></NOTC>
+<RUBRICA>Pero de
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na marxe superior do folio 195v de V.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "CSX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>161:165</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&atilde;o" ERI = "Estatur&atilde;o" AC = "---+-----+-">
+<LT>De <SEG C = "I" N = "RE" ID = "1">Don</SEG> Fernan D&iacute;az Estatur&atilde;o</LT>
+<LL>De Don Fernan D&iacute;az Estatur&atilde;o</LL>
+<ANTRO T = "REAL">Don Fernan D&iacute;az Estatur&atilde;o</ANTRO></L>
+<L N = "2" NS = "10" RI = "az" ERI = "praz" AC = "----+----+">
+<LT>o&iacute; dizer novas, de que mi <SEG C = "R" N = "RD" ID = "2">praz</SEG>:</LT>
+<LL>o&iacute; dizer novas, de que mi praz:</LL>
+</L>
+<L N = "3" NS = "10" RI = "az" ERI = "faz" AC = "--+------+">
+<LT>que &eacute; ome que muito por Deus <SEG C = "R" N = "RD" ID = "3">faz</SEG></LT>
+<LL>que &eacute; ome que muito por Deus faz</LL>
+</L>
+<L N = "4" NS = "10" RI = "&atilde;o" ERI = "ermit&atilde;o" AC = "---+-----+-">
+<LT>e se quer ora meter ermit&atilde;o;</LT>
+<LL>e se quer ora meter ermit&atilde;o;</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "fezer" AC = "----+----+">
+<LT>e far&aacute; bon feito, se o <SEG C = "R" N = "RD" ID = "3">fezer</SEG>;</LT>
+<LL>e far&aacute; bon feito, se o fezer;</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "molher" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "4">de mais, nunca lh' ome soube molher</SEG>,</LT>
+<LL>de mais, nunca lh' ome soube molher,</LL>
+</L>
+<L N = "7" NS = "10" RI = "&atilde;o" ERI = "crist&atilde;o" AC = "---+-----+-">
+<LT>des que nasceu, tant' &eacute; de bon crist<SEG C = "R" N = "CC" ID = "5">&atilde;o</SEG>.</LT>
+<LL>des que nasceu, tant' &eacute; de bon crist&atilde;o.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>161:165</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&atilde;o" ERI = "m&atilde;o" AC = "------+--+-">
+<LT>Este ten o Para&iacute;s<SEG C = "I" N = "RE" ID = "6">o</SEG> en m<SEG C = "R" N = "CC" ID = "5">&atilde;o</SEG>,</LT>
+<LL>Este ten o Para&iacute;so en m&atilde;o,</LL>
+<TOPO CAT = "CIRCUNS">Para&iacute;so</TOPO></L>
+<L N = "2" NS = "10" RI = "az" ERI = "paz" AC = "---+-----+">
+<LT>que sempr' amou, con sen crist&atilde;o, paz,</LT>
+<LL>que sempr' amou, con sen crist&atilde;o, paz,</LL>
+</L>
+<L N = "3" NS = "10" RI = "az" ERI = "solaz" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "4">nen nunc' amou molher nen seu solaz</SEG>,</LT>
+<LL>nen nunc' amou molher nen seu solaz,</LL>
+</L>
+<L N = "4" NS = "10" RI = "&atilde;o" ERI = "vil&atilde;o" AC = "---+-----+-">
+<LT>nen desamou fidalgo nen vil&atilde;o;</LT>
+<LL>nen desamou fidalgo nen vil&atilde;o;</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "prouguer" AC = "-----+---+">
+<LT>e mais vos <SEG C = "I" N = "RE" ID = "7">en</SEG> direi, se vos <SEG C = "R" N = "RD" ID = "2">prouguer</SEG>:</LT>
+<LL>e mais vos en direi, se vos prouguer:</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "quer" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "4">nunca molher amou, nen quis nen quer</SEG>,</LT>
+<LL>nunca molher amou, nen quis nen quer,</LL>
+</L>
+<L N = "7" NS = "10" RI = "&atilde;o" ERI = "lou&ccedil;&atilde;o" AC = "--+------+-">
+<LT>pero cata, falagueir' e lou&ccedil;&atilde;o.</LT>
+<LL>pero cata, falagueir' e lou&ccedil;&atilde;o.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>161:165</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "nado" AC = "-----+---+-">
+<LT>E <SEG C = "I" N = "RE" ID = "8">a</SEG>tan b&otilde;o dia foi <SEG C = "I" N = "RE" ID = "9">el</SEG> nado</LT>
+<LL>E atan b&otilde;o dia foi el nado</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "enganar" AC = "--+------+">
+<LT>que tan ben soub' o pecad' enganar,</LT>
+<LL>que tan ben soub' o pecad' enganar,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "dar" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "4">que nunca por molher<SEG C = "I" N = "RE" ID = "10">es</SEG> ren quis dar</SEG>,</LT>
+<LL>que nunca por molheres ren quis dar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ado" ERI = "namorado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "11">e pero</SEG> mete-s' el por namorado;</LT>
+<LL>e pero mete-s' el por namorado;</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ben" AC = "-------+-+">
+<LT>e os que o non conhecemos ben</LT>
+<LL>e os que o non conhecemos ben</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "manten" AC = "---+-----+">
+<LT>cuidamos d' el que folia manten,</LT>
+<LL>cuidamos d' el que folia manten,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ado" ERI = "pensado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "4">mais el d' aver molher non &eacute; pens<SEG C = "R" N = "CC" ID = "12">ado</SEG></SEG>.</LT>
+<LL>mais el d' aver molher non &eacute; pensado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>161:165</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "empard&etilde;ado" AC = "---+-----+-">
+<LT>Que <SEG C = "I" N = "RE" ID = "13">se</SEG> oj' el<SEG C = "I" N = "RE" ID = "14">e</SEG> foss' empard&etilde;<SEG C = "R" N = "CC" ID = "12">ado</SEG>,</LT>
+<LL>Que se oj' ele foss' empard&etilde;ado,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "guardar" AC = "----+----+">
+<LT>non se saberia melhor guardar</LT>
+<LL>non se saberia melhor guardar</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "albergar" AC = "---+-----+">
+<LT>de nunca j&aacute; con molher albergar,</LT>
+<LL>de nunca j&aacute; con molher albergar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ado" ERI = "pecado" AC = "----+----+-">
+<LT>por non se riir d' el<SEG C = "I" N = "RE" ID = "15">e</SEG> o pecado,</LT>
+<LL>por non se riir d' ele o pecado,</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ren" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "4">ca nunca deu por molher nulha ren</SEG>;</LT>
+<LL>ca nunca deu por molher nulha ren;</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "alguen" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "11">e pero</SEG> vedes: se o vir alguen,</LT>
+<LL>e pero vedes: se o vir alguen,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ado" ERI = "casado" AC = "---+-----+-">
+<LT>terr&aacute; que morre por seer casado.</LT>
+<LL>terr&aacute; que morre por seer casado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "cca">
+<NOTRIM>
+<P>Rima sobre III-IV</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "manten" AC = "-+-------+">
+<LT>E, pois s' en tal castidade manten,</LT>
+<LL>E, pois s' en tal castidade manten,</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ren" AC = "---+-----+">
+<LT>quand' el morrer, direi-vos &utilde;a ren:</LT>
+<LL>quand' el morrer, direi-vos &utilde;a ren:</LL>
+</L>
+<L N = "3" NS = "10" RI = "ado" ERI = "chamado" AC = "---+-----+-">
+<LT><SEG C = "L" N = "OL" ID = "16">Beati Oculi</SEG> ser&aacute; chamado.</LT>
+<LL>Beati Oculi ser&aacute; chamado.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

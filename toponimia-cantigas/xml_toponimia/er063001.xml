@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063001" TC = "MEST" NE = "3+F" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Ai Justi&ccedil;a, mal fazedes que non</INCIPIT>
+<NUCANT>63 1</NUCANT>
+<RM BCA = "B" NM = "1466" F = "306v" MU = "NON" EM = "NO" I.FI = "lb306v"></RM>
+<RM BCA = "B" NM = "1466" F = "307r" MU = "NON" EM = "NO" I.FI = "lb307r"></RM>
+<RM BCA = "V" NM = "1076" F = "175r" MU = "NON" EM = "NO" I.FI = "lv175r"></RM>
+<RM BCA = "V" NM = "1076" F = "175v" MU = "NON" EM = "NO" I.FI = "lv175v"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 79</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 185</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Randgl. II, pp. 146-147</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1378</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1076</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 34</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "71"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>11/06/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "MA">
+<SUBTEMA CAT = "P"></SUBTEMA></TEMA>
+<TEMA CAT = "CSX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "on" ERI = "non" AC = "----+----+">
+<LT>Ai Justi&ccedil;a, mal fazedes que non</LT>
+<LL>Ai Justi&ccedil;a, mal fazedes que non</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "filhar" AC = "---+-----+">
+<LT>queredes ora dereito filhar</LT>
+<LL>queredes ora dereito filhar</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "matar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">de Mor da Cana, porque foi <SEG C = "R" N = "RD" ID = "1">matar</SEG></SEG></LT>
+<LL>de Mor da Cana, porque foi matar</LL>
+
+<ANTRO T = "REAL">Mor da Cana</ANTRO></L>
+<L N = "4" NS = "10" RI = "on" ERI = "razon" AC = "----+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">Joan Airas, ca fez mui sen-razon</SEG>;</LT>
+<LL>Joan Airas, ca fez mui sen-razon;</LL>
+
+<ANTRO T = "REAL">Joan Airas</ANTRO></L>
+<L N = "5" NS = "10" RI = "er" ERI = "fazer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">mais</SEG>, se dereito queredes <SEG C = "R" N = "RD" ID = "5">fazer</SEG></SEG>,</LT>
+<LL>mais, se dereito queredes fazer,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "meter" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "3">ela so el devedes a meter</SEG>,</LT>
+<LL>ela so el devedes a meter,</LL>
+</L>
+<L N = "7" NS = "10" RI = "on" ERI = "Leon" AC = "-----+---+">
+<LT><SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CP" ID = "3">ca o manda o Livro de Leon</SEG></SEG>.</LT>
+<LL>ca o manda o Livro de Leon.</LL>
+
+<TOPO CAT = "CIRCUNS">Leon</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT>Ca lhi queria gran ben, e des i</LT>
+<LL>Ca lhi queria gran ben, e des i</LL>
+</L>
+<L N = "2" NS = "10" RI = "or" ERI = "senhor" AC = "----+----+">
+<LT>nunca lhi chamava senon &quot;senhor&quot;;</LT>
+<LL>nunca lhi chamava senon &quot;senhor&quot;;</LL>
+</L>
+<L N = "3" NS = "10" RI = "or" ERI = "milhor" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "7">e, quando</SEG> lh' el queria mui milhor</SEG>,</LT>
+<LL>e, quando lh' el queria mui milhor,</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "ali" AC = "--+------+">
+<LT><SEG C = "R" N = "CPL" ID = "8"><SEG C = "R" N = "CP" ID = "1">foi-o ela logo matar ali</SEG></SEG>;</LT>
+<LL>foi-o ela logo matar ali;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ez" ERI = "fez" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">mais</SEG>, Justi&ccedil;a, pois tan gran torto <SEG C = "R" N = "RD" ID = "5">fez</SEG></SEG>,</LT>
+<LL>mais, Justi&ccedil;a, pois tan gran torto fez,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ez" ERI = "vez" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "9">mete<SEG C = "M" N = "SIN" ID = "10">de-a</SEG></SEG> ja so ele &utilde;a vez</SEG>,</LT>
+<LL>metede-a ja so ele &utilde;a vez,</LL>
+</L>
+<L N = "7" NS = "10" RI = "i" ERI = "assi" AC = "--+------+">
+<LT><SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CP" ID = "3">ca o manda o dereito assi</SEG></SEG>.</LT>
+<LL>ca o manda o dereito assi.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ou" ERI = "cuidou" AC = "---+----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "7">E, quando</SEG> m&aacute;is Joan Airas cuidou</SEG></LT>
+<LL>E, quando m&aacute;is Joan Airas cuidou</LL>
+
+<ANTRO T = "REAL">Joan Airas</ANTRO></L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">que ouvesse de Mor da Cana ben</SEG>,</LT>
+<LL>que ouvesse de Mor da Cana ben,</LL>
+
+<ANTRO T = "REAL">Mor da Cana</ANTRO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "poren" AC = "----+----+">
+<LT><SEG C = "R" N = "CPL" ID = "8"><SEG C = "R" N = "CP" ID = "1">foi-o ela logo matar poren</SEG></SEG>,</LT>
+<LL>foi-o ela logo matar poren,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ou" ERI = "entrou" AC = "---+-----+">
+<LT>tanto que el en seu poder entrou;</LT>
+<LL>tanto que el en seu poder entrou;</LL>
+</L>
+<L N = "5" NS = "10" RI = "a" ERI = "ja" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">mais</SEG>, Justi&ccedil;a, pois que assi &eacute; ja</SEG>,</LT>
+<LL>mais, Justi&ccedil;a, pois que assi &eacute; ja,</LL>
+</L>
+<L N = "6" NS = "10" RI = "a" ERI = "padecer&aacute;" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "9">metan-na</SEG> so el, e padecer&aacute;</SEG></LT>
+<LL>metan-na so el, e padecer&aacute;</LL>
+</L>
+<L N = "7" NS = "10" RI = "ou" ERI = "matou" AC = "---+-----+">
+<LT>a que o a mui gran torto <SEG C = "R" N = "RD" ID = "2">matou</SEG>.</LT>
+<LL>a que o a mui gran torto matou.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "ca">
+<NOTRIM>
+<P>Rima sobre III</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "a" ERI = "dira" AC = "---+-----+">
+<LT>E quen-nos ambos vir jazer, dira:</LT>
+<LL>E quen-nos ambos vir jazer, dira:</LL>
+</L>
+<L N = "2" NS = "10" RI = "ou" ERI = "julgou" AC = "---+-----+">
+<LT>&quot;&inexcla;Beeito se<SEG C = "M" N = "SIN" ID = "11">ja a</SEG>quel que o julgou!&quot;</LT>
+<LL>&quot;&inexcla;Beeito seja aquel que o julgou!&quot;</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

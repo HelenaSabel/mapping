@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "016008" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Don Fernando, vejo-vos andar ledo</INCIPIT>
+<NUCANT>16 8</NUCANT>
+<RM BCA = "B" NM = "1480" F = "310v" MU = "NON" EM = "NO" I.FI = "lb310v"></RM>
+<RM BCA = "V" NM = "1091" F = "179r" MU = "NON" EM = "NO" I.FI = "lv179r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1396</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1094</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 91</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "81"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>28/01/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "NB"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161: 127</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edo" ERI = "ledo" AC = "--+-+---++-">
+<LT><SEG C = "R" N = "CD" ID = "1">Don Fernando</SEG>, vejo-vos andar ledo</LT>
+<LL>Don Fernando, vejo-vos andar ledo</LL>
+<ANTRO T = "REAL">Fernando D&iacute;az (Don Fernando)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ei" ERI = "Rei" AC = "---+---+-+">
+<LT>con deantan&ccedil;a que vos deu el-Rei;</LT>
+<LL>con deantan&ccedil;a que vos deu el-Rei;</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "3" NS = "10" RI = "ei" ERI = "sei" AC = "---+-+---+">
+<LT>adeantado sodes, eu o sei,</LT>
+<LL>adeantado sodes, eu o sei,</LL>
+</L>
+<L N = "4" NS = "10" RI = "edo" ERI = "Ovedo" AC = "---+--+--+-">
+<LT>de San Fagun<SEG C = "M" N = "SIN" ID = "2">do e</SEG> d' Esturas d' Ovedo;</LT>
+<LL>de San Fagundo e d' Esturas d' Ovedo;</LL>
+<TOPO CAT = "CIUDAD">San Fagundo</TOPO>
+<TOPO CAT = "CIRCUNS">Esturas</TOPO>
+<TOPO CAT = "CIUDAD">Ovedo</TOPO></L>
+<L N = "5" NS = "10" RI = "ez" ERI = "fez" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CPL" ID = "3"><SEG C = "R" N = "CD" ID = "4">e pois</SEG> vos Deus ora tanto ben fez</SEG>,</LT>
+<LL>e pois vos Deus ora tanto ben fez,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ez" ERI = "vez" AC = "-+-+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "5">punhade d' ir adeant' &utilde;a vez</SEG>,</LT>
+<LL>punhade d' ir adeant' &utilde;a vez,</LL>
+</L>
+<L N = "7" NS = "10" RI = "edo" ERI = "derredo" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CP" ID = "5">ca, a<SEG C = "M" N = "SIN" ID = "6">tra aqui</SEG>, <SEG C = "R" N = "CF" ID = "7">fostes</SEG> sempr' a derredo</SEG>.</LT>
+<LL>ca, atra aqui, fostes sempr' a derredo.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:127</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "desaventurado" AC = "-+-+-----+-">
+<LT>Ca <SEG C = "R" N = "CF" ID = "7">fostes</SEG> sempre desaventurado;</LT>
+<LL>Ca fostes sempre desaventurado;</LL>
+</L>
+<L N = "2" NS = "10" RI = "eu" ERI = "deu" AC = "---+-+---+">
+<LT><SEG C = "R" N = "CPL" ID = "3">mais, pois vos ora Deus tanto ben deu</SEG>,</LT>
+<LL>mais, pois vos ora Deus tanto ben deu,</LL>
+</L>
+<L N = "3" NS = "10" RI = "eu" ERI = "eu" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CD" ID = "1">Don Fernando</SEG>, conselhar-vos quer' eu:</LT>
+<LL>Don Fernando, conselhar-vos quer' eu:</LL>
+<ANTRO T = "REAL">Fernando D&iacute;az? (Don fernando)</ANTRO></L>
+<L N = "4" NS = "10" RI = "ado" ERI = "pecado" AC = "---+-+---+-">
+<LT>non vos ar lev' atr&aacute;s vosso pecado,</LT>
+<LL>non vos ar lev' atr&aacute;s vosso pecado,</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "poder" AC = "---+-+---+">
+<LT><SEG C = "R" N = "CD" ID = "4">pois</SEG> vos el-Rei meteu en tal poder;</LT>
+<LL>pois vos el-Rei meteu en tal poder;</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "6" NS = "10" RI = "er" ERI = "creer" AC = "-+-+--+--+">
+<LT>sinher, querede-mi desto creer:</LT>
+<LL>sinher, querede-mi desto creer:</LL>
+</L>
+<L N = "7" NS = "10" RI = "ado" ERI = "adeantado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "5">adeant' ide, co<SEG C = "M" N = "SIN" ID = "8">me <SEG C = "R" N = "RD" ID = "9">a</SEG></SEG><SEG C = "R" N = "RD" ID = "9">deantado</SEG></SEG>.</LT>
+<LL>adeant' ide, come adeantado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:127</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ante" ERI = "andante" AC = "--+----+-+-">
+<LT>E pois sodes ora tan ben andante,</LT>
+<LL>E pois sodes ora tan ben andante,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "logar" AC = "---+--+--+">
+<LT>ben era d' ome do vosso logar</LT>
+<LL>ben era d' ome do vosso logar</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "quebrar" AC = "-+-+-----+">
+<LT>dess' olho mao de vos ar quebrar,</LT>
+<LL>dess' olho mao de vos ar quebrar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ante" ERI = "ante" AC = "---+--+--+-">
+<LT>e non andar com' and&aacute;vades ante,</LT>
+<LL>e non andar com' and&aacute;vades ante,</LL>
+</L>
+<L N = "5" NS = "10" RI = "as" ERI = "cr&aacute;s" AC = "-+-+---+-+">
+<LT>ca somos oj' e non seremos cr&aacute;s;</LT>
+<LL>ca somos oj' e non seremos cr&aacute;s;</LL>
+</L>
+<L N = "6" NS = "10" RI = "as" ERI = "atr&aacute;s" AC = "---+---+-+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "4">e pois</SEG> punhastes sempre d' ir atr&aacute;s</SEG>,</LT>
+<LL>e pois punhastes sempre d' ir atr&aacute;s,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ante" ERI = "adeante" AC = "--+-+-+--+-">
+<LT><SEG C = "R" N = "CP" ID = "5">ar punhad' agora d' ir <SEG C = "R" N = "RD" ID = "9">adeante</SEG></SEG>.</LT>
+<LL>ar punhad' agora d' ir adeante.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

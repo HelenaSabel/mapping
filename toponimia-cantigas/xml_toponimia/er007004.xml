@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "007004" TC = "REFR" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Don Fo&atilde;o, que eu sei que &aacute; pre&ccedil;o de liv&atilde;o</INCIPIT>
+<NUCANT>7 4</NUCANT>
+<RM BCA = "B" NM = "1558" F = "325r" MU = "NON" EM = "NO" I.FI = "lb325r"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, pp. 562-563</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. VI, p. 300</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 292</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 431</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1470</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, p. 135</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 128</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp. 132-133</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, p. 95</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 47</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 76</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 176-177</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 12-13, 408-409</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 46</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 78</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "60"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>13/02/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Affonsso Meendiz de Beesteyros
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 1558. Est&aacute;
+situada na columna b do folio 325r.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "COV"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>14' 15' 14' 10 10</ESQMET></INFMET>
+<NUMESQ>16:3
+<NOTNESQ>
+<P>Outra posibilidade 235:1.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "14" RI = "&atilde;o" ERI = "liv&atilde;o" AC = "--+---+/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Don Fo&atilde;o, que eu sei<SEG C = "M" N = "CAE" ID = "2"></SEG> que &aacute; pre&ccedil;o de liv&atilde;o</SEG>,</LT>
+<LL>Don Fo&atilde;o, que eu sei que &aacute; pre&ccedil;o de liv&atilde;o,</LL>
+
+<ANTRO T = "REAL">Don Fo&atilde;o</ANTRO></L>
+<L N = "2" NS = "15" RI = "&atilde;o" ERI = "cert&atilde;o" AC = "+--+--+-/-+-+--+-">
+<LT><SEG C = "R" N = "PL" ID = "2">vedes que fez ena guerra<SEG C = "M" N = "SIN" ID = "3"></SEG> -daquesto soo cert&atilde;o</SEG>:</LT>
+<LL>vedes que fez ena guerra -daquesto soo cert&atilde;o:</LL>
+</L>
+<L N = "3" NS = "14" RI = "&atilde;o" ERI = "tav&atilde;o" AC = "--+--+-/--+-+-+-">
+<LT><SEG C = "R" N = "PL" ID = "4">sol que viu os genetes,<SEG C = "M" N = "CAE" ID = "5"></SEG> come boi que fer tav&atilde;o</SEG>,</LT>
+<LL>sol que viu os genetes, come boi que fer tav&atilde;o,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "al" ERI = "al" AC = "--+----+-+">
+<LT>sacudiu-se <SEG C = "I" N = "RE" ID = "6">e</SEG> revolveu-se, al-</LT>
+<LL>sacudiu-se e revolveu-se, al-</LL>
+</L>
+<L N = "5" NS = "10" RI = "al" ERI = "Portugal" AC = "-+-+-+---+">
+<LT>&ccedil;ou rab' e foi sa vi<SEG C = "M" N = "SIN" ID = "7">a a</SEG> Portugal.</LT>
+<LL>&ccedil;ou rab' e foi sa via a Portugal.</LL>
+
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>14' 15' 14' 10 10</ESQMET></INFMET>
+<NUMESQ>16:3
+<NOTNESQ>
+<P>Outra posibilidade 235:1.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "14" RI = "eiro" ERI = "ligeiro" AC = "--+---+/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Don Fo&atilde;o, que eu sei<SEG C = "M" N = "CAE" ID = "8"></SEG> que &aacute; pre&ccedil;o de ligeiro</SEG>,</LT>
+<LL>Don Fo&atilde;o, que eu sei que &aacute; pre&ccedil;o de ligeiro,</LL>
+</L>
+<L N = "2" NS = "15" RI = "eiro" ERI = "verdadeiro" AC = "+--+--+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "2">vedes que fez ena guerra<SEG C = "M" N = "CAE" ID = "9"></SEG> -daquesto son <SEG C = "R" N = "RD" ID = "10">verdadeiro</SEG></SEG>:</LT>
+<LL>vedes que fez ena guerra -daquesto son verdadeiro:</LL>
+</L>
+<L N = "3" NS = "14" RI = "eiro" ERI = "tenreiro" AC = "--+--+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "4">sol que viu os genetes,<SEG C = "M" N = "CAE" ID = "11"></SEG> come bezerro tenreiro</SEG>,</LT>
+<LL>sol que viu os genetes, come bezerro tenreiro,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "al" ERI = "al" AC = "--+----+-+">
+<LT>sacudiu-se <SEG C = "I" N = "RE" ID = "12">e</SEG> revolveu-se, al-</LT>
+<LL>sacudiu-se e revolveu-se, al-</LL>
+</L>
+<L N = "5" NS = "10" RI = "al" ERI = "Portugal" AC = "-+-+-+---+">
+<LT>&ccedil;ou rab' e foi sa vi<SEG C = "M" N = "SIN" ID = "13">a a</SEG> Portugal.</LT>
+<LL>&ccedil;ou rab' e foi sa via a Portugal.</LL>
+
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>14' 15' 14' 10 10</ESQMET></INFMET>
+<NUMESQ>16:3
+<NOTNESQ>
+<P>Outra posibilidade 235:1.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "14" RI = "ade" ERI = "liveldade" AC = "--+---+/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Don Fo&atilde;o, que eu sei<SEG C = "M" N = "CAE" ID = "14"></SEG> que &aacute; prez de liveldade</SEG>,</LT>
+<LL>Don Fo&atilde;o, que eu sei que &aacute; prez de liveldade,</LL>
+
+<ANTRO T = "REAL">Don Fo&atilde;o</ANTRO></L>
+<L N = "2" NS = "15" RI = "ade" ERI = "verdade" AC = "+--+--+-/-+----+-">
+<LT><SEG C = "R" N = "PL" ID = "2">vedes que fez <SEG C = "I" N = "RE" ID = "15">e</SEG>na guerra<SEG C = "M" N = "CAE" ID = "16"></SEG> -sabede-o por <SEG C = "R" N = "RD" ID = "10">verdade</SEG></SEG>:</LT>
+<LL>vedes que fez ena guerra -sabede-o por verdade:</LL>
+</L>
+<L N = "3" NS = "14" RI = "ade" ERI = "grade" AC = "--+--+-/--+-+-+-">
+<LT><SEG C = "R" N = "PL" ID = "4">sol que viu os genetes,<SEG C = "M" N = "CAE" ID = "17"></SEG> come can que sal de grade</SEG>,</LT>
+<LL>sol que viu os genetes, come can que sal de grade,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "al" ERI = "al" AC = "--+----+-+">
+<LT>sacudiu-se <SEG C = "I" N = "RE" ID = "18">e</SEG> revolveu-se, al-</LT>
+<LL>sacudiu-se e revolveu-se, al-</LL>
+</L>
+<L N = "5" NS = "10" RI = "al" ERI = "Portugal" AC = "-+-+-+---+">
+<LT>&ccedil;ou rab' e foi sa vi<SEG C = "M" N = "SIN" ID = "19">a a</SEG> Portugal.</LT>
+<LL>&ccedil;ou rab' e foi sa via a Portugal.</LL>
+
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

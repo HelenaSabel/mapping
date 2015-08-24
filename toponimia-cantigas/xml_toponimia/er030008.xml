@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "030008" TC = "MEST" NE = "3" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Disse-m' oj' assi un ome</INCIPIT>
+<NUCANT>30 8</NUCANT>
+<RM BCA = "B" NM = "1307" F = "279v" MU = "NON" EM = "NO" I.FI = "lb279v"></RM>
+<RM BCA = "V" NM = "912" F = "143v" MU = "NON" EM = "NO" I.FI = "lv143v"></RM>
+<EDIANT T = "CRITI">
+<P>Pagani 16</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1256</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 912</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 434</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "107"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>14/03/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Stevam
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na marxe superior, enriba
+da cantiga B 1307, na columna b do folio 279v.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "RI"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "aaabab"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ome" ERI = "ome" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Disse-m'</SEG> oj' assi un <SEG C = "R" N = "RD" ID = "2">ome</SEG>:</LT>
+<LL>Disse-m' oj' assi un ome:</LL>
+</L>
+<L N = "2" NS = "7" RI = "ome" ERI = "ricome" AC = "---+--+-">
+<LT>- <SEG C = "R" N = "CP" ID = "3">Vai-se daqui un <SEG C = "R" N = "DO" ID = "4"><SEG C = "R" N = "RD" ID = "2">ricome</SEG></SEG></SEG>.</LT>
+<LL>- Vai-se daqui un ricome.</LL>
+</L>
+<L N = "3" NS = "7" RI = "ome" ERI = "come" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CD" ID = "6">Dix<SEG C = "I" N = "RE" ID = "7">i</SEG>-lh' eu</SEG>: - Per com' el come</SEG>!</LT>
+<LL>Dixi-lh' eu: - Per com' el come!</LL>
+</L>
+<L N = "4" NS = "10" RI = "oa" ERI = "Lisboa" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "8">Pois que m' eu fiqu' en Lisboa</SEG>,</LT>
+<LL>Pois que m' eu fiqu' en Lisboa,</LL>
+<TOPO CAT = "CIUDAD">Lisboa</TOPO></L>
+<L N = "5" NS = "7" RI = "ome" ERI = "ricome" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3">j&aacute; que se vai o <SEG C = "R" N = "DO" ID = "4"><SEG C = "R" N = "RD" ID = "2">ricome</SEG></SEG></SEG>,</LT>
+<LL>j&aacute; que se vai o ricome,</LL>
+</L>
+<L N = "6" NS = "7" RI = "oa" ERI = "boa" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CP" ID = "9"><SEG C = "R" N = "CPL" ID = "10">varon, vaa-s' en ora boa</SEG></SEG></SEG>.</LT>
+<LL>varon, vaa-s' en ora boa.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "aaabab"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "&etilde;a" ERI = "Leir&etilde;a" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">E disse-m'</SEG> el: - Per Leir&etilde;a,</LT>
+<LL>E disse-m' el: - Per Leir&etilde;a,</LL>
+<TOPO CAT = "ALDEA">Leir&etilde;a</TOPO></L>
+<L N = "2" NS = "7" RI = "&etilde;a" ERI = "S&etilde;a" AC = "---+--+-">
+<LT><SEG C = "R" N = "DO" ID = "11"><SEG C = "R" N = "CPL" ID = "12"><SEG C = "R" N = "RL" ID = "13"><SEG C = "R" N = "CD" ID = "14">se vai</SEG> caminho de S&etilde;a</SEG></SEG></SEG>.</LT>
+<LL>se vai caminho de S&etilde;a.</LL>
+<TOPO CAT = "ALDEA">S&etilde;a</TOPO></L>
+<L N = "3" NS = "7" RI = "ea" ERI = "cea" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "5"> <SEG C = "R" N = "CD" ID = "6">Dixi-lh' eu</SEG>: Per com' el cea</SEG>!</LT>
+<LL>Dixi-lh' eu: Per com' el cea!</LL>
+</L>
+<L N = "4" NS = "7" RI = "ura" ERI = "Stremadura" AC = "---+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "8">Pois eu fiqu' en Stremadura</SEG>;</LT>
+<LL>Pois eu fiqu' en Stremadura;</LL>
+<TOPO CAT = "CIUDAD">Stremadura</TOPO></L>
+<L N = "5" NS = "7" RI = "&etilde;a" ERI = "S&etilde;a" AC = "---+--+-">
+<LT><SEG C = "R" N = "DO" ID = "11"><SEG C = "R" N = "CPL" ID = "12"><SEG C = "R" N = "CP" ID = "9"><SEG C = "R" N = "RL" ID = "13"><SEG C = "R" N = "CD" ID = "14">se vai</SEG> caminho de S&etilde;a</SEG></SEG></SEG></SEG>.</LT>
+<LL>se vai caminho de S&etilde;a.</LL>
+<TOPO CAT = "ALDEA">S&etilde;a</TOPO></L>
+<L N = "6" NS = "7" RI = "ura" ERI = "ventura" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "10"><SEG C = "R" N = "CP" ID = "9"><SEG C = "R" N = "CF" ID = "15">el</SEG>, vaa-s' en boa ventura</SEG></SEG>.</LT>
+<LL>el, vaa-s' en boa ventura.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "aaabab"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:65</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "inho" ERI = "caminho" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Disse-m'</SEG> <SEG C = "R" N = "CF" ID = "15">el</SEG>: - Este caminho</LT>
+<LL>Disse-m' el: - Este caminho</LL>
+</L>
+<L N = "2" NS = "7" RI = "inho" ERI = "Minho" AC = "--+---+-">
+<LT><SEG C = "R" N = "DO" ID = "16"><SEG C = "R" N = "CPL" ID = "12"><SEG C = "R" N = "RL" ID = "17"><SEG C = "R" N = "CD" ID = "14">se vai</SEG> d' antre Doir' e Minho</SEG></SEG></SEG>.</LT>
+<LL>se vai d' antre Doir' e Minho.</LL>
+<TOPO CAT = "HIDRON">Doiro</TOPO>
+<TOPO CAT = "HIDRON">Minho</TOPO></L>
+<L N = "3" NS = "7" RI = "inho" ERI = "vinho" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "6">Dix' eu</SEG>: - Pois bevo bon vinho</LT>
+<LL>Dix' eu: - Pois bevo bon vinho</LL>
+</L>
+<L N = "4" NS = "7" RI = "onto" ERI = "conto" AC = "---+--+-">
+<LT>aqui, u c&ocirc;<SEG C = "M" N = "SIN" ID = "18">mio e</SEG> non conto,</LT>
+<LL>aqui, u c&ocirc;mio e non conto,</LL>
+</L>
+<L N = "5" NS = "7" RI = "inho" ERI = "Minho" AC = "----+-+-">
+<LT><SEG C = "R" N = "DO" ID = "16"><SEG C = "R" N = "CPL" ID = "12"><SEG C = "R" N = "CP" ID = "9"><SEG C = "R" N = "RL" ID = "17"><SEG C = "R" N = "CD" ID = "14">se vai </SEG><SEG C = "M" N = "SIN" ID = "19">a an</SEG>tre Doir' e Minho</SEG></SEG></SEG></SEG>,</LT>
+<LL>se vai a antre Doir' e Minho,</LL>
+<TOPO CAT = "HIDRON">Doiro</TOPO>
+<TOPO CAT = "HIDRON">Minho</TOPO></L>
+<L N = "6" NS = "7" RI = "onto" ERI = "ponto" AC = "---+-+-">
+<LT><SEG C = "R" N = "CPL" ID = "10"><SEG C = "R" N = "CP" ID = "9">senher, vaa-s' en <SEG C = "I" N = "RE" ID = "20">bon</SEG> ponto</SEG></SEG>.</LT>
+<LL>senher, vaa-s' en bon ponto.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

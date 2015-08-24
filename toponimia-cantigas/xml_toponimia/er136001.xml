@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="136001" NE="3" OL="NON" SG="NO" TC="REFR" XE="EA">
+      <INCIPIT>A Lobatom quero eu ir</INCIPIT>
+
+      <NUCANT>136 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="98r" I.FI="lb098r" MU="NON" NM="448"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amor 21</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 340</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 390</P>
+      </EDIANT>
+
+      <DATOAU NOME="Beltrami" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>16/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima a unis.)</P></FRI>
+
+      <NOTC>tonel novo <COMNOTC><P>Nota colocciana que precede á cantiga B
+      448. Está situada na columna a do folio 98r.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="SA"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7+6">
+        <ESQRIM TIPO="abcbddeFFEGGE"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 8 6&#39; 7 7 7&#39; 7 7 5&#39; 7 7 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>251:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ir" N="1" NS="8" RI="ir">
+          <LT><SEG C="R" ID="1" N="PP"><SEG C="R" ID="2" N="RL">A Lobatom quero eu ir</SEG></SEG>,</LT>
+
+          <LL>A Lobatom quero eu ir,</LL>
+
+          <TOPO CAT="TOPOME">Lobatom</TOPO>
+        </L>
+
+        <L AC="-+---+-" ERI="guya" N="2" NS="6" RI="ia">
+          <LT>ay Deus, e tu me guya;</LT>
+
+          <LL>ay Deus, e tu me guya;</LL>
+        </L>
+
+        <L AC="----+--+" ERI="bem" N="3" NS="8" RI="en">
+          <LT><SEG C="R" ID="3" N="PP">que a vis<SEG C="I" ID="4" N="RE">s</SEG>&#39; oj&#39; eu por meu bem</SEG></LT>
+
+          <LL>que a viss&#39; oj&#39; eu por meu bem</LL>
+        </L>
+
+        <L AC="---+-+-" ERI="queria" N="4" NS="6" RI="ia">
+          <LT>a que veer queria:</LT>
+
+          <LL>a que veer queria:</LL>
+        </L>
+
+        <L AC="---+--+" ERI="melhor" N="5" NS="7" RI="or">
+          <LT><SEG C="R" ID="5" N="CP">a que parece melhor</SEG></LT>
+
+          <LL>a que parece melhor</LL>
+        </L>
+
+        <L AC="-+----+" ERI="Senhor" N="6" NS="7" RI="or">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">de quantas</SEG> Nostro Senhor</SEG></LT>
+
+          <LL>de quantas Nostro Senhor</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="Johanna" N="7" NS="7" RI="ana">
+          <LT><SEG C="R" ID="5" N="CP">Deus fez <SEG C="R" ID="7" N="PR">é dona Johanna</SEG></SEG>,</LT>
+
+          <LL>Deus fez é dona Johanna,</LL>
+
+          <ANTRO T="REAL">dona Johanna</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+" ERI="seu" N="8" NS="7" RI="eu">
+            <LT>por que moir&#39; eu polo seu</LT>
+
+            <LL>por que moir&#39; eu polo seu</LL>
+          </L>
+
+          <L AC="--+---+" ERI="deu" N="9" NS="7" RI="eu">
+            <LT>parecer que lhy Deus deu,</LT>
+
+            <LL>parecer que lhy Deus deu,</LL>
+          </L>
+
+          <L AC="-+--+-" ERI="louçana" N="10" NS="5" RI="ana">
+            <LT>a esta louçana.</LT>
+
+            <LL>a esta louçana.</LL>
+          </L>
+
+          <L AC="---+--+" ERI="oy" N="11" NS="7" RI="i">
+            <LT>Eu non-na vi, mays oy</LT>
+
+            <LL>Eu non-na vi, mays oy</LL>
+          </L>
+
+          <L AC="----+-+" ERI="y" N="12" NS="7" RI="i">
+            <LT>d&#39; ela muyto bem: poys y</LT>
+
+            <LL>d&#39; ela muyto bem: poys y</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="mana" N="13" NS="7" RI="ana">
+            <LT><SEG C="R" ID="8" N="CFR">for</SEG>, veerrey ssair mana.</LT>
+
+            <LL>for, veerrey ssair mana.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7+6">
+        <ESQRIM TIPO="abcbddeFFEGGE"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 8 6&#39; 7 7 7&#39; 7 7 5&#39; 7 7 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>251:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ir" N="1" NS="8" RI="ir">
+          <LT><SEG C="R" ID="1" N="PP"><SEG C="R" ID="2" N="RL">A Lobatom quero eu <SEG
+C="R" ID="8" N="CFR">ir</SEG></SEG></SEG>,</LT>
+
+          <LL>A Lobatom quero eu ir,</LL>
+
+          <TOPO CAT="TOPOME">Lobatom</TOPO>
+        </L>
+
+        <L AC="---+-+-" ERI="sejo" N="2" NS="6" RI="ejo">
+          <LT><SEG C="R" ID="9" N="CD">ca</SEG>, hu and&#39; eu <SEG C="I"
+          ID="10" N="RE">ou</SEG> sejo,</LT>
+
+          <LL>ca, hu and&#39; eu ou sejo,</LL>
+        </L>
+
+        <L AC="+-----+" ERI="coraçom" N="3" NS="8" RI="on">
+          <LT><SEG C="R" ID="3" N="PP">ssenpre no meu coraçom</SEG></LT>
+
+          <LL>ssenpre no meu coraçom</LL>
+        </L>
+
+        <L AC="---+-+-" ERI="dessejo" N="4" NS="6" RI="ejo">
+          <LT>muyto veer dessejo</LT>
+
+          <LL>muyto veer dessejo</LL>
+        </L>
+
+        <L AC="--+---+" ERI="prez" N="5" NS="7" RI="ez">
+          <LT><SEG C="R" ID="5" N="CP">a senhor do melhor prez</SEG></LT>
+
+          <LL>a senhor do melhor prez</LL>
+        </L>
+
+        <L AC="---+--+" ERI="fez" N="6" NS="7" RI="ez">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">de qua<SEG
+C="I" ID="11" N="RE">n</SEG>tas Deus nunca fez</SEG></SEG></LT>
+
+          <LL>de quantas Deus nunca fez</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Johanna" N="7" NS="7" RI="ana">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="12" N="RL">esta <SEG
+C="R" ID="7" N="PR">é dona Johanna</SEG></SEG></SEG>,</LT>
+
+          <LL>esta é dona Johanna,</LL>
+
+          <ANTRO T="REAL">dona Johanna</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+" ERI="seu" N="8" NS="7" RI="eu">
+            <LT>por que moir&#39; eu polo sseu</LT>
+
+            <LL>por que moir&#39; eu polo sseu</LL>
+          </L>
+
+          <L AC="--+---+" ERI="deu" N="9" NS="7" RI="eu">
+            <LT><SEG C="I" ID="13" N="RE">parecer que lhy Deus deu</SEG>,</LT>
+
+            <LL>parecer que lhy Deus deu,</LL>
+          </L>
+
+          <L AC="-+--+-" ERI="louçana" N="10" NS="5" RI="ana">
+            <LT><SEG C="I" ID="13" N="RE">a esta louçana</SEG>.</LT>
+
+            <LL>a esta louçana.</LL>
+          </L>
+
+          <L AC="---+--+" ERI="oy" N="11" NS="7" RI="i">
+            <LT><SEG C="I" ID="13" N="RE">Eu non-na vi, mays oy</SEG></LT>
+
+            <LL>Eu non-na vi, mays oy</LL>
+          </L>
+
+          <L AC="----+-+" ERI="y" N="12" NS="7" RI="i">
+            <LT><SEG C="I" ID="13" N="RE">d&#39; ela muyto bem: poys y</SEG></LT>
+
+            <LL>d&#39; ela muyto bem: poys y</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="mana" N="13" NS="7" RI="ana">
+            <LT><SEG C="I" ID="13" N="RE"><SEG C="R" ID="14" N="CFR">for</SEG>, veerrey ssair mana</SEG>.</LT>
+
+            <LL>for, veerrey ssair mana.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7+6">
+        <ESQRIM TIPO="abcbddeFFEGGE"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 8 6&#39; 7 7 7&#39; 7 7 5&#39; 7 7 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>251:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ir" N="1" NS="8" RI="ir">
+          <LT><SEG C="R" ID="1" N="PP"><SEG C="R" ID="2" N="RL">A Lobatom quero eu <SEG
+C="R" ID="14" N="CFR">ir</SEG></SEG></SEG>,</LT>
+
+          <LL>A Lobatom quero eu ir,</LL>
+
+          <TOPO CAT="TOPOME">Lobatom</TOPO>
+        </L>
+
+        <L AC="--+--+-" ERI="cuydado" N="2" NS="6" RI="ado">
+          <LT><SEG C="R" ID="9" N="CD">ca</SEG> non perço cuydado</LT>
+
+          <LL>ca non perço cuydado</LL>
+        </L>
+
+        <L AC="---+---+" ERI="tal" N="3" NS="8" RI="al">
+          <LT><SEG C="R" ID="3" N="PP">do coraçon, en guissa tal</SEG></LT>
+
+          <LL>do coraçon, en guissa tal</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="aficado" N="4" NS="6" RI="ado">
+          <LT>que me trax aficado</LT>
+
+          <LL>que me trax aficado</LL>
+        </L>
+
+        <L AC="---+---+" ERI="sey" N="5" NS="7" RI="ey">
+          <LT>pola melhor das qu&#39; eu sey</LT>
+
+          <LL>pola melhor das qu&#39; eu sey</LL>
+        </L>
+
+        <L AC="----+-+" ERI="morrey" N="6" NS="7" RI="ei">
+          <LT>que sse a non vir morrey:</LT>
+
+          <LL>que sse a non vir morrey:</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="Johanna" N="7" NS="7" RI="ana">
+          <LT><SEG C="R" ID="12" N="RL">esta <SEG C="R" ID="7" N="PR">é dona Johanna</SEG></SEG>,</LT>
+
+          <LL>esta é dona Johanna,</LL>
+
+          <ANTRO T="REAL">dona Johanna</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+" ERI="seu" N="8" NS="7" RI="eu">
+            <LT>por que moyr&#39; eu polo seu</LT>
+
+            <LL>por que moyr&#39; eu polo seu</LL>
+          </L>
+
+          <L AC="--+---+" ERI="deu" N="9" NS="7" RI="eu">
+            <LT>parecer que lhy Deus deu,</LT>
+
+            <LL>parecer que lhy Deus deu,</LL>
+          </L>
+
+          <L AC="-+--+-" ERI="louçana" N="10" NS="5" RI="ana">
+            <LT>a esta louçana.</LT>
+
+            <LL>a esta louçana.</LL>
+          </L>
+
+          <L AC="---+--+" ERI="oy" N="11" NS="7" RI="i">
+            <LT><SEG C="I" ID="15" N="RE">Eu non-na vi, mays oy</SEG></LT>
+
+            <LL>Eu non-na vi, mays oy</LL>
+          </L>
+
+          <L AC="----+-+" ERI="y" N="12" NS="7" RI="i">
+            <LT><SEG C="I" ID="15" N="RE">d&#39; ela muyto bem: poys y</SEG></LT>
+
+            <LL>d&#39; ela muyto bem: poys y</LL>
+          </L>
+
+          <L AC="---+--+-" ERI="mana" N="13" NS="7" RI="ana">
+            <LT><SEG C="I" ID="15" N="RE">for, veerrey ssair mana</SEG>.</LT>
+
+            <LL>for, veerrey ssair mana.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

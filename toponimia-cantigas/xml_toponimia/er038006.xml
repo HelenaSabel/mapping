@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "038006" TC = "REFR" NE = "3" SG = "NO" XE = "M D" OL = "NON">
+<INCIPIT>Que adubastes, amigo, al&aacute; en Lug' u andastes</INCIPIT>
+<NUCANT>38 6</NUCANT>
+<RM BCA = "B" NM = "1299" F = "272v" MU = "NON" EM = "NO" I.FI = "lb272v"></RM>
+<RM BCA = "B" NM = "1299" F = "273r" MU = "NON" EM = "NO" I.FI = "lb273r"></RM>
+<RM BCA = "V" NM = "903" F = "142r" MU = "NON" EM = "NO" I.FI = "lv142r"></RM>
+<EDIANT T = "CRITI">
+<P>Amigo 507</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1247</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 903</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 195</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 279</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 102</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 92</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 106-107, 460-461</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 531</P></EDIANT>
+<DATOAU NOME = "Toriello" NUA = "7"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>8/04/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+<TEMA CAT = "LED"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 14' 9'</ESQMET></INFMET>
+<NUMESQ>16:1
+<NOTNESQ>
+<P>Outras posibilidades, 25:1; 239:1</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "astes" ERI = "andastes" AC = "---+--+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">- Que adubastes, amigo,<SEG C = "M" N = "CAE" ID = "2"></SEG> al&aacute; en Lug' u andastes</SEG></LT>
+<LL>- Que adubastes, amigo, al&aacute; en Lug' u andastes</LL>
+<TOPO CAT = "CIUDAD">Lugo</TOPO></L>
+<L N = "2" NS = "15" RI = "astes" ERI = "namorastes" AC = "--+---+-/--+---+-">
+<LT> <SEG C = "R" N = "PL" ID = "3">ou qual he essa fremosa<SEG C = "M" N = "CAE" ID = "4"></SEG> de que v&oacute;s vus <SEG C = "R" N = "RD" ID = "5">namorastes</SEG></SEG>?</LT>
+<LL> ou qual he essa fremosa de que v&oacute;s vus namorastes?</LL>
+</L>
+<L N = "3" NS = "15" RI = "astes" ERI = "preguntastes"
+AC = "----+-+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "6">- Direi-vo-lo eu, senhora,<SEG C = "M" N = "CAE" ID = "7"></SEG> poys me tam bem <SEG C = "R" N = "RD" ID = "8">preguntastes</SEG></SEG>:</LT>
+<LL>- Direi-vo-lo eu, senhora, poys me tam bem preguntastes:</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "14" RI = "ugo" ERI = "Lugo" AC = "--+---+/---+--+-">
+<LT>o amor que eu levei<SEG C = "M" N = "CAE" ID = "9"></SEG> de San<SEG C = "M" N = "HIA" ID = "10">tia</SEG>go a Lugo,</LT>
+<LL>o amor que eu levei de Santiago a Lugo,</LL>
+<TOPO CAT = "CIUDAD">Santiago</TOPO>
+<TOPO CAT = "CIUDAD">Lugo</TOPO></L>
+<L N = "5" NS = "9" RI = "ugo" ERI = "adugo" AC = "---+----+-">
+<LT>esse <SEG C = "M" N = "SIN" ID = "11">me a</SEG>duss' e esse <SEG C = "M" N = "SIN" ID = "12">mh-a</SEG>dugo.</LT>
+<LL>esse me aduss' e esse mh-adugo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 14' 9'</ESQMET></INFMET>
+<NUMESQ>16:1
+<NOTNESQ>
+<P>Outras posibilidades, 25:1; 239:1</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ia" ERI = "dia" AC = "---+--+-/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Que adoubastes, amigo,<SEG C = "M" N = "CAE" ID = "13"></SEG> hu tardastes n' outro dia</SEG></LT>
+<LL>Que adoubastes, amigo, hu tardastes n' outro dia</LL>
+</L>
+<L N = "2" NS = "15" RI = "ia" ERI = "parecia" AC = "---+--+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "3">ou qual he essa fremosa<SEG C = "M" N = "CAE" ID = "14"></SEG> que vus tam bem parecia</SEG>?</LT>
+<LL>ou qual he essa fremosa que vus tam bem parecia?</LL>
+</L>
+<L N = "3" NS = "15" RI = "ia" ERI = "perfia" AC = "----+-+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "6">- Direi-vo-lo <SEG C = "I" N = "RE" ID = "15">eu</SEG>, senhora,<SEG C = "M" N = "CAE" ID = "16"></SEG> poys hi tomastes perfia</SEG>:</LT>
+<LL>- Direi-vo-lo eu, senhora, poys hi tomastes perfia:</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "14" RI = "ugo" ERI = "Lugo" AC = "--+---+/---+--+-">
+<LT>o amor que eu levei<SEG C = "M" N = "CAE" ID = "17"></SEG> <SEG C = "I" N = "RE" ID = "18">de San<SEG C = "M" N = "HIA" ID = "19">tia</SEG>go a Lugo</SEG>,</LT>
+<LL>o amor que eu levei de Santiago a Lugo,</LL>
+<TOPO CAT = "CIUDAD">Santiago</TOPO>
+<TOPO CAT = "CIUDAD">Lugo</TOPO></L>
+<L N = "5" NS = "9" RI = "ugo" ERI = "adugo" AC = "---+----+-">
+<LT><SEG C = "I" N = "RE" ID = "18">esse m' aduss' e esse <SEG C = "M" N = "SIN" ID = "12">mh-a</SEG>dugo</SEG>.</LT>
+<LL>esse m' aduss' e esse mh-adugo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15' 14' 9'</ESQMET></INFMET>
+<NUMESQ>16:1
+<NOTNESQ>
+<P>Outras posibilidades, 25:1; 239:1</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ado" ERI = "tardado" AC = "---+--+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">- Que adoubastes, amigo,<SEG C = "M" N = "CAE" ID = "21"></SEG> l&aacute; u avedes tardado</SEG></LT>
+<LL>- Que adoubastes, amigo, l&aacute; u avedes tardado</LL>
+</L>
+<L N = "2" NS = "15" RI = "ado" ERI = "namorado" AC = "--+---+-/--+---+-">
+<LT> <SEG C = "R" N = "PL" ID = "3">ou qual &eacute; essa fremosa<SEG C = "M" N = "CAE" ID = "22"></SEG> de que sodes <SEG C = "R" N = "RD" ID = "5">namorado</SEG></SEG>?</LT>
+<LL> ou qual &eacute; essa fremosa de que sodes namorado?</LL>
+</L>
+<L N = "3" NS = "15" RI = "edes" ERI = "avedes" AC = "----+-+-/-+----+-">
+<LT><SEG C = "R" N = "PL" ID = "6">- Direi vo lo eu, senhora,<SEG C = "M" N = "CAE" ID = "23"></SEG> poys <SEG C = "M" N = "SIN" ID = "24">me a</SEG>vedes <SEG C = "R" N = "RD" ID = "8">preguntado</SEG></SEG>:</LT>
+<LL>- Direi-vo-lo eu, senhora, poys me avedes preguntado:</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "14" RI = "ugo" ERI = "Lugo" AC = "--+---+/---+--+-">
+<LT>o amor que eu levei<SEG C = "M" N = "CAE" ID = "25"></SEG> de <SEG C = "I" N = "RE" ID = "26">San<SEG C = "M" N = "HIA" ID = "27">tia</SEG>go a Lugo</SEG>,</LT>
+<LL>o amor que eu levei de Santiago a Lugo,</LL>
+<TOPO CAT = "CIUDAD">Santiago</TOPO>
+<TOPO CAT = "CIUDAD">Lugo</TOPO></L>
+<L N = "5" NS = "9" RI = "ugo" ERI = "adugo" AC = "---+----+-">
+<LT><SEG C = "I" N = "RE" ID = "26">esse <SEG C = "M" N = "SIN" ID = "28">me a</SEG>duss' e esse <SEG C = "M" N = "SIN" ID = "29">mh-a</SEG>dugo</SEG>.</LT>
+<LL>esse me aduss' e esse mh-adugo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "067003" TC = "REFR" NE = "4" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Atender quer' eu mandado, que m' enviou meu amigo</INCIPIT>
+<NUCANT>67 3</NUCANT>
+<RM BCA = "B" NM = "1292" F = "271v" MU = "NON" EM = "NO" I.FI = "lb271v"></RM>
+<RM BCA = "V" NM = "897" F = "141r" MU = "NON" EM = "NO" I.FI = "lv141r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestometia, p. 221-222</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1240</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 897</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 148</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 526</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "502">
+<COMAU>
+<P>Apart&aacute;monos da lectura de Nunes en que dispo&ntilde;emo-la cantiga en
+versos longos, como fai Lapa, Otexto, p. 193: tam&eacute;n seguimos a Lapa na
+lectura do v. 1 III, mentres Nunes ofrece ...pois m' el mandado
+envia,.</P></COMAU>
+</DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>3/07/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>42:1
+<NOTNESQ>
+<P>Outra posibilidade 249:1</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "igo" ERI = "amigo" AC = "--+-+-+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Atender quer' eu mandado,<SEG C = "M" N = "CAE" ID = "2"></SEG> que m' enviou meu amigo</SEG>,</LT>
+<LL>Atender quer' eu mandado, que m' enviou meu amigo,</LL>
+</L>
+<L N = "2" NS = "15" RI = "igo" ERI = "migo" AC = "--+---+-/-+--+-+-">
+<LT><SEG C = "R" N = "PL" ID = "3">que verr&aacute; en romaria<SEG C = "M" N = "CAE" ID = "4"></SEG> a Far' e veer-s' &aacute; migo</SEG>,</LT>
+<LL>que verr&aacute; en romaria a Far' e veer-s' &aacute; migo,</LL>
+<TOPO CAT = "LCULTO">Santa Maria do Faro (Faro)</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "enha" ERI = "venha" AC = "--+-+-+-">
+<LT>e por en tenh' eu que <SEG C = "R" N = "PV" ID = "5">venha</SEG>;</LT>
+<LL>e por en tenh' eu que venha;</LL>
+</L>
+<L N = "4" NS = "7" RI = "enha" ERI = "tenha" AC = "--+-+-+-">
+<LT>como quer que outren tenha,</LT>
+<LL>como quer que outren tenha,</LL>
+</L>
+<L N = "5" NS = "7" RI = "enha" ERI = "venha" AC = "-+-+--+-">
+<LT>non tem' <SEG C = "R" N = "CFR" ID = "6">eu</SEG> d' el que non <SEG C = "R" N = "PV" ID = "5">venha</SEG>.</LT>
+<LL>non tem' eu d' el que non venha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>42:1
+<NOTNESQ>
+<P>Outra posibilidade 249:1</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ado" ERI = "mandado" AC = "--+-+-+-/---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Atende-lo quer' <SEG C = "R" N = "CFR" ID = "6">eu</SEG> madre,<SEG C = "M" N = "CAE" ID = "7"></SEG> pois m' enviou seu mandado</SEG>,</LT>
+<LL>Atende-lo quer' eu madre, pois m' enviou seu mandado,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ado" ERI = "coitado" AC = "--+---+-/-+-+--+-">
+<LT>ca mi diss' o mandadeiro<SEG C = "M" N = "CAE" ID = "8"> que &eacute; por mi mui coitado,</SEG></LT>
+<LL>ca mi diss' o mandadeiro que &eacute; por mi mui coitado,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "enha" ERI = "venha" AC = "--+-+-+-">
+<LT>e por en tenh' eu que <SEG C = "R" N = "PV" ID = "5">venha</SEG>;</LT>
+<LL>e por en tenh' eu que venha;</LL>
+</L>
+<L N = "4" NS = "7" RI = "enha" ERI = "tenha" AC = "--+-+-+-">
+<LT>como quer que outren tenha,</LT>
+<LL>como quer que outren tenha,</LL>
+</L>
+<L N = "5" NS = "7" RI = "enha" ERI = "venha" AC = "-+-+--+-">
+<LT>non tem' <SEG C = "R" N = "CFR" ID = "9">eu</SEG> d' el que non <SEG C = "R" N = "PV" ID = "5">venha</SEG>.</LT>
+<LL>non tem' eu d' el que non venha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>42:1
+<NOTNESQ>
+<P>Outra posibilidade 249:1</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ia" ERI = "envia" AC = "--+-+-+-/-+--+-+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Atende-lo quer' <SEG C = "R" N = "CFR" ID = "9">eu</SEG>, madre,<SEG C = "M" N = "CAE" ID = "10"></SEG> pois m' el<SEG C = "I" N = "RE" ID = "11">e</SEG> mandad' envia</SEG>,</LT>
+<LL>Atende-lo quer' eu, madre, pois m' ele mandad' envia,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ia" ERI = "Maria" AC = "---+---+-/-+-+--+-">
+<LT><SEG C = "R" N = "PL" ID = "3">que se verria veer migo<SEG C = "M" N = "CAE" ID = "12"></SEG> en Far', en Santa Maria</SEG>,</LT>
+<LL>que se verria veer migo en Far', en Santa Maria,</LL>
+<TOPO CAT = "LCULTO">Santa Maria do Faro</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "enha" ERI = "venha" AC = "--+-+-+-">
+<LT>e por en tenh' eu que <SEG C = "R" N = "PV" ID = "5">venha</SEG>,</LT>
+<LL>e por en tenh' eu que venha,</LL>
+</L>
+<L N = "4" NS = "7" RI = "enha" ERI = "tenha" AC = "--+-+-+-">
+<LT>como quer que outren tenha,</LT>
+<LL>como quer que outren tenha,</LL>
+</L>
+<L N = "5" NS = "7" RI = "enha" ERI = "venha" AC = "-+-+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "13">non tem' eu</SEG> d' <SEG C = "R" N = "CFR" ID = "13">el que non <SEG C = "R" N = "PV" ID = "5">venha</SEG></SEG>.</LT>
+<LL>non tem' eu d' el que non venha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>42:1
+<NOTNESQ>
+<P>Outra posibilidade 249:1</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "eja" ERI = "seja" AC = "-+--+-+-/--+-+-+-">
+<LT><SEG C = "R" N = "CFR" ID = "13">Que el</SEG> log' a mi <SEG C = "R" N = "CFR" ID = "13">non venha<SEG C = "M" N = "CAE" ID = "14"></SEG> non tenh' eu</SEG> per ren que seja,</LT>
+<LL>Que el log' a mi non venha non tenh' eu per ren que seja,</LL>
+</L>
+<L N = "2" NS = "15" RI = "eja" ERI = "veja" AC = "--+---+-/--+---+-">
+<LT>nen que muito viver possa<SEG C = "M" N = "CAE" ID = "15"></SEG> en logar u me non veja,</LT>
+<LL>nen que muito viver possa en logar u me non veja,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "enha" ERI = "venha" AC = "--+-+-+-">
+<LT>e por en tenh' eu que <SEG C = "R" N = "PV" ID = "5">venha</SEG>;</LT>
+<LL>e por en tenh' eu que venha;</LL>
+</L>
+<L N = "4" NS = "7" RI = "enha" ERI = "tenha" AC = "--+-+-+-">
+<LT>como quer que outren tenha,</LT>
+<LL>como quer que outren tenha,</LL>
+</L>
+<L N = "5" NS = "7" RI = "enha" ERI = "venha" AC = "-+-+--+-">
+<LT>non tem' eu d' el que non <SEG C = "R" N = "PV" ID = "5">venha</SEG>.</LT>
+<LL>non tem' eu d' el que non venha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "105001" TC = "REFR" NE = "2" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Un infan&ccedil;on mi &aacute; convidado</INCIPIT>
+<NUCANT>105 1</NUCANT>
+<RM BCA = "B" NM = "1552" F = "324r" MU = "NON" EM = "NO" I.FI = "lb324r"></RM>
+<EDIANT T = "DIVUL">
+<P>Randgl. III, p. 167</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 289</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 425</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1464</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 28</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 55</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 26</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Lopes 268</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "68">
+<COMAU>
+<P>A cantiga &eacute; atribu&iacute;da a Airas Nunez.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>19/10/99</DATE></RESP>
+<FRI>c. unis.</FRI>
+<NOTC>auen
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1552 e situada no fol. 324 na
+columna a, marxe inferior. Tr&aacute;tase da reproducci&oacute;n da palabra en
+rima do verso cuarto da estrofa I, palabra que aparece subli&ntilde;ada no
+texto.</P></COMNOTC></NOTC>
+<TEMA CAT = "FAL"></TEMA>
+<TEMA CAT = "VIX">
+<SUBTEMA CAT = "IN"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>8' 8' 8' 8 8' 8</ESQMET></INFMET>
+<NUMESQ>13:56</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ado" ERI = "convidado" AC = "---+---+-">
+<LT>Un infan&ccedil;on<SEG C = "M" N = "SIN" ID = "1"> mi &aacute;</SEG> convidado</LT>
+<LL>Un infan&ccedil;on mi &aacute; convidado</LL>
+</L>
+<L N = "2" NS = "8" RI = "ado" ERI = "loado" AC = "-------+-">
+<LT>que seja seu jantar loado</LT>
+<LL>que seja seu jantar loado</LL>
+</L>
+<L N = "3" NS = "8" RI = "ado" ERI = "guisado" AC = "---+---+-">
+<LT>par mi, mais eu no<SEG C = "M" N = "SIN" ID = "2">no ei</SEG> guisado;</LT>
+<LL>par mi, mais eu nono ei guisado;</LL>
+</L>
+<L N = "4" NS = "8" RI = "en" ERI = "aven" AC = "---+---+">
+<LT>e direi-vos por que<SEG C = "M" N = "SIN" ID = "3"> mi a</SEG>ven:</LT>
+<LL>e direi-vos por que mi aven:</LL>
+</L>
+<L N = "5" NS = "8" RI = "ado" ERI = "jurado" AC = "----+--+-">
+<LT><SEG C = "R" N = "CP" ID = "4">ca j&aacute; des antan' ei jurado</SEG></LT>
+<LL>ca j&aacute; des antan' ei jurado</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "8" RI = "en" ERI = "ben" AC = "---+---+">
+<LT><SEG C = "R" N = "CP" ID = "4">que nunca <SEG C = "R" N = "CFR" ID = "5">diga</SEG> de mal ben</SEG>.</LT>
+<LL>que nunca diga de mal ben.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>8' 8' 8' 8 8' 8</ESQMET></INFMET>
+<NUMESQ>13:56</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ado" ERI = "dado" AC = "-+-----+-">
+<LT><SEG C = "R" N = "CFR" ID = "5">Diss'</SEG> el, poi-lo jantar foi dado:</LT>
+<LL>Diss' el, poi-lo jantar foi dado:</LL>
+</L>
+<L N = "2" NS = "8" RI = "ado" ERI = "onrado" AC = "-------+-">
+<LT>- Load' este jantar onrado!</LT>
+<LL>- Load' este jantar onrado!</LL>
+</L>
+<L N = "3" NS = "8" RI = "ado" ERI = "grado" AC = "---+---+-">
+<LT>Dix' eu: -Faria-o de grado,</LT>
+<LL>Dix' eu: -Faria-o de grado,</LL>
+</L>
+<L N = "4" NS = "8" RI = "en" ERI = "Jaen" AC = "----+--+">
+<LT><SEG C = "R" N = "CP" ID = "4">mais jurei antan' en Jaen</SEG>,</LT>
+<LL>mais jurei antan' en Jaen,</LL>
+<TOPO CAT = "CIUDAD">Jaen</TOPO></L>
+<L N = "5" NS = "8" RI = "ado" ERI = "cruzado" AC = "---+---+-">
+<LT><SEG C = "R" N = "CP" ID = "4">na oste, quando fui cruzado</SEG>,</LT>
+<LL>na oste, quando fui cruzado,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "8" RI = "en" ERI = "ben" AC = "---+---+">
+<LT><SEG C = "R" N = "CP" ID = "4">que nunca diga de mal ben</SEG>.</LT>
+<LL>que nunca diga de mal ben.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

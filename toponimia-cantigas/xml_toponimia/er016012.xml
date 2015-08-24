@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="016012" NE="2" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Joan Nicolás soube guarecer</INCIPIT>
+
+      <NUCANT>16 12</NUCANT>
+
+      <RM BCA="B" EM="NO" F="311r" I.FI="lb311r" MU="NON" NM="1484"></RM>
+
+      <RM BCA="V" EM="NO" F="180r" I.FI="lv180r" MU="NON" NM="1096"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. II, p. 146</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1398</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1096</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 127</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 96</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="86"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>30/01/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima c sing.)</P></FRI>
+
+      <TEMA CAT="IPR"><SUBTEMA CAT="MT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--++---+" ERI="guarecer" N="1" NS="10" RI="er">
+          <LT>Joan Nicolás soube guarecer</LT>
+
+          <LL>Joan Nicolás soube guarecer</LL>
+
+          <ANTRO T="REAL">Joan Nicolás</ANTRO>
+        </L>
+
+        <L AC="-+-+-+---+" ERI="razon" N="2" NS="10" RI="on">
+          <LT>de mort&#39; un om&#39; assi per sa razon,</LT>
+
+          <LL>de mort&#39; un om&#39; assi per sa razon,</LL>
+        </L>
+
+        <L AC="-+-+-+---+" ERI="Leon" N="3" NS="10" RI="on">
+          <LT>que foi julgad&#39; a foro de Leon</LT>
+
+          <LL>que foi julgad&#39; a foro de Leon</LL>
+
+          <TOPO CAT="CIRCUNS">Leon</TOPO>
+        </L>
+
+        <L AC="---+--+---+" ERI="&#39;storcer" N="4" NS="10" RI="er">
+          <LT>que non devia de mort&#39; a &#39;storcer;</LT>
+
+          <LL>que non devia de mort&#39; a &#39;storcer;</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="lei" N="5" NS="10" RI="ei">
+          <LT>e socorreu-s&#39; assi con esta lei:</LT>
+
+          <LL>e socorreu-s&#39; assi con esta lei:</LL>
+        </L>
+
+        <L AC="--+--+--++" ERI="Rei" N="6" NS="10" RI="ei">
+          <LT>&#34;que non deve justiça fazer Rei</LT>
+
+          <LL>&#34;que non deve justiça fazer Rei</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="colher" N="7" NS="10" RI="er">
+          <LT>en ome que na mão <SEG C="I" ID="1" N="RE">non</SEG> colh<SEG
+          C="R" ID="2" N="CC">er</SEG>&#34;.</LT>
+
+          <LL>en ome que na mão non colher&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso 7 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+" ERI="prender" N="1" NS="10" RI="er">
+          <LT>E pois el viu que devia prend<SEG C="R" ID="2" N="CC">er</SEG></LT>
+
+          <LL>E pois el viu que devia prender</LL>
+        </L>
+
+        <L AC="+--+--+--+" ERI="enton" N="2" NS="10" RI="on">
+          <LT>mort&#39; aquel om&#39; assi, disse-lh&#39; enton:</LT>
+
+          <LL>mort&#39; aquel om&#39; assi, disse-lh&#39; enton:</LL>
+        </L>
+
+        <L AC="+--+-+---+" ERI="traiçon" N="3" NS="10" RI="on">
+          <LT>- &#34;Ponho que fez aleiv&#39; e traiçon</LT>
+
+          <LL>- &#34;Ponho que fez aleiv&#39; e traiçon</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="morrer" N="4" NS="10" RI="er">
+          <LT>e cousa já per que deva morrer.</LT>
+
+          <LL>e cousa já per que deva morrer.</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="leixar" N="5" NS="10" RI="ar">
+          <LT>Dizede vós: se a terra leixar,</LT>
+
+          <LL>Dizede vós: se a terra leixar,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="justiçar" N="6" NS="10" RI="ar">
+          <LT>que non me achen i a justiçar,</LT>
+
+          <LL>que non me achen i a justiçar,</LL>
+        </L>
+
+        <L AC="---+-+-+--+" ERI="fazer" N="7" NS="11" RI="er">
+          <LT>se poderan en mi justiça fazer&#34;?</LT>
+
+          <LL>se poderan en mi justiça fazer&#34;?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

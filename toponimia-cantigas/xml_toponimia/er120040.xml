@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "120040" TC = "REFR" NE = "2" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Quand' eu d' Olide sa&iacute;</INCIPIT>
+<NUCANT>120 40</NUCANT>
+<RM BCA = "B" NM = "1637" F = "349v" MU = "NON" EM = "NO" I.FI = "lb349v"></RM>
+<RM BCA = "V" NM = "1171" F = "193r" MU = "NON" EM = "NO" I.FI = "lv193r"></RM>
+<EDIANT T = "CRITI">
+<P>Panunzio, pp. 156-157</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Ju&aacute;rez, p. 193</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Pero da Ponte, 33</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. III, p. 165</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1541</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1171</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 41</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 60</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., p. 125</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 103</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 229</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 294-295, 559</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 305</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "353">
+<COMAU>
+<P>A&iacute;nda que segu&iacute;mo la edici&oacute;n de Lapa, non
+sinalamos como refr&aacute;n o v. 7</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>6/03/00</DATE></RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "AVA">
+<SUBTEMA CAT = "NB"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7+1">
+<ESQRIM TIPO = "abababcC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7 7 14' 14'</ESQMET></INFMET>
+<NUMESQ>69:1
+<NOTNESQ>
+<P>Outra posibilidade, 73:1</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "i" ERI = "sa&iacute;" AC = "-+----+">
+<LT>Quand' eu d' Olide sa&iacute;,</LT>
+<LL>Quand' eu d' Olide sa&iacute;,</LL>
+<TOPO CAT = "ALDEA">Olide</TOPO></L>
+<L N = "2" NS = "7" RI = "ar" ERI = "Aivar" AC = "--+---+">
+<LT>preguntei por Aivar;</LT>
+<LL>preguntei por Aivar;</LL>
+<ANTRO T = "REAL">Aivar</ANTRO></L>
+<L N = "3" NS = "7" RI = "i" ERI = "assi" AC = "-+----+">
+<LT><SEG C = "R" N = "CD" ID = "1">e disse-mi</SEG> log' assi</LT>
+<LL>e disse-mi log' assi</LL>
+</L>
+<L N = "4" NS = "7" RI = "ar" ERI = "preguntar" AC = "---+--+">
+<LT>aquel que foi preguntar:</LT>
+<LL>aquel que foi preguntar:</LL>
+</L>
+<L N = "5" NS = "7" RI = "i" ERI = "mi" AC = "-+----+">
+<LT>- Senhor, v&oacute;s creed' a mi,</LT>
+<LL>- Senhor, v&oacute;s creed' a mi,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ar" ERI = "contar" AC = "--+---+">
+<LT>que o sei mui ben contar:</LT>
+<LL>que o sei mui ben contar:</LL>
+</L>
+<L N = "7" NS = "14" RI = "eno" ERI = "Xemeno" AC = "----+--------+-">
+<LT><SEG C = "R" N = "CPL" ID = "2">Eu vos contarei quant' &aacute; daqui a cas Don Xemeno</SEG>:</LT>
+<LL>Eu vos contarei quant' &aacute; daqui a cas Don Xemeno:</LL>
+<ANTRO T = "REAL">Don Xemeno</ANTRO></L>
+<REFRAN>
+<L N = "8" NS = "14" RI = "eno" ERI = "pequeno" AC = "----+--------+-">
+<LT><SEG C = "R" N = "CP" ID = "3">un dia mui grand' &aacute; i, e un jantar mui pequeno</SEG>.</LT>
+<LL>un dia mui grand' &aacute; i, e un jantar mui pequeno.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7+1">
+<ESQRIM TIPO = "abababcC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7 7 14' 14'</ESQMET></INFMET>
+<NUMESQ>69:1
+<NOTNESQ>
+<P>Outra posibilidade, 73:1</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "i" ERI = "parti" AC = "-+----+">
+<LT><SEG C = "R" N = "CD" ID = "1">Disse<SEG C = "M" N = "SIN" ID = "4">-mi</SEG></SEG>, <SEG C = "M" N = "SIN" ID = "4">u</SEG> me d' el parti:</LT>
+<LL>Disse-mi, u me d' el parti:</LL>
+</L>
+<L N = "2" NS = "7" RI = "ar" ERI = "conselhar" AC = "---+--+">
+<LT>- Quero vos ben conselhar:</LT>
+<LL>- Quero vos ben conselhar:</LL>
+</L>
+<L N = "3" NS = "7" RI = "i" ERI = "daqui" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">a jornada que daqui</SEG></LT>
+<LL>a jornada que daqui</LL>
+</L>
+<L N = "4" NS = "7" RI = "ar" ERI = "filhar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">v&oacute;s &ocirc;i queredes filhar</SEG></LT>
+<LL>v&oacute;s &ocirc;i queredes filhar</LL>
+</L>
+<L N = "5" NS = "7" RI = "i" ERI = "i" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">ser&aacute; grande, pois des i</SEG></LT>
+<LL>ser&aacute; grande, pois des i</LL>
+</L>
+<L N = "6" NS = "7" RI = "ar" ERI = "jantar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">cr&aacute;s non &eacute; ren o jantar</SEG></LT>
+<LL>cr&aacute;s non &eacute; ren o jantar</LL>
+</L>
+<L N = "7" NS = "14" RI = "eno" ERI = "Xemeno" AC = "---+---------+-">
+<LT><SEG C = "R" N = "CPL" ID = "2">Poren vos conto quant' &aacute; d' aqui a cas Don Xemeno</SEG>:</LT>
+<LL>Poren vos conto quant' &aacute; d' aqui a cas Don Xemeno:</LL>
+<ANTRO T = "REAL">Don Xemeno</ANTRO></L>
+<REFRAN>
+<L N = "8" NS = "14" RI = "eno" ERI = "pequeno" AC = "----+--------+-">
+<LT><SEG C = "R" N = "CP" ID = "3">un dia mui grand' &aacute; i, e un jantar mui pequeno</SEG>.</LT>
+<LL>un dia mui grand' &aacute; i, e un jantar mui pequeno.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

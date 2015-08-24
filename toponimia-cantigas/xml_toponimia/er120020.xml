@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120020" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Maria Pérez, a nossa cruzada</INCIPIT>
+
+      <NUCANT>120 20</NUCANT>
+
+      <RM BCA="B" EM="NO" F="350v" I.FI="lb350v" MU="NON" NM="1642"></RM>
+
+      <RM BCA="V" EM="NO" F="194r" I.FI="lv194r" MU="NON" NM="1176"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 170-172</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 226-227</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 38</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, p. 673</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1546</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1176</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçlaves/Ramos, A lírica, 35</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 42</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesía obscena, 22</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 104</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 40</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 35</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 296-297, 559-561</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 185</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 310</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="358"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>23/02/00</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="S"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10' 10 10 10'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 4 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>122:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="cruzada" N="1" NS="10" RI="ada">
+          <LT>Maria Pérez, a nossa cruzada,</LT>
+
+          <LL>Maria Pérez, a nossa cruzada,</LL>
+
+          <ANTRO T="REAL">Maria Pérez, a Balteira (Maria Pérez)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="Ultramar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="PP">quando veo da terra d' Ultramar</SEG>,</LT>
+
+          <LL>quando veo da terra d' Ultramar,</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+
+        <L AC="--+------+-" ERI="carregada" N="3" NS="10" RI="ada">
+          <LT>assi veo de <SEG C="R" ID="2" N="DOI">pardon</SEG>
+          carregada</LT>
+
+          <LL>assi veo de pardon carregada</LL>
+        </L>
+
+        <L AC="----+-----+" ERI="erger" N="4" NS="11" RI="er">
+          <LT>que se non podia con el en erger;</LT>
+
+          <LL>que se non podia con el en erger;</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="maer" N="5" NS="10" RI="er">
+          <LT>mais furtan-lho, cada u vai maer,</LT>
+
+          <LL>mais furtan-lho, cada u vai maer,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="nada" N="6" NS="10" RI="ada">
+          <LT>e do <SEG C="R" ID="3" N="CF"><SEG C="R" ID="2" N="DOI">perdon</SEG></SEG>
+          já non lhi ficou n<SEG C="R" ID="4" N="CC">ada</SEG>.</LT>
+
+          <LL>e do perdon já non lhi ficou nada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10' 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>122:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="preçada" N="1" NS="10" RI="ada">
+          <LT>E o <SEG C="R" ID="3" N="CF">perdon</SEG> é cousa mui preç<SEG
+          C="R" ID="4" N="CC">ada</SEG></LT>
+
+          <LL>E o perdon é cousa mui preçada</LL>
+        </L>
+
+        <L AC="----+----+" ERI="guardar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="PP">e que se devia muit' a <SEG C="R"
+                ID="5" N="RD">guardar</SEG></SEG>;</LT>
+
+          <LL>e que se devia muit' a guardar;</LL>
+        </L>
+
+        <L AC="-+-------+-" ERI="ferrada" N="3" NS="10" RI="ada">
+          <LT>mais ela non á <SEG C="R" ID="6" N="DOI">maeta</SEG>
+          ferrada</LT>
+
+          <LL>mais ela non á maeta ferrada</LL>
+        </L>
+
+        <L AC="---+------+" ERI="aver" N="4" NS="10" RI="er">
+          <LT>en que o guarde, nena pod' aver,</LT>
+
+          <LL>en que o guarde, nena pod' aver,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="perder" N="5" NS="10" RI="er">
+          <LT>ca, pois o cadead' en foi perder,</LT>
+
+          <LL>ca, pois o cadead' en foi perder,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="descadeada" N="6" NS="10" RI="ada">
+          <LT>sempr' a <SEG C="R" ID="7" N="CF"><SEG C="R" ID="6" N="DOI">mae<SEG
+                  C="M" ID="8" N="SIN">ta</SEG></SEG></SEG><SEG C="M" ID="8"
+          N="SIN"> an</SEG>dou descade<SEG C="R" ID="9" N="CC">ada</SEG>.</LT>
+
+          <LL>sempr' a maeta andou descadeada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10' 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>122:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+-" ERI="guardada" N="1" NS="10" RI="ada">
+          <LT>Tal <SEG C="R" ID="7" N="CF">maeta</SEG> como será <SEG C="R"
+          ID="5" N="RD">guard<SEG C="R" ID="9" N="CC">ada</SEG></SEG>,</LT>
+
+          <LL>Tal maeta como será guardada,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="logar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="PP">pois rapazes albergan no logar</SEG>,</LT>
+
+          <LL>pois rapazes albergan no logar,</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="trastornada" N="3" NS="10" RI="ada">
+          <LT>que non aja seer mui trastornada?</LT>
+
+          <LL>que non aja seer mui trastornada?</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="poder" N="4" NS="10" RI="er">
+          <LT>Ca, o logar u eles an poder,</LT>
+
+          <LL>Ca, o logar u eles an poder,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="asconder" N="5" NS="10" RI="er">
+          <LT>non á pardon que s' i po<SEG C="M" ID="10" N="SIN">ssa as</SEG>conder,</LT>
+
+          <LL>non á pardon que s' i possa asconder,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="pousada" N="6" NS="10" RI="ada">
+          <LT>assi saben trastornar a pousada.</LT>
+
+          <LL>assi saben trastornar a pousada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10'</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="dizer" N="1" NS="10" RI="er">
+          <LT>E outra cousa vos quero dizer:</LT>
+
+          <LL>E outra cousa vos quero dizer:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="perder" N="2" NS="10" RI="er">
+          <LT>ata pardon ben se dev' a perder,</LT>
+
+          <LL>ata pardon ben se dev' a perder,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="gaanhada" N="3" NS="10" RI="ada">
+          <LT>ca muito foi cousa mal gaa<SEG C="I" ID="11" N="RE">nh</SEG>ada.</LT>
+
+          <LL>ca muito foi cousa mal gaanhada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

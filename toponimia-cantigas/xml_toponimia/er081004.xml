@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "081004" TC = "REFR" NE = "3+F" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Direi-vos ora que o&iacute; dizer</INCIPIT>
+<NUCANT>81 4</NUCANT>
+<RM BCA = "B" NM = "1545" F = "323r" MU = "NON" EM = "NO" I.FI = "lb323r"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 418</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1457</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 206</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "244"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>2/03/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1545.
+Est&aacute; situada na columna a do folio 323r. A s&iacute;laba
+inicial con pres&eacute;ntase mediante a abreviatura 9. Falta o o
+final.</P></COMNOTC></NOTC>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1545.
+Est&aacute; situada na columna a do folio 323r.</P></COMNOTC></NOTC>
+<RUBRICA>Joha vaasquiz
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1545. Est&aacute; situada na marxe superior, columna a. Enriba do a de Joha
+aparece un signo de abreviatura.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Joham Vaasquiz
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada despois da primeira cobra e antes da
+segunda da cantiga B 1545.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "S"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:146</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "dizer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Direi-vos ora que o&iacute; dizer</SEG></LT>
+<LL>Direi-vos ora que o&iacute; dizer</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "----+----+">
+<LT>de Maria Leve, a<SEG C = "M" N = "SIN" ID = "2">ssi a</SEG>ja ben,</LT>
+<LL>de Maria Leve, assi aja ben,</LL>
+<ANTRO T = "REAL">Maria Leve</ANTRO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "desaven" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">pola manceba</SEG>, que se desaven</LT>
+<LL>pola manceba, que se desaven</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "viver" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "4">dela; e, pois lh' ali non quer viver</SEG>,</LT>
+<LL>dela; e, pois lh' ali non quer viver,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "morar" AC = "---+-----+">
+<LT>ena Moeda Velha vai <SEG C = "R" N = "PV" ID = "5">morar</SEG></LT>
+<LL>ena Moeda Velha vai morar</LL>
+<TOPO CAT = "TOPOME">Moeda Velha</TOPO></L>
+<L N = "6" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CFR" ID = "6">Dona</SEG> Maria Le<SEG C = "M" N = "SIN" ID = "7">ve, a</SEG> seu pesar;</LT>
+<LL>Dona Maria Leve, a seu pesar;</LL>
+<ANTRO T = "REAL">Maria Leve</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:146</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "guarir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "8">Ca</SEG> atal <SEG C = "R" N = "CFR" ID = "6">dona</SEG> com' ela guarir</LT>
+<LL>Ca atal dona com' ela guarir</LL>
+</L>
+<L N = "2" NS = "10" RI = "a" ERI = "&aacute;" AC = "---+-----+">
+<LT>non pod' ali, se manceba non <SEG C = "R" N = "RD" ID = "9">&aacute;</SEG>;</LT>
+<LL>non pod' ali, se manceba non &aacute;;</LL>
+</L>
+<L N = "3" NS = "10" RI = "a" ERI = "j&aacute;" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">e vedes que o&iacute;, amigos j&aacute;</SEG>:</LT>
+<LL>e vedes que o&iacute;, amigos j&aacute;:</LL>
+</L>
+<L N = "4" NS = "10" RI = "ir" ERI = "ir" AC = "-+-------+">
+<LT><SEG C = "R" N = "CP" ID = "4">que, pois que se lh' a manceba quer <SEG C = "R" N = "RD" ID = "10">ir</SEG></SEG>,</LT>
+<LL>que, pois que se lh' a manceba quer ir,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "morar" AC = "---+-----+">
+<LT>ena Moeda Velha vai <SEG C = "R" N = "PV" ID = "5">morar</SEG></LT>
+<LL>ena Moeda Velha vai morar</LL>
+<TOPO CAT = "TOPOME">Moeda Velha</TOPO></L>
+<L N = "6" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT>Dona Maria Le<SEG C = "M" N = "SIN" ID = "11">ve, a</SEG> seu pesar;</LT>
+<LL>Dona Maria Leve, a seu pesar;</LL>
+<ANTRO T = "REAL">Maria Leve</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:146</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "or" ERI = "alhor" AC = "----+-----+">
+<LT>Ca diz que mora<SEG C = "M" N = "SIN" ID = "12">va a</SEG>li mal<SEG C = "M" N = "SIN" ID = "13"> e a</SEG>lhor,</LT>
+<LL>Ca diz que morava ali mal e alhor,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "ouver" AC = "---+-----+">
+<LT>poi-la manceba sigo non <SEG C = "R" N = "RD" ID = "9">ouver</SEG>,</LT>
+<LL>poi-la manceba sigo non ouver,</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "quer" AC = "-----+---+">
+<LT>e contra San Martinho morar quer;</LT>
+<LL>e contra San Martinho morar quer;</LL>
+<TOPO CAT = "TOPOME">San Martinho</TOPO></L>
+<L N = "4" NS = "10" RI = "or" ERI = "for" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "4"><SEG C = "R" N = "CD" ID = "3">pola <SEG C = "R" N = "CF" ID = "14">manceba</SEG></SEG> que xi lh' ora <SEG C = "R" N = "RD" ID = "10">for</SEG></SEG>,</LT>
+<LL>pola manceba que xi lh' ora for,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "morar" AC = "---+-----+">
+<LT>ena Moeda Velha vai <SEG C = "R" N = "PV" ID = "5">morar</SEG></LT>
+<LL>ena Moeda Velha vai morar</LL>
+<TOPO CAT = "TOPOME">Moeda Velha</TOPO></L>
+<L N = "6" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT>Dona Maria Le<SEG C = "M" N = "SIN" ID = "15">ve, a</SEG> seu pes<SEG C = "R" N = "CCR" ID = "16">ar</SEG>;</LT>
+<LL>Dona Maria Leve, a seu pesar;</LL>
+<ANTRO T = "REAL">Maria Leve</ANTRO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "cc"></ESQRIM>
+<INFMET>
+<ESQMET>10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "escusar" AC = "--+------+">
+<LT><SEG C = "R" N = "CD" ID = "8">Ca</SEG> non pod' a <SEG C = "R" N = "CF" ID = "14">manceba</SEG> escus<SEG C = "R" N = "CCR" ID = "16">ar</SEG>,</LT>
+<LL>Ca non pod' a manceba escusar,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "morar" AC = "---+-----+">
+<LT>se na Moeda Velha non <SEG C = "R" N = "PV" ID = "5">morar</SEG>.</LT>
+<LL>se na Moeda Velha non morar.</LL>
+<TOPO CAT = "TOPOME">Moeda Velha</TOPO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

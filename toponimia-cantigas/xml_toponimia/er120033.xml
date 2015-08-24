@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120033" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Os de Burgos son coitados</INCIPIT>
+
+      <NUCANT>120 33</NUCANT>
+
+      <RM BCA="B" EM="NO" F="351v" I.FI="lb351v" MU="NON" NM="1646"></RM>
+
+      <RM BCA="V" EM="NO" F="194v" I.FI="lv194v" MU="NON" NM="1180"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 181-183</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 239-240</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 42</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1550</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1180</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 314</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="362"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>3/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = c II; b II = b III)</P></FRI>
+
+      <TEMA CAT="CSX"></TEMA>
+
+      <TEMA CAT="ABS"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="coitados" N="1" NS="7" RI="ados">
+          <LT>Os de Burgos son coitados,</LT>
+
+          <LL>Os de Burgos son coitados,</LL>
+
+          <TOPO CAT="CIUDAD">Burgos</TOPO>
+        </L>
+
+        <L AC="--+---+-" ERI="Agudo" N="2" NS="7" RI="udo">
+          <LT>que perderon <SEG C="R" ID="1" N="DO">Pedr&#39; Agudo</SEG>,</LT>
+
+          <LL>que perderon Pedr&#39; Agudo,</LL>
+
+          <ANTRO T="REAL">Pedr&#39; Agudo</ANTRO>
+        </L>
+
+        <L AC="---+--+-" ERI="cornudo" N="3" NS="7" RI="udo">
+          <LT>de que porran por <SEG C="R" ID="2" N="PV">cornudo</SEG>;</LT>
+
+          <LL>de que porran por cornudo;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="jurados" N="4" NS="7" RI="ado">
+          <LT>e disseron os jurados:</LT>
+
+          <LL>e disseron os jurados:</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="Bodinho" N="5" NS="7" RI="inho">
+          <LT>- Seja-o Pedro Bodinho,</LT>
+
+          <LL>- Seja-o Pedro Bodinho,</LL>
+
+          <ANTRO T="REAL">Pedro Bodinho</ANTRO>
+        </L>
+
+        <L AC="---+--+-" ERI="vezinho" N="6" NS="7" RI="inho">
+          <LT>que este nosso vezinho</LT>
+
+          <LL>que este nosso vezinho</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Agudo" N="7" NS="7" RI="udo">
+          <LT>tan ben come <SEG C="R" ID="1" N="DO">Pedr&#39; Agudo</SEG>.</LT>
+
+          <LL>tan ben come Pedr&#39; Agudo.</LL>
+
+          <ANTRO T="REAL">Pedr&#39; Agudo</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="concelho" N="1" NS="7" RI="elho">
+          <LT>E pois que é o concelho</LT>
+
+          <LL>E pois que é o concelho</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="apoderado" N="2" NS="7" RI="ado">
+          <LT>dos cornos <SEG C="R" ID="3" N="DO"><SEG C="R" ID="4" N="RD">apoderado</SEG></SEG>,</LT>
+
+          <LL>dos cornos apoderado,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="mandado" N="3" NS="7" RI="ado">
+          <LT>quen lhi sair de mandado</LT>
+
+          <LL>quen lhi sair de mandado</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="trebelho" N="4" NS="7" RI="elho">
+          <LT>fará-lh&#39; el mao trebelho;</LT>
+
+          <LL>fará-lh&#39; el mao trebelho;</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="cornudo" N="5" NS="7" RI="udo">
+          <LT><SEG C="R" ID="5" N="CD">ca el</SEG>, mentr&#39; i for <SEG
+          C="R" ID="2" N="PV">cornudo</SEG>,</LT>
+
+          <LL>ca el, mentr&#39; i for cornudo,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="temudo" N="6" NS="7" RI="udo">
+          <LT>querrá i seer temudo</LT>
+
+          <LL>querrá i seer temudo</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="apoderado" N="7" NS="7" RI="ado">
+          <LT>e da vil&#39; <SEG C="R" ID="3" N="DO"><SEG C="R" ID="4" N="RD">apoderado</SEG></SEG>.</LT>
+
+          <LL>e da vil&#39; apoderado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="brio" N="1" NS="7" RI="io">
+          <LT>E vedes en que gran brio</LT>
+
+          <LL>E vedes en que gran brio</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="chegado" N="2" NS="7" RI="ado">
+          <LT>el, que a Deus é <SEG C="R" ID="6" N="DO">chegado</SEG>,</LT>
+
+          <LL>el, que a Deus é chegado,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="alçado" N="3" NS="7" RI="ado">
+          <LT>por seer cornud&#39; alçado</LT>
+
+          <LL>por seer cornud&#39; alçado</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="poderio" N="4" NS="7" RI="io">
+          <LT>en tamanho <SEG C="R" ID="4" N="RD">poderio</SEG>,</LT>
+
+          <LL>en tamanho poderio,</LL>
+        </L>
+
+        <L AC="--+----+-" ERI="filho" N="5" NS="7" RI="ilho">
+          <LT>om&#39; é, de seu padre filho;</LT>
+
+          <LL>om&#39; é, de seu padre filho;</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="maravilho" N="6" NS="7" RI="ilho">
+          <LT>por tanto me maravilho</LT>
+
+          <LL>por tanto me maravilho</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="chegado" N="7" NS="7" RI="ado">
+          <LT>d&#39; a esto seer <SEG C="R" ID="6" N="DO">chegado</SEG>.</LT>
+
+          <LL>d&#39; a esto seer chegado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="justiça" N="1" NS="7" RI="iç">
+          <LT>E creede que en justiça</LT>
+
+          <LL>E creede que en justiça</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="terra" N="2" NS="7" RI="erra">
+          <LT>pod&#39; i mais andá-la <SEG C="R" ID="7" N="DO">terra</SEG>,</LT>
+
+          <LL>pod&#39; i mais andá-la terra,</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="guerra" N="3" NS="7" RI="erra">
+          <LT>ca se non fará i guerra</LT>
+
+          <LL>ca se non fará i guerra</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="cobiiça" N="4" NS="7" RI="iça">
+          <LT>nen mui maa cobiiça;</LT>
+
+          <LL>nen mui maa cobiiça;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="prende" N="5" NS="7" RI="ende">
+          <LT><SEG C="R" ID="5" N="CD">ca el</SEG> rogo nunca prende</LT>
+
+          <LL>ca el rogo nunca prende</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="entende" N="6" NS="7" RI="ende">
+          <LT>de cornudos, mais entende</LT>
+
+          <LL>de cornudos, mais entende</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="terra" N="7" NS="7" RI="erra">
+          <LT>mui ben os foros da <SEG C="R" ID="7" N="DO">terra</SEG>.</LT>
+
+          <LL>mui ben os foros da terra.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

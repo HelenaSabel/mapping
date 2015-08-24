@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "118002" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Mandei pedir noutro dia</INCIPIT>
+<NUCANT>118 2</NUCANT>
+<RM BCA = "B" NM = "1431" F = "298r" MU = "NON" EM = "NO" I.FI = "lb298r"></RM>
+<RM BCA = "V" NM = "1041" F = "169r" MU = "NON" EM = "NO" I.FI = "lv169r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 328</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1343</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1041</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 385</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 242-243</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 473</P></EDIANT>
+<DATOAU NOME = "Sim&otilde;es" NUA = "9"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>12/01/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Esta cantiga foy feita a estes cavaleiros que aqui conta que
+prometerom un alano e sabujos segundo aqui escrito e pero que lhos enviarom
+pedir nom os quiserom dar e o conde fez lhis por &eacute;n esta cantiga.
+<COMRUBRI>
+<P>R&uacute;brica explicativa posposta &aacute; cantiga B 1431.
+Est&aacute; situada na columna a do folio 298r.
+Os dous primeiros versos e parte do terceiro son de man do copista e qoe segue
+deste verso e os restantes son de man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga foy feita a estes cavaleiros que aqui conta que
+prometerom un alano e sabujos segundo aqui escrito e pero que lhos enviarom
+pedir nom os quiserom dar e o conde fez lhis por &eacute;n esta cantiga.
+<COMRUBRI>
+<P>R&uacute;brica explicativa posposta &aacute; cantiga V 1041.
+Est&aacute; situada na columna a do folio 169v.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "AVA">
+<SUBTEMA CAT = "CA"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7 7 7'</ESQMET></INFMET>
+<NUMESQ>161:291</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "dia" AC = "---+--+-">
+<LT>Mandei pedir noutro dia</LT>
+<LL>Mandei pedir noutro dia</LL>
+</L>
+<L N = "2" NS = "7" RI = "ela" ERI = "Varela" AC = "--+---+-">
+<LT>um al&atilde;o a Pay Varela</LT>
+<LL>um al&atilde;o a Pay Varela</LL>
+<ANTRO T = "REAL">Pay Varela</ANTRO></L>
+<L N = "3" NS = "7" RI = "ela" ERI = "cadela" AC = "--+---+-">
+<LT>pera &utilde;a mha cadela,</LT>
+<LL>pera &utilde;a mha cadela,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ia" ERI = "daria" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">e diss'</SEG> el que mho <SEG C = "R" N = "RD" ID = "2">daria</SEG>;</LT>
+<LL>e diss' el que mho daria;</LL>
+</L>
+<L N = "5" NS = "7" RI = "a" ERI = "d&aacute;" AC = "--+---+">
+<LT>e, per como mho el <SEG C = "R" N = "RD" ID = "2">d&aacute;</SEG>,</LT>
+<LL>e, per como mho el d&aacute;,</LL>
+</L>
+<L N = "6" NS = "7" RI = "a" ERI = "verr&aacute;" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">eu</SEG> ben cuydo que <SEG C = "R" N = "RD" ID = "5">verr&aacute;</SEG></SEG></LT>
+<LL>eu ben cuydo que verr&aacute;</LL>
+</L>
+<L N = "7" NS = "7" RI = "ia" ERI = "Messia" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "3">quand' aqui veer Messia</SEG>.</LT>
+<LL>quand' aqui veer Messia.</LL>
+<ANTRO T = "ALTER">O Mesias (Messia)</ANTRO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>161:296</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "inho" ERI = "Marinho" AC = "--+---+-">
+<LT>Outrossi Pero Marinho</LT>
+<LL>Outrossi Pero Marinho</LL>
+<ANTRO T = "REAL">Pero Marinho</ANTRO></L>
+<L N = "2" NS = "7" RI = "ado" ERI = "mandado" AC = "--+---+-">
+<LT>dous sabujos<SEG C = "M" N = "SIN" ID = "6"> mh-&aacute;</SEG> mandado</LT>
+<LL>dous sabujos mh-&aacute; mandado</LL>
+</L>
+<L N = "3" NS = "7" RI = "ado" ERI = "Condado" AC = "--+---+-">
+<LT>l&aacute; da terra de Condado;</LT>
+<LL>l&aacute; da terra de Condado;</LL>
+<TOPO CAT = "CIRCUNS">Condado</TOPO></L>
+<L N = "4" NS = "7" RI = "inho" ERI = "mininho" AC = "-+----+-">
+<LT><SEG C = "R" N = "CD" ID = "1">e disse</SEG><SEG C = "R" N = "SIN" ID = "7">-me un seu mininho</SEG></LT>
+<LL>e disse-me un seu mininho</LL>
+</L>
+<L N = "5" NS = "7" RI = "isto" ERI = "disto" AC = "--+---+-">
+<LT>que bem certo foss' eu disto:</LT>
+<LL>que bem certo foss' eu disto:</LL>
+</L>
+<L N = "6" NS = "7" RI = "isto" ERI = "Cristo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "8">poys</SEG> veer o Ante-Cristo</SEG></LT>
+<LL>poys veer o Ante-Cristo</LL>
+<ANTRO T = "ALTER">Ante Cristo</ANTRO></L>
+<L N = "7" NS = "7" RI = "inho" ERI = "caminho" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3">verr&aacute; com el per caminho</SEG>.</LT>
+<LL>verr&aacute; com el per caminho.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>161:296</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "iso" ERI = "siso" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "4">Eu</SEG> nom foy homem de siso</LT>
+<LL>Eu nom foy homem de siso</LL>
+</L>
+<L N = "2" NS = "7" RI = "ian" ERI = "faziam" AC = "---+--+-">
+<LT>u m' as promessas faziam,</LT>
+<LL>u m' as promessas faziam,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ian" ERI = "verriam" AC = "--+---+-">
+<LT>duvidando ca <SEG C = "R" N = "RD" ID = "5">verria<SEG C = "I" N = "RE" ID = "9">m</SEG></SEG>;</LT>
+<LL>duvidando ca verriam;</LL>
+</L>
+<L N = "4" NS = "7" RI = "iso" ERI = "riso" AC = "--+---+-">
+<LT>e entolha-xe-me riso</LT>
+<LL>e entolha-xe-me riso</LL>
+</L>
+<L N = "5" NS = "7" RI = "ando" ERI = "duvidando" AC = "---+--+-">
+<LT>de que o foy duvidando:</LT>
+<LL>de que o foy duvidando:</LL>
+</L>
+<L N = "6" NS = "7" RI = "ando" ERI = "quando" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "8">poys</SEG> ja sey que verram quando</SEG></LT>
+<LL>poys ja sey que verram quando</LL>
+</L>
+<L N = "7" NS = "7" RI = "iso" ERI = "Paraiso" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "3">for Judas no Paraiso</SEG>.</LT>
+<LL>for Judas no Paraiso.</LL>
+<ANTRO T = "REAL">Judas</ANTRO>
+<TOPO CAT = "CIRCUNS">Paraiso</TOPO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

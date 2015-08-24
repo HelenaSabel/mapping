@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="006002" NE="4" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Dis[s]eronmi ũas novas de que m' é mui gran ben</INCIPIT>
+
+      <NUCANT>6 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="160v" I.FI="lb160v" MU="NON" NM="740"></RM>
+
+      <RM BCA="B" EM="NO" F="161r" I.FI="lb161r" MU="NON" NM="740"></RM>
+
+      <RM BCA="V" EM="NO" F="55v" I.FI="lv055v" MU="NON" NM="342"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 238</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 704</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 342</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 10-11, 407</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 229</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 175</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lorenzo Gradín" NUA="6">Lorenzo Gradín</DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>David González Couso</NOME>
+
+        <DATE>19/11/08</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="LED"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 8' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:2 <NOTNESQ>
+            <P>Outras posibilidades, 241:2; 252:1</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+-/--+--+" ERI="ben" N="1" NS="13" RI="en">
+          <LT><SEG C="R" ID="1" N="PL">Dis[s]eron<SEG C="M" ID="2" N="SIN">mi ũ</SEG>as novas<SEG
+                C="M" ID="3" N="CAE"></SEG> de que m' é mui gran ben</SEG>,</LT>
+
+          <LL>Dis[s]eronmi ũas novas de que m' é mui gran ben</LL>
+        </L>
+
+        <L AC="--+--+-/--+-++" ERI="vén" N="2" NS="13" RI="en">
+          <LT><SEG C="R" ID="4" N="PL">ca chegou meu amigo,<SEG C="M" ID="5"
+                N="CAE"></SEG>e, se, el ali <SEG C="R" ID="6" N="RD">vén</SEG></SEG>,</LT>
+
+          <LL>ca chegou meu amigo,e, se el ali vén,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras</LT>
+
+            <LL>a Santa Maria das Leiras</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+---+--+-" ERI="amigo" N="4" NS="11" RI="igo">
+            <LT>irei, velida, se i vén meu amigo.</LT>
+
+            <LL>irei, velida, se i vén meu amigo.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 8' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:2 <NOTNESQ>
+            <P>Outras posibilidades, 241:2; 252:1</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+-/--+--+" ERI="sabor" N="1" NS="13" RI="or">
+          <LT><SEG C="R" ID="1" N="PL">Disseron<SEG C="M" ID="7" N="SIN">m' ũ</SEG>as novas<SEG
+                C="M" ID="8" N="CAE"></SEG>de que ei gran sabor</SEG>,</LT>
+
+          <LL>Disseronm' ũas novas de que ei gran sabor,</LL>
+        </L>
+
+        <L AC="--+--+-/--+-++" ERI="for" N="2" NS="13" RI="or">
+          <LT><SEG C="R" ID="4" N="PL">ca chegou meu amigo,<SEG C="M" ID="9"
+                N="CAE"></SEG>e, se el ali for</SEG>,</LT>
+
+          <LL>ca chegou meu amigo,e, se el ali for,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras</LT>
+
+            <LL>a Santa Maria das Leiras</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+---+--+-" ERI="amigo" N="4" NS="11" RI="igo">
+            <LT>irei, [velida, se i vén meu amigo].</LT>
+
+            <LL>irei, [velida, se i vén meu amigo].</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 8' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:2 <NOTNESQ>
+            <P>Outras posibilidades, 241:2; 252:1</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+-/--+--+" ERI="prazer" N="1" NS="13" RI="er">
+          <LT><SEG C="R" ID="1" N="PL">Disseron<SEG C="M" ID="10" N="SIN">mi ũ</SEG>as novas,<SEG
+                C="M" ID="11" N="CAE"></SEG>de que ei gran prazer</SEG>,</LT>
+
+          <LL>Disseronmi ũas novas,de que ei gran prazer,</LL>
+        </L>
+
+        <L AC="--+--+-/-+---+" ERI="veer" N="2" NS="13" RI="er">
+          <LT><SEG C="R" ID="4" N="PL">ca chegou meu amigo,<SEG C="M" ID="12"
+                N="CAE"></SEG>mais eu, polo veer</SEG>,</LT>
+
+          <LL>ca chegou meu amigo,mais eu, polo veer,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria das Leiras</LT>
+
+            <LL>a Santa Maria das Leiras</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+---+--+-" ERI="amigo" N="4" NS="11" RI="igo">
+            <LT>irei, [velida, se i vén meu amigo].</LT>
+
+            <LL>irei, [velida, se i vén meu amigo].</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 8' 11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>47:2 <NOTNESQ>
+            <P>Outras posibilidades, 241:2; 252:1</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+-+-/-+-+-+" ERI="molher" N="1" NS="13" RI="er">
+          <LT>Nunca con taes novas<SEG C="M" ID="13" N="CAE"></SEG> tan leda
+          foi molher</LT>
+
+          <LL>Nunca con taes novas tan leda foi molher</LL>
+        </L>
+
+        <L AC="-++--+-/--+--+" ERI="veer" N="2" NS="13" RI="er">
+          <LT>com' eu soo con estas,<SEG C="M" ID="14" N="CAE"></SEG>e, se
+          <SEG C="I" ID="15" N="RE">[el]</SEG> i <SEG C="R" ID="6" N="RD">veer</SEG>,</LT>
+
+          <LL>com' eu soo con estas,e, se [el] i veer,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+--+-" ERI="Leiras" N="3" NS="8" RI="eiras">
+            <LT>a Santa Maria [das Leiras</LT>
+
+            <LL>a Santa Maria [das Leiras</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria das Leiras</TOPO>
+          </L>
+
+          <L AC="-+-+---+--+-" ERI="amigo" N="4" NS="11" RI="igo">
+            <LT>irei, velida, se i vén meu amigo].</LT>
+
+            <LL>irei, velida, se i vén meu amigo].</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087009" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>En este son de negrada farey hun cantar</INCIPIT>
+<NUCANT>87 9</NUCANT>
+<RM BCA = "B" NM = "1342" F = "287v" MU = "NON" EM = "NO" I.FI = "lb287v"></RM>
+<RM BCA = "V" NM = "949" F = "150v" MU = "NON" EM = "NO" I.FI = "lv150v">
+<NOTMAN N = "1">&Aacute; altura do verso 1 II, na marxe interna,
+est&aacute; escrito o n&uacute;mero 244.</NOTMAN></RM>
+<RM BCA = "V" NM = "949" F = "151r" MU = "NON" EM = "NO" I.FI = "lv151r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 256</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1292</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 949</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 142</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "5">
+<COMAU>
+<P>Preferimos dispo&ntilde;e-la cantiga en vv. longod pola
+similitude que ofrece coa anterior.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>20/04/99</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Cf. a r&uacute;brica de 87,7.</RUBRICA>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "IN"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+4">
+<ESQRIM TIPO = "aaaBCBC">
+<NOTRIM>
+<P>Tavani, 74:1, presenta o esquema: a7' b5 a7' b5 a7' b6 C8 D7'
+C7 D6'</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>13 13 13 8 8' 7 6'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ar" ERI = "cantar" AC = "---+--+-/-+--+">
+<LT><SEG C = "R" N = "PL" ID = "1">En este son de negrada<SEG C = "M" N = "CAE" ID = "2"></SEG> farey hun cantar</SEG></LT>
+<LL>En este son de negrada farey hun cantar</LL>
+</L>
+<L N = "2" NS = "13" RI = "al" ERI = "mal" AC = "--+---+-/-+--+">
+<LT><SEG C = "R" N = "PL" ID = "3">d' una sela canterllada<SEG C = "M" N = "CAE" ID = "4"></SEG> liada muj mal.</SEG></LT>
+<LL>d' una sela canterllada liada muj mal.</LL>
+</L>
+<L N = "3" NS = "13" RI = "al" ERI = "brial" AC = "---+--+-/-+--+">
+<LT><SEG C = "R" N = "PL" ID = "5">Este a sela paga<SEG C = "M" N = "SIN" ID = "6">da?<SEG C = "M" N = "CAE" ID = "7"></SEG> e</SEG> direy do brial</SEG>!</LT>
+<LL>Este a sela pagada? e direy do brial!</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "8" RI = "on" ERI = "colhon" AC = "+--+-+-+">
+<LT>Todus: &quot;Colhon! colhon! colhon!&quot;</LT>
+<LL>Todus: &quot;Colhon! colhon! colhon!&quot;</LL>
+</L>
+<L N = "5" NS = "8" RI = "ilha" ERI = "Sevilha" AC = "--+-+--+-">
+<LT>con aquel brial de Sevilha</LT>
+<LL>con aquel brial de Sevilha</LL>
+
+<TOPO CAT = "CIRCUNS">Sevilha</TOPO></L>
+<L N = "6" NS = "7" RI = "on" ERI = "infan&ccedil;on" AC = "--+---+">
+<LT>que aduss' o infan&ccedil;on</LT>
+<LL>que aduss' o infan&ccedil;on</LL>
+</L>
+<L N = "7" NS = "6" RI = "ilha" ERI = "maravilha" AC = "-+---+-">
+<LT>aqui por maravilha.</LT>
+<LL>aqui por maravilha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+4">
+<ESQRIM TIPO = "aaaBCBC">
+<NOTRIM>
+<P>Tavani, 74:1, presenta o esquema: a7' b5 a7' b5 a7' b6 C8 D7'
+C7 D6'</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>13 13 13 8 8' 7 6'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ei" ERI = "farey" AC = "---+--+-/--+-+">
+<LT><SEG C = "R" N = "PL" ID = "1">En este son de negrada<SEG C = "M" N = "CAE" ID = "8"></SEG> hun cantar farey</SEG></LT>
+<LL>En este son de negrada hun cantar farey</LL>
+</L>
+<L N = "2" NS = "13" RI = "ei" ERI = "Rey" AC = "--+---+-/-+--+">
+<LT><SEG C = "R" N = "PL" ID = "3">d' una sela canterllada<SEG C = "M" N = "CAE" ID = "9"></SEG> que vi ant' el Rey.</SEG></LT>
+<LL>d' una sela canterllada que vi ant' el Rey.</LL>
+</L>
+<L N = "3" NS = "13" RI = "ei" ERI = "direy" AC = "---+--+-/--+-+">
+<LT><SEG C = "R" N = "PL" ID = "5">Este a sela paga<SEG C = "M" N = "SIN" ID = "10">da?<SEG C = "M" N = "CAE" ID = "11"></SEG> e</SEG> do brial direy</SEG>!</LT>
+<LL>Este a sela pagada? e do brial direy!</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "8" RI = "on" ERI = "colhon" AC = "+--+-+-+">
+<LT>Todus: &quot;Colhon! colhon! colhon!&quot;</LT>
+<LL>Todus: &quot;Colhon! colhon! colhon!&quot;</LL>
+</L>
+<L N = "5" NS = "8" RI = "ilha" ERI = "Sevilha" AC = "--+-+--+-">
+<LT><SEG C = "I" N = "RE" ID = "12">con aquel brial de Sevilha</SEG></LT>
+<LL>con aquel brial de Sevilha</LL>
+
+<TOPO CAT = "CIRCUNS">Sevilha</TOPO></L>
+<L N = "6" NS = "7" RI = "on" ERI = "infan&ccedil;on" AC = "--+---+">
+<LT><SEG C = "I" N = "RE" ID = "12">que aduss' o infan&ccedil;on</SEG></LT>
+<LL>que aduss' o infan&ccedil;on</LL>
+</L>
+<L N = "7" NS = "6" RI = "ilha" ERI = "maravilha" AC = "-+---+-">
+<LT><SEG C = "I" N = "RE" ID = "12">aqui por <SEG C = "R" N = "CFR" ID = "13">maravilha</SEG></SEG>.</LT>
+<LL>aqui por maravilha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+4">
+<ESQRIM TIPO = "aaaBCBC">
+<NOTRIM>
+<P>Tavani, 74:1, presenta o esquema: a7' b5 a7' b5 a7' b6 C8 D7'
+C7 D6'</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>13 13 13 8 8' 7 6'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "i" ERI = "ascari" AC = "--+---+-/+---+">
+<LT><SEG C = "R" N = "PL" ID = "14">Logo fuy <SEG C = "R" N = "CFR" ID = "13">maravilhado</SEG>,<SEG C = "M" N = "CAE" ID = "15"></SEG>polo ascari</SEG>,</LT>
+<LL>Logo fuy maravilhado,polo ascari,</LL>
+</L>
+<L N = "2" NS = "13" RI = "i" ERI = "so&ccedil;erj" AC = "---+--+-/+---+">
+<LT><SEG C = "R" N = "PL" ID = "14">e assy fui espantado<SEG C = "M" N = "CAE" ID = "16"></SEG> polo so&ccedil;erj</SEG>;</LT>
+<LL>e assy fui espantado polo so&ccedil;erj;</LL>
+</L>
+<L N = "3" NS = "13" RI = "i" ERI = "assy" AC = "-+--+-+-/+-+-+">
+<LT>vi end' o brial talha<SEG C = "M" N = "SIN" ID = "17">do<SEG C = "M" N = "CAE" ID = "18"></SEG> e</SEG> dixi lh' ei assy:</LT>
+<LL>vi end' o brial talhado e dixi lh' ei assy:</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "8" RI = "on" ERI = "colhon" AC = "+--+-+-+">
+<LT>Todus: &quot;Colhon! <SEG C = "I" N = "RE" ID = "19">colhon! colhon!&quot;</SEG></LT>
+<LL>Todus: &quot;Colhon! colhon! colhon!&quot;</LL>
+</L>
+<L N = "5" NS = "8" RI = "ilha" ERI = "Sevilha" AC = "--+-+--+-">
+<LT><SEG C = "I" N = "RE" ID = "19">con aquel brial de Sevilha</SEG></LT>
+<LL>con aquel brial de Sevilha</LL>
+
+<TOPO CAT = "CIRCUNS">Sevilha</TOPO></L>
+<L N = "6" NS = "7" RI = "on" ERI = "infan&ccedil;on" AC = "--+---+">
+<LT><SEG C = "I" N = "RE" ID = "19">que aduss' o infan&ccedil;on</SEG></LT>
+<LL>que aduss' o infan&ccedil;on</LL>
+</L>
+<L N = "7" NS = "6" RI = "ilha" ERI = "maravilha" AC = "-+---+-">
+<LT><SEG C = "I" N = "RE" ID = "19">aqui por maravilha</SEG>.</LT>
+<LL>aqui por maravilha.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

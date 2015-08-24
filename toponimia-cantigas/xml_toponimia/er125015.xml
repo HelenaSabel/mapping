@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="125015" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Fernam Diaz, este que and&#39; aqui</INCIPIT>
+
+      <NUCANT>125 15</NUCANT>
+
+      <RM BCA="B" EM="NO" F="293v" I.FI="lb293v" MU="NON" NM="1375"></RM>
+
+      <RM BCA="B" EM="NO" F="294r" I.FI="lb294r" MU="NON" NM="1375"></RM>
+
+      <RM BCA="V" EM="NO" F="156v" I.FI="lv156v" MU="NON" NM="983"></RM>
+
+      <RM BCA="V" EM="NO" F="157r" I.FI="lv157r" MU="NON" NM="983"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Burgalés, 42</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 377</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1326</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 983</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesia obscena, 14</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 198</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 342</P>
+      </EDIANT>
+
+      <DATOAU NOME="Blasco" NUA="42"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>07/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima a unis.; b II = d)</P></FRI>
+
+      <NOTC>9ged <COMNOTC><P>Nota de Colocci á cantiga 1375 de B. Precede á
+      cantiga no folio 293v dese manuscrito. A sílaba inicial aparece coa
+      abreviatura habitual. Fai referencia á existencia de refrán na
+      composición.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="DF"></TEMA>
+
+      <TEMA CAT="VIX"><SUBTEMA CAT="MT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-----+" ERI="aqui" N="1" NS="10" RI="i">
+          <LT>Fernam <SEG C="I" ID="1" N="RE">D</SEG>iaz, este que and&#39;
+          aqui,</LT>
+
+          <LL>Fernam Diaz, este que and&#39; aqui,</LL>
+
+          <ANTRO T="ALTER">Fernan Diaz</ANTRO>
+        </L>
+
+        <L AC="-----+---+" ERI="Ultramar" N="2" NS="10" RI="ar">
+          <LT>foy hunha vez daqui a <SEG C="I" ID="2" N="RE">U</SEG>ltramar,</LT>
+
+          <LL>foy hunha vez daqui a Ultramar,</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+
+        <L AC="-----+---+" ERI="achar" N="3" NS="10" RI="ar">
+          <LT>e quanto bon maestre pod&#39; <SEG C="R" ID="3" N="RD">achar</SEG></LT>
+
+          <LL>e quanto bon maestre pod&#39; achar</LL>
+        </L>
+
+        <L AC="----+----+" ERI="oy" N="4" NS="10" RI="i">
+          <LT><SEG C="R" ID="4" N="CD">de castoar pedras</SEG>, per quant&#39;
+          oy,</LT>
+
+          <LL>de castoar pedras, per quant&#39; oy,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="pecador" N="5" NS="10" RI="or">
+          <LT>todolos foy provar o pecador,</LT>
+
+          <LL>todolos foy provar o pecador,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="castoador" N="6" NS="10" RI="or">
+          <LT><SEG C="R" ID="5" N="CD">e pero</SEG> nun<SEG C="M" ID="6"
+          N="SIN">ca a</SEG>chou <SEG C="R" ID="7" N="RD">castoador</SEG></LT>
+
+          <LL>e pero nunca achou castoador</LL>
+        </L>
+
+        <L AC="--+------+" ERI="encastoar" N="7" NS="10" RI="ar">
+          <LT><SEG C="R" ID="8" N="CD">que lho</SEG> olho soubess&#39; <SEG
+          C="R" ID="7" N="RD">encastoar</SEG>.</LT>
+
+          <LL>que lho olho soubess&#39; encastoar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="------+--+" ERI="hy" N="1" NS="10" RI="i">
+          <LT><SEG C="R" ID="5" N="CD">E pero</SEG> mui boo maestr&#39; achou
+          hy,</LT>
+
+          <LL>E pero mui boo maestr&#39; achou hy,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="saber" N="2" NS="10" RI="er">
+          <LT>qual no mund&#39; outro non poden saber,</LT>
+
+          <LL>qual no mund&#39; outro non poden saber,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="fazer" N="3" NS="10" RI="er">
+          <LT><SEG C="R" ID="4" N="CD">de castoar pedras</SEG> e de <SEG C="R"
+          ID="7" N="PV">fazer</SEG></LT>
+
+          <LL>de castoar pedras e de fazer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="outrossy" N="4" NS="10" RI="i">
+          <LT>mui bon lavor de caston outrossy,</LT>
+
+          <LL>mui bon lavor de caston outrossy,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="enton" N="5" NS="10" RI="on">
+          <LT>pero lho o<SEG C="M" ID="10" N="SIN">lho a</SEG>mesurou enton,</LT>
+
+          <LL>pero lho olho amesurou enton,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="caston" N="6" NS="10" RI="on">
+          <LT>tan estreyto lhi fez end&#39; o <SEG C="R" ID="7" N="RD">caston</SEG>,</LT>
+
+          <LL>tan estreyto lhi fez end&#39; o caston,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="caber" N="7" NS="10" RI="er">
+          <LT><SEG C="R" ID="8" N="CD">que lhy</SEG> non pod&#39; y o olho
+          caber.</LT>
+
+          <LL>que lhy non pod&#39; y o olho caber.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="assy" N="1" NS="10" RI="i">
+          <LT>Ca <SEG C="I" ID="11" N="RE">D</SEG>on <SEG C="I" ID="12" N="RE">F</SEG>ernando
+          conteceu lh&#39; assy</LT>
+
+          <LL>Ca Don Fernando conteceu lh&#39; assy</LL>
+
+          <ANTRO T="ALTER">Don Fernando</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="baratou" N="2" NS="10" RI="ou">
+          <LT>dun maestre que con el baratou:</LT>
+
+          <LL>dun maestre que con el baratou:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="levou" N="3" NS="10" RI="ou">
+          <LT>cambhou lho olho que daqui levou</LT>
+
+          <LL>cambhou lho olho que daqui levou</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="çafy" N="4" NS="10" RI="i">
+          <LT>e disse lhi que era de çafy,</LT>
+
+          <LL>e disse lhi que era de çafy,</LL>
+        </L>
+
+        <L AC="------+--+" ERI="Poy" N="5" NS="10" RI="oi">
+          <LT>destes maos contrafeyt<SEG C="I" ID="13" N="RE">o</SEG>s del
+          <SEG C="I" ID="14" N="RE">P</SEG>oy,</LT>
+
+          <LL>destes maos contrafeytos del Poy,</LL>
+
+          <TOPO CAT="CIUDAD">Lo Puèg (del Poy)</TOPO>
+        </L>
+
+        <L AC="-----+--+" ERI="boy" N="6" NS="10" RI="oi">
+          <LT>e meteu lh&#39; un grand&#39; olho de boy,</LT>
+
+          <LL>e meteu lh&#39; un grand&#39; olho de boy,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="achou" N="7" NS="10" RI="ou">
+          <LT>aquel mayor que el no mund&#39; <SEG C="R" ID="3" N="RD">achou</SEG>.</LT>
+
+          <LL>aquel mayor que el no mund&#39; achou.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="ddb"><NOTRIM><P>Sobre III</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="meter" N="1" NS="10" RI="er">
+          <LT>Olho de cabra lhi quis hy meter,</LT>
+
+          <LL>Olho de cabra lhi quis hy meter,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fazer" N="2" NS="10" RI="er">
+          <LT>e non lhi pode no caston <SEG C="R" ID="7" N="RD">fazer</SEG>,</LT>
+
+          <LL>e non lhi pode no caston fazer,</LL>
+        </L>
+
+        <L AC="------+--+" ERI="ficou" N="3" NS="10" RI="ou">
+          <LT>e con seu olho de boy xi ficou.</LT>
+
+          <LL>e con seu olho de boy xi ficou.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="106007" NE="3" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>"De longas vias, mui longas mentiras"</INCIPIT>
+
+      <NUCANT>106 7</NUCANT>
+
+      <RM BCA="B" EM="NO" F="293r" I.FI="lb293r" MU="NON" NM="1371"></RM>
+
+      <RM BCA="V" EM="NO" F="156r" I.FI="lv156r" MU="NON" NM="979"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Camargo et alii, Nuno Fernandes Torneol, p. 84</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1322</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 979</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 66</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 269</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="303"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>03/11/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="FAL"><SUBTEMA CAT="RI"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 10' 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>193:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="mentiras" N="1" NS="10" RI="iras">
+          <LT><SEG C="R" ID="1" N="PP">"De longas vias, mui longas <SEG C="R"
+                ID="2" N="RD">mentiras"</SEG></SEG>:</LT>
+
+          <LL>"De longas vias, mui longas mentiras":</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="verdadeiro" N="2" NS="10" RI="eiro">
+          <LT><SEG C="I" ID="3" N="RE">aqu</SEG>este verv' antigu' é
+          verdadeiro,</LT>
+
+          <LL>aqueste verv' antigu' é verdadeiro,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="mentireiro" N="3" NS="10" RI="eiro">
+          <LT>ca un ricom' achei eu <SEG C="R" ID="2" N="RD">mentireiro</SEG>,</LT>
+
+          <LL>ca un ricom' achei eu mentireiro,</LL>
+        </L>
+
+        <L AC="------+----+-" ERI="Toledo" N="4" NS="10" RI="edo">
+          <LT>indo de Valedolide pera Toledo;</LT>
+
+          <LL>indo de Valedolide pera Toledo;</LL>
+
+          <TOPO CAT="CIUDAD">Valladolid (Valedolide)</TOPO>
+
+          <TOPO CAT="CIUDAD">Toledo (Toledo)</TOPO>
+        </L>
+
+        <L AC="----+----+-" ERI="Olmedo" N="5" NS="10" RI="edo">
+          <LT>achei sas mentiras, entran<SEG C="M" ID="4" N="SIN">t' a Ol</SEG>medo,</LT>
+
+          <LL>achei sas mentiras, entrant' a Olmedo,</LL>
+
+          <TOPO CAT="CIRCUNS">Olmedo (Olmedo)</TOPO>
+        </L>
+
+        <L AC="---+-----+-" ERI="pousadeiro" N="6" NS="10" RI="eiro">
+          <LT>en sa respost<SEG C="I" ID="5" N="RE">a</SEG> en seu
+          pousadeiro.</LT>
+
+          <LL>en sa resposta en seu pousadeiro.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 10' 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>193:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="enviara" N="1" NS="10" RI="ara">
+          <LT><SEG C="R" ID="1" N="PP">Aquestas son as que el enviara</SEG>,</LT>
+
+          <LL>Aquestas son as que el enviara,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="ficaron" N="2" NS="10" RI="aron">
+          <LT>sen as outras que con el<SEG C="I" ID="6" N="RE">e</SEG>
+          ficaron,</LT>
+
+          <LL>sen as outras que con ele ficaron,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="aguardaron" N="3" NS="10" RI="aron">
+          <LT><SEG C="R" ID="7" N="CD">de que</SEG> paga os que o
+          aguardaron,</LT>
+
+          <LL>de que paga os que o aguardaron,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="amigos" N="4" NS="10" RI="igos">
+          <LT>á gran sazon; e demais seus amigos</LT>
+
+          <LL>á gran sazon; e demais seus amigos</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="ẽmiigos" N="5" NS="10" RI="igos">
+          <LT>pagará delas e seus <SEG C="R" ID="8" N="RD">ẽmiigos</SEG>,</LT>
+
+          <LL>pagará delas e seus ẽmiigos,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="menguaron" N="6" NS="10" RI="aron">
+          <LT>ca tal est' el, que nunca lhi <SEG C="R" ID="9" N="CF">menguaron</SEG></LT>
+
+          <LL>ca tal est' el, que nunca lhi menguaron</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10' 10' 10' 10' 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>193:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+-" ERI="barata" N="1" NS="10" RI="ata">
+          <LT><SEG C="R" ID="1" N="PP">Nen <SEG C="R" ID="9" N="CF">minguaran</SEG>, ca mui ben as barata</SEG></LT>
+
+          <LL>Nen minguaran, ca mui ben as barata</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="parada" N="2" NS="10" RI="ada">
+          <LT>de mui gran terra que ten ben parada,</LT>
+
+          <LL>de mui gran terra que ten ben parada,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="nada" N="3" NS="10" RI="ada">
+          <LT><SEG C="R" ID="7" N="CD">de que</SEG> lhi non tolhe nulh' ome
+          nada;</LT>
+
+          <LL>de que lhi non tolhe nulh' ome nada;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="erra" N="4" NS="10" RI="erra">
+          <LT><SEG C="I" ID="10" N="RE">e</SEG> gran dereit' é, ca el nunca
+          erra:</LT>
+
+          <LL>e gran dereit' é, ca el nunca erra:</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="guerra" N="5" NS="10" RI="erra">
+          <LT>dá-lhis mentiras, en paz e en guerra,</LT>
+
+          <LL>dá-lhis mentiras, en paz e en guerra,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="soldada" N="6" NS="10" RI="ada">
+          <LT>a seus cavaleiros, por sa soldada.</LT>
+
+          <LL>a seus cavaleiros, por sa soldada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "083004" TC = "REFR" NE = "4" SG = "NO" XE = "A MAR" OL = "NON">
+<INCIPIT>En Lixboa s&ocirc;bre lo mar</INCIPIT>
+<NUCANT>83 4</NUCANT>
+<RM BCA = "B" NM = "1151a" F = "246v" MU = "NON" EM = "NO" I.FI = "lb246v">
+<NOTMAN N = "1">En B esta cantiga aparece baixo os n&uacute;meros 1151
+e 1152</NOTMAN></RM>
+<RM BCA = "B" NM = "1152a" F = "247r" MU = "NON" EM = "NO" I.FI = "lb247r">
+<NOTMAN N = "1">En B esta cantiga aparece baixo os n&uacute;meros 1151
+e 1152</NOTMAN></RM>
+<RM BCA = "V" NM = "754" F = "119v" MU = "NON" EM = "NO" I.FI = "lv119v"></RM>
+<EDIANT T = "CRITI">
+<P>Bell, Joan Zorro, 4</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 383</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Tavani, Ler, p. 362</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 262</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1096</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 754</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 159</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, p. 6</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Tavares, Textos medievais, p. 55</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 545</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 10</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 226</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Beltr&aacute;n, O cervo, 17</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 24</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 34</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 10</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 92 e 93-94 (d&uacute;as versi&oacute;ns</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 176-177, 497-498</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 130</P></EDIANT>
+<DATOAU NOME = "Cunha" NUA = "2"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>15/03/99</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>Hai nota colocciana
+<COMNOTC>
+<P>Nota colocciana situada antes da segunda cobra, xusto onde comeza segundo o
+manuscrito B a cantiga 1152. Est&aacute; situada na columna a do folio
+247r.</P></COMNOTC></NOTC>
+<RUBRICA>Joam zorro
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada o de comeza a segunda
+cobra, xusto onde comeza segundo o manuscrito B a cantiga 1152. Est&aacute;
+situada na columna a do folio 247r.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "LED"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 6'</ESQMET></INFMET>
+<NUMESQ>26:107</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ar" ERI = "mar" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "1">En Lixboa s&ocirc;bre lo mar</SEG></LT>
+<LL>En Lixboa s&ocirc;bre lo mar</LL>
+<TOPO CAT = "CIUDAD">Lixboa</TOPO></L>
+<L N = "2" NS = "8" RI = "ar" ERI = "lavrar" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "2"><SEG C = "R" N = "LP" ID = "3">barcas novas mandey lavrar</SEG></SEG>,</LT>
+<LL>barcas novas mandey lavrar,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ida" ERI = "velida" AC = "---+-+-">
+<LT>ay mya senhor velida!</LT>
+<LL>ay mya senhor velida!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 6'</ESQMET></INFMET>
+<NUMESQ>26:107</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ez" ERI = "lez" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "1">En Lixboa s&ocirc;bre lo lez</SEG></LT>
+<LL>En Lixboa s&ocirc;bre lo lez</LL>
+<TOPO CAT = "CIUDAD">Lixboa</TOPO></L>
+<L N = "2" NS = "8" RI = "er" ERI = "fazer" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "2"><SEG C = "R" N = "LP" ID = "3">barcas novas mandey fazer</SEG></SEG>,</LT>
+<LL>barcas novas mandey fazer,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ida" ERI = "velida" AC = "---+-+-">
+<LT>ay mya senhor velida!</LT>
+<LL>ay mya senhor velida!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 6'</ESQMET></INFMET>
+<NUMESQ>26:107</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ar" ERI = "lavrar" AC = "--+----+">
+<LT><SEG C = "R" N = "LP" ID = "3">Barcas novas mandey lavrar</SEG></LT>
+<LL>Barcas novas mandey lavrar</LL>
+</L>
+<L N = "2" NS = "8" RI = "ar" ERI = "deytar" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "4">e no mar as <SEG C = "R" N = "CF" ID = "5">mandey</SEG> deytar</SEG>,</LT>
+<LL>e no mar as mandey deytar,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ida" ERI = "velida" AC = "---+-+-">
+<LT>ay mya senhor velida!</LT>
+<LL>ay mya senhor velida!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 6'</ESQMET></INFMET>
+<NUMESQ>26:107</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "fazer" AC = "--+----+">
+<LT><SEG C = "R" N = "LP" ID = "3">Barcas novas mandey fazer</SEG></LT>
+<LL>Barcas novas mandey fazer</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "meter" AC = "--+----+">
+<LT><SEG C = "R" N = "PL" ID = "4">e no mar as <SEG C = "R" N = "CF" ID = "5">mandei</SEG> meter</SEG>,</LT>
+<LL>e no mar as mandei meter,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "ida" ERI = "velida" AC = "---+-+-">
+<LT>ay mya senhor velida!</LT>
+<LL>ay mya senhor velida!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

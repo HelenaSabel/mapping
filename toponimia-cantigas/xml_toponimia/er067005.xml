@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "067005" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Pois v&oacute;s, filha, queredes mui gran ben</INCIPIT>
+<NUCANT>67 5</NUCANT>
+<RM BCA = "B" NM = "1291" F = "271r" MU = "NON" EM = "NO" I.FI = "lb271r"></RM>
+<RM BCA = "V" NM = "896" F = "141r" MU = "NON" EM = "NO" I.FI = "lv141r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 221</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1239</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 896</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, p. 122</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, p. 92</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 76</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 501</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 525</P></EDIANT>
+<DATOAU NOME = "Arias, Antolox&iacute;a," NUA = "92"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>18/01/05</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SA"></TEMA>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 9' 9'</ESQMET></INFMET>
+<NUMESQ>99:35</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "ben" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">- Pois v&oacute;s, filha, queredes mui gran ben</SEG></LT>
+<LL>- Pois v&oacute;s, filha, queredes mui gran ben</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "veer" AC = "--+-+--+-+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">voss' amigo</SEG></SEG>, <SEG C = "R" N = "CP" ID = "3">mando-vo-l' ir <SEG C = "R" N = "RD" ID = "4">veer</SEG></SEG>,</LT>
+<LL>voss' amigo, mando-vo-l' ir veer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ren" AC = "---+--+--+">
+<LT>pero fazede por mi &utilde;a ren</LT>
+<LL>pero fazede por mi &utilde;a ren</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "gradecer" AC = "-+-+-----+">
+<LT>que aja sempre que vos gradecer:</LT>
+<LL>que aja sempre que vos gradecer:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "eja" ERI = "seja" AC = "---+--+-+-">
+<LT>non vos entendan, per ren que seja,</LT>
+<LL>non vos entendan, per ren que seja,</LL>
+</L>
+<L N = "6" NS = "9" RI = "eja" ERI = "veja" AC = "--+-+---+-">
+<LT>que <SEG C = "R" N = "CFR" ID = "5">vos eu mand' ir</SEG> u vos el <SEG C = "R" N = "RD" ID = "4">veja</SEG>.</LT>
+<LL>que vos eu mand' ir u vos el veja.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 9' 9'</ESQMET></INFMET>
+<NUMESQ>99:42</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ia" ERI = "dia" AC = "+---+-+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CFR" ID = "5">Mando-vos eu ir</SEG> a Far' un dia</SEG>,</LT>
+<LL>Mando-vos eu ir a Far' un dia,</LL>
+
+<TOPO CAT = "LCULTO">Santa Maria do Faro (Faro)</TOPO></L>
+<L N = "2" NS = "10" RI = "on" ERI = "ora&ccedil;on" AC = "+--+--+--+">
+<LT>filha fremosa, fazer ora&ccedil;on,</LT>
+<LL>filha fremosa, fazer ora&ccedil;on,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ia" ERI = "soia" AC = "-+-+----+-">
+<LT>u fale vosco, como soia,</LT>
+<LL>u fale vosco, como soia,</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "pardon" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CD" ID = "2">o voss' amigu'</SEG> e, se Deus vos pardon,</LT>
+<LL>o voss' amigu' e, se Deus vos pardon,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "eja" ERI = "seja" AC = "---+--+-+-">
+<LT>non vos entendan, per ren que seja,</LT>
+<LL>non vos entendan, per ren que seja,</LL>
+</L>
+<L N = "6" NS = "9" RI = "eja" ERI = "veja" AC = "--+-+---+-">
+<LT>que <SEG C = "R" N = "CFR" ID = "5">vos eu mand' ir</SEG> u vos el <SEG C = "R" N = "RD" ID = "4">veja</SEG>.</LT>
+<LL>que vos eu mand' ir u vos el veja.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9' 9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>99:45</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "edes" ERI = "queredes" AC = "---+--+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1">E pois lhi v&oacute;s gran ben queredes</SEG>,</LT>
+<LL>E pois lhi v&oacute;s gran ben queredes,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ades" ERI = "fa&ccedil;ades" AC = "-+-+----+-">
+<LT>direi-vos, filha, como fa&ccedil;ades...</LT>
+<LL>direi-vos, filha, como fa&ccedil;ades...</LL>
+</L>
+<L N = "3" NS = "10" RI = "edes" ERI = "edes" AC = "-+-+--+-+-">
+<LT>- Ide v&oacute;s, madr', e <SEG C = "R" N = "RD" ID = "4">ve-lo edes</SEG>...</LT>
+<LL>- Ide v&oacute;s, madr', e ve-lo edes...</LL>
+</L>
+<L N = "4" NS = "9" RI = "ades" ERI = "amades" AC = "+---+-+-+-">
+<LT>- Mais, per quanto v&oacute;s comig' amades,</LT>
+<LL>- Mais, per quanto v&oacute;s comig' amades,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "eja" ERI = "seja" AC = "---+--+-+-">
+<LT>non vos entendan, per ren que seja,</LT>
+<LL>non vos entendan, per ren que seja,</LL>
+</L>
+<L N = "6" NS = "9" RI = "eja" ERI = "veja" AC = "--+-+---+-">
+<LT>que <SEG C = "R" N = "CFR" ID = "5">vos eu mand' ir</SEG> u vos el <SEG C = "R" N = "RD" ID = "4">veja</SEG>.</LT>
+<LL>que vos eu mand' ir u vos el veja.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

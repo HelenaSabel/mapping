@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "114002" TC = "REFR" NE = "2" SG = "NO" XE = "M MAR" OL = "NON">
+<INCIPIT>Ay, Santiago, padr&oacute;n sabido</INCIPIT>
+<NUCANT>114 2</NUCANT>
+<RM BCA = "B" NM = "843" F = "177v" MU = "NON" EM = "NO" I.FI = "lb177v"></RM>
+<RM BCA = "V" NM = "429" F = "68v" MU = "NON" EM = "NO" I.FI = "lv068v"></RM>
+<EDIANT T = "CRITI">
+<P>Cotarelo 24</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 225</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 275</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 786</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 429</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, pp. 4-5</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cant., 24</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Beltr&aacute;n, O cervo, 8</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 168</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 178</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 45</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 126</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 260-261, 539</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 303</P></EDIANT>
+<DATOAU NOME = "Monteagudo" NUA = "24"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>10/11/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 10 10</ESQMET></INFMET>
+<NUMESQ>37:45</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ido" ERI = "sabido" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">&inexcla;Ay, Santiago, padr&oacute;n sabido</SEG>,</LT>
+<LL>&inexcla;Ay, Santiago, padr&oacute;n sabido,</LL>
+<ANTRO T = "ALTER">Santiago</ANTRO></L>
+<L N = "2" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "2">v&oacute;s<SEG C = "M" N = "SIN" ID = "3"> mh' a</SEG>dugades o meu <SEG C = "R" N = "RD" ID = "4">amigo</SEG></SEG>!</LT>
+<LL>v&oacute;s mh' adugades o meu amigo!</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>Sobre mar v&eacute;n quen frores d' amor ten,</LT>
+<LL>Sobre mar v&eacute;n quen frores d' amor ten,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "Ge&eacute;n" AC = "---+-----+">
+<LT>myrarey, ma<SEG C = "M" N = "SIN" ID = "5">dre, as</SEG> torres de Ge&eacute;n.</LT>
+<LL>myrarey, madre, as torres de Ge&eacute;n.</LL>
+<TOPO CAT = "CIUDAD">Ge&eacute;n</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 10 10</ESQMET></INFMET>
+<NUMESQ>37:45</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "provado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">&inexcla;Ay, Santiago, padr&oacute;n provado</SEG>,</LT>
+<LL>&inexcla;Ay, Santiago, padr&oacute;n provado,</LL>
+<ANTRO T = "ALTER">Santiago</ANTRO></L>
+<L N = "2" NS = "9" RI = "ado" ERI = "amado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "2">v&oacute;s<SEG C = "M" N = "SIN" ID = "6"> mh' a</SEG>dugades o meu <SEG C = "R" N = "RD" ID = "4">amado</SEG></SEG>!</LT>
+<LL>v&oacute;s mh' adugades o meu amado!</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>Sobre mar v&eacute;n quen frores d' amor ten,</LT>
+<LL>Sobre mar v&eacute;n quen frores d' amor ten,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "Ge&eacute;n" AC = "---+-----+">
+<LT>myrarey, ma<SEG C = "M" N = "SIN" ID = "7">dre, as</SEG> torres de Ge&eacute;n.</LT>
+<LL>myrarey, madre, as torres de Ge&eacute;n.</LL>
+<TOPO CAT = "CIUDAD">Ge&eacute;n</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

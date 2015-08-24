@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="110004" NE="3" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>San Clemenço do mar</INCIPIT>
+
+      <NUCANT>110 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="255r" I.FI="lb255r" MU="NON" NM="1201"><NOTMAN
+      N="1">Falta a III cobra.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="126v" I.FI="lv126v" MU="NON" NM="806"><NOTMAN
+      N="1">Falta a III cobra.</NOTMAN></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 269</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1149</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 806</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 380</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 181</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 122</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 428</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="434p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>24/11/04</DATE>
+      </RESP>
+
+      <FRI>c. alt. <P>Tavani, 26:129, explica: &#34;3 c 2+1 (doblas I,
+      II-III?). Probabilm. incompl.; Nunes ricostruisce una str. (tra la II e
+      la III) il che dà la formula 4 a 2+1&#34;.</P></FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1201 e
+      situada no fol. 255r, columna a, enriba da cantiga, marxe dereita. A
+      nota fai referencia á presencia de refrán na cantiga. Enriba do
+      &#34;o&#34; hai unha especie de til agudo que está abreviando un
+      &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="SNH"></TEMA>
+
+      <TEMA CAT="VIN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 6 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:129</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+" ERI="mar" N="1" NS="6" RI="ar">
+          <LT><SEG C="R" ID="1" N="PL">San Clemenço do mar</SEG>,</LT>
+
+          <LL>San Clemenço do mar,</LL>
+
+          <TOPO CAT="LCULTO">San Clemenço</TOPO>
+        </L>
+
+        <L AC="--+--+" ERI="vingar" N="2" NS="6" RI="ar">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">se mi del non vingar</SEG></SEG>,</LT>
+
+          <LL>se mi del non vingar,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="dormirei" N="3" NS="4" RI="ei">
+            <LT>non dormirei</LT>
+
+            <LL>non dormirei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 6 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:129</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+" ERI="senhor" N="1" NS="6" RI="or">
+          <LT><SEG C="R" ID="1" N="PL">San Clemenço senhor</SEG>,</LT>
+
+          <LL>San Clemenço senhor,</LL>
+
+          <TOPO CAT="LCULTO">San Clemenço</TOPO>
+        </L>
+
+        <L AC="--+--+" ERI="for" N="2" NS="6" RI="or">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">se vingada non for</SEG></SEG>,</LT>
+
+          <LL>se vingada non for,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="dormirei" N="3" NS="4" RI="ei">
+            <LT>non dormirei</LT>
+
+            <LL>non dormirei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 6 4</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:129</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+" ERI="for" N="1" NS="6" RI="or">
+          <LT><SEG C="R" ID="3" N="LP">Se vingada non for</SEG></LT>
+
+          <LL>Se vingada non for</LL>
+        </L>
+
+        <L AC="-+---+" ERI="traedor" N="2" NS="6" RI="or">
+          <LT>do fals&#39; e traedor,</LT>
+
+          <LL>do fals&#39; e traedor,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+" ERI="dormirei" N="3" NS="4" RI="ei">
+            <LT>non dormirei</LT>
+
+            <LL>non dormirei</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

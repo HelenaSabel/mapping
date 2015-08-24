@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="114026" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Ũa pregunta vos quero fazer</INCIPIT>
+
+      <NUCANT>114 26</NUCANT>
+
+      <TENSO NOME="Alfonso X o Sabio"><NUCANT>18 45</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="346v" I.FI="lb346v" MU="NON" NM="1624"></RM>
+
+      <RM BCA="B" EM="NO" F="347r" I.FI="lb347r" MU="NON" NM="1624"></RM>
+
+      <RM BCA="V" EM="NO" F="190v" I.FI="lv190v" MU="NON" NM="1158"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Cotarelo 27</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 305</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. III, pp. 149-150</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1528</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1158</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Monteagudo 27</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 272</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="44"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>21/10/04</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <NOTC>Tenzo <COMNOTC>
+          <P>Nota colocciana situada no fol. 346v, columna b, marxe dereita,
+          referida á cantiga B 1624. Identifica o xénero da cantiga.</P>
+        </COMNOTC></NOTC>
+
+      <RUBRICA>Pae gomez <COMRUBRI>
+          <P>Rúbrica atributiva situada no fol. 346v, columna b, enriba da
+          cantiga B 1624. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>PAE GOMEZ <COMRUBRI>
+          <P>Rúbrica atributiva situada no fol. 190v, na columna a, enriba da
+          cantiga V 1158. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>pae Gomez chARinho <COMRUBRI>
+          <P>Rúbrica atributiva situada no fol. 190v, na parte superior da
+          columna b. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="ABS"><SUBTEMA CAT="RE"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso quinto é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:22</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="fazer" N="1" NS="10" RI="er">
+          <LT>- Ũa pregunta vos quero <SEG C="R" ID="1" N="RD">fazer</SEG></LT>
+
+          <LL>- Ũa pregunta vos quero fazer</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="afazer" N="2" NS="10" RI="er">
+          <LT><SEG C="R" ID="2" N="CD">senhor</SEG>, que mi devedes <SEG C="R"
+          ID="1" N="RD">afazer</SEG>:</LT>
+
+          <LL>senhor, que mi devedes afazer:</LL>
+
+          <ANTRO T="REAL">Alfonso X ? (senhor)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="comer" N="3" NS="10" RI="er">
+          <LT>por que veestes jantares comer</LT>
+
+          <LL>por que veestes jantares comer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="logar" N="4" NS="10" RI="ar">
+          <LT>que ome nunca de vosso logar</LT>
+
+          <LL>que ome nunca de vosso logar</LL>
+        </L>
+
+        <L AC="--+-----+" ERI="seer" N="5" NS="9" RI="er">
+          <LT>comeu? Esto que pode seer,</LT>
+
+          <LL>comeu? Esto que pode seer,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="queixar" N="6" NS="10" RI="ar">
+          <LT>ca vej' ende os erdeiros queixar?</LT>
+
+          <LL>ca vej' ende os erdeiros queixar?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso terceiro é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:22</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="responder" N="1" NS="10" RI="er">
+          <LT><SEG C="R" ID="3" N="CD">- Pae Gómez</SEG>, quero-vos
+          responder</LT>
+
+          <LL>- Pae Gómez, quero-vos responder</LL>
+
+          <ANTRO T="REAL">Pai Gomez Charinho (Pae Gómez)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="saber" N="2" NS="10" RI="er">
+          <LT>por vos fazer a verdade saber:</LT>
+
+          <LL>por vos fazer a verdade saber:</LL>
+        </L>
+
+        <L AC="--+-----+" ERI="poder" N="3" NS="9" RI="er">
+          <LT>ouv' aqui reis de maior poder</LT>
+
+          <LL>ouv' aqui reis de maior poder</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="gaanhar" N="4" NS="10" RI="ar">
+          <LT><SEG C="I" ID="4" N="RE">en</SEG> conquerer<SEG C="M" ID="5"
+          N="SIN"> e en</SEG> terras gaanhar</LT>
+
+          <LL>en conquerer e en terras gaanhar</LL>
+        </L>
+
+        <L AC="----+----+" ERI="prazer" N="5" NS="10" RI="er">
+          <LT>mais non quen ouvesse maior prazer</LT>
+
+          <LL>mais non quen ouvesse maior prazer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="jantar" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="6" N="CD">de comer</SEG>, quando lhi dan bon
+          jantar.</LT>
+
+          <LL>de comer, quando lhi dan bon jantar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso quinto é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:22</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="non" N="1" NS="10" RI="on">
+          <LT>- <SEG C="R" ID="2" N="CD">Senhor</SEG>, por esto non digu' eu
+          de non,</LT>
+
+          <LL>- Senhor, por esto non digu' eu de non,</LL>
+
+          <ANTRO T="REAL">Alfonso X ? (Senhor)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="razon" N="2" NS="10" RI="on">
+          <LT>de ben jantardes, ca é gran razon;</LT>
+
+          <LL>de ben jantardes, ca é gran razon;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="León" N="3" NS="10" RI="on">
+          <LT>mai-los erdeiros foro de León</LT>
+
+          <LL>mai-los erdeiros foro de León</LL>
+
+          <TOPO CAT="CIUDAD">León</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="pavor" N="4" NS="10" RI="or">
+          <LT>querran vosco, porque an <SEG C="I" ID="7" N="RE">gran</SEG>
+          pavor</LT>
+
+          <LL>querran vosco, porque an gran pavor</LL>
+        </L>
+
+        <L AC="-+--------+" ERI="entençón" N="5" NS="11" RI="on">
+          <LT>d' aver sobr' elo seu convos<SEG C="M" ID="8" N="SIN">co en</SEG>tençón</LT>
+
+          <LL>d' aver sobr' elo seu convosco entençón</LL>
+        </L>
+
+        <L AC="----+----+" ERI="peior" N="6" NS="10" RI="or">
+          <LT>e xe lhis parar outr' ano peior.</LT>
+
+          <LL>e xe lhis parar outr' ano peior.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso quinto é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:22</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="pardón" N="1" NS="10" RI="on">
+          <LT>- <SEG C="R" ID="3" N="CD">Pae Gomez</SEG>, assi Deus mi
+          pardón,</LT>
+
+          <LL>- Pae Gomez, assi Deus mi pardón,</LL>
+
+          <ANTRO T="REAL">Pai Gomez Charinho (Pae Gómez)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="Carrion" N="2" NS="10" RI="on">
+          <LT>mui gran temp' á que non foi en Carrion</LT>
+
+          <LL>mui gran temp' á que non foi en Carrion</LL>
+
+          <TOPO CAT="TOPOME">Carrhón</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="Monçon" N="3" NS="10" RI="on">
+          <LT>nen mi deron meu jantar en Monçon;</LT>
+
+          <LL>nen mi deron meu jantar en Monçon;</LL>
+
+          <TOPO CAT="TOPOME">Monçón</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="pecador" N="4" NS="10" RI="or">
+          <LT>e por esto non sõo pecador</LT>
+
+          <LL>e por esto non sõo pecador</LL>
+        </L>
+
+        <L AC="---+------+" ERI="doaçón" N="5" NS="11" RI="on">
+          <LT><SEG C="R" ID="6" N="CD">de comer</SEG> ben, pois<SEG C="M"
+          ID="9" N="SIN"> mi o</SEG> dan en doaçón,</LT>
+
+          <LL>de comer ben, pois mi o dan en doaçón,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="sabor" N="6" NS="10" RI="or">
+          <LT>ca de mui bon jantar ei gran sabor.</LT>
+
+          <LL>ca de mui bon jantar ei gran sabor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

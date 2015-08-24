@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "120045" TC = "REFR" NE = "4" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Quem seu parente vendia,</INCIPIT>
+<NUCANT>120 45</NUCANT>
+<RM BCA = "B" NM = "1648" F = "351v" MU = "NON" EM = "NO" I.FI = "lb351v"></RM>
+<RM BCA = "B" NM = "1648" F = "352r" MU = "NON" EM = "NO" I.FI = "lb352r"></RM>
+<RM BCA = "V" NM = "1182" F = "195r" MU = "NON" EM = "NO" I.FI = "lv195r"></RM>
+<EDIANT T = "CRITI">
+<P>Panunzio, pp. 186-188</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Ju&aacute;rez, pp. 300-301</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Pero da Ponte, 44</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1552</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1182</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 364</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 316</P></EDIANT>
+<DATOAU NOME = "Lopes" NUA = "316"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>31/01/05</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tonel doppio a capite
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1648.
+Est&aacute; situada na columna b do folio 351v. Enriba do o de
+tonel aparece un sinal de abreviatura que indica que falta o
+r.</P></COMNOTC></NOTC>
+<TEMA CAT = "AVA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abcbAA"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>217:5
+<NOTNESQ>
+<P>Outras posibilidades, 26:15; 37:18</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG>,</LT>
+<LL>Quem seu parente vendia,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ouro" ERI = "tesouro" AC = "----+-+-">
+<LT>todo por fazer tesouro,</LT>
+<LL>todo por fazer tesouro,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ura" ERI = "corredura" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "3">se</SEG> xe foss' em corredura</LT>
+<LL>se xe foss' em corredura</LL>
+</L>
+<L N = "4" NS = "7" RI = "ouro" ERI = "mouro" AC = "--+---+-">
+<LT>e podesse prender mouro,</LT>
+<LL>e podesse prender mouro,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "venderia" AC = "+-----+-">
+<LT>tenho que x' o <SEG C = "R" N = "RD" ID = "2">venderia</SEG></LT>
+<LL>tenho que x' o venderia</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "4"><SEG C = "R" N = "CD" ID = "1">Quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>.</LT>
+<LL>Quem seu parente vendia.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abcbAA"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>217:5
+<NOTNESQ>
+<P>Outras posibilidades, 26:15; 37:18;</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "4"><SEG C = "R" N = "CD" ID = "1">Quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>,</LT>
+<LL>Quem seu parente vendia,</LL>
+</L>
+<L N = "2" NS = "7" RI = "inho" ERI = "sobrinho" AC = "--+---+-">
+<LT>bem fidalgu' e seu sobrinho,</LT>
+<LL>bem fidalgu' e seu sobrinho,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ago" ERI = "Santiago" AC = "--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "3">se</SEG> tevess' em Santiago</LT>
+<LL>se tevess' em Santiago</LL>
+
+<TOPO CAT = "CIUDAD">Santiago</TOPO></L>
+<L N = "4" NS = "7" RI = "inho" ERI = "vinho" AC = "--+--+-">
+<LT>b&otilde;a adega de vinho,</LT>
+<LL>b&otilde;a adega de vinho,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "venderia" AC = "+-----+-">
+<LT>tenho que x' o <SEG C = "R" N = "RD" ID = "2">venderia</SEG></LT>
+<LL>tenho que x' o venderia</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "5"><SEG C = "R" N = "CD" ID = "1">quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>.</LT>
+<LL>quem seu parente vendia.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abcbAA"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>217:5
+<NOTNESQ>
+<P>Outras posibilidades, 26:15; 37:18;</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "5"><SEG C = "R" N = "CD" ID = "1">Quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>,</LT>
+<LL>Quem seu parente vendia,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ao" ERI = "pao" AC = "---+--+-">
+<LT>polo poerem no pao,</LT>
+<LL>polo poerem no pao,</LL>
+</L>
+<L N = "3" NS = "7" RI = "esse" ERI = "houvesse" AC = "-+----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">se</SEG> pam sobrepost' houvesse,</LT>
+<LL>se pam sobrepost' houvesse,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ao" ERI = "mao" AC = "---+--+-">
+<LT>e lhi chegass' ano mao,</LT>
+<LL>e lhi chegass' ano mao,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "venderia" AC = "+-----+-">
+<LT>tenho que x' o <SEG C = "R" N = "RD" ID = "2">venderia</SEG></LT>
+<LL>tenho que x' o venderia</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "6"><SEG C = "R" N = "CD" ID = "1">quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>.</LT>
+<LL>quem seu parente vendia.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abcbAA"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>217:5
+<NOTNESQ>
+<P>Outras posibilidades, 26:15; 37:18;</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "6"><SEG C = "R" N = "CD" ID = "1">Quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG></SEG>,</LT>
+<LL>Quem seu parente vendia,</LL>
+</L>
+<L N = "2" NS = "7" RI = "&atilde;o" ERI = "lou&ccedil;&atilde;o" AC = "---+--+-">
+<LT>mui fidalgu' e mui lou&ccedil;&atilde;o,</LT>
+<LL>mui fidalgu' e mui lou&ccedil;&atilde;o,</LL>
+</L>
+<L N = "3" NS = "7" RI = "esse" ERI = "houvesse" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "3">se</SEG> cavalo sop' houvesse</LT>
+<LL>se cavalo sop' houvesse</LL>
+</L>
+<L N = "4" NS = "7" RI = "s&atilde;o" ERI = "s&atilde;o" AC = "---+--+-">
+<LT>e lho comprassem por s&atilde;o,</LT>
+<LL>e lho comprassem por s&atilde;o,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "venderia" AC = "+-----+-">
+<LT>tenho que x' o <SEG C = "R" N = "RD" ID = "2">venderia</SEG>,</LT>
+<LL>tenho que x' o venderia,</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "vendia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">quem seu parente <SEG C = "R" N = "RD" ID = "2">vendia</SEG></SEG>.</LT>
+<LL>quem seu parente vendia.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

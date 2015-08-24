@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="056005" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP MMC">
+      <INCIPIT>Já eu non ei por quen trobar</INCIPIT>
+
+      <NUCANT>56 5</NUCANT>
+
+      <RM BCA="B" EM="NO" F="319v" I.FI="lb319v" MU="NON" NM="1527"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 400</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1439</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 201-202</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 123</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="163"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>2/06/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(c I = b III)</P></FRI>
+
+      <TEMA CAT="INS"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:42</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="trobar" N="1" NS="8" RI="ar">
+          <LT>Já eu non ei por quen trobar</LT>
+
+          <LL>Já eu non ei por quen trobar</LL>
+        </L>
+
+        <L AC="---+---+" ERI="coraçon" N="2" NS="8" RI="on">
+          <LT>e já non ei en coraçon,</LT>
+
+          <LL>e já non ei en coraçon,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="amar" N="3" NS="8" RI="ar">
+          <LT>por que non sei já quen <SEG C="R" ID="1" N="RD">amar</SEG>;</LT>
+
+          <LL>por que non sei já quen amar;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="razon" N="4" NS="8" RI="on">
+          <LT><SEG C="R" ID="2" N="CD">poren</SEG> mi min<SEG C="M" ID="3"
+          N="HIA">gua</SEG> razon,</LT>
+
+          <LL>poren mi mingua razon,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="senhor" N="5" NS="8" RI="or">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">ca mi</SEG> filhou Deus <SEG
+C="R" ID="6" N="PV">mia senhor</SEG></SEG>,</LT>
+
+          <LL>ca mi filhou Deus mia senhor,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="maior" N="6" NS="8" RI="or">
+          <LT>a que filh&#39; o Demo maior</LT>
+
+          <LL>a que filh&#39; o Demo maior</LL>
+        </L>
+
+        <L AC="--+----+" ERI="son" N="7" NS="8" RI="on">
+          <LT>quantas cousas que suas son,</LT>
+
+          <LL>quantas cousas que suas son,</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 7&#39; 8 7&#39; 8 8 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:61</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="filhou" N="1" NS="8" RI="ou">
+          <LT><SEG C="R" ID="7" N="CD">Como</SEG> lh&#39; outra vez já <SEG
+          C="R" ID="8" N="PV">filhou</SEG></LT>
+
+          <LL>Como lh&#39; outra vez já filhou</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="siia" N="2" NS="7" RI="ia">
+          <LT>a cadeira u siia</LT>
+
+          <LL>a cadeira u siia</LL>
+        </L>
+
+        <L AC="--+----+" ERI="filhou" N="3" NS="8" RI="ou">
+          <LT>o Filh&#39;; e por que mi <SEG C="R" ID="8" N="PV">filhou</SEG></LT>
+
+          <LL>o Filh&#39;; e por que mi filhou</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="avia" N="4" NS="7" RI="ia">
+          <LT>bõa senhor que avia?</LT>
+
+          <LL>bõa senhor que avia?</LL>
+        </L>
+
+        <L AC="--+----+" ERI="molher" N="5" NS="8" RI="er">
+          <LT>E diz el que non á molher;</LT>
+
+          <LL>E diz el que non á molher;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="quer" N="6" NS="8" RI="er">
+          <LT>se a non á, pera que quer</LT>
+
+          <LL>se a non á, pera que quer</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="Maria" N="7" NS="7" RI="ia">
+          <LT>pois tant&#39; a bõa Maria?</LT>
+
+          <LL>pois tant&#39; a bõa Maria?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:42</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+---+" ERI="deu" N="1" NS="8" RI="eu">
+          <LT>Deus nunca mi a mi nada deu</LT>
+
+          <LL>Deus nunca mi a mi nada deu</LL>
+        </L>
+
+        <L AC="---+---+" ERI="senhor" N="2" NS="8" RI="or">
+          <LT><SEG C="R" ID="4" N="CP">e tolhe-me bõa <SEG C="R" ID="6" N="PV">senhor</SEG></SEG>:</LT>
+
+          <LL>e tolhe-me bõa senhor:</LL>
+        </L>
+
+        <L AC="----+--+" ERI="eu" N="3" NS="8" RI="eu">
+          <LT><SEG C="R" ID="2" N="CD">por esto</SEG>, non cre<SEG C="M"
+          ID="9" N="SIN">o en</SEG> el eu</LT>
+
+          <LL>por esto, non creo en el eu</LL>
+        </L>
+
+        <L AC="---+---+" ERI="pecador" N="4" NS="8" RI="or">
+          <LT>nen me tenh&#39; eu por pecador,</LT>
+
+          <LL>nen me tenh&#39; eu por pecador,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="perder" N="5" NS="8" RI="er">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">ca me</SEG> fez mia senhor perder</SEG>.</LT>
+
+          <LL>ca me fez mia senhor perder.</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="fazer" N="6" NS="8" RI="er">
+          <LT>Catad&#39; o que mi foi <SEG C="R" ID="10" N="RD">fazer</SEG>,</LT>
+
+          <LL>Catad&#39; o que mi foi fazer,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="amor" N="7" NS="8" RI="or">
+          <LT>confiand&#39; eu no seu <SEG C="R" ID="1" N="RD">amor</SEG>!</LT>
+
+          <LL>confiand&#39; eu no seu amor!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 7&#39; 8 7&#39; 8 8 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:61</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="averrá" N="1" NS="8" RI="a">
+          <LT>Nunca se Deus mig&#39; averrá,</LT>
+
+          <LL>Nunca se Deus mig&#39; averrá,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="senhora" N="2" NS="7" RI="ora">
+          <LT>se mi non der <SEG C="R" ID="6" N="PV">mia senhora</SEG>;</LT>
+
+          <LL>se mi non der mia senhora;</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="corregerá" N="3" NS="8" RI="a">
+          <LT>mais como<SEG C="M" ID="11" N="SIN"> mi o</SEG> corregerá?</LT>
+
+          <LL>mais como mi o corregerá?</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="morra" N="4" NS="7" RI="orra">
+          <LT>Destroia-m&#39;, ante ca morra.</LT>
+
+          <LL>Destroia-m&#39;, ante ca morra.</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="faz" N="5" NS="8" RI="az">
+          <LT>Om&#39; é: tod&#39; aqueste mal <SEG C="R" ID="10" N="RD">faz</SEG>,</LT>
+
+          <LL>Om&#39; é: tod&#39; aqueste mal faz,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="malvaz" N="6" NS="8" RI="az">
+          <LT><SEG C="I" ID="12" N="RE"><SEG C="R" ID="7" N="CD">como</SEG> fez já, o gran malvaz</SEG>,</LT>
+
+          <LL>como fez já, o gran malvaz,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Gomorra" N="7" NS="7" RI="orra">
+          <LT>e<SEG C="I" ID="13" N="RE">n</SEG> Sodoma e Gomorra.</LT>
+
+          <LL>en Sodoma e Gomorra.</LL>
+
+          <TOPO CAT="CIUDAD">Sodoma</TOPO>
+
+          <TOPO CAT="CIUDAD">Gomorra</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

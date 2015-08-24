@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "125029" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Nostro Senhor, que ben alberguey</INCIPIT>
+<NUCANT>125 29</NUCANT>
+<RM BCA = "B" NM = "1381" F = "295r" MU = "NON" EM = "NO" I.FI = "lb295r"></RM>
+<RM BCA = "V" NM = "989" F = "158r" MU = "NON" EM = "NO" I.FI = "lv158r"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Burgal&eacute;s, 48</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 383</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1332</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 989</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 348</P></EDIANT>
+<DATOAU NOME = "Blasco" NUA = "48"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>23/02/00</DATE></RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "INH">
+<SUBTEMA CAT = "MT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+<NOTMET>
+<P>O verso 4 &eacute; hip&oacute;metro.</P></NOTMET>
+</INFMET>
+<NUMESQ>163:20</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "alberguey" AC = "---+----+">
+<LT>Nostro Senhor, que ben <SEG C = "R" N = "RD" ID = "1">alberguey</SEG></LT>
+<LL>Nostro Senhor, que ben alberguey</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT>quand' a <SEG C = "I" N = "RE" ID = "2">L</SEG>agares cheguey noutro dia,</LT>
+<LL>quand' a Lagares cheguey noutro dia,</LL>
+<TOPO CAT = "TOPOME">Lagares</TOPO></L>
+<L N = "3" NS = "10" RI = "ia" ERI = "fazia" AC = "---+-----+-">
+<LT>per hunha chuvha grande que <SEG C = "R" N = "RD" ID = "3">fazia</SEG>!</LT>
+<LL>per hunha chuvha grande que fazia!</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "achey" AC = "---+----+">
+<LT><SEG C = "R" N = "CPL" ID = "4">ca proug' a Deus, e o juyz achey</SEG></LT>
+<LL>ca proug' a Deus, e o juyz achey</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "assy" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "5">Martin <SEG C = "I" N = "RE" ID = "6">F</SEG>ernandiz</SEG>, e disse m' assy:</LT>
+<LL>Martin Fernandiz, e disse m' assy:</LL>
+<ANTRO T = "REAL">Martin Fernandez (Martin Fernandiz)</ANTRO></L>
+<L N = "6" NS = "10" RI = "i" ERI = "aly" AC = "----+----+">
+<LT>pan e vinh' e carne venden aly,</LT>
+<LL>pan e vinh' e carne venden aly,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ia" ERI = "hya" AC = "---+-----+-">
+<LT>en <SEG C = "I" N = "RE" ID = "7">S</SEG>an <SEG C = "I" N = "RE" ID = "8">P</SEG>aayo, contra hu <SEG C = "R" N = "CF" ID = "9">eu</SEG> hya.</LT>
+<LL>en San Paayo, contra hu eu hya.</LL>
+<TOPO CAT = "TOPOME">San Paayo</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+<NOTMET>
+<P>Os versos 5 e 6 son hip&oacute;metros.</P></NOTMET>
+</INFMET>
+<NUMESQ>163:20</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "direy" AC = "---+-----+">
+<LT>En coyta fora qual vus <SEG C = "R" N = "CF" ID = "9">eu</SEG> direy:</LT>
+<LL>En coyta fora qual vus eu direy:</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "faria" AC = "---+----+-">
+<LT>se non achass' o juyz, que <SEG C = "R" N = "RD" ID = "3">faria</SEG>?</LT>
+<LL>se non achass' o juyz, que faria?</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "tragia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "10">ca eu</SEG> nen hun d&itilde;eyro non tragia!</LT>
+<LL>ca eu nen hun d&itilde;eyro non tragia!</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "achey" AC = "---+----+">
+<LT><SEG C = "R" N = "CPL" ID = "4">mays proug' a Deus que o juyz achey</SEG>:</LT>
+<LL>mays proug' a Deus que o juyz achey:</LL>
+</L>
+<L N = "5" NS = "9" RI = "in" ERI = "min" AC = "---+----+">
+<LT><SEG C = "R" N = "CD" ID = "5">Martin <SEG C = "I" N = "RE" ID = "11">F</SEG>ernandez</SEG> sayo a <SEG C = "R" N = "PV" ID = "12">min</SEG>,</LT>
+<LL>Martin Fernandez sayo a min,</LL>
+</L>
+<L N = "6" NS = "9" RI = "i" ERI = "sy" AC = "---+----+">
+<LT>e mostrou m' albergue cabo sy:</LT>
+<LL>e mostrou m' albergue cabo sy:</LL>
+</L>
+<L N = "7" NS = "10" RI = "ia" ERI = "avya" AC = "----+----+-">
+<LT>en que compre quanto mester avya!</LT>
+<LL>en que compre quanto mester avya!</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+<NOTMET>
+<P>O verso 4 &eacute; hip&oacute;metro.</P></NOTMET>
+</INFMET>
+<NUMESQ>163:20</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "sey" AC = "---+-----+">
+<LT>Se eu o juyz non achasse, ben sey</LT>
+<LL>Se eu o juyz non achasse, ben sey</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "albergaria" AC = "----+----+-">
+<LT>como alberguey non <SEG C = "R" N = "RD" ID = "1">albergaria</SEG>,</LT>
+<LL>como alberguey non albergaria,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "escorecia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "10">ca eu</SEG> errey e ja m' escorecia;</LT>
+<LL>ca eu errey e ja m' escorecia;</LL>
+</L>
+<L N = "4" NS = "9" RI = "ei" ERI = "achey" AC = "--+-----+">
+<LT><SEG C = "R" N = "CPL" ID = "4">mays o juyz me guario que achey</SEG>:</LT>
+<LL>mays o juyz me guario que achey:</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "conhoci" AC = "---+-----+">
+<LT>pero que eu tard' i o conhoci,</LT>
+<LL>pero que eu tard' i o conhoci,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT>conhoceu m' el e sayo contra <SEG C = "R" N = "PV" ID = "12">mi</SEG>,</LT>
+<LL>conhoceu m' el e sayo contra mi,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ia" ERI = "vya" AC = "---+-----+-">
+<LT>e omilhou xi <SEG C = "M" N = "SIN" ID = "13">mi e</SEG> mostrou <SEG C = "M" N = "SIN" ID = "14">mh a</SEG> vya.</LT>
+<LL>e omilhou xi mi e mostrou mh a vya.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

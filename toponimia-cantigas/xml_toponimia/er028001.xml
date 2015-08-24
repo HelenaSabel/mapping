@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "028001" TC = "REFR" NE = "4" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Meu senhor arcebispo, and' eu escomungado</INCIPIT>
+<NUCANT>28 1</NUCANT>
+<RM BCA = "B" NM = "1592" F = "334v" MU = "NON" EM = "NO" I.FI = "lb334v"></RM>
+<RM BCA = "V" NM = "1124" F = "185r" MU = "NON" EM = "NO" I.FI = "lv185r"></RM>
+<EDIANT T = "DIVUL">
+<P>Micha&euml;lis, Em volta, p. 20</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 299-300</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1494</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, p. 128</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crest. arc., 15</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 27</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp. 145-146</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Tavares, Textos medievais, pp. 95-96</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 26</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 107</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 42</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 37 </P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 188-189</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 98-99, 455-456</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 98</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 68</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 99</P></EDIANT>
+<DATOAU NOME = "Lopes" NUA = "99"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>15/12/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Diego pezeelho jograr
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1592. Est&aacute; situada na columna a do folio 334v.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Diego pezelho jograr
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 1124. Est&aacute;
+situada na columna a do folio 185r.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "TRA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBAB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 6 6 6</ESQMET></INFMET>
+<NUMESQ>33:1
+<NOTNESQ>
+<P>Outras posibilidades, 37:21; 48:3 (II-IV); 234:1
+(I), 253:3 (II-IV)</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ado" ERI = "escomungado" AC = "-----+-/-+---+-">
+<LT>Meu senhor arcebispo,<SEG C = "M" N = "CAE" ID = "1"></SEG> and' eu escomungado</LT>
+<LL>Meu senhor arcebispo, and' eu escomungado</LL>
+</L>
+<L N = "2" NS = "13" RI = "ado" ERI = "pecado" AC = "-----+-/--+--+-">
+<LT>porque fiz lealdade:<SEG C = "M" N = "CAE" ID = "2"></SEG> enganou-<SEG C = "M" N = "SIN" ID = "3">mi o</SEG> pecado.</LT>
+<LL>porque fiz lealdade: enganou-mi o pecado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "or" ERI = "senhor" AC = "---+-+">
+<LT>Soltade-m', ai, senhor,</LT>
+<LL>Soltade-m', ai, senhor,</LL>
+</L>
+<L N = "4" NS = "6" RI = "ado" ERI = "mandado" AC = "-----+-">
+<LT>e jurarei, mandado,</LT>
+<LL>e jurarei, mandado,</LL>
+</L>
+<L N = "5" NS = "6" RI = "or" ERI = "traedor" AC = "-+---+">
+<LT><SEG C = "M" N = "CAE" ID = "4"></SEG>que seja <SEG C = "R" N = "CFR" ID = "5">traedor</SEG>.</LT>
+<LL>que seja traedor.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBCB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 6 6 6</ESQMET></INFMET>
+<NUMESQ>48:3
+<NOTNESQ>
+<P>Outras posibilidades, 37:21; 33:1 (I); 234:1
+(I), 253:3 (II-IV)</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ia" ERI = "diria" AC = "-----+-/--+--+-">
+<LT>Se <SEG C = "R" N = "CFR" ID = "5">tr<SEG C = "M" N = "HIA" ID = "6">ai</SEG>&ccedil;om</SEG> fezesse,<SEG C = "M" N = "CAE" ID = "7"></SEG> nunca vo-la diria;</LT>
+<LL>Se trai&ccedil;om fezesse, nunca vo-la diria;</LL>
+</L>
+<L N = "2" NS = "13" RI = "ia" ERI = "Maria" AC = "-----+-/--+--+-">
+<LT>mais, pois fiz lealdade,<SEG C = "M" N = "CAE" ID = "8"></SEG> vel por Santa Maria,</LT>
+<LL>mais, pois fiz lealdade, vel por Santa Maria,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "or" ERI = "senhor" AC = "---+-+">
+<LT>soltade-m', ai, senhor,</LT>
+<LL>soltade-m', ai, senhor,</LL>
+</L>
+<L N = "4" NS = "6" RI = "ado" ERI = "mandado" AC = "-----+-">
+<LT>e jurarei, mandado,</LT>
+<LL>e jurarei, mandado,</LL>
+</L>
+<L N = "5" NS = "6" RI = "or" ERI = "traedor" AC = "-+---+">
+<LT><SEG C = "M" N = "CAE" ID = "9"></SEG>que seja traedor.</LT>
+<LL>que seja traedor.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBCB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 6 6 6</ESQMET></INFMET>
+<NUMESQ>48:3
+<NOTNESQ>
+<P>Outras posibilidades, 37:21; 33:1 (I), 48:3 (II-IV); 234:1
+(I), 253:3 (II-IV)</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ousa" ERI = "Sousa" AC = "-----+-/---+-+-">
+<LT><SEG C = "R" N = "CPL" ID = "10">Per mia malaventura,<SEG C = "M" N = "CAE" ID = "11"></SEG> ti<SEG C = "M" N = "SIN" ID = "12">ve um</SEG> caste<SEG C = "M" N = "SIN" ID = "13">lo en</SEG> Sousa</SEG></LT>
+<LL>Per mia malaventura, tive um castelo en Sousa</LL>
+
+<TOPO CAT = "ALDEA">Sousa</TOPO></L>
+<L N = "2" NS = "13" RI = "ousa" ERI = "cousa" AC = "-----+-/---+-+-">
+<LT><SEG C = "R" N = "CPL" ID = "14">e dei-o a seu don' e<SEG C = "M" N = "CAE" ID = "13"></SEG> <SEG C = "R" N = "CF" ID = "16">tenho</SEG> que fiz gram cousa</SEG>.</LT>
+<LL>e dei-o a seu don' e tenho que fiz gram cousa.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "or" ERI = "senhor" AC = "---+-+">
+<LT>Soltade-m', ai, senhor,</LT>
+<LL>Soltade-m', ai, senhor,</LL>
+</L>
+<L N = "4" NS = "6" RI = "ado" ERI = "mandado" AC = "-----+-">
+<LT>e jurarei, mandado,</LT>
+<LL>e jurarei, mandado,</LL>
+</L>
+<L N = "5" NS = "6" RI = "or" ERI = "traedor" AC = "-+---+">
+<LT><SEG C = "M" N = "CAE" ID = "17"></SEG>que seja traedor.</LT>
+<LL>que seja traedor.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBCB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 6 6 6</ESQMET></INFMET>
+<NUMESQ>48:3
+<NOTNESQ>
+<P>Outras posibilidades, 37:21; 33:1 (I); 234:1
+(I), 253:3 (II-IV)</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "orte" ERI = "forte" AC = "-----+-/---+-+-">
+<LT> <SEG C = "R" N = "CPL" ID = "10">Per meus negros pecados,<SEG C = "M" N = "CAE" ID = "18"></SEG> ti<SEG C = "M" N = "SIN" ID = "19">ve um</SEG> castelo forte</SEG></LT>
+<LL> Per meus negros pecados, tive um castelo forte</LL>
+</L>
+<L N = "2" NS = "13" RI = "orte" ERI = "morte" AC = "-----+-/--+--+-">
+<LT> <SEG C = "R" N = "CPL" ID = "14">e dei-o a seu dono,<SEG C = "M" N = "CAE" ID = "20"></SEG> e hei medo da morte</SEG>.</LT>
+<LL> e dei-o a seu dono, e hei medo da morte.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "6" RI = "or" ERI = "senhor" AC = "---+-+">
+<LT>Soltade m', ai, senhor,</LT>
+<LL>Soltade m', ai, senhor,</LL>
+</L>
+<L N = "4" NS = "6" RI = "ado" ERI = "mandado" AC = "-----+-">
+<LT>e jurarei, mandado,</LT>
+<LL>e jurarei, mandado,</LL>
+</L>
+<L N = "5" NS = "6" RI = "or" ERI = "traedor" AC = "-+---+">
+<LT><SEG C = "M" N = "CAE" ID = "21"></SEG> que seja traedor.</LT>
+<LL> que seja traedor.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

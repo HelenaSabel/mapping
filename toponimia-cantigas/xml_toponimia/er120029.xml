@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120029" NE="4" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>Noutro dia, en Carrion</INCIPIT>
+
+      <NUCANT>120 29</NUCANT>
+
+      <RM BCA="B" EM="NO" F="348v" I.FI="lb348v" MU="NON" NM="1632"></RM>
+
+      <RM BCA="V" EM="NO" F="192r" I.FI="lv192r" MU="NON" NM="1166"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 143-145</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 266-267</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 28</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. III, pp. 162-163</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1536</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1166</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 300</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="348"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>1/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a II = c III, IV; b II = a III; b III = a IV)</P></FRI>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababaab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>60:4</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="Carrion" N="1" NS="8" RI="on">
+          <LT>Noutro dia, en Carrion,</LT>
+
+          <LL>Noutro dia, en Carrion,</LL>
+
+          <TOPO CAT="ALDEA">Carrion</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="vender" N="2" NS="8" RI="er">
+          <LT>queria<SEG C="I" ID="1" N="RE">n</SEG> un salmon vender,</LT>
+
+          <LL>querian un salmon vender,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="infançon" N="3" NS="8" RI="on">
+          <LT>e chegou i un infançon;</LT>
+
+          <LL>e chegou i un infançon;</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="veer" N="4" NS="8" RI="er">
+          <LT>e, tanto que o foi <SEG C="R" ID="2" N="RD">veer</SEG>,</LT>
+
+          <LL>e, tanto que o foi veer,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="coraçon" N="5" NS="8" RI="on">
+          <LT>creceu-lhi d&#39; el tal coraçon,</LT>
+
+          <LL>creceu-lhi d&#39; el tal coraçon,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="enton" N="6" NS="8" RI="on">
+          <LT>que diss&#39; a un seu om&#39; enton:</LT>
+
+          <LL>que diss&#39; a un seu om&#39; enton:</LL>
+        </L>
+
+        <L AC="----+--+" ERI="comer" N="7" NS="8" RI="er">
+          <LT>- Peixota quer&#39; oj&#39; eu <SEG C="R" ID="3" N="CF"><SEG
+C="R" ID="4" N="RD">comer</SEG></SEG>,</LT>
+
+          <LL>- Peixota quer&#39; oj&#39; eu comer,</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="comi" N="1" NS="8" RI="i">
+          <LT>Ca muit&#39; á já que non <SEG C="R" ID="3" N="CF"><SEG C="R"
+ID="4" N="RD">comi</SEG></SEG></LT>
+
+          <LL>Ca muit&#39; á já que non comi</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="desejei" N="2" NS="8" RI="ei">
+          <LT>salmon, que sempre desejei;</LT>
+
+          <LL>salmon, que sempre desejei;</LL>
+        </L>
+
+        <L AC="-----+-+" ERI="aqui" N="3" NS="8" RI="i">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">mais, pois</SEG> que o ach&#39; o<SEG
+C="M" ID="7" N="SIN">ra a</SEG>qui</SEG></LT>
+
+          <LL>mais, pois que o ach&#39; ora aqui</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="recearei" N="4" NS="8" RI="ei">
+          <LT><SEG C="R" ID="8" N="CP">já custa non <SEG C="R" ID="9" N="RD">recearei</SEG></SEG>,</LT>
+
+          <LL>já custa non recearei,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="pran" N="5" NS="8" RI="an">
+          <LT><SEG C="M" ID="10" N="SIN">que o</SEG>j&#39; eu non cômia, de
+          pran,</LT>
+
+          <LL>que oj&#39; eu non cômia, de pran,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="pan" N="6" NS="8" RI="an">
+          <LT>ben da peixota e do pan,</LT>
+
+          <LL>ben da peixota e do pan,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="ceei" N="7" NS="8" RI="ei">
+          <LT>que muit&#39; á que ben non <SEG C="R" ID="11" N="RD">ce<SEG
+C="R" ID="12" N="CC">ei</SEG></SEG>.</LT>
+
+          <LL>que muit&#39; á que ben non ceei.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababaab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>60:4</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="achei" N="1" NS="8" RI="ei">
+          <LT><SEG C="R" ID="5" N="CP"><SEG C="R" ID="6" N="CD">Mais, pois</SEG> aqui salmon <SEG
+C="R" ID="13" N="RD">ach<SEG C="R" ID="12" N="CC">ei</SEG></SEG></SEG>,</LT>
+
+          <LL>Mais, pois aqui salmon achei,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="cẽar" N="2" NS="8" RI="ar">
+          <LT>querrei oj&#39; eu mui ben <SEG C="R" ID="11" N="RD">cẽar</SEG>,</LT>
+
+          <LL>querrei oj&#39; eu mui ben cẽar,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="acharei" N="3" NS="8" RI="ei">
+          <LT>ca non sei u <SEG C="M" ID="14" N="SIN">mi o</SEG> <SEG C="R"
+          ID="13" N="RD">acharei</SEG>,</LT>
+
+          <LL>ca non sei u mi o acharei,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="logar" N="4" NS="8" RI="ar">
+          <LT>des que me for deste logar;</LT>
+
+          <LL>des que me for deste logar;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="vi" N="5" NS="8" RI="i">
+          <LT>e, do salmon que ora <SEG C="R" ID="2" N="RD">vi</SEG>,</LT>
+
+          <LL>e, do salmon que ora vi,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="dali" N="6" NS="8" RI="i">
+          <LT>ante que x&#39; o leven dali,</LT>
+
+          <LL>ante que x&#39; o leven dali,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="comprar" N="7" NS="8" RI="ar">
+          <LT>vai-m&#39; ũa peixota compr<SEG C="R" ID="15" N="CC">ar</SEG>.</LT>
+
+          <LL>vai-m&#39; ũa peixota comprar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:59</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="recear" N="1" NS="8" RI="ar">
+          <LT><SEG C="R" ID="8" N="CP">non quer&#39; eu custa <SEG C="R"
+ID="9" N="RD">rece<SEG C="R" ID="15" N="CC">ar</SEG></SEG></SEG>,</LT>
+
+          <LL>non quer&#39; eu custa recear,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Sinher" N="2" NS="8" RI="er">
+          <LT>pois salmon fres<SEG C="M" ID="16" N="SIN">co a</SEG>cho,
+          Sinher;</LT>
+
+          <LL>pois salmon fresco acho, Sinher;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="assũar" N="3" NS="8" RI="ar">
+          <LT>mais que<SEG C="M" ID="17" N="SIN">ro ir</SEG> ben d&#39; el
+          assũar</LT>
+
+          <LL>mais quero ir ben d&#39; el assũar</LL>
+        </L>
+
+        <L AC="---+---+" ERI="molher" N="4" NS="8" RI="er">
+          <LT>por enviar a mia molher</LT>
+
+          <LL>por enviar a mia molher</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="outrossi" N="5" NS="8" RI="i">
+          <LT>(que morre por el outrossi)</LT>
+
+          <LL>(que morre por el outrossi)</LL>
+        </L>
+
+        <L AC="--+----+" ERI="aqui" N="6" NS="8" RI="i">
+          <LT>da balẽa que vej&#39; aqui;</LT>
+
+          <LL>da balẽa que vej&#39; aqui;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="poder" N="7" NS="8" RI="er">
+          <LT>e, depois, quite quen poder!</LT>
+
+          <LL>e, depois, quite quen poder!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

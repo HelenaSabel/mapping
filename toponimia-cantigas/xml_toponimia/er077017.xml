@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077017" TC = "REFR" NE = "4" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Mia madre velida, e non me guardedes</INCIPIT>
+<NUCANT>77 17</NUCANT>
+<RM BCA = "B" NM = "1149" F = "244v" MU = "NON" EM = "NO" I.FI = "lb244v">
+<NOTMAN N = "1">En B esta cantiga es&aacute; formada por 5 cobras.
+Sobra a terceira estrofa, xa que o verso un ven sendo o 1 III e o
+verso dous o 2 II.</NOTMAN></RM>
+<RM BCA = "B" NM = "1149" F = "245r" MU = "NON" EM = "NO" I.FI = "lb245r">
+<NOTMAN N = "1">En B esta cantiga es&aacute; formada por 5 cobras.
+Sobra a terceira estrofa, xa que o verso un ven sendo o 1 III e o
+verso dous o 2 II.</NOTMAN></RM>
+<RM BCA = "V" NM = "741" F = "117v" MU = "NON" EM = "NO" I.FI = "lv117v"></RM>
+<RM BCA = "V" NM = "741" F = "118r" MU = "NON" EM = "NO" I.FI = "lv118r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 216</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 10</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1083</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, p. 91</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 741</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 55</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 376</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "371"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>19/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1149.
+Est&aacute; situada na columna b do folio 244v.</P></COMNOTC></NOTC>
+<TEMA CAT = "OR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 5'</ESQMET></INFMET>
+<NUMESQ>26:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "edes" ERI = "guardedes" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Mia madre velida, e non me <SEG C = "R" N = "RD" ID = "2">guardedes</SEG></SEG></LT>
+<LL>Mia madre velida, e non me guardedes</LL>
+</L>
+<L N = "2" NS = "11" RI = "edes" ERI = "fazedes" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "3">d' ir a San Servando, ca, se o fazedes</SEG>,</LT>
+<LL>d' ir a San Servando, ca, se o fazedes,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ores" ERI = "amores" AC = "--+-+-">
+<LT>morrei d' <SEG C = "R" N = "RD" ID = "4">amores</SEG>.</LT>
+<LL>morrei d' amores.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 5'</ESQMET></INFMET>
+<NUMESQ>26:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ades" ERI = "ajades" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">E non me guardedes, se v&oacute;s ben ajades</SEG>,</LT>
+<LL>E non me guardedes, se v&oacute;s ben ajades,</LL>
+</L>
+<L N = "2" NS = "11" RI = "ades" ERI = "guardades" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "3">d' ir a San Servando, ca, <SEG C = "R" N = "CF" ID = "5">se me <SEG C = "R" N = "RD" ID = "2">guardades</SEG></SEG></SEG>,</LT>
+<LL>d' ir a San Servando, ca, se me guardades,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ores" ERI = "amores" AC = "--+-+-">
+<LT>morrei d' <SEG C = "R" N = "RD" ID = "4">amores</SEG>.</LT>
+<LL>morrei d' amores.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 5'</ESQMET></INFMET>
+<NUMESQ>26:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ia" ERI = "perfia" AC = "-----+----+-">
+<LT><SEG C = "R" N = "PL" ID = "6">E, <SEG C = "R" N = "CF" ID = "5">se me v&oacute;s guardades</SEG> d' atal perfia</SEG>,</LT>
+<LL>E, se me v&oacute;s guardades d' atal perfia,</LL>
+</L>
+<L N = "2" NS = "11" RI = "ia" ERI = "romaria" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "7">d' ir a San Servando fazer romaria</SEG>,</LT>
+<LL>d' ir a San Servando fazer romaria,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ores" ERI = "amores" AC = "--+-+-">
+<LT>morrei d' <SEG C = "R" N = "RD" ID = "4">amores</SEG>.</LT>
+<LL>morrei d' amores.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 5'</ESQMET></INFMET>
+<NUMESQ>26:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "igo" ERI = "digo" AC = "-----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "6">E, se me v&oacute;s guardades, eu ben vo-lo digo</SEG>,</LT>
+<LL>E, se me v&oacute;s guardades, eu ben vo-lo digo,</LL>
+</L>
+<L N = "2" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "7">d' ir a San Servando veer meu <SEG C = "R" N = "RD" ID = "4">amigo</SEG></SEG>,</LT>
+<LL>d' ir a San Servando veer meu amigo,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ores" ERI = "amores" AC = "--+-+-">
+<LT>morrei d' <SEG C = "R" N = "RD" ID = "4">amores</SEG>.</LT>
+<LL>morrei d' amores.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

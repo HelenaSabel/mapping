@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="070013" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EA">
+      <INCIPIT>Cuydou-s&#39; amor que logo me faria</INCIPIT>
+
+      <NUCANT>70 13</NUCANT>
+
+      <RM BCA="A" EM="NO" F="64r" I.FI="la064r" MU="NON" NM="238"></RM>
+
+      <EDIANT T="CRITI">
+        <P>CA 238</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Domingues, Guilhade, 12</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1600</P>
+      </EDIANT>
+
+      <DATOAU NOME="Nobiling" NUA="12"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>1/08/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <TEMA CAT="SA"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+
+      <TEMA CAT="MA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:143</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+---+-" ERI="faria" N="1" NS="10" RI="ia">
+          <LT>Cuydou-s&#39; amor que logo me<SEG C="R" ID="1" N="PE"><SEG
+C="R" ID="2" N="RD"> faria</SEG></SEG></LT>
+
+          <LL>Cuydou-s&#39; amor que logo me faria</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="perder" N="2" NS="10" RI="er">
+          <LT>per sa coyta o sen que ey perder;</LT>
+
+          <LL>per sa coyta o sen que ey perder;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="fazer" N="3" NS="10" RI="er">
+          <LT>e pero nunca o podo <SEG C="R" ID="2" N="RD">fazer</SEG>,</LT>
+
+          <LL>e pero nunca o podo fazer,</LL>
+        </L>
+
+        <L AC="---++----+-" ERI="sabedoria" N="4" NS="10" RI="ia">
+          <LT>mays aprendeu outra sabedoria:</LT>
+
+          <LL>mays aprendeu outra sabedoria:</LL>
+        </L>
+
+        <L AC="+--+-+---+" ERI="alguen" N="5" NS="10" RI="en">
+          <LT>quer-me matar muy cedo por alguen,</LT>
+
+          <LL>quer-me matar muy cedo por alguen,</LL>
+        </L>
+
+        <L AC="--+--+-+-+" ERI="ben" N="6" NS="10" RI="en">
+          <LT><SEG C="R" ID="3" N="CD">e aquesto</SEG> pód&#39; el fazer muy
+          ben,</LT>
+
+          <LL>e aquesto pód&#39; el fazer muy ben,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="via" N="7" NS="10" RI="ia">
+          <LT>ca mha senhor esto quer toda v<SEG C="R" ID="4" N="CC">ia</SEG>.</LT>
+
+          <LL>ca mha senhor esto quer toda via.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:143</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+---+-+-" ERI="folia" N="1" NS="10" RI="ia">
+          <LT>E ten s&#39; amor que demandey fol<SEG C="R" ID="4" N="CC">ia</SEG></LT>
+
+          <LL>E ten s&#39; amor que demandey folia</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="aver" N="2" NS="10" RI="er">
+          <LT>en demandar o que non poss&#39; aver;</LT>
+
+          <LL>en demandar o que non poss&#39; aver;</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="escolher" N="3" NS="10" RI="er">
+          <LT><SEG C="R" ID="3" N="CD">e aquesto</SEG> non poss&#39; eu <SEG
+          C="R" ID="5" N="RD">escolher</SEG>,</LT>
+
+          <LL>e aquesto non poss&#39; eu escolher,</LL>
+        </L>
+
+        <L AC="-+---+---+-" ERI="escolheria" N="4" NS="10" RI="ia">
+          <LT>ca logo m&#39; eu en<SEG C="I" ID="6" N="RE">d&#39;</SEG> al
+          <SEG C="R" ID="5" N="RD">escolheria</SEG>:</LT>
+
+          <LL>ca logo m&#39; eu end&#39; al escolheria:</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="sen" N="5" NS="10" RI="en">
+          <LT>escolheria, mentr&#39; ouvesse sen,</LT>
+
+          <LL>escolheria, mentr&#39; ouvesse sen,</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="ren" N="6" NS="10" RI="en">
+          <LT>de nunca ja morrer por nulha ren;</LT>
+
+          <LL>de nunca ja morrer por nulha ren;</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="jograria" N="7" NS="10" RI="ia">
+          <LT>ca esta morte non é jograr<SEG C="R" ID="7" N="CC">ia</SEG>.</LT>
+
+          <LL>ca esta morte non é jograria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:143</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+--+--+-" ERI="Faria" N="1" NS="10" RI="ia">
+          <LT>Ay! que de coyta levey en <SEG C="R" ID="1" N="PE">Far<SEG C="R"
+ID="7" N="CC">ia</SEG></SEG>!</LT>
+
+          <LL>Ay! que de coyta levey en Faria!</LL>
+
+          <TOPO CAT="CIUDAD">Faria</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="morrer" N="2" NS="10" RI="er">
+          <LT>E vin aquí a Segobha morrer,</LT>
+
+          <LL>E vin aquí a Segobha morrer,</LL>
+
+          <TOPO CAT="CIUDAD">Segobha</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="veer" N="3" NS="10" RI="er">
+          <LT>ca non vej&#39; i quen soia veer</LT>
+
+          <LL>ca non vej&#39; i quen soia veer</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="guaria" N="4" NS="10" RI="ia">
+          <LT>meu pouqu&#39; e pouqu&#39; e por esso <SEG C="R" ID="8" N="RD">guaria</SEG>.</LT>
+
+          <LL>meu pouqu&#39; e pouqu&#39; e por esso guaria.</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="guarecer" N="5" NS="10" RI="er">
+          <LT>Mays, poys que ja non posso <SEG C="R" ID="8" N="RD">guarecer</SEG>,</LT>
+
+          <LL>Mays, poys que ja non posso guarecer,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="dizer" N="6" NS="10" RI="er">
+          <LT>a por que moyro vos quero dizer:</LT>
+
+          <LL>a por que moyro vos quero dizer:</LL>
+        </L>
+
+        <L AC="+-+--+---+-" ERI="Maria" N="7" NS="10" RI="ia">
+          <LT>diz alguen: &#34;Est&#39; é filha de Maria.&#34;</LT>
+
+          <LL>diz alguen: &#34;Est&#39; é filha de Maria.&#34;</LL>
+
+          <ANTRO T="ALTER">Maria</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="dda"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+" ERI="trobar" N="1" NS="10" RI="ar">
+          <LT>E o que sempre neguey en trobar,</LT>
+
+          <LL>E o que sempre neguey en trobar,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="pesar" N="2" NS="10" RI="ar">
+          <LT>ora o dix&#39;! E pes a quen pesar,</LT>
+
+          <LL>ora o dix&#39;! E pes a quen pesar,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="perfia" N="3" NS="10" RI="ia">
+          <LT>poys que alguen acabou sa perfia.</LT>
+
+          <LL>poys que alguen acabou sa perfia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

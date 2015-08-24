@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "116015" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Marinha Mejouchi, Pero d' Anbr&otilde;a</INCIPIT>
+<NUCANT>116 15</NUCANT>
+<RM BCA = "V" NM = "1199" F = "198v" MU = "NON" EM = "NO" I.FI = "lv198v"></RM>
+<RM BCA = "V" NM = "1199" F = "199r" MU = "NON" EM = "NO" I.FI = "lv199r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 317</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Rangl. VII, pp. 684-685</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1687</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1199</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 33</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 284</P></EDIANT>
+<DATOAU NOME = "Marroni" NUA = "30">
+<COMAU>
+<P>Igual ca Lopes 284, adoptamos no segundo da segunda estrofa a forma
+Soca en lugar de &Ccedil;oco. Complet&aacute;mos as lagoas da edici&oacute;n
+seguida integrando as reconstrucci&oacute;ns de Lapa nos versos 2 II e 2 III.
+</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>17/12/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "VIX">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10</ESQMET></INFMET>
+<NUMESQ>163:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "-+------+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Marinha Mejouchi</SEG>, Pero d' A<SEG C = "I" N = "RE" ID = "2">n</SEG>br&otilde;a</LT>
+<LL>Marinha Mejouchi, Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "ALTER">Marinha Mejouchi</ANTRO>
+<ANTRO T = "REAL">Pero d' Anbr&otilde;a</ANTRO></L>
+<L N = "2" NS = "10" RI = "ar" ERI = "pregoar" AC = "-+-------+">
+<LT>diz el que tu o fuisti pregoar</LT>
+<LL>diz el que tu o fuisti pregoar</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "Ultramar" AC = "---+-----+">
+<LT>que nunca foy na terra d' Ultramar;</LT>
+<LL>que nunca foy na terra d' Ultramar;</LL>
+
+<TOPO CAT = "LCULTO">Ultramar</TOPO></L>
+<L N = "4" NS = "10" RI = "&otilde;a" ERI = "b&otilde;a" AC = "---+-----+-">
+<LT>mays non fezisti come molher b&otilde;a,</LT>
+<LL>mays non fezisti come molher b&otilde;a,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "sy" AC = "--+------+">
+<LT><SEG C = "R" N = "CD" ID = "1">ca, Marinha Mejouchi</SEG>, sy &eacute; sy,</LT>
+<LL>ca, Marinha Mejouchi, sy &eacute; sy,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "lhy" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">Pero d' Anbr&otilde;a</SEG> sey eu ca foy lhy;</LT>
+<LL>Pero d' Anbr&otilde;a sey eu ca foy lhy;</LL>
+</L>
+<L N = "7" NS = "10" RI = "ar" ERI = "assacar" AC = "--+------+">
+<LT>mais quesiste-lh' y tu mal assacar.</LT>
+<LL>mais quesiste-lh' y tu mal assacar.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10</ESQMET></INFMET>
+<NUMESQ>163:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "alha" ERI = "falha" AC = "-+-------+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Marinha Mejouchi</SEG>, sen nulha falha</LT>
+<LL>Marinha Mejouchi, sen nulha falha</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "Ven" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">Pero d' Anbr&otilde;a</SEG> en Soca de Ven</LT>
+<LL>Pero d' Anbr&otilde;a en Soca de Ven</LL>
+
+<TOPO CAT = "LCULTO">Soca de Ven</TOPO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "Iherusalen" AC = "---+-----+">
+<LT>filhou a cruz pera Iherusalen;</LT>
+<LL>filhou a cruz pera Iherusalen;</LL>
+
+<TOPO CAT = "LCULTO">Iherusalen</TOPO></L>
+<L N = "4" NS = "10" RI = "alha" ERI = "valha" AC = "----+----+-">
+<LT>e, depoys d' aquesto, se Deus mi valha,</LT>
+<LL>e, depoys d' aquesto, se Deus mi valha,</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "romeu" AC = "-+-------+">
+<LT><SEG C = "R" N = "CD" ID = "1">Marinha Mejouchi</SEG>, come romeu</LT>
+<LL>Marinha Mejouchi, come romeu</LL>
+
+<ANTRO T = "ALTER">Marinha Mejouchi</ANTRO></L>
+<L N = "6" NS = "10" RI = "eu" ERI = "eu" AC = "---+-----+">
+<LT>que ven cansado, atal o<SEG C = "M" N = "SIN" ID = "4"> vi en</SEG>d' eu</LT>
+<LL>que ven cansado, atal o vi end' eu</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "&eacute;n" AC = "-+-------+">
+<LT>tornar; e dizes que non tornou &eacute;n!</LT>
+<LL>tornar; e dizes que non tornou &eacute;n!</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbaccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10</ESQMET></INFMET>
+<NUMESQ>163:24</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "adas" ERI = "vegadas" AC = "-+-------+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Marinha Mejouchi</SEG>, muytas vegadas</LT>
+<LL>Marinha Mejouchi, muytas vegadas</LL>
+
+<ANTRO T = "ALTER">Marinha Mejouchi</ANTRO></L>
+<L N = "2" NS = "10" RI = "al" ERI = "mal" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">Pero d' Anbr&otilde;a</SEG> achou-t' en <SEG C = "I" N = "RE" ID = "5">gran</SEG> <SEG C = "R" N = "PV" ID = "6">mal</SEG>,</LT>
+<LL>Pero d' Anbr&otilde;a achou-t' en gran mal,</LL>
+
+<ANTRO T = "REAL">Pero d' Anbr&otilde;a</ANTRO></L>
+<L N = "3" NS = "10" RI = "al" ERI = "atal" AC = "---+-----+">
+<LT>mays se te colhe en logar atal</LT>
+<LL>mays se te colhe en logar atal</LL>
+</L>
+<L N = "4" NS = "10" RI = "adas" ERI = "pousadas" AC = "---+-----+-">
+<LT>com' andas tu assy pelas pousadas,</LT>
+<LL>com' andas tu assy pelas pousadas,</LL>
+</L>
+<L N = "5" NS = "10" RI = "on" ERI = "sazon" AC = "-+-------+">
+<LT><SEG C = "R" N = "CD" ID = "1">Marinha Mejou<SEG C = "M" N = "SIN" ID = "7">chi</SEG></SEG>,<SEG C = "M" N = "SIN" ID = "7"> &aacute;</SEG> mui gram sazon,</LT>
+<LL>Marinha Mejouchi, &aacute; mui gram sazon,</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "enton" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">Pero d' Anbr&otilde;a</SEG>, se t' achar enton,</LT>
+<LL>Pero d' Anbr&otilde;a, se t' achar enton,</LL>
+</L>
+<L N = "7" NS = "10" RI = "al" ERI = "mal" AC = "--+------+">
+<LT>gram med' ey que ti querr&aacute; fazer <SEG C = "R" N = "PV" ID = "6">mal</SEG>.</LT>
+<LL>gram med' ey que ti querr&aacute; fazer mal.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

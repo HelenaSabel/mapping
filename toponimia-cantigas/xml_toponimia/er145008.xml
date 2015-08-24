@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "145008" TC = "REFR" NE = "4" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Rogo-te, ay Amor, que queyras migo morar</INCIPIT>
+<NUCANT>145 8</NUCANT>
+<RM BCA = "B" NM = "1162" F = "248r" MU = "NON" EM = "NO" I.FI = "lb248r"></RM>
+<RM BCA = "B" NM = "1162" F = "248v" MU = "NON" EM = "NO" I.FI = "lb248v"></RM>
+<RM BCA = "V" NM = "765" F = "120v" MU = "NON" EM = "NO" I.FI = "lv120v"></RM>
+<RM BCA = "V" NM = "765" F = "121r" MU = "NON" EM = "NO" I.FI = "lv121r"></RM>
+<EDIANT T = "CRITI">
+<P>Amigo 392</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 273</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1107</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 765</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 150</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 147</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 352-353, 588</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 397</P></EDIANT>
+<DATOAU NOME = "Macchi" NUA = "5"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>24/03/00</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana situada na columna b do folio 248r, enriba da cantiga B
+1162, &aacute; dereita. Fai referencia &aacute; presencia de refr&aacute;n na
+cantiga. Enriba do &quot;o&quot; hai unha especie de til agudo que est&aacute;
+abreviando un &quot;r&quot;.</P></COMNOTC></NOTC>
+<TEMA CAT = "PA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>12 11 7'</ESQMET></INFMET>
+<NUMESQ>26:46</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ar" ERI = "morar" AC = "-----+------+">
+<LT><SEG C = "R" N = "PL" ID = "1">Rogo<SEG C = "M" N = "SIN" ID = "2">-te, ay</SEG> Amor, que queyras migo morar</SEG></LT>
+<LL>Rogo-te, ay Amor, que queyras migo morar</LL>
+</L>
+<L N = "2" NS = "11" RI = "ar" ERI = "andar" AC = "---+------+">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">tod' este tempo, enquanto vay andar</SEG></SEG></LT>
+<LL>tod' este tempo, enquanto vay andar</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>a Granada meu <SEG C = "R" N = "CFR" ID = "5">amigo</SEG>.</LT>
+<LL>a Granada meu amigo.</LL>
+<TOPO CAT = "CIUDAD"></TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>12 11 7'</ESQMET></INFMET>
+<NUMESQ>26:46</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "er" ERI = "seer" AC = "-----+------+">
+<LT><SEG C = "R" N = "PL" ID = "1">Rogo<SEG C = "M" N = "SIN" ID = "6">-te, ay</SEG> Amor, que queyras migo seer</SEG></LT>
+<LL>Rogo-te, ay Amor, que queyras migo seer</LL>
+</L>
+<L N = "2" NS = "11" RI = "er" ERI = "viver" AC = "---+------+">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">tod' este tempo, enquanto vay viver</SEG></SEG></LT>
+<LL>tod' este tempo, enquanto vay viver</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>a Granada meu amigo.</LT>
+<LL>a Granada meu amigo.</LL>
+<TOPO CAT = "CIUDAD">Granada</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11 10 7'</ESQMET></INFMET>
+<NUMESQ>26:64</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ar" ERI = "andar" AC = "---+------+">
+<LT><SEG C = "R" N = "LP" ID = "4">tod' este tempo, enquanto vay andar</SEG>,</LT>
+<LL>tod' este tempo, enquanto vay andar,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "matar" AC = "---+-----+">
+<LT><SEG C = "R" N = "PL" ID = "7">lidar co<SEG C = "I" N = "RE" ID = "8">n</SEG> mourus e muytus matar</SEG></LT>
+<LL>lidar con mourus e muytus matar</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>a Granada meu amigo.</LT>
+<LL>a Granada meu amigo.</LL>
+<TOPO CAT = "CIUDAD">Granada</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11 10 7'</ESQMET></INFMET>
+<NUMESQ>26:64</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "er" ERI = "viver" AC = "---+------+">
+<LT><SEG C = "R" N = "LP" ID = "4">tod' este tempo, enquanto vay viver</SEG>,</LT>
+<LL>tod' este tempo, enquanto vay viver,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "prender" AC = "---+-----+">
+<LT><SEG C = "R" N = "PL" ID = "7">lidar con mourus e muytos prender</SEG></LT>
+<LL>lidar con mourus e muytos prender</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>a Granada <SEG C = "I" N = "RE" ID = "9">meu amigo</SEG>.</LT>
+<LL>a Granada meu amigo.</LL>
+<TOPO CAT = "CIUDAD">Granada</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

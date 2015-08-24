@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087010" TC = "REFR" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Enmentar quer' eu do brial</INCIPIT>
+<NUCANT>87 10</NUCANT>
+<RM BCA = "B" NM = "1340" F = "287r" MU = "NON" EM = "NO" I.FI = "lb287r"></RM>
+<RM BCA = "V" NM = "947" F = "150v" MU = "NON" EM = "NO" I.FI = "lv150v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 254</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1290</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 947</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 217</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "3"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>21/04/99</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede a cantiga B 1340. Est&aacute;
+situada no folio 287r, columna a.</P></COMNOTC>
+</NOTC>
+<RUBRICA>Cf. a r&uacute;brica de 87,7.</RUBRICA>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "IN"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>19:30</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "al" ERI = "brial" AC = "--+-+--+">
+<LT>Enmentar quer' eu do brial</LT>
+<LL>Enmentar quer' eu do brial</LL>
+</L>
+<L N = "2" NS = "8" RI = "al" ERI = "Natal" AC = "----+--+">
+<LT>que o infan&ccedil;on por Natal</LT>
+<LL>que o infan&ccedil;on por Natal</LL>
+</L>
+<L N = "3" NS = "8" RI = "al" ERI = "mal" AC = "+---+--+">
+<LT>deu a-ssa molher; e fez mal:</LT>
+<LL>deu a-ssa molher; e fez mal:</LL>
+</L>
+<L N = "4" NS = "8" RI = "ou" ERI = "matou" AC = "---+--+">
+<LT>a gram<SEG C = "M" N = "HIA" ID = "1"> tray</SEG>&ccedil;om a <SEG C = "R" N = "PR" ID = "2">matou</SEG>,</LT>
+<LL>a gram tray&ccedil;om a matou,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ou" ERI = "talhou" AC = "----+--+">
+<LT>que lhi no ianeyro talhou</LT>
+<LL>que lhi no ianeyro talhou</LL>
+</L>
+<L N = "6" NS = "8" RI = "ou" ERI = "levou" AC = "-+--+--+">
+<LT>brial e lh' o manto levou.</LT>
+<LL>brial e lh' o manto levou.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>19:30</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "an" ERI = "Alvam" AC = "----+--+">
+<LT>&quot;O infan&ccedil;o can, o d' Alvam,</LT>
+<LL>&quot;O infan&ccedil;o can, o d' Alvam,</LL>
+
+<TOPO CAT = "ORON">Alvam</TOPO></L>
+<L N = "2" NS = "8" RI = "an" ERI = "omezian" AC = "-+-+---+">
+<LT>de muytos &eacute; omezian!&quot;</LT>
+<LL>de muytos &eacute; omezian!&quot;</LL>
+</L>
+<L N = "3" NS = "8" RI = "an" ERI = "diran" AC = "-+--+--+">
+<LT>se for dant' el Rey lhi <SEG C = "R" N = "RD" ID = "3">diran</SEG>,</LT>
+<LL>se for dant' el Rey lhi diran,</LL>
+</L>
+<L N = "4" NS = "8" RI = "ou" ERI = "matou" AC = "--+-+--+">
+<LT>&quot;<SEG C = "R" N = "RL" ID = "4">ca fremosa dona <SEG C = "R" N = "PR" ID = "2">matou</SEG></SEG>,</LT>
+<LL>&quot;ca fremosa dona matou,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ou" ERI = "talhou" AC = "----+--+">
+<LT>que lhi no ianeyro <SEG C = "I" N = "RE" ID = "5">talhou</SEG></LT>
+<LL>que lhi no ianeyro talhou</LL>
+</L>
+<L N = "6" NS = "8" RI = "ou" ERI = "levou" AC = "-+--+--+">
+<LT><SEG C = "I" N = "RE" ID = "5"><SEG C = "R" N = "CFR" ID = "6">brial</SEG> e lh' o manto levou</SEG>.</LT>
+<LL>brial e lh' o manto levou.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>19:30</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "aqui" AC = "--+-+--+">
+<LT><SEG C = "R" N = "CFR" ID = "6">Brialesta</SEG>, vai-te d' aqui</LT>
+<LL>Brialesta, vai-te d' aqui</LL>
+</L>
+<L N = "2" NS = "8" RI = "i" ERI = "dy" AC = "-++--+-+">
+<LT>hu for Lopo Lians e <SEG C = "R" N = "RD" ID = "3">dy</SEG></LT>
+<LL>hu for Lopo Lians e dy</LL>
+
+<ANTRO T = "REAL">Lopo Lians</ANTRO></L>
+<L N = "3" NS = "8" RI = "i" ERI = "mj" AC = "-+--+--+">
+<LT>que fa&ccedil;a hy cobras por mj</LT>
+<LL>que fa&ccedil;a hy cobras por mj</LL>
+</L>
+<L N = "4" NS = "8" RI = "ou" ERI = "matou" AC = "----+--+">
+<LT>ao que a dona <SEG C = "R" N = "PR" ID = "2">matou</SEG>,</LT>
+<LL>ao que a dona matou,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ou" ERI = "talhou" AC = "----+--+">
+<LT>que lhi <SEG C = "I" N = "RE" ID = "7">no ianeyro talhou</SEG></LT>
+<LL>que lhi no ianeyro talhou</LL>
+</L>
+<L N = "6" NS = "8" RI = "ou" ERI = "levou" AC = "-+--+--+">
+<LT><SEG C = "I" N = "RE" ID = "7">brial e lh' o manto levou</SEG>.</LT>
+<LL>brial e lh' o manto levou.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>19:30</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "on" ERI = "Orzelhon" AC = "+--+---+">
+<LT>Ben t' aiudaram d' Orzelhon</LT>
+<LL>Ben t' aiudaram d' Orzelhon</LL>
+
+<TOPO CAT = "TOPOME">Orzelhon</TOPO></L>
+<L N = "2" NS = "8" RI = "on" ERI = "son" AC = "----+--+">
+<LT>quantos trobadores hy son</LT>
+<LL>quantos trobadores hy son</LL>
+</L>
+<L N = "3" NS = "8" RI = "on" ERI = "infan&ccedil;on" AC = "---+---+">
+<LT>a escarnir o infan&ccedil;on;</LT>
+<LL>a escarnir o infan&ccedil;on;</LL>
+</L>
+<L N = "4" NS = "8" RI = "ou" ERI = "matou" AC = "----+--+">
+<LT><SEG C = "R" N = "RL" ID = "4">ca fremosa dona <SEG C = "R" N = "PR" ID = "2">matou</SEG></SEG>,</LT>
+<LL>ca fremosa dona matou,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ou" ERI = "talhou" AC = "----+--+">
+<LT>que lhi <SEG C = "I" N = "RE" ID = "8">no ianeyro talhou</SEG></LT>
+<LL>que lhi no ianeyro talhou</LL>
+</L>
+<L N = "6" NS = "8" RI = "ou" ERI = "levou" AC = "-+--+--+">
+<LT><SEG C = "I" N = "RE" ID = "8">brial e lh' o manto levou</SEG>.</LT>
+<LL>brial e lh' o manto levou.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "056006" TC = "MEST" NE = "3" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Jograr, tres cousas avedes mester</INCIPIT>
+<NUCANT>56 6</NUCANT>
+<RM BCA = "B" NM = "1515" F = "317r" MU = "NON" EM = "NO" I.FI = "lb317r"></RM>
+<RM BCA = "B" NM = "1515" F = "317v" MU = "NON" EM = "NO" I.FI = "lb317v"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, p. 653</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 388</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1427</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 111</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "151"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>2/06/97</DATE></RESP>
+<FRI>c. unis.</FRI>
+<RUBRICA>Gil Perez Conde
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1515. Est&aacute; situada na columna b do folio 317r.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>189:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "mester" AC = "---+-----+">
+<LT>Jograr, tres cousas avedes mester</LT>
+<LL>Jograr, tres cousas avedes mester</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "en" AC = "---+-----+">
+<LT>pera cantar, de que se paguen en:</LT>
+<LL>pera cantar, de que se paguen en:</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ben" AC = "----+----+">
+<LT>&eacute; doair' e voz<SEG C = "M" N = "SIN" ID = "1"> e a</SEG>prenderdes ben,</LT>
+<LL>&eacute; doair' e voz e aprenderdes ben,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "aver" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "2">que de voss' o non podedes aver</SEG></LT>
+<LL>que de voss' o non podedes aver</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "poder" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">nen emprestado, nen end' o poder</SEG></LT>
+<LL>nen emprestado, nen end' o poder</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">non &aacute; de dar-vo-l' ome nen molh<SEG C = "R" N = "CC" ID = "3">er</SEG></SEG>.</LT>
+<LL>non &aacute; de dar-vo-l' ome nen molher.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET>
+<NOTMET>
+<P>O verso dous &eacute; hip&eacute;rmetro</P></NOTMET></INFMET>
+<NUMESQ>189:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "el" ERI = "segrel" AC = "---+-----+">
+<LT>Se<SEG C = "I" N = "RE" ID = "4">n</SEG> &utilde;a destas nunca bon segr<SEG C = "R" N = "CC" ID = "3">el</SEG></LT>
+<LL>Sen &utilde;a destas nunca bon segrel</LL>
+</L>
+<L N = "2" NS = "11" RI = "en" ERI = "ven" AC = "----+-----+">
+<LT>vimos en Espanha, nen d' alhur non ven,</LT>
+<LL>vimos en Espanha, nen d' alhur non ven,</LL>
+<TOPO CAT = "CIRCUNS">Espanha</TOPO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "conven" AC = "--+------+">
+<LT>e sen outra, que a todos conven:</LT>
+<LL>e sen outra, que a todos conven:</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "trager" AC = "---+-----+">
+<LT>seer <SEG C = "I" N = "RE" ID = "5">de bon</SEG> sen; pois vos, jograr, trager</LT>
+<LL>seer de bon sen; pois vos, jograr, trager</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "vender" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">non vos vej' est', e comprar nen vender</SEG></LT>
+<LL>non vos vej' est', e comprar nen vender</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "quiser" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">nono pod' ome, pero xe<SEG C = "R" N = "CF" ID = "6"><SEG C = "R" N = "RD" ID = "7"> quis<SEG C = "R" N = "CC" ID = "8">er</SEG></SEG></SEG></SEG>,</LT>
+<LL>nono pod' ome, pero xe quiser,</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>189:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "quer" AC = "----+----+">
+<LT>Buscade per u, co<SEG C = "M" N = "SIN" ID = "9">mo ou</SEG> onde<SEG C = "R" N = "CF" ID = "6"><SEG C = "R" N = "RD" ID = "7"> qu<SEG C = "R" N = "CC" ID = "8">er</SEG></SEG></SEG></LT>
+<LL>Buscade per u, como ou onde quer</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>ajades est'; e, jograr, se vos ten</LT>
+<LL>ajades est'; e, jograr, se vos ten</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "sen" AC = "---+-----+">
+<LT>prol de trobar, terria-vos por sen</LT>
+<LL>prol de trobar, terria-vos por sen</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "fazer" AC = "----+----+">
+<LT>furtarde-l' a queno sabe fazer;</LT>
+<LL>furtarde-l' a queno sabe fazer;</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "perder" AC = "---+-----+">
+<LT>desto podedes guaanhar ou perder,</LT>
+<LL>desto podedes guaanhar ou perder,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "souber" AC = "---+-----+">
+<LT>tanto que x' o<SEG C = "M" N = "SIN" ID = "10">me a</SEG> verdade souber.</LT>
+<LL>tanto que x' ome a verdade souber.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "076001" TC = "MEST" NE = "2" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Loavan un dia, en Lugo, Elvira</INCIPIT>
+<NUCANT>76 1</NUCANT>
+<RM BCA = "B" NM = "1612" F = "341v" MU = "NON" EM = "NO" I.FI = "lb341v"></RM>
+<RM BCA = "V" NM = "1145" F = "188v" MU = "NON" EM = "NO" I.FI = "lv188v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1515</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1145</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 187</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "224"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>9/09/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Joh&atilde; Romeu de Lugo
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 1612.
+Est&aacute; situada no folio 341v, columna a.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Esta cantiga de cima fez Joan Romeu a un cavaleiro que morava en Lugo,
+a Don Lopo Lias, por que era cego dun olho.
+<COMRUBRI>
+<P>R&uacute;brica explicativa situada despois da cantiga B 1612, no folio 341v,
+columna a.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Joh&atilde; Romeo de Lugo
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 1145.
+Est&aacute; situada no folio 188v, columna a.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Esta cantiga de cima fez Joan Romeu a un cavaleiro que morava en Lugo,
+a Don Lopo Lias, por que era cego dun olho.
+<COMRUBRI>
+<P>R&uacute;brica explicativa situada na marxe esquerda do folio 188v.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "DF"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:197</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ira" ERI = "Elvira" AC = "-+--+-+--+-">
+<LT>Loavan un di<SEG C = "M" N = "SIN" ID = "1">a, en</SEG> Lugo, Elvira</LT>
+<LL>Loavan un dia, en Lugo, Elvira</LL>
+
+<TOPO CAT = "CIUDAD">Lugo</TOPO>
+<ANTRO T = "REAL">Elvira (Elvira P&eacute;rez</ANTRO></L>
+<L N = "2" NS = "10" RI = "&otilde;a" ERI = "Padr&otilde;a" AC = "+--+--+--+-">
+<LT>P&eacute;rez, <SEG C = "I" N = "RE" ID = "2">a filha d'</SEG> Elvira Padr&otilde;a;</LT>
+<LL>P&eacute;rez, a filha d' Elvira Padr&otilde;a;</LL>
+
+<ANTRO T = "REAL">P&eacute;rez (Elvira P&eacute;rez)</ANTRO>
+<ANTRO T = "REAL">Elvira Padr&otilde;a</ANTRO></L>
+<L N = "3" NS = "10" RI = "&otilde;a" ERI = "b&otilde;a" AC = "+--+--+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">todos</SEG> dizian que era mui b&otilde;a</SEG></LT>
+<LL>todos dizian que era mui b&otilde;a</LL>
+</L>
+<L N = "4" NS = "10" RI = "ira" ERI = "mentira" AC = "---+--+--+-">
+<LT>e non tenh' eu que dizian mentira,</LT>
+<LL>e non tenh' eu que dizian mentira,</LL>
+</L>
+<L N = "5" NS = "10" RI = "on" ERI = "razon" AC = "--+---+--+">
+<LT>ante tenho que dizian razon;</LT>
+<LL>ante tenho que dizian razon;</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "enton" AC = "--+-+-+--+">
+<LT><SEG C = "R" N = "CP" ID = "5">e Don Lopo <SEG C = "I" N = "RE" ID = "6">Lias</SEG> diss' i enton</SEG>,</LT>
+<LL>e Don Lopo Lias diss' i enton,</LL>
+
+<ANTRO T = "REAL">Don Lopo Lias</ANTRO></L>
+<L N = "7" NS = "10" RI = "ira" ERI = "vira" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CP" ID = "5">per b&otilde;a f&eacute;, que j&aacute; x' el melhor vira</SEG></LT>
+<LL>per b&otilde;a f&eacute;, que j&aacute; x' el melhor vira</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:197</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ante" ERI = "andante" AC = "-+--+--+-+-">
+<LT>Ficou j&aacute; a dona mui ben andante,</LT>
+<LL>Ficou j&aacute; a dona mui ben andante,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ian" ERI = "siian" AC = "--+----+-+-">
+<LT><SEG C = "M" N = "SIN" ID = "7">ca a</SEG> loaron quantos ali siian;</LT>
+<LL>ca a loaron quantos ali siian;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ian" ERI = "dizian" AC = "-+-+---+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">e todos dela</SEG> muito ben dizian;</SEG></LT>
+<LL>e todos dela muito ben dizian;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ante" ERI = "constante" AC = "-+-+--+--+-">
+<LT>mais Lopo Lias estede constante:</LT>
+<LL>mais Lopo Lias estede constante:</LL>
+
+<ANTRO T = "REAL">Lopo Lias</ANTRO></L>
+<L N = "5" NS = "10" RI = "or" ERI = "jogador" AC = "---+--+--+">
+<LT>como foi sempre un gran jogador,</LT>
+<LL>como foi sempre un gran jogador,</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "melhor" AC = "+--+---+-+">
+<LT><SEG C = "R" N = "CP" ID = "5">disse<SEG C = "M" N = "SIN" ID = "8"> que <SEG C = "I" N = "RE" ID = "9">a</SEG></SEG> vira outra vez melhor</SEG>,</LT>
+<LL>disse que a vira outra vez melhor,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ante" ERI = "Ifante" AC = "-+-+--+--+-">
+<LT>quand' era mo&ccedil;a, en cas da Ifante.</LT>
+<LL>quand' era mo&ccedil;a, en cas da Ifante.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087019" TC = "MEST" NE = "2" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Se m' el Rey dess' algo, i&aacute; m' iria</INCIPIT>
+<NUCANT>87 19</NUCANT>
+<RM BCA = "B" NM = "1354" F = "289v" MU = "NON" EM = "NO" I.FI = "lb289v"></RM>
+<RM BCA = "V" NM = "962" F = "153r" MU = "NON" EM = "NO" I.FI = "lv153r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 269</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1305</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 962</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 231</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "17"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>27/04/99</DATE>
+</RESP>
+<FRI>c. unis.</FRI>
+<RUBRICA>Esta cantiga fez a huna dona fremosa, que a casaron seus parentes mal
+por dinheyrus.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede a cantiga B 1354. Est&aacute; situada
+no folio 289v, columna b. Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga fez a huna dona fremosa, que a casaron seus parentes mal
+por dinheyrus.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede a cantiga V 962. Est&aacute; situada
+no folio 153r, columna a. Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "CAS"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababbaa"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9' 9' 9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>80:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ia" ERI = "iria" AC = "--+-+---+-">
+<LT>Se m' el Rey dess' algo, i&aacute; m' iria</LT>
+<LL>Se m' el Rey dess' algo, i&aacute; m' iria</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "grado" AC = "---+----+-">
+<LT>pera mha terra <SEG C = "I" N = "RE" ID = "1">mui</SEG> de bon grado,</LT>
+<LL>pera mha terra mui de bon grado,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ia" ERI = "compraria" AC = "----+---+-">
+<LT>e-sse <SEG C = "I" N = "RE" ID = "2">i</SEG> chegasse, compraria</LT>
+<LL>e-sse i chegasse, compraria</LL>
+</L>
+<L N = "4" NS = "9" RI = "ado" ERI = "mercado" AC = "+--+----+-">
+<LT>dona fremosa de gran mercado,</LT>
+<LL>dona fremosa de gran mercado,</LL>
+</L>
+<L N = "5" NS = "9" RI = "ado" ERI = "louvado" AC = "---+--+-+-">
+<LT>ca i&aacute; <SEG C = "I" N = "RE" ID = "3">a</SEG> venden, a Deus louvado!</LT>
+<LL>ca i&aacute; a venden, a Deus louvado!</LL>
+</L>
+<L N = "6" NS = "9" RI = "ia" ERI = "Luzia" AC = "---+-+--+-">
+<LT>como venderon <SEG C = "R" N = "PR" ID = "4">dona Luzia</SEG></LT>
+<LL>como venderon dona Luzia</LL>
+<ANTRO T = "REAL">dona Luzia</ANTRO></L>
+<L N = "7" NS = "9" RI = "ia" ERI = "dia" AC = "---+--+-+-">
+<LT><SEG C = "R" N = "CD" ID = "5">en Orzelhon</SEG> ora n' outro d<SEG C = "R" N = "CC" ID = "6">ia</SEG>.</LT>
+<LL>en Orzelhon ora n' outro dia.</LL>
+<TOPO CAT = "TOPOME">Orzelhon</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababbaa"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9' 9' 9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>80:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ia" ERI = "chegaria" AC = "--+--+--+-">
+<LT>Eu cuytado non <SEG C = "I" N = "RE" ID = "7">i</SEG> chegar<SEG C = "R" N = "CC" ID = "6">ia</SEG>,</LT>
+<LL>Eu cuytado non i chegaria,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "talhado" AC = "---+----+-">
+<LT>por comprar corpo tan ben talhado!</LT>
+<LL>por comprar corpo tan ben talhado!</LL>
+</L>
+<L N = "3" NS = "9" RI = "ia" ERI = "vendia" AC = "---+----+-">
+<LT>E <SEG C = "I" N = "RE" ID = "8">o</SEG> astroso que a <SEG C = "R" N = "PV" ID = "9">vendia</SEG></LT>
+<LL>E o astroso que a vendia</LL>
+</L>
+<L N = "4" NS = "9" RI = "ado" ERI = "mandado" AC = "---+--+-+-">
+<LT>por que mj non envyou mandado,</LT>
+<LL>por que mj non envyou mandado,</LL>
+</L>
+<L N = "5" NS = "9" RI = "ado" ERI = "encarregado" AC = "+--+----+-">
+<LT>fora de cachas encarregado</LT>
+<LL>fora de cachas encarregado</LL>
+</L>
+<L N = "6" NS = "9" RI = "ia" ERI = "Luzia" AC = "---+-+--+-">
+<LT>en que comprara <SEG C = "R" N = "PV" ID = "9">dona Luzia</SEG></LT>
+<LL>en que comprara dona Luzia</LL>
+<ANTRO T = "REAL">dona Luzia</ANTRO></L>
+<L N = "7" NS = "9" RI = "ia" ERI = "vendia" AC = "---+----+-">
+<LT><SEG C = "R" N = "CD" ID = "5">en Orzelhon</SEG> do que a <SEG C = "R" N = "PV" ID = "9">vendia</SEG>?</LT>
+<LL>en Orzelhon do que a vendia?</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

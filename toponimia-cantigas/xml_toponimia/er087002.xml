@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="087002" NE="2" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>A dona fremosa do Soveral</INCIPIT>
+
+      <NUCANT>87 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="289r" I.FI="lb289r" MU="NON" NM="1351"></RM>
+
+      <RM BCA="V" EM="NO" F="152v" I.FI="lv152v" MU="NON" NM="958"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 265</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1301</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 958</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 228</P>
+      </EDIANT>
+
+      <DATOAU NOME="Pellegrini, Lopo Liáns" NUA="14"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>15/04/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Outrossy trobou a huna dona que non avya prez de muj salva e el
+      disse que lhi dera de seus dinheirus per preyt&#39; atal que fezesse por
+      el alguna cousa; e pero non quis por el fazer nada; e poren fez estes
+      cantares de maldizer. <COMRUBRI><P>Rúbrica explicativa que precede a
+      cantiga B 1351. Está situada no folio 289r, columna b. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Outrossy trobou a huna dona que non avya prez de muj salva e el
+      disse que lhi dera de seus dinheirus per preyt&#39; atal que fezesse por
+      el alguna cousa; e pero non quis por el fazer nada; e poren fez estes
+      cantares de maldizer. <COMRUBRI><P>Rúbrica explicativa que precede a
+      cantiga V 958. Está situada no folio 152v, columna a. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="10">
+        <ESQRIM TIPO="aaaabbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 5&#39; 5&#39; 5 5&#39; 5&#39; 5</ESQMET>
+        </INFMET>
+
+        <NUMESQ>9:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+----+" ERI="Soveral" N="1" NS="10" RI="al">
+          <LT>A dona fremosa do Soveral</LT>
+
+          <LL>A dona fremosa do Soveral</LL>
+
+          <TOPO CAT="TOPOME">Soveral</TOPO>
+        </L>
+
+        <L AC="+---+--+-+" ERI="atal" N="2" NS="10" RI="al">
+          <LT>á de mj dinheirus per preyt&#39; atal:</LT>
+
+          <LL>á de mj dinheirus per preyt&#39; atal:</LL>
+        </L>
+
+        <L AC="--+-+----+" ERI="al" N="3" NS="10" RI="al">
+          <LT>que vehess&#39; a mj, hu non ouvess&#39; al,</LT>
+
+          <LL>que vehess&#39; a mj, hu non ouvess&#39; al,</LL>
+        </L>
+
+        <L AC="-+--+-+---+" ERI="Corral" N="4" NS="10" RI="al">
+          <LT>hun dia talha<SEG C="M" ID="1" N="SIN">do, a</SEG> cas de Don
+          Corral.</LT>
+
+          <LL>hun dia talhado, a cas de Don Corral.</LL>
+
+          <ANTRO T="REAL">Don Corral</ANTRO>
+        </L>
+
+        <L AC="-+--+-" ERI="periurada" N="5" NS="5" RI="ada">
+          <LT>E é periurada,</LT>
+
+          <LL>E é periurada,</LL>
+        </L>
+
+        <L AC="--+-+-" ERI="nada" N="6" NS="5" RI="ada">
+          <LT>ca non fez-en nada;</LT>
+
+          <LL>ca non fez-en nada;</LL>
+        </L>
+
+        <L AC="----+" ERI="mal" N="7" NS="5" RI="al">
+          <LT>e baratou mal,</LT>
+
+          <LL>e baratou mal,</LL>
+        </L>
+
+        <L AC="-+--+-" ERI="negada" N="8" NS="5" RI="ada">
+          <LT>ca desta negada</LT>
+
+          <LL>ca desta negada</LL>
+        </L>
+
+        <L AC="-+--+-" ERI="penhorada" N="9" NS="5" RI="ada">
+          <LT><SEG C="R" ID="2" N="CP">será <SEG C="R" ID="3" N="RD">penhorada</SEG></SEG></LT>
+
+          <LL>será penhorada</LL>
+        </L>
+
+        <L AC="-+--+" ERI="sinal" N="10" NS="5" RI="al">
+          <LT><SEG C="R" ID="2" N="CP">que dobr&#39; o sinal</SEG>.</LT>
+
+          <LL>que dobr&#39; o sinal.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="10">
+        <ESQRIM TIPO="aaaabbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 5&#39; 5&#39; 5 5&#39; 5&#39; 5</ESQMET>
+
+          <NOTMET>
+            <P>O verso 10 é hipérmetro. Para restablece-la isometría debemos
+            facer sinafela coa sílaba do verso anterior.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>9:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--++-+--+" ERI="ey" N="1" NS="10" RI="ei">
+          <LT>Se m&#39; ela crever, cuydo-m&#39; eu <SEG C="R" ID="4" N="RD">dar-lh&#39;-ey</SEG></LT>
+
+          <LL>Se m&#39; ela crever, cuydo-m&#39; eu dar-lh&#39;-ey</LL>
+        </L>
+
+        <L AC="--+-+--+-+" ERI="sey" N="2" NS="10" RI="ei">
+          <LT>o melhor conselho que oj&#39; eu sey:</LT>
+
+          <LL>o melhor conselho que oj&#39; eu sey:</LL>
+        </L>
+
+        <L AC="--+-+--+-+" ERI="ey" N="3" NS="10" RI="ey">
+          <LT>dé-mj meu aver e <SEG C="R" ID="5" N="RD">gracir-lh&#39; o-ey</SEG>;</LT>
+
+          <LL>dé-mj meu aver e gracir-lh&#39; o-ey;</LL>
+        </L>
+
+        <L AC="----+--+-+" ERI="ey" N="4" NS="10" RI="ei">
+          <LT><SEG C="I" ID="6" N="RE">e</SEG> se mho non der <SEG C="R"
+          ID="3" N="RD">penhorá-la-ey,</SEG></LT>
+
+          <LL>e se mho non der penhorá-la-ey,</LL>
+        </L>
+
+        <L AC="--+-+-" ERI="forçado" N="5" NS="5" RI="ado">
+          <LT>ca mho ten forçado</LT>
+
+          <LL>ca mho ten forçado</LL>
+        </L>
+
+        <L AC="-+--+-" ERI="alongado" N="6" NS="5" RI="ado">
+          <LT>do corp&#39; alongado.</LT>
+
+          <LL>do corp&#39; alongado.</LL>
+        </L>
+
+        <L AC="----+" ERI="sofrerey" N="7" NS="5" RI="ei">
+          <LT>Non lh&#39; o sofrerey,</LT>
+
+          <LL>Non lh&#39; o sofrerey,</LL>
+        </L>
+
+        <L AC="----+-" ERI="grado" N="8" NS="5" RI="ado">
+          <LT>mays, polo meu <SEG C="R" ID="5" N="RD">grado</SEG>,</LT>
+
+          <LL>mays, polo meu grado,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="dobrado" N="9" NS="5" RI="ado">
+          <LT><SEG C="R" ID="2" N="CP">dar-mhá ben dobrado</SEG></LT>
+
+          <LL>dar-mhá ben dobrado</LL>
+        </L>
+
+        <L AC="--+--+" ERI="dey" N="10" NS="5" RI="ei">
+          <LT><SEG C="R" ID="2" N="CP">o sinal que lh&#39; eu <SEG C="R"
+ID="5" N="RD">dey</SEG></SEG>.</LT>
+
+          <LL>o sinal que lh&#39; eu dey.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

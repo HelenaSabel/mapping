@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "002017" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Paai Rengel e outros dous romeus</INCIPIT>
+<NUCANT>2 17</NUCANT>
+<RM BCA = "B" NM = "1586" F = "333v" MU = "NON" EM = "NO" I.FI = "lb333v"></RM>
+<RM BCA = "V" NM = "1118" F = "184r" MU = "NON" EM = "NO" I.FI = "lv184r"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. VII, pp. 560 e 682</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gaspar 15</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1488</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1118</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 64</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "44"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>14/02/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "VIX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eus" ERI = "romeus" AC = "---+-----+">
+<LT><SEG C = "R" N = "CPL" ID = "1">Paai Rengel e outros dous romeus</SEG></LT>
+<LL>Paai Rengel e outros dous romeus</LL>
+<ANTRO T = "REAL">Paai Rengel</ANTRO></L>
+<L N = "2" NS = "10" RI = "or" ERI = "maior" AC = "---+--+--+">
+<LT>de gran ventura, non vistes maior,</LT>
+<LL>de gran ventura, non vistes maior,</LL>
+</L>
+<L N = "3" NS = "10" RI = "eus" ERI = "Deus" AC = "---+-----+">
+<LT>guarecer&aacute;n ora; loa<SEG C = "M" N = "SIN" ID = "2">do a</SEG> Deus,</LT>
+<LL>guarecer&aacute;n ora; loado a Deus,</LL>
+</L>
+<L N = "4" NS = "10" RI = "or" ERI = "Senhor" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">que non</SEG> morreron, por Nostro Senhor,</LT>
+<LL>que non morreron, por Nostro Senhor,</LL>
+</L>
+<L N = "5" NS = "10" RI = "as" ERI = "Josaf&aacute;s" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "5">en &utilde;a lide que foi en Josaf&aacute;s</SEG>:</LT>
+<LL>en &utilde;a lide que foi en Josaf&aacute;s:</LL>
+<TOPO CAT = "CIUDAD">Josaf&aacute;s</TOPO></L>
+<L N = "6" NS = "10" RI = "as" ERI = "cr&aacute;s" AC = "---+-----+">
+<LT>a lide foi com' oj' e, come cr&aacute;s,</LT>
+<LL>a lide foi com' oj' e, come cr&aacute;s,</LL>
+</L>
+<L N = "7" NS = "10" RI = "or" ERI = "Alcor" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "6">prenderan eles</SEG> terra no Alcor</SEG>.</LT>
+<LL>prenderan eles terra no Alcor.</LL>
+<TOPO CAT = "CIUDAD">Alcor</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "guardar" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "7">E ben nos quis Deus de morte guardar</SEG>,</LT>
+<LL>E ben nos quis Deus de morte guardar,</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "enton" AC = "---+---+-+">
+<LT><SEG C = "R" N = "CPL" ID = "1">Paai Rengel e outros dous</SEG>, enton,</LT>
+<LL>Paai Rengel e outros dous, enton,</LL>
+<ANTRO T = "REAL">Paai Rengel</ANTRO></L>
+<L N = "3" NS = "10" RI = "ar" ERI = "Ultramar" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "4">d&utilde;a lide que foi en Ultramar</SEG>,</LT>
+<LL>d&utilde;a lide que foi en Ultramar,</LL>
+<TOPO CAT = "CIRCUNS">Ultramar</TOPO></L>
+<L N = "4" NS = "10" RI = "on" ERI = "sazon" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "3">que non</SEG> chegaran aquela sazon;</LT>
+<LL>que non chegaran aquela sazon;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ou" ERI = "ficou" AC = "---+--+--+">
+<LT>e vedes ora por quanto ficou:</LT>
+<LL>e vedes ora por quanto ficou:</LL>
+</L>
+<L N = "6" NS = "10" RI = "ou" ERI = "juntou" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CD" ID = "8">que</SEG> o dia que s' a lide juntou,</LT>
+<LL>que o dia que s' a lide juntou,</LL>
+</L>
+<L N = "7" NS = "10" RI = "on" ERI = "Mormoion" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "6">prenderam eles</SEG> port' a Mormoion</SEG>.</LT>
+<LL>prenderam eles port' a Mormoion.</LL>
+<TOPO CAT = "CIUDAD">Mormoion</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "iz" ERI = "Blandiz" AC = "-----+---+">
+<LT>De como non entraron a Blandiz,</LT>
+<LL>De como non entraron a Blandiz,</LL>
+<TOPO CAT = "CIUDAD">Blandiz</TOPO></L>
+<L N = "2" NS = "10" RI = "er" ERI = "seer" AC = "---+--+--+">
+<LT>per que poderan na lide seer,</LT>
+<LL>per que poderan na lide seer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "guarecer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "7">j&aacute; os quis Deos de morte guarecer</SEG>,</LT>
+<LL>j&aacute; os quis Deos de morte guarecer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "iz" ERI = "diz" AC = "---+-----+">
+<LT>per com' agora Paai Rengel diz;</LT>
+<LL>per com' agora Paai Rengel diz;</LL>
+<ANTRO T = "REAL">Paai Rengel</ANTRO></L>
+<L N = "5" NS = "10" RI = "en" ERI = "poren" AC = "---+-----+">
+<LT>e guareceron de morte poren:</LT>
+<LL>e guareceron de morte poren:</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "Belen" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "4"><SEG C = "R" N = "CD" ID = "8">que</SEG>, quand<SEG C = "I" N = "RE" ID = "9">o</SEG> a lide foi en Belen</SEG>,</LT>
+<LL>que, quando a lide foi en Belen,</LL>
+<TOPO CAT = "CIUDAD">Belen</TOPO></L>
+<L N = "7" NS = "10" RI = "iz" ERI = "Tamariz" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "5">aportaron eles en Tamariz</SEG>.</LT>
+<LL>aportaron eles en Tamariz.</LL>
+<TOPO CAT = "CIUDAD">Tamariz</TOPO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

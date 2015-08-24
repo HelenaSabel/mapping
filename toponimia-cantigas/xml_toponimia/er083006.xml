@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "083006" TC = "REFR" NE = "2" SG = "NO" XE = "M MAR" OL = "NON">
+<INCIPIT>Met' el-rey barcas no rio forte</INCIPIT>
+<NUCANT>83 6</NUCANT>
+<RM BCA = "B" NM = "1156" F = "247r" MU = "NON" EM = "NO" I.FI = "lb247r"></RM>
+<RM BCA = "V" NM = "758" F = "120r" MU = "NON" EM = "NO" I.FI = "lv120r"></RM>
+<EDIANT T = "CRITI">
+<P>Bell, Joan Zorro, 8</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 387</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 263-264</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1100</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 758</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 98</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cant., 35</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;azquez, Escolma, p. 226</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Beltr&aacute;n, O cervo, 21</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 85</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 19</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 96</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 182-183, 500</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 392</P></EDIANT>
+<DATOAU NOME = "Cunha" NUA = "7"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>16/03/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1156.
+Est&aacute; situada na columna b do folio 247r.</P></COMNOTC></NOTC>
+<NOTC>+ syl
+<COMNOTC>
+<P>Nota colocciana situada na marxe dereita do folio 247r.</P></COMNOTC></NOTC>
+<TEMA CAT = "TRI"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9'</ESQMET>
+<NOTMET>
+<P>Segu&iacute;mo-lo esquema proposto por Cunha. Para Tavani,
+26:72, os versos ser&iacute;an decas&iacute;labos graves.</P></NOTMET></INFMET>
+
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "orte" ERI = "forte" AC = "--+-----+-">
+<LT>Met' el-rey barcas no rio forte;</LT>
+<LL>Met' el-rey barcas no rio forte;</LL>
+</L>
+<L N = "2" NS = "9" RI = "ostre" ERI = "amostre" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">quen amig' &aacute; que Deus lh' o amostre</SEG>:</LT>
+<LL>quen amig' &aacute; que Deus lh' o amostre:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "ade" ERI = "suidade" AC = "--+-----+-">
+<LT>al&aacute; vay, madr', ond' ey suidade!</LT>
+<LL>al&aacute; vay, madr', ond' ey suidade!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9'</ESQMET>
+<NOTMET>
+<P>Segu&iacute;mo-lo esquema proposto por Cunha. Para Tavani,
+26:72, os versos ser&iacute;an decas&iacute;labos graves.</P></NOTMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ura" ERI = "Estremadura" AC = "--+-----+-">
+<LT>Met' el-rey barcas<SEG C = "M" N = "SIN" ID = "2"> na Es</SEG>tremadura;</LT>
+<LL>Met' el-rey barcas na Estremadura;</LL>
+<TOPO CAT = "CIRCUNS">Estremadura</TOPO></L>
+<L N = "2" NS = "9" RI = "uga" ERI = "aduga" AC = "---+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">quen amig' &aacute; que Deus lh' o aduga</SEG>:</LT>
+<LL>quen amig' &aacute; que Deus lh' o aduga:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "ade" ERI = "suidade" AC = "--+-----+-">
+<LT>al&aacute; vay, madr', ond' ey suidade!</LT>
+<LL>al&aacute; vay, madr', ond' ey suidade!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

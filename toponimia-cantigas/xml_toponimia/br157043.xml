@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="157043bis" NE="2" OL="NON" SG="NO" TC="REFR" XE="EA">
+      <INCIPIT>Pois non ei de Dona Elvira</INCIPIT>
+
+      <NUCANT>157 43bis</NUCANT>
+
+      <ATRIB NOME="Martin Soarez">
+        <NUCANT>97 33</NUCANT>
+
+        <P>As cantigas 157,34bis e 157,43bis están en A 62-63 (fol. 15),
+        precedidas da miniatura II. En B 173-174 aparecen atribuidas a Martin
+        Soarez, pero a serie deste trobador en A (40-61) está perfectamente
+        separada destas dúas cantigas, polo que, pese a que Michaëlis, CA, II,
+        pp. 131-133, propuxera como alternativa a autoría de Roi Gomez de
+        Briteiros, parece máis prudente mantelas no anonimato.</P>
+      </ATRIB>
+
+      <RM BCA="A" EM="YES" F="15r" I.FI="la015r" MU="NON" NM="62"></RM>
+
+      <RM BCA="B" EM="NO" F="44r" I.FI="lb044r" MU="NON" NM="173"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Bertolucci 30</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA 62</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 148</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 146</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 249</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="286"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>5/05/00</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <NOTC>Due staze ad .2. <COMNOTC><P>Nota colocciana situada na columna a
+      do folio 44r, enriba da cantiga B 173. Fai referencia ó feito de que as
+      dúas cobras rimen entre si (coblas unissonans).</P></COMNOTC></NOTC>
+
+      <TEMA CAT="SN"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:39</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="Elvira" N="1" NS="7" RI="ira">
+          <LT>Pois non ei de Do<SEG C="M" ID="1" N="SIN">na El</SEG>vira</LT>
+
+          <LL>Pois non ei de Dona Elvira</LL>
+
+          <ANTRO T="REAL">Dona Elvira</ANTRO>
+        </L>
+
+        <L AC="--+---+-" ERI="ira" N="2" NS="7" RI="ira">
+          <LT>seu amor e ei sa ira,</LT>
+
+          <LL>seu amor e ei sa ira,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="mentira" N="3" NS="7" RI="ira">
+          <LT>esto farei, sen mentira,</LT>
+
+          <LL>esto farei, sen mentira,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Vaia" N="4" NS="7" RI="ia">
+          <LT>pois me vou de Santa-Vaia:</LT>
+
+          <LL>pois me vou de Santa-Vaia:</LL>
+
+          <TOPO CAT="TOPOME">Santa Vaia</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Maia" N="5" NS="7" RI="ia">
+            <LT>morarei cabo da Maia,</LT>
+
+            <LL>morarei cabo da Maia,</LL>
+
+            <TOPO CAT="TOPOME">Maia</TOPO>
+          </L>
+
+          <L AC="-+----+-" ERI="Gaia" N="6" NS="7" RI="ia">
+            <LT>en Doi<SEG C="M" ID="3" N="SIN">ro, an</SEG>tr&#39; o Por<SEG
+            C="M" ID="4" N="SIN">to e</SEG> Gaia</LT>
+
+            <LL>en Doiro, antr&#39; o Porto e Gaia</LL>
+
+            <TOPO CAT="TOPOME">Doiro</TOPO>
+
+            <TOPO CAT="CIUDAD">Porto</TOPO>
+
+            <TOPO CAT="TOPOME">Gaia</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:39</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="Sira" N="1" NS="7" RI="ira">
+          <LT>Se crevess&#39; eu Martin Sira,</LT>
+
+          <LL>Se crevess&#39; eu Martin Sira,</LL>
+
+          <ANTRO T="REAL">Martin Sira</ANTRO>
+        </L>
+
+        <L AC="--+---+-" ERI="partira" N="2" NS="7" RI="ira">
+          <LT>nunca m&#39; eu dali partira</LT>
+
+          <LL>nunca m&#39; eu dali partira</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="vira" N="3" NS="7" RI="ira">
+          <LT>d&#39; u m&#39; el disse que a vira:</LT>
+
+          <LL>d&#39; u m&#39; el disse que a vira:</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="saia" N="4" NS="7" RI="ia">
+          <LT>en Sanhoane <SEG C="M" ID="5" N="SIN">e en</SEG> saia.</LT>
+
+          <LL>en Sanhoane e en saia.</LL>
+
+          <TOPO CAT="TOPOME">Sanhoane</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="Maia" N="5" NS="7" RI="ia">
+            <LT>Morarei cabo da Maia,</LT>
+
+            <LL>Morarei cabo da Maia,</LL>
+
+            <TOPO CAT="TOPOME">Maia</TOPO>
+          </L>
+
+          <L AC="-+----+-" ERI="Gaia" N="6" NS="7" RI="ia">
+            <LT>en Doi<SEG C="M" ID="6" N="SIN">ro, an</SEG>tr&#39; o Por<SEG
+            C="M" ID="7" N="SIN">to e</SEG> Gaia</LT>
+
+            <LL>en Doiro, antr&#39; o Porto e Gaia</LL>
+
+            <TOPO CAT="TOPOME">Doiro</TOPO>
+
+            <TOPO CAT="CIUDAD">Porto</TOPO>
+
+            <TOPO CAT="TOPOME">Gaia</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

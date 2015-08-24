@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="123005" NE="5" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Do meu amig', a que eu quero ben</INCIPIT>
+
+      <NUCANT>123 5</NUCANT>
+
+      <RM BCA="B" EM="NO" F="242r" I.FI="lb242r" MU="NON" NM="1131"></RM>
+
+      <RM BCA="B" EM="NO" F="242r" I.FI="lb242r" MU="NON" NM="1132"></RM>
+
+      <RM BCA="V" EM="NO" F="115v" I.FI="lv115v" MU="NON" NM="723"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1065</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 723</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 353</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="358p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>27/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tonel <COMNOTC>
+          <P>Nota colocciana situada no fol. 242r, na columna a, enriba da
+          cantiga B 1131. Fai referencia á presencia de refrán na cantiga.
+          Enriba do "o" hai unha especie de til agudo que está abreviando un
+          r"".</P>
+        </COMNOTC></NOTC>
+
+      <TEMA CAT="OR"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:82</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="ben" N="1" NS="10" RI="en">
+          <LT>Do meu amig', a que eu quero ben,</LT>
+
+          <LL>Do meu amig', a que eu quero ben,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ren" N="2" NS="10" RI="en">
+          <LT><SEG C="R" ID="1" N="CF">guardan me del,</SEG> e non ouso per
+          ren</LT>
+
+          <LL>guardan me del, e non ouso per ren</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="ir" N="3" NS="7" RI="ir">
+            <LT>a Santa Maria ir,</LT>
+
+            <LL>a Santa Maria ir,</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:95</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="veja" N="1" NS="9" RI="eja">
+          <LT>pois <SEG C="R" ID="1" N="CF">guardan me del,</SEG> que o non
+          veja,</LT>
+
+          <LL>pois guardan me del, que o non veja,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="seja" N="2" NS="9" RI="eja">
+          <LT><SEG C="R" ID="2" N="CP">e non me leixan, per ren que seja</SEG>,</LT>
+
+          <LL>e non me leixan, per ren que seja,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="ir" N="3" NS="7" RI="ir">
+            <LT><SEG C="R" ID="2" N="CP">a Santa Maria ir</SEG></LT>
+
+            <LL>a Santa Maria ir</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:95</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="quisesse" N="1" NS="9" RI="esse">
+          <LT>Que o non visse, macar quisesse,</LT>
+
+          <LL>Que o non visse, macar quisesse,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="podesse" N="2" NS="9" RI="esse">
+          <LT><SEG C="R" ID="2" N="CP">por en guisaron que non podesse</SEG></LT>
+
+          <LL>por en guisaron que non podesse</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="ir" N="3" NS="7" RI="ir">
+            <LT><SEG C="R" ID="2" N="CP">a Santa <SEG C="I" ID="3" N="RE">Maria ir</SEG></SEG></LT>
+
+            <LL>a Santa Maria ir</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:95</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="amasse" N="1" NS="9" RI="asse">
+          <LT>Nen o viss' eu nen o tant' amasse,</LT>
+
+          <LL>Nen o viss' eu nen o tant' amasse,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="leixasse" N="2" NS="9" RI="asse">
+          <LT><SEG C="R" ID="2" N="CP">pois mi Deus deu quen me non leixasse</SEG></LT>
+
+          <LL>pois mi Deus deu quen me non leixasse</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="ir" N="3" NS="7" RI="ir">
+            <LT><SEG C="R" ID="2" N="CP">a Santa Maria <SEG C="I" ID="4"
+                  N="RE">ir</SEG></SEG></LT>
+
+            <LL>a Santa Maria ir</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:95</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="dia" N="1" NS="9" RI="ia">
+          <LT>Des que o vi en Julhan un dia,</LT>
+
+          <LL>Des que o vi en Julhan un dia,</LL>
+
+          <TOPO CAT="ALDEA">Julhan</TOPO>
+        </L>
+
+        <L AC="---+----+-" ERI="soia" N="2" NS="9" RI="ia">
+          <LT><SEG C="R" ID="2" N="CP">ja me non leixan como soia</SEG></LT>
+
+          <LL>ja me non leixan como soia</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="ir" N="3" NS="7" RI="ir">
+            <LT><SEG C="R" ID="2" N="CP">a Santa Maria ir</SEG></LT>
+
+            <LL>a Santa Maria ir</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

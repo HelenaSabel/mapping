@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "048001" TC = "REFR" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Don Pedro este cunhado del-Rei</INCIPIT>
+<NUCANT>48 1</NUCANT>
+<RM BCA = "B" NM = "1614" F = "341v" MU = "NON" EM = "NO" I.FI = "lb341v"></RM>
+<RM BCA = "B" NM = "1614" F = "342r" MU = "NON" EM = "NO" I.FI = "lb342r"></RM>
+<RM BCA = "V" NM = "1147" F = "188v" MU = "NON" EM = "NO" I.FI = "lv188v"></RM>
+<RM BCA = "V" NM = "1147" F = "189r" MU = "NON" EM = "NO" I.FI = "lv189r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1517</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1147</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 458</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "140">
+<COMAU>
+<P>Para o v. 4III, modific&aacute;mo-la lectura pero, ofrecida por Lapa, e
+representamos pera, tal como aparece nos mss.</P></COMAU>
+</DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>21/05/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Esta cantiga foi feita a Don Pedro d' Aragon por un cavaleiro seu
+moordomo, que feriu endoado, e foi seguida doutra cantiga.
+<COMRUBRI>
+<P>R&uacute;brica explicativa. Est&aacute; situada despois da cantiga &aacute;
+que fai referencia, a B 1614.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>
+<COMRUBRI>
+<P>R&uacute;brica explicativa. Est&aacute; situada na marxe inferior dereita do
+folio V 188v.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Ffernan rodrigues Redondo
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 1147.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "CSX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "Rei" AC = "-+----+--+">
+<LT>Don Pedro est<SEG C = "I" N = "RE" ID = "1">e</SEG> cunhado del-Rei,</LT>
+<LL>Don Pedro este cunhado del-Rei,</LL>
+<ANTRO T = "REAL">Don Pedro de Arag&oacute;n (Don Pedro)</ANTRO>
+<ANTRO T = "REAL">Don Denis ( el Rei)</ANTRO></L>
+<L N = "2" NS = "10" RI = "on" ERI = "Aragon" AC = "--+---+--+">
+<LT>que chegou ora aqui d' Aragon</LT>
+<LL>que chegou ora aqui d' Aragon</LL>
+<TOPO CAT = "CIRCUNS">Aragon</TOPO></L>
+<L N = "3" NS = "10" RI = "on" ERI = "leiton" AC = "---+-+---+">
+<LT>con un <SEG C = "I" N = "RE" ID = "2">e</SEG>speto grande de leiton;</LT>
+<LL>con un espeto grande de leiton;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "perlongarei" AC = "---+-----+">
+<LT><SEG C = "R" N = "CPL" ID = "3">e, pera que vo-lo <SEG C = "R" N = "RD" ID = "4">perlongarei</SEG></SEG>?:</LT>
+<LL>e, pera que vo-lo perlongarei?:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "or" ERI = "senhor" AC = "+--+--+--+">
+<LT>deu por vassalo de si a senhor:</LT>
+<LL>deu por vassalo de si a senhor:</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "maior" AC = "+--+--+--+">
+<LT>faz sempre nojo, non vistes maior.</LT>
+<LL>faz sempre nojo, non vistes maior.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "perceber" AC = "----+-+--+">
+<LT>Pera se lhi non poder perceber,</LT>
+<LL>Pera se lhi non poder perceber,</LL>
+</L>
+<L N = "2" NS = "10" RI = "i" ERI = "si" AC = "-+-+-+---+">
+<LT>j&aacute; el tiinha prestes cabo si</LT>
+<LL>j&aacute; el tiinha prestes cabo si</LL>
+</L>
+<L N = "3" NS = "10" RI = "i" ERI = "i" AC = "---+---+-+">
+<LT>aquel espeto, que folhou logu' i;</LT>
+<LL>aquel espeto, que folhou logu' i;</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "dizer" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "3">e que compre de vos en mais dizer</SEG>?</LT>
+<LL>e que compre de vos en mais dizer?</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "or" ERI = "senhor" AC = "+--+--+--+">
+<LT>deu por vassalo de si a senhor:</LT>
+<LL>deu por vassalo de si a senhor:</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "maior" AC = "+--+--+--+">
+<LT>faz sempre nojo, non vistes maior.</LT>
+<LL>faz sempre nojo, non vistes maior.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ais" ERI = "lais" AC = "-+--+--+--+">
+<LT>Mui ledo seend', u cantara seus lais,</LT>
+<LL>Mui ledo seend', u cantara seus lais,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ou" ERI = "durou" AC = "---+-+---+">
+<LT>a sa lidi&ccedil;a pouco lhi durou,</LT>
+<LL>a sa lidi&ccedil;a pouco lhi durou,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ou" ERI = "filhou" AC = "---+--+--+">
+<LT>e o espe<SEG C = "M" N = "SIN" ID = "3">to en</SEG> sas m&atilde;os filhou;</LT>
+<LL>e o espeto en sas m&atilde;os filhou;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ais" ERI = "mais" AC = "---+----++">
+<LT><SEG C = "R" N = "CPL" ID = "3">e pera que o perlongarei mais</SEG>?:</LT>
+<LL>e pera que o perlongarei mais?:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "or" ERI = "senhor" AC = "+--+--+--+">
+<LT>deu por vassalo de si a senhor:</LT>
+<LL>deu por vassalo de si a senhor:</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "maior" AC = "+--+--+--+">
+<LT>faz sempre nojo, non vistes maior.</LT>
+<LL>faz sempre nojo, non vistes maior.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:62</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "escapar" AC = "--+--+-+--+">
+<LT>E en tal que lhi non podess' escapar</LT>
+<LL>E en tal que lhi non podess' escapar</LL>
+</L>
+<L N = "2" NS = "10" RI = "ir" ERI = "fogir" AC = "---+--+--+">
+<LT>nen lhi podesse en salvo fogir,</LT>
+<LL>nen lhi podesse en salvo fogir,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ir" ERI = "esgremir" AC = "-+-+--+--+">
+<LT>filhou<SEG C = "M" N = "SIN" ID = "4"> o es</SEG>peto, en son d' esgremir;</LT>
+<LL>filhou o espeto, en son d' esgremir;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "perlongar" AC = "--+------+">
+<LT><SEG C = "R" N = "CPL" ID = "3">e que compre de vo-lo<SEG C = "R" N = "RD" ID = "4"> perlongar</SEG></SEG>?:</LT>
+<LL>e que compre de vo-lo perlongar?:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "or" ERI = "senhor" AC = "+--+--+--+">
+<LT>deu por vassalo de si a senhor:</LT>
+<LL>deu por vassalo de si a senhor:</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "maior" AC = "+--+--+--+">
+<LT>faz sempre nojo, non vistes maior.</LT>
+<LL>faz sempre nojo, non vistes maior.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

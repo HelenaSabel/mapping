@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "123001" TC = "REFR" NE = "3" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Ai Deus, que doo que eu de mi ei</INCIPIT>
+<NUCANT>123 1</NUCANT>
+<RM BCA = "B" NM = "1128" F = "241v" MU = "NON" EM = "NO" I.FI = "lb241v"></RM>
+<RM BCA = "B" NM = "1128" F = "242r" MU = "NON" EM = "NO" I.FI = "lb242r"></RM>
+<RM BCA = "V" NM = "720" F = "115r" MU = "NON" EM = "NO" I.FI = "lv115r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1062</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 270</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 54</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 304-305, 564</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 355</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "350"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>8/02/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1128 e situada no fol. 241 v, na
+columna b, enriba da cantiga, &aacute; dereita. Fai referencia &aacute;
+presencia de refr&aacute;n na cantiga. Enriba do &quot;o&quot; hai unha especie
+de til agudo que est&aacute; abreviando un &quot;r&quot;.</P></COMNOTC></NOTC>
+<RUBRICA>Pero de veer
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada no fol. 241 v, enriba da cantiga B 1128.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Pero de veer
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada no fol. 115 r, enriba da cantiga V 720. A
+r&uacute;brica est&aacute; subli&ntilde;ada.  Man de
+Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "PA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8'</ESQMET></INFMET>
+<NUMESQ>26:79</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "ei" AC = "---+-----+">
+<LT>Ai Deus, que doo que eu de mi ei,</LT>
+<LL>Ai Deus, que doo que eu de mi ei,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ei" ERI = "fiquei" AC = "---+-----+">
+<LT> <SEG C = "R" N = "CP" ID = "1">por que se <SEG C = "R" N = "CF" ID = "2">foi</SEG> meu amigu' e fiquei</SEG></LT>
+<LL> por que se foi meu amigu' e fiquei</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ada" ERI = "namorada" AC = "----+--+-">
+<LT> <SEG C = "R" N = "CP" ID = "1">pequena e d' el namorada</SEG>.</LT>
+<LL> pequena e d' el namorada.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8'</ESQMET></INFMET>
+<NUMESQ>26:79</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "ir" AC = "---+-----+">
+<LT>Quando s' el ouve de Julhan a <SEG C = "R" N = "CF" ID = "2">ir</SEG>,</LT>
+<LL>Quando s' el ouve de Julhan a ir,</LL>
+<TOPO CAT = "ALDEA">Julhan</TOPO></L>
+<L N = "2" NS = "10" RI = "ir" ERI = "mentir" AC = "---+-----+">
+<LT> <SEG C = "R" N = "CP" ID = "1">fiquei, fremosa, por vos non mentir</SEG>,</LT>
+<LL> fiquei, fremosa, por vos non mentir,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ada" ERI = "namorada" AC = "----+--+-">
+<LT> <SEG C = "R" N = "CP" ID = "1">pequena e d' el namorada</SEG>.</LT>
+<LL> pequena e d' el namorada.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 8'</ESQMET></INFMET>
+<NUMESQ>26:79</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "or" ERI = "pavor" AC = "---+-----+">
+<LT>Ali ouv' eu de mia morte pavor</LT>
+<LL>Ali ouv' eu de mia morte pavor</LL>
+</L>
+<L N = "2" NS = "10" RI = "or" ERI = "pastor" AC = "---+-----+">
+<LT> <SEG C = "R" N = "CP" ID = "1">u eu fiquei mui coitada pastor</SEG>,</LT>
+<LL> u eu fiquei mui coitada pastor,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ada" ERI = "namorada" AC = "----+--+-">
+<LT> <SEG C = "R" N = "CP" ID = "1">pequena e d' el namorada</SEG>.</LT>
+<LL> pequena e d' el namorada.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

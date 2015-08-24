@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="122004" NE="4+F" OL="NON" SG="NO" TC="REFR" XE="M MR">
+      <INCIPIT>Jurava mh o meu amigo</INCIPIT>
+
+      <NUCANT>122 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="240r" I.FI="lb240r" MU="NON" NM="1119"></RM>
+
+      <RM BCA="V" EM="NO" F="113v" I.FI="lv113v" MU="NON" NM="710"></RM>
+
+      <RM BCA="V" EM="NO" F="114r" I.FI="lv114r" MU="NON" NM="710"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1052</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 709</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 345</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="350p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>25/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1119 e
+      situada no fol. 240r, na columna a, enriba da cantiga, á dereita. Fai
+      referencia á presencia de refrán no texto. Enriba do &#34;o&#34; hai
+      unha especie de til agudo que está abreviando un &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <NOTC>coged. <COMNOTC><P>Nota colocciana referida á cantiga B 1119 e
+      situada no fol. 240r, na columna a, enriba da segunda estrofa, á
+      dereita. Fai referencia á presencia de fiinda na cantiga. Enriba do
+      &#34;o&#34; de &#34;coged&#34; hai unha especie de til de nasalidade.</P></COMNOTC></NOTC>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1119 e
+      situada no fol. 240r, na columna a, enriba da segunda estrofa, á
+      dereita. Fai referencia á presencia de refrán na cantiga. Enriba do
+      &#34;o&#34; hai unha especie de til agudo que está abreviando un
+      &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Pero de Berdia <COMRUBRI><P>Rúbrica atributiva, enriba da
+      cantiga B 1119, na columna a, enriba da cantiga. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="IND"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aabbB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>42:25</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="amigo" N="1" NS="7" RI="igo">
+          <LT>Jurava<SEG C="M" ID="1" N="SIN"> mh o</SEG> meu amigo,</LT>
+
+          <LL>Jurava mh o meu amigo,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="comigo" N="2" NS="7" RI="igo">
+          <LT><SEG C="R" ID="2" N="CD">quand&#39;</SEG> el falava comigo,</LT>
+
+          <LL>quand&#39; el falava comigo,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="viveria" N="3" NS="7" RI="ia">
+          <LT>que nunc&#39; alhur viveria</LT>
+
+          <LL>que nunc&#39; alhur viveria</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="queria" N="4" NS="7" RI="ia">
+          <LT><SEG C="R" ID="3" N="CP">sen mi, e <SEG C="R" ID="4" N="PR"> <SEG
+C="R" ID="5" N="PV">non</SEG></SEG> <SEG C="R" ID="4" N="PR">mi <SEG C="R"
+ID="6" N="RD">queria</SEG></SEG></SEG></LT>
+
+          <LL>sen mi, e non mi queria</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="dizia" N="5" NS="7" RI="ia">
+            <LT>tan gran ben como dizia</LT>
+
+            <LL>tan gran ben como dizia</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aabbB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>42:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="veer" N="1" NS="8" RI="er">
+          <LT>Foi un dia polo veer</LT>
+
+          <LL>Foi un dia polo veer</LL>
+        </L>
+
+        <L AC="---+---+" ERI="maer" N="2" NS="8" RI="er">
+          <LT>a Santa Marta, e maer</LT>
+
+          <LL>a Santa Marta, e maer</LL>
+
+          <TOPO CAT="LCULTO">Santa Marta</TOPO>
+        </L>
+
+        <L AC="---+--+-" ERI="morria" N="3" NS="7" RI="ia">
+          <LT>u m&#39; el jurou que morria</LT>
+
+          <LL>u m&#39; el jurou que morria</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="queria" N="4" NS="7" RI="ia">
+          <LT><SEG C="R" ID="3" N="CP">por mi, mais <SEG C="R" ID="4" N="PR"><SEG
+C="R" ID="5" N="PV">non</SEG></SEG> <SEG C="R" ID="4" N="PR">mi <SEG C="R"
+ID="6" N="RD">queria</SEG></SEG></SEG></LT>
+
+          <LL>por mi, mais non mi queria</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="dizia" N="5" NS="7" RI="ia">
+            <LT>tan gran ben como dizia</LT>
+
+            <LL>tan gran ben como dizia</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aabbB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>42:25</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="tanto" N="1" NS="7" RI="anto">
+          <LT>Se m&#39; el desejasse tanto</LT>
+
+          <LL>Se m&#39; el desejasse tanto</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="ant&#39; o" N="2" NS="7" RI="ant&#39; o">
+          <LT>como dizia, lo<SEG C="M" ID="7" N="SIN">go an</SEG>t&#39; o</LT>
+
+          <LL>como dizia, logo ant&#39; o</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="verria" N="3" NS="7" RI="ia">
+          <LT>tempo que disse verria,</LT>
+
+          <LL>tempo que disse verria,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="queria" N="4" NS="7" RI="ia">
+          <LT><SEG C="R" ID="8" N="CPL"><SEG C="R" ID="3" N="CP">mais sei que <SEG
+C="R" ID="4" N="PR">mi <SEG C="R" ID="5" N="PV">non <SEG C="R" ID="9" N="CF"><SEG
+C="R" ID="6" N="RD">queria</SEG></SEG></SEG></SEG></SEG></SEG></LT>
+
+          <LL>mais sei que mi non queria</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="dizia" N="5" NS="7" RI="ia">
+            <LT>tan gran ben como dizia</LT>
+
+            <LL>tan gran ben como dizia</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aabbB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>42:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="quiser" N="1" NS="8" RI="er">
+          <LT>Pod&#39; el tardar quanto <SEG C="R" ID="9" N="CF"><SEG C="R"
+ID="6" N="RD">quiser</SEG></SEG>,</LT>
+
+          <LL>Pod&#39; el tardar quanto quiser,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="veer" N="2" NS="8" RI="er">
+          <LT>mais, por jurar quando veer,</LT>
+
+          <LL>mais, por jurar quando veer,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="creeria" N="3" NS="7" RI="ia">
+          <LT>ja volh&#39; eu non creeria,</LT>
+
+          <LL>ja volh&#39; eu non creeria,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="queria" N="4" NS="7" RI="ia">
+          <LT><SEG C="R" ID="8" N="CPL"><SEG C="R" ID="3" N="CP">ca sei que <SEG
+C="R" ID="4" N="PR">mi <SEG C="R" ID="5" N="PV">non <SEG C="R" ID="6" N="RD">queria</SEG></SEG></SEG></SEG></SEG></LT>
+
+          <LL>ca sei que mi non queria</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="dizia" N="5" NS="7" RI="ia">
+            <LT>tan gran ben <SEG C="I" ID="10" N="RE">como diz<SEG C="R"
+ID="11" N="CCR">ia</SEG></SEG></LT>
+
+            <LL>tan gran ben como dizia</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="bb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="mentia" N="1" NS="7" RI="ia">
+          <LT>Ai fals&#39;, e por que ment<SEG C="R" ID="11" N="CCR">ia</SEG></LT>
+
+          <LL>Ai fals&#39;, e por que mentia</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="queria" N="2" NS="7" RI="ia">
+          <LT><SEG C="R" ID="2" N="CD">quando</SEG> mi ben <SEG C="R" ID="5"
+          N="PV">non <SEG C="R" ID="5" N="PV"><SEG C="R" ID="6" N="RD">queria</SEG></SEG></SEG>?</LT>
+
+          <LL>quando mi ben non queria?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

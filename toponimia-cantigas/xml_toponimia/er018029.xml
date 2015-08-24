@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018029" TC = "REFR" NE = "15" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>O que da guerra levou cavaleiros</INCIPIT>
+<NUCANT>18 29</NUCANT>
+<RM BCA = "B" NM = "496" F = "110v" MU = "NON" EM = "NO" I.FI = "lb110v">
+<NOTMAN N = "1">En B 496 s&oacute; se conservan as seis primeiras estrofas. As
+restantes est&aacute;n situadas entre B 144 e B 145. Aparecen tachadas e sen
+numeraci&oacute;n.</NOTMAN></RM>
+<RM BCA = "V" NM = "79" F = "7r" MU = "NON" EM = "NO" I.FI = "lv007r"></RM>
+<RM BCA = "V" NM = "79" F = "7v" MU = "NON" EM = "NO" I.FI = "lv007v"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. VI, pp. 293-294</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 441</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 79</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 48</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, pp. 55-57</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 172-173</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Paredes N&uacute;&ntilde;ez, La guerra de Granada, pp. 40-42</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 26</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 55</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "42"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>26/10/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "COV">
+<SUBTEMA CAT = "RI"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eiros" ERI = "cavaleiros" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra levou cavaleiros</SEG></LT>
+<LL>O que da guerra levou cavaleiros</LL>
+</L>
+<L N = "2" NS = "10" RI = "eiros" ERI = "dinheiros" AC = "--+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CD" ID = "4">e a sa</SEG> terra <SEG C = "R" N = "CF" ID = "5">foi</SEG> guardar dinheiros</SEG>,</LT>
+<LL>e a sa terra foi guardar dinheiros,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ade" ERI = "maldade" AC = "---+-+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra se <SEG C = "R" N = "CF" ID = "5">foi</SEG> con maldade</SEG></LT>
+<LL>O que da guerra se foi con maldade</LL>
+</L>
+<L N = "2" NS = "10" RI = "ade" ERI = "erdade" AC = "---+-+---+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CD" ID = "4"><SEG C = "I" N = "RE" ID = "6">e</SEG> a sa</SEG> terra <SEG C = "R" N = "CF" ID = "7">foi</SEG> comprar erdade</SEG>,</LT>
+<LL>e a sa terra foi comprar erdade,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "iga" ERI = "nemiga" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra se <SEG C = "R" N = "CF" ID = "7">foi</SEG> con nemiga</SEG>,</LT>
+<LL>O que da guerra se foi con nemiga,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "preitesia" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "8">pero non veo quand' &eacute; preitesia</SEG>,</LT>
+<LL>pero non veo quand' &eacute; preitesia,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "inho" ERI = "linho" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia o pano de linho</SEG>,</LT>
+<LL>O que tragia o pano de linho,</LL>
+</L>
+<L N = "2" NS = "10" RI = "inho" ERI = "Martinho" AC = "---+-+---+-">
+<LT><SEG C = "R" N = "PL" ID = "8">pero non veo polo San Martinho</SEG>,</LT>
+<LL>pero non veo polo San Martinho,</LL>
+
+<ANTRO T = "ALTER">San Martinho</ANTRO></L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET>
+<NOTMET>
+<P>O verso dous &eacute; hip&oacute;metro</P></NOTMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "i&ccedil;o" ERI = "qui&ccedil;o" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia o pendon en qui&ccedil;o</SEG></LT>
+<LL>O que tragia o pendon en qui&ccedil;o</LL>
+</L>
+<L N = "2" NS = "9" RI = "i&ccedil;o" ERI = "vi&ccedil;o" AC = "--+--+--+-">
+<LT>e vendend' o seu perdera o vi&ccedil;o,</LT>
+<LL>e vendend' o seu perdera o vi&ccedil;o,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "oito" ERI = "oito" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia o pendon sen oito</SEG></LT>
+<LL>O que tragia o pendon sen oito</LL>
+</L>
+<L N = "2" NS = "10" RI = "oito" ERI = "coito" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "4">e a sa</SEG> gente non dava pan coito,</LT>
+<LL>e a sa gente non dava pan coito,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "7">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ete" ERI = "sete" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia o pendon sen sete</SEG></LT>
+<LL>O que tragia o pendon sen sete</LL>
+</L>
+<L N = "2" NS = "10" RI = "ete" ERI = "topete" AC = "---+---+-+-">
+<LT>e cinta ancha e mui gran topete,</LT>
+<LL>e cinta ancha e mui gran topete,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "8">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "enda" ERI = "tenda" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia o pendon sen tenda,</SEG></LT>
+<LL>O que tragia o pendon sen tenda,</LL>
+</L>
+<L N = "2" NS = "10" RI = "enda" ERI = "fazenda" AC = "---+-----+-">
+<LT>per quant' agora sei de sa fazenda,</LT>
+<LL>per quant' agora sei de sa fazenda,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "9">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "inhos" ERI = "martinhos" AC = "---+-+---+-">
+<LT><SEG C = "R" N = "CD" ID = "2">O que</SEG> se foi con medo dos martinhos</LT>
+<LL>O que se foi con medo dos martinhos</LL>
+</L>
+<L N = "2" NS = "10" RI = "inhos" ERI = "vinhos" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CD" ID = "4">e a sa</SEG> terra foi bever los vinhos</SEG>,</LT>
+<LL>e a sa terra foi bever los vinhos,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "10">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eira" ERI = "fronteira" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">O que</SEG>, con medo, fugiu da fronteira,</LT>
+<LL>O que, con medo, fugiu da fronteira,</LL>
+</L>
+<L N = "2" NS = "10" RI = "eira" ERI = "caldeira" AC = "---+--+--+-">
+<LT>pero tragia pendon sen caldeira,</LT>
+<LL>pero tragia pendon sen caldeira,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "11">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "itos" ERI = "malditos" AC = "----+-+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">O que</SEG> <SEG C = "I" N = "RE" ID = "10">ar</SEG> roubou os mouros malditos</LT>
+<LL>O que ar roubou os mouros malditos</LL>
+</L>
+<L N = "2" NS = "10" RI = "itos" ERI = "cabritos" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CD" ID = "4">e a sa</SEG> terra <SEG C = "R" N = "CF" ID = "11">foi</SEG> roubar cabritos</SEG>,</LT>
+<LL>e a sa terra foi roubar cabritos,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "12">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "anto" ERI = "espanto" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "12"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra se <SEG C = "R" N = "CF" ID = "11">foi</SEG> con espanto</SEG></LT>
+<LL>O que da guerra se foi con espanto</LL>
+</L>
+<L N = "2" NS = "10" RI = "anto" ERI = "manto" AC = "---+-+--+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "CD" ID = "4">e a sa</SEG> terra <SEG C = "R" N = "CF" ID = "13">foi</SEG> armar manto</SEG>,</LT>
+<LL>e a sa terra foi armar manto,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "13">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edo" ERI = "medo" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "12"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra se <SEG C = "R" N = "CF" ID = "13">foi</SEG> con gran medo</SEG></LT>
+<LL>O que da guerra se foi con gran medo</LL>
+</L>
+<L N = "2" NS = "10" RI = "edo" ERI = "vedo" AC = "---+---+-+-">
+<LT>contra sa terra, espargendo vedo,</LT>
+<LL>contra sa terra, espargendo vedo,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "14">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar&ccedil;o" ERI = "cadar&ccedil;o" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "9"><SEG C = "R" N = "CD" ID = "2">O que</SEG> tragia pendon de cadar&ccedil;o</SEG>,</LT>
+<LL>O que tragia pendon de cadar&ccedil;o,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar&ccedil;o" ERI = "mar&ccedil;o" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "CD" ID = "14">macar</SEG> non veo en<SEG C = "I" N = "RE" ID = "15">o</SEG> mes de mar&ccedil;o,</LT>
+<LL>macar non veo eno mes de mar&ccedil;o,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "15">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:88</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "udo" ERI = "retra&uacute;do" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "PL" ID = "12"><SEG C = "R" N = "CD" ID = "2">O que</SEG> da guerra foi per retra&uacute;do</SEG>,</LT>
+<LL>O que da guerra foi per retra&uacute;do,</LL>
+</L>
+<L N = "2" NS = "10" RI = "udo" ERI = "escudo" AC = "---+---+-+-">
+<LT><SEG C = "R" N = "CD" ID = "14">macar</SEG> en Burgos fez pintar escudo,</LT>
+<LL>macar en Burgos fez pintar escudo,</LL>
+
+<TOPO CAT = "CIUDAD">Burgos</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "aio" ERI = "maio" AC = "-+-+-">
+<LT>non ven al maio.</LT>
+<LL>non ven al maio.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="070046" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="A">
+      <INCIPIT>Se m&#39; ora Deus gran ben fazer quisesse</INCIPIT>
+
+      <NUCANT>70 46</NUCANT>
+
+      <RM BCA="A" EM="NO" F="63v" I.FI="la063v" MU="NON" NM="236"><NOTMAN
+      N="1">O manuscrito presenta as estrofas II e III cambiadas de orde.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>CA 236</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Domingues, Guilhade, 10</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1598</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 307</P>
+      </EDIANT>
+
+      <DATOAU NOME="Nobiling" NUA="10"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>29/08/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = c III; a II = a III; c II = b III)</P></FRI>
+
+      <NOTC>r / ala quant eu cataria <COMNOTC><P>Notas marxinais situadas á
+      altura do v. 11 que indican correccións que se deben facer no texto.</P></COMNOTC></NOTC>
+
+      <NOTC>o <COMNOTC><P>Nota marxinal situada á altura do v. 12 que indica
+      unha corrección que se debe facer no texto.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="LS"></TEMA>
+
+      <TEMA CAT="SA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:149</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+-+-+-" ERI="quisesse" N="1" NS="10" RI="esse">
+          <LT>Se m&#39; ora Deus gran ben fazer <SEG C="R" ID="1" N="RD">quisesse</SEG>,</LT>
+
+          <LL>Se m&#39; ora Deus gran ben fazer quisesse,</LL>
+        </L>
+
+        <L AC="--+-+-+--+" ERI="fazer" N="2" NS="10" RI="er">
+          <LT>non m&#39; avia mays de tant&#39; a fazer:</LT>
+
+          <LL>non m&#39; avia mays de tant&#39; a fazer:</LL>
+        </L>
+
+        <L AC="-+-+-+-+-+" ERI="viver" N="3" NS="10" RI="er">
+          <LT>leyxar-m&#39; aquí, u m&#39; ora &#39;stou,<SEG C="R" ID="2"
+          N="PV"><SEG C="R" ID="3" N="RD"> viver</SEG></SEG>;</LT>
+
+          <LL>leyxar-m&#39; aquí, u m&#39; ora &#39;stou, viver;</LL>
+        </L>
+
+        <L AC="---++--+-+-" ERI="desse" N="4" NS="10" RI="esse">
+          <LT>e do seu ben nunca m&#39; el outro desse!</LT>
+
+          <LL>e do seu ben nunca m&#39; el outro desse!</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="aquí" N="5" NS="10" RI="i">
+          <LT>Ca ja sempr&#39; eu veeria d&#39; aquí</LT>
+
+          <LL>Ca ja sempr&#39; eu veeria d&#39; aquí</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="vi" N="6" NS="10" RI="i">
+          <LT><SEG C="R" ID="4" N="CP">aquelas casas u mha senhor <SEG C="R"
+ID="5" N="RD">vi</SEG></SEG>,</LT>
+
+          <LL>aquelas casas u mha senhor vi,</LL>
+        </L>
+
+        <L AC="--+--+-+-+-" ERI="quisesse" N="7" NS="10" RI="esse">
+          <LT><SEG C="R" ID="6" N="CD">e catá</SEG>-la<SEG C="I" ID="7" N="RE">s</SEG>,
+          ben quanto m&#39; <SEG C="R" ID="8" N="CF">eu</SEG> <SEG C="R"
+          ID="1" N="RD">quisesse</SEG>.</LT>
+
+          <LL>e catá-las, ben quanto m&#39; eu quisesse.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:149</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+---+-" ERI="Faria" N="1" NS="10" RI="ia">
+          <LT>D&#39; aquí vej&#39; <SEG C="R" ID="8" N="CF">eu</SEG> Barcelos
+          e Faria,</LT>
+
+          <LL>D&#39; aquí vej&#39; eu Barcelos e Faria,</LL>
+
+          <TOPO CAT="CIUDAD">Barcelos</TOPO>
+
+          <TOPO CAT="CIUDAD">Faria</TOPO>
+        </L>
+
+        <L AC="-+-+---+-+" ERI="alguen" N="2" NS="10" RI="en">
+          <LT><SEG C="R" ID="4" N="CP">e vej&#39; as casas u ja vi alguen</SEG>,</LT>
+
+          <LL>e vej&#39; as casas u ja vi alguen,</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="ben" N="3" NS="10" RI="en">
+          <LT><SEG C="R" ID="4" N="CP">per bõa fe, que me nunca fez ben</SEG>!</LT>
+
+          <LL>per bõa fe, que me nunca fez ben!</LL>
+        </L>
+
+        <L AC="+--+---+-+-" ERI="queria" N="4" NS="10" RI="ia">
+          <LT>Vedes por que: porque x&#39; o non <SEG C="R" ID="1" N="RD">quer<SEG
+C="R" ID="9" N="RETR">ia</SEG></SEG>.</LT>
+
+          <LL>Vedes por que: porque x&#39; o non queria.</LL>
+        </L>
+
+        <L AC="---+----+-+" ERI="amor" N="5" NS="10" RI="or">
+          <LT>E, pero sey que me matará am<SEG C="R" ID="9" N="RETR">or</SEG>,</LT>
+
+          <LL>E, pero sey que me matará amor,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="morador" N="6" NS="10" RI="or">
+          <LT>en quant&#39; eu fosse d&#39; aquí morad<SEG C="R" ID="9"
+          N="RETR">or</SEG></LT>
+
+          <LL>en quant&#39; eu fosse d&#39; aquí morador</LL>
+        </L>
+
+        <L AC="+--+-+---+-" ERI="temeria" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="10" N="CD">nunca</SEG> eu ja d&#39; el morte
+          temer<SEG C="R" ID="11" N="CC"><SEG C="R" ID="9" N="RETR">ia</SEG></SEG>.</LT>
+
+          <LL>nunca eu ja d&#39; el morte temeria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:149</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+---+-" ERI="viveria" N="1" NS="10" RI="ia">
+          <LT>Par Deus Senhor, viçoso <SEG C="R" ID="3" N="RD">viver<SEG C="R"
+ID="11" N="CC"><SEG C="R" ID="12" N="RETR">ia</SEG></SEG></SEG></LT>
+
+          <LL>Par Deus Senhor, viçoso viveria</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="sabor" N="2" NS="10" RI="or">
+          <LT>e en gran ben, e en muy gran sab<SEG C="R" ID="12" N="RETR">or</SEG></LT>
+
+          <LL>e en gran ben, e en muy gran sabor</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="senhor" N="3" NS="10" RI="or">
+          <LT><SEG C="R" ID="4" N="CP">veê-las casas u vi mha senh<SEG C="R"
+ID="12" N="RETR">or</SEG></SEG>,</LT>
+
+          <LL>veê-las casas u vi mha senhor,</LL>
+        </L>
+
+        <L AC="--+-+-+--+-" ERI="cataria" N="4" NS="10" RI="ia">
+          <LT><SEG C="R" ID="6" N="CD">e catar</SEG> alá quant&#39; eu catar<SEG
+          C="R" ID="12" N="RETR">ia</SEG>!</LT>
+
+          <LL>e catar alá quant&#39; eu cataria!</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="poder" N="5" NS="10" RI="er">
+          <LT>Mentr&#39; eu d&#39; aquesto ouvess&#39; o poder,</LT>
+
+          <LL>Mentr&#39; eu d&#39; aquesto ouvess&#39; o poder,</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="veer" N="6" NS="10" RI="er">
+          <LT>d&#39; aquelas casas que vejo <SEG C="R" ID="5" N="RD">veer</SEG>,</LT>
+
+          <LL>d&#39; aquelas casas que vejo veer,</LL>
+        </L>
+
+        <L AC="+--+-+---+-" ERI="partiria" N="7" NS="10" RI="ia">
+          <LT><SEG C="R" ID="10" N="CD">nunca</SEG> en ja os olhos partiria!</LT>
+
+          <LL>nunca en ja os olhos partiria!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Sobre III.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+" ERI="viver" N="1" NS="10" RI="er">
+          <LT>E esso pouco que ey de <SEG C="R" ID="2" N="PV"> <SEG C="R"
+ID="3" N="RD">viver</SEG></SEG>,</LT>
+
+          <LL>E esso pouco que ey de viver,</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="prazer" N="2" NS="10" RI="er">
+          <LT>vivê-lo-ia a muy gran prazer;</LT>
+
+          <LL>vivê-lo-ia a muy gran prazer;</LL>
+        </L>
+
+        <L AC="---++----+-" ERI="saberia" N="3" NS="10" RI="ia">
+          <LT>ca mha senhor nunca<SEG C="M" ID="13" N="SIN"> mh-o</SEG>
+          saberia.</LT>
+
+          <LL>ca mha senhor nunca mh-o saberia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

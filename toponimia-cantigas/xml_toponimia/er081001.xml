@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="081001" NE="4+2F" OL="NON" SG="NO" TC="MEST" XE="T EPO">
+      <INCIPIT>Ay Pedr&#39; Amigo, vós que vos tẽedes</INCIPIT>
+
+      <NUCANT>81 1</NUCANT>
+
+      <TENSO NOME="Pedr&#39; Amigo de Sevilha"><NUCANT>116 1</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="323v" I.FI="lb323v" MU="NON" NM="1550"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Marroni 19</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 423</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1462</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 211</P>
+      </EDIANT>
+
+      <DATOAU NOME="CA II" NUA="420p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>23/02/99</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <NOTC>9gedi <COMNOTC><P>Nota colocciana que precede á cantiga B 1550.
+      Está situada na columna a do folio 323v.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="INS"><SUBTEMA CAT="RE"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:155</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="tẽedes" N="1" NS="10" RI="edes">
+          <LT><SEG C="R" ID="1" N="CD">Ay Pedr&#39; Amigo</SEG>, vós que vos
+          tẽedes</LT>
+
+          <LL>Ay Pedr&#39; Amigo, vós que vos tẽedes</LL>
+
+          <ANTRO T="REAL">Pedr&#39; Amigo de Sevilha (Pedr&#39; Amigo)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="verei" N="2" NS="10" RI="ei">
+          <LT>por trobador, agora o verei</LT>
+
+          <LL>por trobador, agora o verei</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="preguntarei" N="3" NS="10" RI="ei">
+          <LT>eno que vus ora preguntarei</LT>
+
+          <LL>eno que vus ora preguntarei</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="tornaredes" N="4" NS="10" RI="edes">
+          <LT>e no recado que mi tornaredes.</LT>
+
+          <LL>e no recado que mi tornaredes.</LL>
+        </L>
+
+        <L AC="--+------+" ERI="senhor" N="5" NS="10" RI="or">
+          <LT>Nos<SEG C="M" ID="2" N="SIN"> que a</SEG>vemos mui bon rei por
+          senhor</LT>
+
+          <LL>Nos que avemos mui bon rei por senhor</LL>
+
+          <ANTRO T="REAL">Alfonso X (rei)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="emperador" N="6" NS="10" RI="or">
+          <LT>se no&#39;<SEG C="M" ID="3" N="SIN">-lo a</SEG>lhur faz<SEG
+          C="I" ID="4" N="SU">er</SEG>en emperador,</LT>
+
+          <LL>se no&#39;-lo alhur fazeren emperador,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="entendedes" N="7" NS="10" RI="edes">
+          <LT>dizede<SEG C="M" ID="5" N="SIN"> mi-o</SEG>ra quant&#39;-i <SEG
+          C="R" ID="6" N="PV">entend<SEG C="R" ID="7" N="CC">edes</SEG></SEG>.</LT>
+
+          <LL>dizede mi-ora quant&#39;-i entendedes.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:155</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="cometedes" N="1" NS="10" RI="edes">
+          <LT><SEG C="R" ID="8" N="CD">Joan Vaasques</SEG>, pois me <SEG C="R"
+          ID="9" N="RD">comet<SEG C="R" ID="7" N="CC">edes</SEG></SEG>,</LT>
+
+          <LL>Joan Vaasques, pois me cometedes,</LL>
+
+          <ANTRO T="REAL">Johan Vasquiz de Talaveira (Joan Vaasques)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="sei" N="2" NS="10" RI="ei">
+          <LT>direi-vus én quant&#39; i entend&#39; e sei:</LT>
+
+          <LL>direi-vus én quant&#39; i entend&#39; e sei:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="rei" N="3" NS="10" RI="ei">
+          <LT>pois nos avemos aquel melhor rei</LT>
+
+          <LL>pois nos avemos aquel melhor rei</LL>
+
+          <ANTRO T="REAL">Alfonso X (rei)</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="entendedes" N="4" NS="10" RI="edes">
+          <LT>que no mund&#39; á, porque non <SEG C="R" ID="6" N="PV">entendedes</SEG>,</LT>
+
+          <LL>que no mund&#39; á, porque non entendedes,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="valor" N="5" NS="10" RI="or">
+          <LT><SEG C="R" ID="10" N="CP">que o seu preço e o seu <SEG C="R"
+ID="11" N="RD">valor</SEG></SEG></LT>
+
+          <LL>que o seu preço e o seu valor</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="for" N="6" NS="10" RI="or">
+          <LT><SEG C="R" ID="10" N="CP">todo noss&#39; est pois emperador for&#39;</SEG>?</LT>
+
+          <LL>todo noss&#39; est pois emperador for&#39;?</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="perdedes" N="7" NS="10" RI="edes">
+          <LT>O demo lev&#39; o que vos i <SEG C="R" ID="12" N="CF"><SEG C="R"
+ID="13" N="RD">perdedes</SEG></SEG>!</LT>
+
+          <LL>O demo lev&#39; o que vos i perdedes!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso sete é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:155</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="perderia" N="1" NS="10" RI="ia">
+          <LT><SEG C="R" ID="1" N="CD">Ay Pedr&#39; Amigo</SEG>, eu non <SEG
+          C="R" ID="12" N="CF"><SEG C="R" ID="13" N="RD">perderia</SEG></SEG></LT>
+
+          <LL>Ay Pedr&#39; Amigo, eu non perderia</LL>
+
+          <ANTRO T="REAL">Pedr&#39; Amigo de Sevilha (Pedr&#39; Amigo)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="aver" N="2" NS="10" RI="er">
+          <LT>enquant&#39; el Rei podesse mais aver</LT>
+
+          <LL>enquant&#39; el Rei podesse mais aver</LL>
+
+          <ANTRO T="REAL">Alfonso X (Rei)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="poder" N="3" NS="10" RI="er">
+          <LT>en bõa terra e en gran poder,</LT>
+
+          <LL>en bõa terra e en gran poder,</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="valria" N="4" NS="10" RI="ia">
+          <LT>ca quant&#39; el mais ouvesse, mais <SEG C="R" ID="11" N="RD">valria</SEG>;</LT>
+
+          <LL>ca quant&#39; el mais ouvesse, mais valria;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="5" NS="10" RI="i">
+          <LT>mais per<SEG C="M" ID="14" N="SIN">de o</SEG> rein&#39; e vos
+          perdedes <SEG C="R" ID="5" N="PRI">i</SEG>,</LT>
+
+          <LL>mais perde o rein&#39; e vos perdedes i,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aqui" N="6" NS="10" RI="i">
+          <LT>os que sen el ficaredes <SEG C="R" ID="16" N="PRI">aqui</SEG>,</LT>
+
+          <LL>os que sen el ficaredes aqui,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="via" N="7" NS="9" RI="ia">
+          <LT>pois que s&#39; el for&#39; d&#39; Espanha <SEG C="R" ID="17"
+          N="PV">sa v<SEG C="R" ID="18" N="CC">ia</SEG></SEG>.</LT>
+
+          <LL>pois que s&#39; el for&#39; d&#39; Espanha sa via.</LL>
+
+          <TOPO CAT="CIRCUNS">Espanha</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:155</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="cuidaria" N="1" NS="10" RI="ia">
+          <LT><SEG C="R" ID="8" N="CD">Joan Vaasques</SEG> eu ben cuidar<SEG
+          C="R" ID="18" N="CC">ia</SEG></LT>
+
+          <LL>Joan Vaasques eu ben cuidaria</LL>
+
+          <ANTRO T="REAL">Johan Vasquiz de Talaveira (Joan Vaasques)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="perder" N="2" NS="10" RI="er">
+          <LT>que o reino non á por que <SEG C="R" ID="13" N="RD">perder</SEG></LT>
+
+          <LL>que o reino non á por que perder</LL>
+        </L>
+
+        <L AC="--+------+" ERI="valer" N="3" NS="10" RI="er">
+          <LT>por el rei nosso senhor mais <SEG C="R" ID="11" N="RD">valer</SEG>,</LT>
+
+          <LL>por el rei nosso senhor mais valer,</LL>
+
+          <ANTRO T="REAL">Alfonso X (rei)</ANTRO>
+        </L>
+
+        <L AC="----+----+-" ERI="ia" N="4" NS="10" RI="ia">
+          <LT>ca rei do mund&#39; é, se se vai <SEG C="R" ID="17" N="PV">sa via</SEG>!</LT>
+
+          <LL>ca rei do mund&#39; é, se se vai sa via!</LL>
+
+          <ANTRO T="REAL">Alfonso X (rei)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="5" NS="10" RI="i">
+          <LT><SEG C="R" ID="10" N="CP">Valer-á el mais, e nos per el <SEG
+C="R" ID="15" N="PRI">i</SEG></SEG>.</LT>
+
+          <LL>Valer-á el mais, e nos per el i.</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aqui" N="6" NS="10" RI="i">
+          <LT>De mais quis Deus que ten seu filh&#39; <SEG C="R" ID="16"
+          N="PRI">aqui</SEG>,</LT>
+
+          <LL>De mais quis Deus que ten seu filh&#39; aqui,</LL>
+
+          <ANTRO T="REAL">Sancho IV (filh&#39;)</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="leixaria" N="7" NS="10" RI="ia">
+          <LT>que se s&#39; el for&#39;, aqui nos leixaria!</LT>
+
+          <LL>que se s&#39; el for&#39;, aqui nos leixaria!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Rima sobre III-IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="venci" N="1" NS="10" RI="i">
+          <LT><SEG C="R" ID="1" N="CD">Ay Pedr&#39; Amigo</SEG>, pois vus ja
+          venci,</LT>
+
+          <LL>Ay Pedr&#39; Amigo, pois vus ja venci,</LL>
+
+          <ANTRO T="REAL">Pedr&#39; Amigo de Sevilha (Pedr&#39; Amigo)</ANTRO>
+        </L>
+
+        <L AC="---+----+" ERI="cometi" N="2" NS="10" RI="i">
+          <LT><SEG C="R" ID="19" N="CD">d&#39; esta tençon</SEG> que vosco
+          <SEG C="R" ID="9" N="RD">cometi</SEG>,</LT>
+
+          <LL>d&#39; esta tençon que vosco cometi,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="perfia" N="3" NS="10" RI="ia">
+          <LT>nunca ar migo filhedes perfia.</LT>
+
+          <LL>nunca ar migo filhedes perfia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Rima sobre III-IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="&#39;ssi" N="1" NS="10" RI="i">
+          <LT><SEG C="R" ID="8" N="CD">Joan Vaasques</SEG>, sei que non é
+          &#39;ssi</LT>
+
+          <LL>Joan Vaasques, sei que non é &#39;ssi</LL>
+
+          <ANTRO T="REAL">Johan Vasquiz de Talaveira (Joan Vaasques)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="2" NS="10" RI="i">
+          <LT><SEG C="R" ID="19" N="CD">d&#39; esta tençon</SEG>, ca errastes
+          vos <SEG C="R" ID="15" N="PRI">i</SEG></LT>
+
+          <LL>d&#39; esta tençon, ca errastes vos i</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="devia" N="3" NS="10" RI="ia">
+          <LT>e diss&#39; eu ben quanto dizer devia.</LT>
+
+          <LL>e diss&#39; eu ben quanto dizer devia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

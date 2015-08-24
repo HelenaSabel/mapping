@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "032001" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Don Estev' Eanes, por Deus mandade</INCIPIT>
+<NUCANT>32 1</NUCANT>
+<RM BCA = "B" NM = "1611" F = "341r" MU = "NON" EM = "NO" I.FI = "lb341r"></RM>
+<RM BCA = "B" NM = "1611" F = "341v" MU = "NON" EM = "NO" I.FI = "lb341v"></RM>
+<RM BCA = "V" NM = "1144" F = "188r" MU = "NON" EM = "NO" I.FI = "lv188r"></RM>
+<RM BCA = "V" NM = "1144" F = "188v" MU = "NON" EM = "NO" I.FI = "lv188v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1514</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 32</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "128"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>1/04/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>St. Fernandez barreto
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1661. Est&aacute; situada na columna b do folio 341r.
+St. &eacute; unha abreviatura. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>St. ffernandis barreto
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V
+1144. Est&aacute; situada na columna b do folio 188r.
+St. &eacute; unha abreviatura. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga de cima fez Stevan Fern&aacute;ndiz Barreto a un
+cavaleiro que era gafo e morava en Santarem; e soen a ir en romaria a Santa
+Maria; aa m&atilde;o dereita do caminho est&aacute; logo a Tr&itilde;idade, e
+estava logo a gafaria a par dela.
+<COMRUBRI>
+<P>R&uacute;brica explicativa posposta &aacute; cantiga B 1611.
+Est&aacute; situada na columna a do folio 314v.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga de cima fez Stevan Fern&aacute;ndiz Barreto a un
+cavaleiro que era
+<COMRUBRI>
+<P>R&uacute;brica explicativa, que est&aacute; incompleta, posposta &aacute;
+cantiga V 1144. Est&aacute; situada na marxe inferior dereita do folio
+188r.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "TRA"></TEMA>
+<TEMA CAT = "DF"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "abbaaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10' 10'</ESQMET></INFMET>
+<NUMESQ>132:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ade" ERI = "mandade" AC = "----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "I" N = "RE" ID = "2">Don</SEG> Estev' Eanes, por Deus mandade</SEG></LT>
+<LL>Don Estev' Eanes, por Deus mandade</LL>
+<ANTRO T = "REAL">Don Estev' Eanes</ANTRO></L>
+<L N = "2" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">a Ro&iacute; Pa&aacute;ez, logo este dia</SEG>,</LT>
+<LL>a Ro&iacute; Pa&aacute;ez, logo este dia,</LL>
+<ANTRO T = "REAL">Ro&iacute; Pa&aacute;ez</ANTRO></L>
+<L N = "3" NS = "10" RI = "ia" ERI = "Maria" AC = "----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">que, se quiser ir a Santa Maria</SEG>,</LT>
+<LL>que, se quiser ir a Santa Maria,</LL>
+<TOPO CAT = "LCULTO">Santa Maria</TOPO></L>
+<L N = "4" NS = "10" RI = "ade" ERI = "Tr&itilde;idade" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">que se non vaa pela Tr&itilde;idade</SEG>,</LT>
+<LL>que se non vaa pela Tr&itilde;idade,</LL>
+<TOPO CAT = "LCULTO">Tr&itilde;idade</TOPO></L>
+<L N = "5" NS = "10" RI = "ade" ERI = "Dade" AC = "--+------+-">
+<LT><SEG C = "R" N = "CPL" ID = "3">ca mi dizen que lhe ten Fernan Dade</SEG></LT>
+<LL>ca mi dizen que lhe ten Fernan Dade</LL>
+<ANTRO T = "REAL">Fernan Dade</ANTRO></L>
+<REFRAN>
+<L N = "6" NS = "10" RI = "ia" ERI = "Gafaria" AC = "---+-----+-">
+<LT>ciada <SEG C = "R" N = "CFR" ID = "4">feita</SEG> pela Gafaria.</LT>
+<LL>ciada feita pela Gafaria.</LL>
+<TOPO CAT = "ALDEA">Gafaria</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "abbaaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>132:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "quiser" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Se a romaria <SEG C = "R" N = "CFR" ID = "4">fazer</SEG> <SEG C = "R" N = "RD" ID = "5">quiser</SEG></SEG>,</LT>
+<LL>Se a romaria fazer quiser,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "so&iacute;a" AC = "---+-----+-">
+<LT>como a sempre fazer <SEG C = "I" N = "RE" ID = "6">el</SEG> <SEG C = "R" N = "PV" ID = "7">so&iacute;a</SEG>,</LT>
+<LL>como a sempre fazer el so&iacute;a,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "todavia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">outro caminho cate todavia</SEG>;</LT>
+<LL>outro caminho cate todavia;</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "mester" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">ca o da Tr&itilde;idade non lh' &eacute; mester</SEG>,</LT>
+<LL>ca o da Tr&itilde;idade non lh' &eacute; mester,</LL>
+<TOPO CAT = "LCULTO">Tr&itilde;idade</TOPO></L>
+<L N = "5" NS = "10" RI = "er" ERI = "quer" AC = "-----+---+">
+<LT><SEG C = "R" N = "CPL" ID = "3">ca dizen que Fernan Dade lhe <SEG C = "R" N = "RD" ID = "5">quer</SEG></SEG></LT>
+<LL>ca dizen que Fernan Dade lhe quer</LL>
+<ANTRO T = "REAL">Fernan Dade</ANTRO></L>
+<REFRAN>
+<L N = "6" NS = "10" RI = "ia" ERI = "Gafaria" AC = "---+-----+-">
+<LT>meter ciada pela Gafaria.</LT>
+<LL>meter ciada pela Gafaria.</LL>
+<TOPO CAT = "ALDEA">Gafaria</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "abbaaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>132:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "Santaren" AC = "----+----+">
+<LT>E, cada que el ven a Santaren,</LT>
+<LL>E, cada que el ven a Santaren,</LL>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+<L N = "2" NS = "10" RI = "ia" ERI = "romaria" AC = "---+-----+-">
+<LT>sempre al&oacute; vai fazer romaria;</LT>
+<LL>sempre al&oacute; vai fazer romaria;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ia" ERI = "so&iacute;a" AC = "----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">e da Tr&itilde;idade, per u <SEG C = "R" N = "PV" ID = "7">so&iacute;a</SEG></SEG></LT>
+<LL>e da Tr&itilde;idade, per u so&iacute;a</LL>
+<TOPO CAT = "LCULTO">Tr&itilde;idade</TOPO></L>
+<L N = "4" NS = "10" RI = "en" ERI = "ben" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">d' ir, mandade que se guard' el mui ben</SEG>,</LT>
+<LL>d' ir, mandade que se guard' el mui ben,</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ten" AC = "-----+---+">
+<LT><SEG C = "R" N = "CPL" ID = "3">ca dizen que Fernan Dade lhe ten</SEG></LT>
+<LL>ca dizen que Fernan Dade lhe ten</LL>
+<ANTRO T = "REAL">Fernan Dade</ANTRO></L>
+<REFRAN>
+<L N = "6" NS = "10" RI = "ia" ERI = "Gafaria" AC = "---+-----+-">
+<LT>ciada feita pela Gafaria.</LT>
+<LL>ciada feita pela Gafaria.</LL>
+<TOPO CAT = "ALDEA">Gafaria</TOPO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

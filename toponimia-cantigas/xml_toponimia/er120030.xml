@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120030" NE="4+2F" OL="NON" SG="NO" TC="MEST" XE="CE">
+      <INCIPIT>O muy bon Rey, que conquis a fronteyra</INCIPIT>
+
+      <NUCANT>120 30</NUCANT>
+
+      <RM BCA="B" EM="NO" F="213r" I.FI="lb213r" MU="NON" NM="985"></RM>
+
+      <RM BCA="B" EM="NO" F="213v" I.FI="lb213v" MU="NON" NM="985"></RM>
+
+      <RM BCA="V" EM="NO" F="91r" I.FI="lv091r" MU="NON" NM="572"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 161-162</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 15</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA 460</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 928</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 572</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 38</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 45</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 183</P>
+      </EDIANT>
+
+      <DATOAU NOME="Panunzio" NUA="109-111pp"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>1/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>temer et amar <COMNOTC><P>Nota colocciana situada na marxe
+      superior, á altura da columna b do folio 213r de B. Refírse á
+      construcción que aparece subliñada no verso 4 I: temer e amar.</P></COMNOTC></NOTC>
+
+      <NOTC>Seuilha <COMNOTC><P>Nota colocciana situada na marxe infeiror, á
+      altura da columna b do folio 213r de B. Refírse á palabra subliñada no
+      verso 3 II: Seuilha.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="ENC"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:30</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="fronteyra" N="1" NS="10" RI="eira">
+          <LT>O muy bon Rey, que conquis a fronteyra</LT>
+
+          <LL>O muy bon Rey, que conquis a fronteyra</LL>
+
+          <ANTRO T="REAL">Fernando III (bon Rey)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="acabar" N="2" NS="10" RI="ar">
+          <LT>e acabou quanto quis acabar</LT>
+
+          <LL>e acabou quanto quis acabar</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="verdadeyra" N="3" NS="10" RI="eira">
+          <LT>e que se fez, con razon verdadeyra,</LT>
+
+          <LL>e que se fez, con razon verdadeyra,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="amar" N="4" NS="10" RI="ar">
+          <LT><SEG C="I" ID="1" N="RE">en</SEG> to<SEG C="M" ID="2" N="SIN">do o</SEG>
+          mundo temer e amar,</LT>
+
+          <LL>en todo o mundo temer e amar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fis" N="5" NS="10" RI="is">
+          <LT>este bon Rey de prez, valent&#39; e fis,</LT>
+
+          <LL>este bon Rey de prez, valent&#39; e fis,</LL>
+
+          <ANTRO T="REAL">Fernando III (bon Rey)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="conquis" N="6" NS="10" RI="is">
+          <LT>rey don Fernando, bon Rey que <SEG C="R" ID="3" N="RD">conquis</SEG></LT>
+
+          <LL>rey don Fernando, bon Rey que conquis</LL>
+
+          <ANTRO T="REAL">Fernando III (rey don Fernando)</ANTRO>
+
+          <ANTRO T="REAL">Fernando III (bon Rey)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="mar" N="7" NS="10" RI="ar">
+          <LT>terra de mourus ben de mar a mar.</LT>
+
+          <LL>terra de mourus ben de mar a mar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:30</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+-" ERI="maravilha" N="1" NS="10" RI="ilha">
+          <LT>A quen Deus mostrou tan gram maravilha</LT>
+
+          <LL>A quen Deus mostrou tan gram maravilha</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="dizer" N="2" NS="10" RI="er">
+          <LT>que ja no mundo sempr&#39; an que dizer</LT>
+
+          <LL>que ja no mundo sempr&#39; an que dizer</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Sevilha" N="3" NS="10" RI="ilha">
+          <LT>de quam ben soube conquerer Sevilha</LT>
+
+          <LL>de quam ben soube conquerer Sevilha</LL>
+
+          <TOPO CAT="CIUDAD">Sevilha</TOPO>
+        </L>
+
+        <L AC="-+-------+" ERI="valer" N="4" NS="10" RI="er">
+          <LT>per prez <SEG C="I" ID="4" N="RE">e</SEG> per esforç&#39; e per
+          valer.</LT>
+
+          <LL>per prez e per esforç&#39; e per valer.</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="contarei" N="5" NS="10" RI="ei">
+          <LT>E da conquista mays vus contarei:</LT>
+
+          <LL>E da conquista mays vus contarei:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="rey" N="6" NS="10" RI="ei">
+          <LT>non foy no mund&#39; enperador nen <SEG C="R" ID="5" N="RD">rey</SEG></LT>
+
+          <LL>non foy no mund&#39; enperador nen rey</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="fazer" N="7" NS="10" RI="er">
+          <LT>que tal conquista podesse fazer.</LT>
+
+          <LL>que tal conquista podesse fazer.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:30</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+-" ERI="razonado" N="1" NS="10" RI="ado">
+          <LT>Non ssey oj&#39; ome tan ben razonado,</LT>
+
+          <LL>Non ssey oj&#39; ome tan ben razonado,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="ben" N="2" NS="10" RI="en">
+          <LT>que podesse contar todo o ben</LT>
+
+          <LL>que podesse contar todo o ben</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="grado" N="3" NS="10" RI="ado">
+          <LT>de Sevilha; e per end&#39;, a Deus grado,</LT>
+
+          <LL>de Sevilha; e per end&#39;, a Deus grado,</LL>
+
+          <TOPO CAT="CIUDAD">Sevilha</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="ten" N="4" NS="10" RI="en">
+          <LT>ja o bon Rey en sseu podê&#39;-la ten!</LT>
+
+          <LL>ja o bon Rey en sseu podê&#39;-la ten!</LL>
+
+          <ANTRO T="REAL">Fernando III (bon Rey)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="leys" N="5" NS="10" RI="eis">
+          <LT>E mais vus digu&#39;: en todas tres las leys,</LT>
+
+          <LL>E mais vus digu&#39;: en todas tres las leys,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="reys" N="6" NS="10" RI="eis">
+          <LT>quantas conquistas foron d&#39; outros <SEG C="R" ID="5" N="RD">rey<SEG
+C="I" ID="6" N="RE">s</SEG></SEG>,</LT>
+
+          <LL>quantas conquistas foron d&#39; outros reys,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ren" N="7" NS="10" RI="en">
+          <LT>apus Sevilha todo non foy ren!</LT>
+
+          <LL>apus Sevilha todo non foy ren!</LL>
+
+          <TOPO CAT="CIUDAD">Sevilha</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:30</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="guya" N="1" NS="10" RI="ia">
+          <LT>May&#39;-lo bon Rey, que Deus manten e guya,</LT>
+
+          <LL>May&#39;-lo bon Rey, que Deus manten e guya,</LL>
+
+          <ANTRO T="REAL">Fernando III (bon Rey)</ANTRO>
+        </L>
+
+        <L AC="-+-------+" ERI="melhor" N="2" NS="10" RI="or">
+          <LT>e quer que sempre faça o melhor,</LT>
+
+          <LL>e quer que sempre faça o melhor,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="Andaluzia" N="3" NS="10" RI="ia">
+          <LT>este conquis ben a Andaluzia,</LT>
+
+          <LL>este conquis ben a Andaluzia,</LL>
+
+          <TOPO CAT="CIRCUNS">Andaluzia</TOPO>
+        </L>
+
+        <L AC="----+----+" ERI="pavor" N="4" NS="10" RI="or">
+          <LT>e non catou hi custa nen pavor.</LT>
+
+          <LL>e non catou hi custa nen pavor.</LL>
+        </L>
+
+        <L AC="--+-------+" ERI="conquereu" N="5" NS="10" RI="eu">
+          <LT>E direy-vus hu a per <SEG C="R" ID="7" N="PV"><SEG C="R" ID="3"
+N="RD">conquereu</SEG></SEG>:</LT>
+
+          <LL>E direy-vus hu a per conquereu:</LL>
+        </L>
+
+        <L AC="--+------+" ERI="tolheu" N="6" NS="10" RI="eu">
+          <LT>hu Sevi<SEG C="M" ID="8" N="SIN">lha a</SEG> Mafomede tolheu,</LT>
+
+          <LL>hu Sevilha a Mafomede tolheu,</LL>
+
+          <TOPO CAT="CIUDAD">Sevilha</TOPO>
+
+          <ANTRO T="REAL">Mafomede</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="Maria" N="7" NS="10" RI="ia">
+          <LT>e erdou hi <SEG C="R" ID="9" N="CF">Deus</SEG> e Sancta Maria!</LT>
+
+          <LL>e erdou hi Deus e Sancta Maria!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Rima sobre IV.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="naceu" N="1" NS="10" RI="eu">
+          <LT>E des aquel dia que <SEG C="R" ID="9" N="CF">Deus</SEG> naceu,</LT>
+
+          <LL>E des aquel dia que Deus naceu,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="reçebeu" N="2" NS="10" RI="eu">
+          <LT>nunca tan bel presente reçebeu,</LT>
+
+          <LL>nunca tan bel presente reçebeu,</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="dia" N="3" NS="10" RI="ia">
+          <LT>como d&#39; el reçebeu aquel<SEG C="I" ID="10" N="RE">e</SEG>
+          dia</LT>
+
+          <LL>como d&#39; el reçebeu aquele dia</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="cca"><NOTRIM><P>Rima sobre IV.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="conquereu" N="1" NS="10" RI="eu">
+          <LT>de San Clement&#39;, en que sse <SEG C="R" ID="7" N="PV"><SEG
+C="R" ID="3" N="RD">conquereu</SEG></SEG>,</LT>
+
+          <LL>de San Clement&#39;, en que sse conquereu,</LL>
+
+          <ANTRO T="REAL">San Clemente</ANTRO>
+        </L>
+
+        <L AC="-----+---+" ERI="perdeu" N="2" NS="10" RI="eu">
+          <LT>e en outro tal dia sse perdeu:</LT>
+
+          <LL>e en outro tal dia sse perdeu:</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="avya" N="3" NS="10" RI="ia">
+          <LT>quatro centus e nov&#39; anus avya.</LT>
+
+          <LL>quatro centus e nov&#39; anus avya.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

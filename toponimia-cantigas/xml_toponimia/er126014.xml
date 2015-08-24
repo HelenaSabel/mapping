@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "126014" TC = "MEST" NE = "5" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Sabedes v&oacute;s: Meestre Nicolao</INCIPIT>
+<NUCANT>126 14</NUCANT>
+<RM BCA = "B" NM = "1577" F = "331v" MU = "NON" EM = "NO" I.FI = "lb331v"></RM>
+<RM BCA = "B" NM = "1577" F = "332r" MU = "NON" EM = "NO" I.FI = "lb332r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 334</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>CA II, p. 535</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 441</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1479</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 19</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 324-325, 572-573</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 330</P></EDIANT>
+<DATOAU NOME = "Alvar" NUA = "8"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>15/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+<TEMA CAT = "AVA">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ao" ERI = "Nicolao" AC = "---+-----+-">
+<LT>Sabedes v&oacute;s: Meestre Nicolao,</LT>
+<LL>Sabedes v&oacute;s: Meestre Nicolao,</LL>
+<ANTRO T = "REAL">Meestre Nicolao</ANTRO></L>
+<L N = "2" NS = "10" RI = "eu" ERI = "guareceu" AC = "---+-----+">
+<LT>o que antano mi non <SEG C = "R" N = "RD" ID = "1">guareceu</SEG>,</LT>
+<LL>o que antano mi non guareceu,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ao" ERI = "mao" AC = "----+----+-">
+<LT>aquel que dizedes meestre mao,</LT>
+<LL>aquel que dizedes meestre mao,</LL>
+</L>
+<L N = "4" NS = "10" RI = "eu" ERI = "colheu" AC = "---+-----+">
+<LT>vedes que fez, per ervas que colheu,</LT>
+<LL>vedes que fez, per ervas que colheu,</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "sandeu" AC = "---+-----+">
+<LT>do vivo mort' e do cordo sandeu,</LT>
+<LL>do vivo mort' e do cordo sandeu,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ao" ERI = "pao" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "2">e faz</SEG> o ceg' adestrar pelo pao.</LT>
+<LL>e faz o ceg' adestrar pelo pao.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "maestria" AC = "----+----+-">
+<LT>E direi-vos eu d' outra maestria</LT>
+<LL>E direi-vos eu d' outra maestria</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "Monpiler" AC = "---+-----+">
+<LT>que aprendeu ogan' en Monpiler:</LT>
+<LL>que aprendeu ogan' en Monpiler:</LL>
+<TOPO CAT = "CIUDAD">Montpellier</TOPO></L>
+<L N = "3" NS = "10" RI = "ia" ERI = "maloutia" AC = "---+-----+-">
+<LT>non ven a &eacute;l home con maloutia</LT>
+<LL>non ven a &eacute;l home con maloutia</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "poder" AC = "---+-----+">
+<LT>de que non leve o mais que poder</LT>
+<LL>de que non leve o mais que poder</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "mester" AC = "---+-----+">
+<LT>e diz: &quot;Amigo, esto t' &eacute; mester;</LT>
+<LL>e diz: &quot;Amigo, esto t' &eacute; mester;</LL>
+</L>
+<L N = "6" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT>ven a dar-<SEG C = "M" N = "SIN" ID = "3">mi al</SEG>go d' oi a tercer dia.</LT>
+<LL>ven a dar-mi algo d' oi a tercer dia.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ura" ERI = "catadura" AC = "---+-----+-">
+<LT>Ca bem vi eu ena ta catadura</LT>
+<LL>Ca bem vi eu ena ta catadura</LL>
+</L>
+<L N = "2" NS = "10" RI = "ir" ERI = "guarir" AC = "---+-----+">
+<LT><SEG C = "M" N = "SIN" ID = "4">que &eacute;s</SEG> doent' e <SEG C = "I" N = "RE" ID = "5">te</SEG> queria <SEG C = "R" N = "RD" ID = "1">guarir</SEG>;</LT>
+<LL>que &eacute;s doent' e te queria guarir;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ura" ERI = "dura" AC = "----+----+-">
+<LT>e aqueste mal que te tanto dura</LT>
+<LL>e aqueste mal que te tanto dura</LL>
+</L>
+<L N = "4" NS = "10" RI = "ir" ERI = "departir" AC = "----+----+">
+<LT>ora t' o que<SEG C = "M" N = "SIN" ID = "6">ro eu</SEG> mui ben departir;</LT>
+<LL>ora t' o quero eu mui ben departir;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ir" ERI = "sair" AC = "---+-----+">
+<LT>se d' est' enverno mi has a sair</LT>
+<LL>se d' est' enverno mi has a sair</LL>
+</L>
+<L N = "6" NS = "10" RI = "ura" ERI = "caentura" AC = "---+-----+-">
+<LT>ja no 'm guarr&aacute;s m&etilde;os da caentura.</LT>
+<LL>ja no 'm guarr&aacute;s m&etilde;os da caentura.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&atilde;o" ERI = "irm&atilde;o" AC = "---+-----+-">
+<LT>E outra rren te direi, meu irm&atilde;o;</LT>
+<LL>E outra rren te direi, meu irm&atilde;o;</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "creer" AC = "---+-----+">
+<LT>se meu consselho quiseres creer,</LT>
+<LL>se meu consselho quiseres creer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "&atilde;o" ERI = "m&atilde;o" AC = "---+-----+-">
+<LT>ou se quiseres <SEG C = "M" N = "SIN" ID = "7">que em</SEG> ti meta m&atilde;o,</LT>
+<LL>ou se quiseres que em ti meta m&atilde;o,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "aver" AC = "---+-----+">
+<LT>d&aacute;-me quant' &aacute;s e poderes aver,</LT>
+<LL>d&aacute;-me quant' &aacute;s e poderes aver,</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "meter" AC = "---+-----+">
+<LT>ca desque eu en ti m&atilde;o meter,</LT>
+<LL>ca desque eu en ti m&atilde;o meter,</LL>
+</L>
+<L N = "6" NS = "10" RI = "&atilde;" ERI = "s&atilde;o" AC = "---+-----+-">
+<LT>ser&aacute;s guarido, quando fores s&atilde;o&quot;.</LT>
+<LL>ser&aacute;s guarido, quando fores s&atilde;o&quot;.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>79:14</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ante" ERI = "ante" AC = "---+-----+-">
+<LT>E non sabemos d&ecirc;-los tempos d' ant<SEG C = "I" N = "RE" ID = "8">e</SEG></LT>
+<LL>E non sabemos d&ecirc;-los tempos d' ante</LL>
+</L>
+<L N = "2" NS = "10" RI = "ou" ERI = "chegou" AC = "---+-----+">
+<LT>tan b&otilde;o meestre, pois aqui chegou,</LT>
+<LL>tan b&otilde;o meestre, pois aqui chegou,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ante" ERI = "deante" AC = "---+-----+-">
+<LT>que tan ben leve seu pre&ccedil;' adeant<SEG C = "I" N = "RE" ID = "9">e</SEG>;</LT>
+<LL>que tan ben leve seu pre&ccedil;' adeante;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ou" ERI = "husou" AC = "-----+---+">
+<LT>per maestrias grandes que husou,</LT>
+<LL>per maestrias grandes que husou,</LL>
+</L>
+<L N = "5" NS = "10" RI = "ou" ERI = "falou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "2">faz</SEG> que non fal' o que nunca falou,</LT>
+<LL>faz que non fal' o que nunca falou,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ante" ERI = "levante" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "2">e faz</SEG> de manco que se non levante.</LT>
+<LL>e faz de manco que se non levante.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

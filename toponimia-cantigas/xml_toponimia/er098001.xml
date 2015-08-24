@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="098001" NE="6" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Seiam' eu na ermida de San Simion,</INCIPIT>
+
+      <NUCANT>98 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="179r" I.FI="lb179r" MU="NON" NM="852"></RM>
+
+      <RM BCA="V" EM="NO" F="70r" I.FI="lv070r" MU="NON" NM="438"></RM>
+
+      <RM BCA="K" EM="NO" F="96r" I.FI="lk096r" MU="NON" NM="438"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 252</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 236</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 795</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 438</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 65</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 152</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 33</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Cidade, Poesia medieval, pp. 7-8</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/Macedo, Cinquenta cant., 22</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., pp. 99-100</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, pp. 77-78</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 352</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 151-152</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega II, 33</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 2</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, 3</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 114-115</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 234-235, 527-528</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Tavani p. 136</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 157</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, pp. 311-312</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Meendinho" NUA="1"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>29/10/04</DATE>
+      </RESP>
+
+      <FRI>c. alt.</FRI>
+
+      <NOTC>tónel <COMNOTC>
+          <P>Nota colocciana situada en B, no fol. 179r, columna b, na marxe
+          dereita enriba da cantiga.O "r" aparece abreviado como unha especie
+          de til enriba do "o". É unha referencia ó tipo de cantiga, con
+          refrán, parte do texto marcada cun trazo polo humanista.</P>
+        </COMNOTC></NOTC>
+
+      <NOTC>Atendendo <COMNOTC>
+          <P>Nota colocciana situada en B, no fol. 179r,na marxe superior, no
+          centro do folio. A nota presenta a palabra subliñada. Non é máis que
+          unha remisión á palabra "atendendo" do refrán, tamén subliñada por
+          Colocci na cantiga.</P>
+        </COMNOTC></NOTC>
+
+      <RUBRICA>Meendinho <COMRUBRI>
+          <P>Rúbrica atributiva da man de Colocci, que aparece en B no fol.
+          179r, na columna b, enriba da cantiga.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>Meendinho <COMRUBRI>
+          <P>Rúbrica atributiva da man de Colocci, que aparece en V no fol.
+          70r, na columna a, enriba do texto. O nome do trobador aparece na
+          rúbrica subliñado. Debaixo do M inicial da rúbrica e á esquerda da
+          capital aparece o número 162, que probablemente responde á foliación
+          do orixinal do que foi copiado.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="OR"></TEMA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:32 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+------+" ERI="Simion" N="1" NS="11" RI="on">
+          <LT><SEG C="R" ID="1" N="CP">Seiam' eu<SEG C="M" ID="2" N="SIN"> na er</SEG>mida de San Simion</SEG>,</LT>
+
+          <LL>Seiam' eu na ermida de San Simion,</LL>
+
+          <TOPO CAT="LCULTO">San Simion</TOPO>
+        </L>
+
+        <L AC="-----+----+" ERI="son" N="2" NS="11" RI="on">
+          <LT><SEG C="R" ID="3" N="CP"><SEG C="R" ID="4" N="LP">e cercaron<SEG
+                  C="M" ID="5" N="SIN">mi as</SEG> ondas que grandes son</SEG></SEG>.</LT>
+
+          <LL>e cercaronmi as ondas que grandes son.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="I" ID="5a" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:32 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-----+" ERI="altar" N="1" NS="11" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">Estando na ermida ant' o altar</SEG>,</LT>
+
+          <LL>Estando na ermida ant' o altar,</LL>
+        </L>
+
+        <L AC="-----+----+" ERI="mar" N="2" NS="11" RI="ar">
+          <LT><SEG C="R" ID="3" N="CP"><SEG C="R" ID="4" N="LP">cercaronmi as ondas grandes do <SEG
+                  C="R" ID="6" N="PV">mar</SEG></SEG></SEG>.</LT>
+
+          <LL>cercaronmi as ondas grandes do mar.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="I" ID="7" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 10 11</ESQMET>
+
+          <NOTMET>
+            <P>O segundo verso desta cobra é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:37 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+----+" ERI="son" N="1" NS="11" RI="on">
+          <LT><SEG C="R" ID="4" N="LP">E cercaron<SEG C="M" ID="8" N="SIN">mi as</SEG> ondas que grandes son</SEG>;</LT>
+
+          <LL>E cercaronmi as ondas que grandes son;</LL>
+        </L>
+
+        <L AC="----+----+" ERI="remador" N="2" NS="10" RI="or">
+          <LT><SEG C="R" ID="9" N="CP"><SEG C="R" ID="4" N="LP">nen ei <SEG
+                  C="I" ID="10" N="RE">i</SEG> barqueiro nen <SEG C="R"
+                  ID="11" N="RD">remador</SEG></SEG></SEG>.</LT>
+
+          <LL>nen ei i barqueiro nen remador.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="M" ID="12" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 10 11</ESQMET>
+
+          <NOTMET>
+            <P>O segundo verso desta cobra é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:37 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="------+----+" ERI="mar" N="1" NS="11" RI="ar">
+          <LT><SEG C="R" ID="4" N="LP">E cercaron mi <SEG C="I" ID="12a"
+                N="RE">as</SEG> ondas do alto <SEG C="R" ID="6" N="PV">mar</SEG></SEG>;</LT>
+
+          <LL>E cercaron mi as ondas do alto mar;</LL>
+        </L>
+
+        <L AC="----+----+" ERI="remar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="9" N="CP"><SEG C="R" ID="4" N="LP">non ei <SEG
+                  C="I" ID="13" N="RE">i</SEG> barqueiro nen sei <SEG C="R"
+                  ID="11" N="RD">remar</SEG></SEG></SEG>.</LT>
+
+          <LL>non ei i barqueiro nen sei remar.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="I" ID="14" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 11 11</ESQMET>
+
+          <NOTMET>
+            <P>O primeiro verso desta cobra é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:41 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="remador" N="1" NS="10" RI="or">
+          <LT><SEG C="R" ID="4" N="LP">Non ei i barqueiro nen <SEG C="R"
+                ID="11" N="RD">remador</SEG></SEG>:</LT>
+
+          <LL>Non ei i barqueiro nen remador:</LL>
+        </L>
+
+        <L AC="-----+----+" ERI="maior" N="2" NS="11" RI="or">
+          <LT><SEG C="R" ID="15" N="CP">morrerei <SEG C="I" ID="16" N="RE">eu</SEG>, fremosa, no mar maior</SEG>.</LT>
+
+          <LL>morrerei eu, fremosa, no mar maior.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra?" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="I" ID="17" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 11 11</ESQMET>
+
+          <NOTMET>
+            <P>O primeiro verso desta cobra é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:41 <NOTNESQ>
+            <P>Para Tavani, na data de publicación do RM, os esquemas eran:
+            37:32 (I, II): a11 a11 B8' B8', 37:37 (III, IV): a11 a10 B8' B8' e
+            37:41 (V, VI): a10 a10 B8' B8'; posteriormente, propuxo unha nova
+            edición na que cambiaba o refrán que ata o momento se viña
+            aceptando para esta cantiga: eu atendend' o meu amigo!/ eu
+            atendend' o meu amigo!. O esquema que propoñemos para toda a
+            cantiga (37:32) consta dalgunha diferencia métrica con respecto ao
+            esquema de Tavani.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="remar" N="1" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="LP">Non ei <SEG C="I" ID="18" N="RE">i</SEG> barqueiro nen sei <SEG
+                C="R" ID="11" N="RD">remar</SEG></SEG>:</LT>
+
+          <LL>Non ei i barqueiro nen sei remar:</LL>
+        </L>
+
+        <L AC="-----+----+" ERI="mar" N="2" NS="11" RI="ar">
+          <LT><SEG C="R" ID="15" N="CP">morrerei eu, fremosa, no alto <SEG
+                C="R" ID="6" N="PV">mar</SEG></SEG>.</LT>
+
+          <LL>morrerei eu, fremosa, no alto mar.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+------+" ERI="verra" N="3" NS="11" RI="a">
+            <LT>Eu atendendo meu amig'! E ver<SEG C="I" ID="19" N="RE">r</SEG>a?</LT>
+
+            <LL>Eu atendendo meu amig'! E verra?</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

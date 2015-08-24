@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="095009" NE="3+F" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Madr&#39;, enviou-vo-lo meu amigo</INCIPIT>
+
+      <NUCANT>95 9</NUCANT>
+
+      <RM BCA="B" EM="NO" F="263v" I.FI="lb263v" MU="NON" NM="1241"></RM>
+
+      <RM BCA="V" EM="NO" F="134r" I.FI="lv134r" MU="NON" NM="846"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1189</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 846</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 476</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="454"><COMAU><P>Apartámonos da edición seguida,
+      xa que suprimímo-los puntos finais das estrofas ó consideralas atehudas.
+      Como Lapa, O texto, p. 190, pensamos que no v. 2 II é mellor adopta-la
+      forma sõo en lugar da integración proposta por Nunes: son de vós ca lhi
+      quero [eu] gram ben; do mesmo modo, Lapa indica que no v. 4 II debemos
+      suprimi-la integración [mha] madre ofrecida por Nunes.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>25/05/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>Atehuda ata a fiinda</P></FRI>
+
+      <NOTC>9ged <COMNOTC><P>Nota colocciana que precede á cantiga B 1241.
+      Está situada na columna a do folio 263v. A sílaba inicial con preséntase
+      mediante a abreviatura 9. Falta o o final.</P></COMNOTC></NOTC>
+
+      <NOTC>tornel <COMNOTC><P>Nota colocciana que precede á cantiga B 1241.
+      Está situada na columna a do folio 263v.</P></COMNOTC></NOTC>
+
+      <NOTC>Grado <COMNOTC><P>Nota colocciana situada na marxe inferior,
+      columna a do folio 263v de B. Refírese á construcción meu grado
+      subliñada no v. 5 II (primeiro verso do refrán da segunda cobra).</P></COMNOTC></NOTC>
+
+      <RUBRICA>Martim <COMRUBRI><P>Rúbrica atributiva que precede á cantiga B
+      1241. Está situada na columna a do folio 263v. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Martim padrozel9 <COMRUBRI><P>Rúbrica atributiva que aparece
+      tachada entre a II e III cobra. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="PA"></TEMA>
+
+      <TEMA CAT="SNH"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 9&#39; 9&#39; 9&#39; 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:306</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="amigo" N="1" NS="9" RI="igo">
+          <LT>Madr&#39;, enviou-vo-lo meu amigo</LT>
+
+          <LL>Madr&#39;, enviou-vo-lo meu amigo</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="veeria" N="2" NS="9" RI="ia">
+          <LT><SEG C="I" ID="1" N="RE">o</SEG>je dizer que vos <SEG C="R"
+          ID="2" N="RD">veeria</SEG>,</LT>
+
+          <LL>oje dizer que vos veeria,</LL>
+        </L>
+
+        <L AC="--+-----+-" ERI="Maria" N="3" NS="9" RI="ia">
+          <LT>se ousasse, par Santa Maria,</LT>
+
+          <LL>se ousasse, par Santa Maria,</LL>
+        </L>
+
+        <L AC="--+-----+-" ERI="migo" N="4" NS="9" RI="igo">
+          <LT><SEG C="R" ID="3" N="CD">se o</SEG> vós ante falardes migo;</LT>
+
+          <LL>se o vós ante falardes migo;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+-" ERI="grado" N="5" NS="9" RI="ado">
+            <LT>se el vir vós nen mi per meu <SEG C="R" ID="4" N="PV">grado</SEG>,</LT>
+
+            <LL>se el vir vós nen mi per meu grado,</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="irado" N="6" NS="9" RI="ado">
+            <LT>San Salvador mi seja irado</LT>
+
+            <LL>San Salvador mi seja irado</LL>
+
+            <ANTRO T="REAL">San Salvador</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 10 10 9&#39; 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:297</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-----+-" ERI="sospeitada" N="1" NS="9" RI="ada">
+          <LT><SEG C="R" ID="5" N="CD">De Valongo</SEG>, pero sospeitada</LT>
+
+          <LL>De Valongo, pero sospeitada</LL>
+
+          <TOPO CAT="ALDEA">Valongo</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="ben" N="2" NS="10" RI="en">
+          <LT>sõo de vós ca lhi quero gram ben,</LT>
+
+          <LL>sõo de vós ca lhi quero gram ben,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="en" N="3" NS="10" RI="en">
+          <LT>nunca lho quix, pois naci, e por en</LT>
+
+          <LL>nunca lho quix, pois naci, e por en</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="loada" N="4" NS="9" RI="ada">
+          <LT><SEG C="R" ID="3" N="CD">se o</SEG> creverdes, madre loada,</LT>
+
+          <LL>se o creverdes, madre loada,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+-" ERI="grado" N="5" NS="9" RI="ado">
+            <LT>se el vir vós, nen mi per meu <SEG C="R" ID="4" N="PV">grado</SEG>,</LT>
+
+            <LL>se el vir vós, nen mi per meu grado,</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="irado" N="6" NS="9" RI="ado">
+            <LT>San Salvador mi seja irado</LT>
+
+            <LL>San Salvador mi seja irado</LL>
+
+            <ANTRO T="REAL">San Salvador</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:269</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="aqui" N="1" NS="10" RI="i">
+          <LT><SEG C="R" ID="5" N="CD">De Valongo</SEG>, ca se foi el d&#39;
+          aqui</LT>
+
+          <LL>De Valongo, ca se foi el d&#39; aqui</LL>
+
+          <TOPO CAT="ALDEA">Valongo</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="veer" N="2" NS="10" RI="er">
+          <LT>sen meu mandad&#39; e non me quis <SEG C="R" ID="2" N="RD">veer</SEG>,</LT>
+
+          <LL>sen meu mandad&#39; e non me quis veer,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="trager" N="3" NS="10" RI="er">
+          <LT>e ora manda-vos preito trager</LT>
+
+          <LL>e ora manda-vos preito trager</LL>
+        </L>
+
+        <L AC="--+------+" ERI="mi" N="4" NS="10" RI="i">
+          <LT>que vos veja, por tal que veja mi;</LT>
+
+          <LL>que vos veja, por tal que veja mi;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+-" ERI="grado" N="5" NS="9" RI="ado">
+            <LT>se el vir vós, nen mi per meu <SEG C="R" ID="4" N="PV">grado</SEG>,</LT>
+
+            <LL>se el vir vós, nen mi per meu grado,</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="irado" N="6" NS="9" RI="ado">
+            <LT>San Salvador mi seja ir<SEG C="R" ID="6" N="CCR">ado</SEG></LT>
+
+            <LL>San Salvador mi seja irado</LL>
+
+            <ANTRO T="REAL">San Salvador</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="cc"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 9&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-----+-" ERI="ousado" N="1" NS="9" RI="ado">
+          <LT>E sei ben que non é tan ous<SEG C="R" ID="6" N="CCR">ado</SEG></LT>
+
+          <LL>E sei ben que non é tan ousado</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="grado" N="2" NS="9" RI="ado">
+          <LT>que vos el veja sen vosso <SEG C="R" ID="4" N="PV">grado</SEG>.</LT>
+
+          <LL>que vos el veja sen vosso grado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="100002" NE="3+F" OL="NON" SG="NO" TC="REFR" XE="EM">
+      <INCIPIT>Un sangrador de Leirea</INCIPIT>
+
+      <NUCANT>100 2</NUCANT>
+
+      <ATRIB NOME="Johan Fernandez d&#39; Ardeleiro">
+        <NUCANT>68 4</NUCANT>
+
+        <P>Esta cantiga, xunto coa 100 1, aparecen atribuídas en V a Johan
+        Fernandez d&#39; Ardeleiro</P>
+      </ATRIB>
+
+      <RM BCA="B" EM="NO" F="285r" I.FI="lb285r" MU="NON" NM="1330"><NOTMAN
+      N="1">A primeira parte do verso 4I ofrece en B unha lectura diferente</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="148v" I.FI="lv148v" MU="NON" NM="936"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1279</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 936</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesía obscena</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 158</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Lopes 468</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="202"><COMAU><P>Lapa atribúe esta cantiga a
+      Johan Fernandez d&#39; Ardeleiro</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>28/09/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = b II)</P></FRI>
+
+      <NOTC>9ged <COMNOTC><P>Nota colocciana situada na parte superior da
+      cantiga na columna a do folio 285r. Aparece a abreviatura habitual para
+      con e falta a vocal final. Fai referencia á presencia de fiinda na
+      composición.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="IPR"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="abbacCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>164:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="Leirea" N="1" NS="7" RI="ea">
+          <LT>Un sangrador de Leirea</LT>
+
+          <LL>Un sangrador de Leirea</LL>
+
+          <TOPO CAT="CIUDAD">Leirea</TOPO>
+        </L>
+
+        <L AC="--+---+-" ERI="dia" N="2" NS="7" RI="ia">
+          <LT>me sangrou estoutro dia,</LT>
+
+          <LL>me sangrou estoutro dia,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="fazia" N="3" NS="7" RI="ia">
+          <LT>e vedes que me fazia:</LT>
+
+          <LL>e vedes que me fazia:</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="vea" N="4" NS="7" RI="ea">
+          <LT>andand&#39; a buscar a vea,</LT>
+
+          <LL>andand&#39; a buscar a vea,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="apalpar" N="5" NS="7" RI="ar">
+          <LT>foi-me no cu<SEG C="M" ID="1" N="SIN">u a</SEG>palpar:</LT>
+
+          <LL>foi-me no cuu apalpar:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="sangrar" N="6" NS="7" RI="ar">
+            <LT>al fodi<SEG C="M" ID="2" N="SIN">do i</SEG>rá <SEG C="R"
+            ID="3" N="RD">sangrar</SEG></LT>
+
+            <LL>al fodido irá sangrar</LL>
+          </L>
+
+          <L AC="--+---+" ERI="logar" N="7" NS="7" RI="ar">
+            <LT><SEG C="R" ID="4" N="CFR">sangrador</SEG> en tal logar!</LT>
+
+            <LL>sangrador en tal logar!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="abbacCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>164:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+-" ERI="amiga" N="1" NS="7" RI="iga">
+          <LT>Este <SEG C="R" ID="4" N="CFR">sangrador</SEG>, amiga,</LT>
+
+          <LL>Este sangrador, amiga,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="sangria" N="2" NS="7" RI="ia">
+          <LT>traz ũa nova <SEG C="R" ID="3" N="RD">sangria</SEG>,</LT>
+
+          <LL>traz ũa nova sangria,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="percebia" N="3" NS="7" RI="ia">
+          <LT>onde m&#39; eu non percebia:</LT>
+
+          <LL>onde m&#39; eu non percebia:</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="barriga" N="4" NS="7" RI="iga">
+          <LT>filhou-me pela barriga,</LT>
+
+          <LL>filhou-me pela barriga,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="sofaldrar" N="5" NS="7" RI="ar">
+          <LT>começou a sofaldrar:</LT>
+
+          <LL>começou a sofaldrar:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="sangrar" N="6" NS="7" RI="ar">
+            <LT>al fodi<SEG C="M" ID="5" N="SIN">do i</SEG>rá <SEG C="R"
+            ID="3" N="RD">sangrar</SEG></LT>
+
+            <LL>al fodido irá sangrar</LL>
+          </L>
+
+          <L AC="--+---+" ERI="logar" N="7" NS="7" RI="ar">
+            <LT><SEG C="R" ID="6" N="CFR">sangrador</SEG> en tal logar!</LT>
+
+            <LL>sangrador en tal logar!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+2">
+        <ESQRIM TIPO="abbacCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7 7 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>164:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+-" ERI="achedes" N="1" NS="7" RI="edes">
+          <LT>E tal <SEG C="R" ID="6" N="CFR">sangrador</SEG> achedes,</LT>
+
+          <LL>E tal sangrador achedes,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="sangrades" N="2" NS="7" RI="ades">
+          <LT>amiga, se vos <SEG C="R" ID="3" N="RD">sangrades</SEG>:</LT>
+
+          <LL>amiga, se vos sangrades:</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="percatades" N="3" NS="7" RI="ades">
+          <LT>quando vos non percatades,</LT>
+
+          <LL>quando vos non percatades,</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="queredes" N="4" NS="7" RI="edes">
+          <LT>se lho consentir queredes,</LT>
+
+          <LL>se lho consentir queredes,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="provar" N="5" NS="7" RI="ar">
+          <LT><SEG C="R" ID="7" N="CF">querrá</SEG>-vos ele provar:</LT>
+
+          <LL>querrá-vos ele provar:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="sangrar" N="6" NS="7" RI="ar">
+            <LT>al fodi<SEG C="M" ID="8" N="SIN">do i</SEG>rá <SEG C="R"
+            ID="3" N="RD">sangrar</SEG></LT>
+
+            <LL>al fodido irá sangrar</LL>
+          </L>
+
+          <L AC="--+---+" ERI="logar" N="7" NS="7" RI="ar">
+            <LT>sangrador en tal log<SEG C="R" ID="9" N="CCR">ar</SEG>!</LT>
+
+            <LL>sangrador en tal logar!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="cc"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+" ERI="jogar" N="1" NS="7" RI="ar">
+          <LT>Quen tal jogo <SEG C="R" ID="7" N="CF">quer</SEG> <SEG C="R"
+          ID="10" N="RD">jog<SEG C="R" ID="9" N="CCR">ar</SEG></SEG>,</LT>
+
+          <LL>Quen tal jogo quer jogar,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="joguetar" N="2" NS="7" RI="ar">
+          <LT>con sa mai<SEG C="M" ID="11" N="SIN"> vaa</SEG> <SEG C="R"
+          ID="10" N="RD">joguetar</SEG>.</LT>
+
+          <LL>con sa mai vaa joguetar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

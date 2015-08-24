@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018014" TC = "MEST" NE = "12" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Don Gon&ccedil;alo, pois queredes ir daqui pera Sevilha</INCIPIT>
+<NUCANT>18 14</NUCANT>
+<RM BCA = "B" NM = "466" F = "102v" MU = "NON" EM = "NO" I.FI = "lb102v"></RM>
+<RM BCA = "B" NM = "466" F = "103r" MU = "NON" EM = "NO" I.FI = "lb103r"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, pp. 380-381</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 358</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 408</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, pp. 66-67</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 35</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 28</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "11"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>20/10/04</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "TRA">
+<SUBTEMA CAT = "XT"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ilha" ERI = "Sevilha" AC = "--+---+-/--+---+-">
+<LT>Don Gon&ccedil;alo, pois queredes<SEG C = "M" N = "CAE" ID = "1"></SEG> ir daqui pera Sevilha,</LT>
+<LL>Don Gon&ccedil;alo, pois queredes ir daqui pera Sevilha,</LL>
+
+<ANTRO T = "REAL">Gon&ccedil;l' Eanes do Vinhal (Don Gon&ccedil;alo)</ANTRO>
+<TOPO CAT = "CIUDAD">Sevilha</TOPO></L>
+<L N = "2" NS = "15" RI = "ilha" ERI = "maravilha" AC = "-+---+-/---+---+-">
+<LT>por veerdes voss' amigo<SEG C = "M" N = "CAE" ID = "2"></SEG>, e nono tenh' a maravilha,</LT>
+<LL>por veerdes voss' amigo, e nono tenh' a maravilha,</LL>
+</L>
+<L N = "3" NS = "15" RI = "ilha" ERI = "milha" AC = "---+--+-/+-+---+-">
+<LT>contar-vos-ei as jornadas <SEG C = "M" N = "CAE" ID = "3"></SEG>le<SEG C = "M" N = "SIN" ID = "4">goa <SEG C = "I" N = "RE" ID = "5">a</SEG></SEG> legoa, mi<SEG C = "M" N = "SIN" ID = "6">lh<SEG C = "I" N = "RE" ID = "7">a</SEG> a</SEG> milha.</LT>
+<LL>contar-vos-ei as jornadas legoa a legoa, milha a milha.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "anto" ERI = "quanto" AC = "--+---+-/---+--+-">
+<LT><SEG C = "M" N = "SIN" ID = "8">E ir</SEG> podedes a Libira<SEG C = "M" N = "CAE" ID = "9"></SEG> e torceredes ja quanto,</LT>
+<LL>E ir podedes a Libira e torceredes ja quanto,</LL>
+
+<TOPO CAT = "ALDEA">Libira</TOPO></L>
+<L N = "2" NS = "15" RI = "anto" ERI = "espanto" AC = "--+----+/--+---+-">
+<LT>e depois ir a Alcal&aacute;<SEG C = "M" N = "CAE" ID = "10"></SEG> se<SEG C = "I" N = "RE" ID = "11">n</SEG> pavor e sen espanto</LT>
+<LL>e depois ir a Alcal&aacute; sen pavor e sen espanto</LL>
+
+<TOPO CAT = "CIUDAD">Alcal&aacute;</TOPO></L>
+<L N = "3" NS = "15" RI = "anto" ERI = "manto" AC = "---+---+/--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "12">que <SEG C = "R" N = "CF" ID = "13">v&oacute;s</SEG></SEG> ajades d' i perder<SEG C = "M" N = "CAE" ID = "14"></SEG> a garnacha nen no manto.</LT>
+<LL>que v&oacute;s ajades d' i perder a garnacha nen no manto.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "io" ERI = "brio" AC = "--+--+-+/-+--+-+-">
+<LT><SEG C = "M" N = "SIN" ID = "15">E &utilde;</SEG>a cousa sei eu de <SEG C = "R" N = "CF" ID = "13">v&oacute;s </SEG><SEG C = "M" N = "CAE" ID = "16"></SEG>e tenho por mui gran brio,</LT>
+<LL>E &utilde;a cousa sei eu de v&oacute;s e tenho por mui gran brio,</LL>
+</L>
+<L N = "2" NS = "15" RI = "io" ERI = "fio" AC = "--+--+-/---+---+-">
+<LT>e poren vo-lo juro <SEG C = "M" N = "CAE" ID = "17"></SEG>muit<SEG C = "I" N = "RE" ID = "18">o</SEG> a firmes e afio:</LT>
+<LL>e poren vo-lo juro muito a firmes e afio:</LL>
+</L>
+<L N = "3" NS = "15" RI = "io" ERI = "estio" AC = "---+---+/--+---+-">
+<LT>que sem<SEG C = "M" N = "SIN" ID = "19">pre a</SEG>vedes a morrer <SEG C = "M" N = "CAE" ID = "20"></SEG>en invern' o<SEG C = "I" N = "RE" ID = "21">u</SEG> en estio.</LT>
+<LL>que sempre avedes a morrer en invern' ou en estio.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "elho" ERI = "conselho" AC = "--+---+-/---+--+-">
+<LT>Eu poren<SEG C = "I" N = "RE" ID = "21">de</SEG> vo-lo rogo<SEG C = "M" N = "CAE" ID = "22"></SEG> e vo-lo dou en conselho</LT>
+<LL>Eu porende vo-lo rogo e vo-lo dou en conselho</LL>
+</L>
+<L N = "2" NS = "15" RI = "elho" ERI = "espelho" AC = "-+-+--+-/--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "12">que v&oacute;s</SEG>, entra<SEG C = "I" N = "RE" ID = "23">n</SEG><SEG C = "M" N = "SIN" ID = "24">te a</SEG> Sevilha<SEG C = "M" N = "CAE" ID = "25"></SEG>, vos catedes no espelho</LT>
+<LL>que v&oacute;s, entrante a Sevilha, vos catedes no espelho</LL>
+
+<TOPO CAT = "CIUDAD">Sevilha</TOPO></L>
+<L N = "3" NS = "15" RI = "elho" ERI = "Coelho" AC = "--+---+-/--+-+-+-">
+<LT><SEG C = "R" N = "CD" ID = "26">e non</SEG> dedes nemigalha <SEG C = "M" N = "CAE" ID = "27"></SEG>por mente de Joan <SEG C = "R" N = "RD" ID = "28">Coelho</SEG>.</LT>
+<LL>e non dedes nemigalha por mente de Joan Coelho.</LL>
+
+<ANTRO T = "REAL">Johan Soarez Coelho? (Joan Coelho)</ANTRO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "astes" ERI = "punhastes" AC = "--+---+-/+--+--+-">
+<LT>Por que vos todos amassen <SEG C = "M" N = "CAE" ID = "29"></SEG>sempre v&oacute;s muito punhastes,</LT>
+<LL>Por que vos todos amassen sempre v&oacute;s muito punhastes,</LL>
+</L>
+<L N = "2" NS = "15" RI = "astes" ERI = "chegastes" AC = "--+---+-/-+----+-">
+<LT>b&otilde;&otilde;s talhos en Espanha <SEG C = "M" N = "CAE" ID = "30"></SEG>metestes, pois i <SEG C = "R" N = "RD" ID = "31">chegastes</SEG>,</LT>
+<LL>b&otilde;&otilde;s talhos en Espanha metestes, pois i chegastes,</LL>
+
+<TOPO CAT = "CIRCUNS">Espanha</TOPO></L>
+<L N = "3" NS = "15" RI = "astes" ERI = "gaanhastes" AC = "-+--+--+/+-+---+-">
+<LT>e quen se convosco filhou<SEG C = "M" N = "CAE" ID = "32"></SEG>, <SEG C = "R" N = "CF" ID = "33">sempre</SEG> v&oacute;s d' el gaanhastes.</LT>
+<LL>e quen se convosco filhou, sempre v&oacute;s d' el gaanhastes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ado" ERI = "mesurado" AC = "---+--+-/+-+---+-">
+<LT>Sen esto, fostes cousido <SEG C = "M" N = "CAE" ID = "34"></SEG><SEG C = "R" N = "CF" ID = "33">sempre</SEG> muit' e mesurado,</LT>
+<LL>Sen esto, fostes cousido sempre muit' e mesurado,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ado" ERI = "talhado" AC = "---+--+-/--+-+-+-">
+<LT>de todas cousas comprido <SEG C = "M" N = "CAE" ID = "35"></SEG>e apost' e ben <SEG C = "R" N = "RD" ID = "36">talhado</SEG>,</LT>
+<LL>de todas cousas comprido e apost' e ben talhado,</LL>
+</L>
+<L N = "3" NS = "15" RI = "ado" ERI = "aventurado" AC = "---+--+-/-+----+-">
+<LT>e <SEG C = "I" N = "RE" ID = "37">e</SEG>nos feitos ardido <SEG C = "M" N = "CAE" ID = "38"></SEG>e muito aventurado.</LT>
+<LL>e enos feitos ardido e muito aventurado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "7">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ada" ERI = "alumeada" AC = "-+-+--+-/--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "39">E pois que</SEG> vossa fazenda <SEG C = "M" N = "CAE" ID = "40"></SEG>teedes ben alumeada</LT>
+<LL>E pois que vossa fazenda teedes ben alumeada</LL>
+</L>
+<L N = "2" NS = "15" RI = "ada" ERI = "talhada" AC = "--+-+-+-/-+--+-+-">
+<LT>e queredes ben amiga <SEG C = "M" N = "CAE" ID = "41"></SEG>fremosa e ben <SEG C = "R" N = "RD" ID = "36">talhada</SEG>,</LT>
+<LL>e queredes ben amiga fremosa e ben talhada,</LL>
+</L>
+<L N = "3" NS = "15" RI = "ada" ERI = "guisada" AC = "--+---+-/--+---+-">
+<LT>non fa&ccedil;ades dela capa<SEG C = "M" N = "CAE" ID = "42"></SEG>, ca non &eacute; cousa guisada.</LT>
+<LL>non fa&ccedil;ades dela capa, ca non &eacute; cousa guisada.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "8">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "eiro" ERI = "cavaleiro" AC = "-+-+--+-/--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "39">E pois que</SEG> sodes aposto <SEG C = "M" N = "CAE" ID = "43"></SEG>e fremoso cavaleiro,</LT>
+<LL>E pois que sodes aposto e fremoso cavaleiro,</LL>
+</L>
+<L N = "2" NS = "15" RI = "eiro" ERI = "ponteiro" AC = "-+-+--+-/---+--+-">
+<LT>g<SEG C = "I" N = "RE" ID = "44">u</SEG>ardade vos de seerdes <SEG C = "M" N = "CAE" ID = "45"></SEG>escatimoso ponteiro,</LT>
+<LL>guardade vos de seerdes escatimoso ponteiro,</LL>
+</L>
+<L N = "3" NS = "15" RI = "eiro" ERI = "Coelheiro" AC = "-+----+-/---+--+-">
+<LT>ca dizen que baralhastes <SEG C = "M" N = "CAE" ID = "46"></SEG>con <SEG C = "I" N = "RE" ID = "47">Don</SEG> Joan <SEG C = "R" N = "RD" ID = "28">Coelh<SEG C = "I" N = "RE" ID = "48">e</SEG>iro</SEG>.</LT>
+<LL>ca dizen que baralhastes con Don Joan Coelheiro.</LL>
+
+<ANTRO T = "REAL">Johan Soarez Coelho? (Don Joan Coelheiro)</ANTRO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "9">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "istes" ERI = "compristes" AC = "--+---+-/-+-+--+-">
+<LT>Con aquesto que avedes <SEG C = "M" N = "CAE" ID = "49"></SEG>mui mais ca outro compristes;</LT>
+<LL>Con aquesto que avedes mui mais ca outro compristes;</LL>
+</L>
+<L N = "2" NS = "15" RI = "istes" ERI = "saistes" AC = "-+-+--+-/--+---+-">
+<LT>u quer que m&atilde;o metestes<SEG C = "M" N = "CAE" ID = "50"></SEG>, guarecendo, en saistes;</LT>
+<LL>u quer que m&atilde;o metestes, guarecendo, en saistes;</LL>
+</L>
+<L N = "3" NS = "15" RI = "istes" ERI = "escarnistes" AC = "--+---+-/--+---+-">
+<LT>a quen quer que cometestes<SEG C = "M" N = "CAE" ID = "51"></SEG>, sempre <SEG C = "R" N = "CF" ID = "52">mal</SEG> o escarnistes.</LT>
+<LL>a quen quer que cometestes, sempre mal o escarnistes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "10">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ango" ERI = "tango" AC = "----+--+/----+-+-">
+<LT><SEG C = "R" N = "CD" ID = "26">E non</SEG> me tenhades por <SEG C = "R" N = "CF" ID = "52">mal</SEG><SEG C = "M" N = "CAE" ID = "53"></SEG>, se en vossas armas tango:</LT>
+<LL>E non me tenhades por mal, se en vossas armas tango:</LL>
+</L>
+<L N = "2" NS = "15" RI = "ango" ERI = "mango" AC = "-+-+--+-/--+---+-">
+<LT>que foi das duas <SEG C = "I" N = "RE" ID = "54">e</SEG>spadas <SEG C = "M" N = "CAE" ID = "55"></SEG>que andavan en &utilde;u mango?,</LT>
+<LL>que foi das duas espadas que andavan en &utilde;u mango?,</LL>
+</L>
+<L N = "3" NS = "15" RI = "ango" ERI = "frango" AC = "---+--+/-+---+-+-">
+<LT>ca <SEG C = "R" N = "CF" ID = "56">vos o&iacute; eu dizer</SEG><SEG C = "M" N = "CAE" ID = "57">: - Con estas petei e frango</SEG>.</LT>
+<LL>ca vos o&iacute; eu dizer: - Con estas petei e frango.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "11">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "assen" ERI = "chagassen" AC = "-+--+--+/---+--+-">
+<LT>E ar <SEG C = "R" N = "CF" ID = "56">o&iacute;-vos eu dizer</SEG> <SEG C = "I" N = "CAE" ID = "58"></SEG>que a quen quer que <SEG C = "R" N = "RD" ID = "31">chagassen</SEG></LT>
+<LL>E ar o&iacute;-vos eu dizer que a quen quer que chagassen</LL>
+</L>
+<L N = "2" NS = "15" RI = "assen" ERI = "trabalhassen" AC = "---+--+-/-+----+-">
+<LT>con esta vossa espada<SEG C = "M" N = "CAE" ID = "59"></SEG>, que nunca se trabalhassen</LT>
+<LL>con esta vossa espada, que nunca se trabalhassen</LL>
+</L>
+<L N = "3" NS = "15" RI = "assen" ERI = "agulhassen" AC = "-+----+-/--+---+-">
+<LT>jamais de o guareceren<SEG C = "M" N = "CAE" ID = "60"></SEG>, se o ben non agulhassen.</LT>
+<LL>jamais de o guareceren, se o ben non agulhassen.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "12">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "aaa"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 15'</ESQMET></INFMET>
+<NUMESQ>1:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "adas" ERI = "espadas" AC = "--+---+-/+--+--+-">
+<LT>E por esto <SEG C = "I" N = "RE" ID = "61">vos</SEG> chamamos <SEG C = "M" N = "CAE" ID = "62"></SEG>n&oacute;s &quot;o das duas <SEG C = "R" N = "RD" ID = "63">espadas</SEG>&quot;,</LT>
+<LL>E por esto vos chamamos n&oacute;s &quot;o das duas espadas&quot;,</LL>
+</L>
+<L N = "2" NS = "15" RI = "adas" ERI = "amoadas" AC = "--+---+-/-+----+-">
+<LT>por que sempre as tragedes <SEG C = "M" N = "CAE" ID = "64"></SEG>agudas e amoadas,</LT>
+<LL>por que sempre as tragedes agudas e amoadas,</LL>
+</L>
+<L N = "3" NS = "15" RI = "adas" ERI = "espadadas" AC = "---+--+-/--+---+-">
+<LT>con que fendedes as penas<SEG C = "M" N = "CAE" ID = "65"></SEG>, dando grandes <SEG C = "R" N = "RD" ID = "63">espadadas</SEG>.</LT>
+<LL>con que fendedes as penas, dando grandes espadadas.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+

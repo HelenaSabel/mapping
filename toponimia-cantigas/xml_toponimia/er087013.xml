@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087013" TC = "REFR" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>O infan&ccedil;on ouv' atal</INCIPIT>
+<NUCANT>87 13</NUCANT>
+<RM BCA = "B" NM = "1349" F = "288v" MU = "NON" EM = "NO" I.FI = "lb288v"></RM>
+<RM BCA = "B" NM = "1349" F = "289r" MU = "NON" EM = "NO" I.FI = "lb289r"></RM>
+<RM BCA = "V" NM = "956" F = "152r" MU = "NON" EM = "NO" I.FI = "lv152r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 263</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1299</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 956</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvares Bl&aacute;zquez, Escolma, pp. 142-143</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 138</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 226</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "12"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>21/04/99</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Cf. a r&uacute;brica de 87,7.</RUBRICA>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "IN"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6+5">
+<ESQRIM TIPO = "aabaabCDCCD"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 6' 7 7 6' 7' 3' 7' 6' 6</ESQMET>
+<NOTMET>
+<P>Para Tavani o esquema &eacute; o seguinte: 7 7 7' 7 7 6' 7' 3' 7' 7'
+7</P></NOTMET></INFMET>
+<NUMESQ>32:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "al" ERI = "atal" AC = "---++-+">
+<LT><SEG C = "R" N = "CP" ID = "1">O infan&ccedil;on ouv' atal</SEG></LT>
+<LL>O infan&ccedil;on ouv' atal</LL>
+</L>
+<L N = "2" NS = "7" RI = "al" ERI = "Natal" AC = "+-+---+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">tr&eacute;goa</SEG> migo, des Natal</SEG>,</LT>
+<LL>tr&eacute;goa migo, des Natal,</LL>
+</L>
+<L N = "3" NS = "6" RI = "edes" ERI = "oyredes" AC = "-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "M" N = "SIN" ID = "3">que a</SEG>gora oyredes</SEG>:</LT>
+<LL>que agora oyredes:</LL>
+</L>
+<L N = "4" NS = "7" RI = "al" ERI = "mal" AC = "--+-+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">que lhi non dissesse mal</SEG></LT>
+<LL>que lhi non dissesse mal</LL>
+</L>
+<L N = "5" NS = "7" RI = "al" ERI = "brial" AC = "-+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">da sela nen do brial</SEG>.</LT>
+<LL>da sela nen do brial.</LL>
+</L>
+<L N = "6" NS = "6" RI = "edes" ERI = "vedes" AC = "---+-+-">
+<LT><SEG C = "R" N = "CD" ID = "4">Mays</SEG> aquel dia, vedes,</LT>
+<LL>Mays aquel dia, vedes,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "egoa" ERI = "l&eacute;goa" AC = "---+--+-">
+<LT>ante que foss' una l&eacute;goa</LT>
+<LL>ante que foss' una l&eacute;goa</LL>
+</L>
+<L N = "8" NS = "3" RI = "ei" ERI = "come&ccedil;ey" AC = "--+">
+<LT>come&ccedil;ey</LT>
+<LL>come&ccedil;ey</LL>
+</L>
+<L N = "9" NS = "7" RI = "egoa" ERI = "&eacute;goa" AC = "-+--+-+-">
+<LT>aqueste cantar da &eacute;goa,</LT>
+<LL>aqueste cantar da &eacute;goa,</LL>
+</L>
+<L N = "10" NS = "6" RI = "egoa" ERI = "tr&eacute;goa" AC = "---+-+-">
+<LT>que non andou na tr&eacute;goa</LT>
+<LL>que non andou na tr&eacute;goa</LL>
+</L>
+<L N = "11" NS = "6" RI = "ei" ERI = "cantey" AC = "--+--+">
+<LT>e poren lhi cantey.</LT>
+<LL>e poren lhi cantey.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6+5">
+<ESQRIM TIPO = "aabaabCDCCD"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 6' 7 7 6' 7' 3' 7' 6' 6</ESQMET>
+<NOTMET>
+<P>Para Tavani o esquema &eacute; o seguinte: 7 7 7' 7 7 6' 7' 3' 7' 7'
+7</P></NOTMET></INFMET>
+<NUMESQ>32:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "i" ERI = "dy" AC = "--+-+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">Non negu' eu que tr&eacute;goa <SEG C = "R" N = "RD" ID = "5">dy</SEG></SEG></LT>
+<LL>Non negu' eu que tr&eacute;goa dy</LL>
+</L>
+<L N = "2" NS = "7" RI = "i" ERI = "hi" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">ao brial, &aacute; sazon <SEG C = "R" N = "PV" ID = "6">hi</SEG></SEG>,</LT>
+<LL>ao brial, &aacute; sazon hi,</LL>
+</L>
+<L N = "3" NS = "6" RI = "osa" ERI = "rengelhosa" AC = "-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "2">e aa rengelhosa</SEG>,</LT>
+<LL>e aa rengelhosa,</LL>
+</L>
+<L N = "4" NS = "7" RI = "i" ERI = "hi" AC = "--+---+">
+<LT>e de pran andaron <SEG C = "R" N = "PV" ID = "6">hi</SEG></LT>
+<LL>e de pran andaron hi</LL>
+</L>
+<L N = "5" NS = "7" RI = "i" ERI = "ascari" AC = "-+----+">
+<LT>as mangas do ascari;</LT>
+<LL>as mangas do ascari;</LL>
+</L>
+<L N = "6" NS = "6" RI = "osa" ERI = "rabicosa" AC = "-+---+-">
+<LT><SEG C = "R" N = "CD" ID = "4">mays</SEG> non a rabicosa.</LT>
+<LL>mays non a rabicosa.</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "egoa" ERI = "l&eacute;goa" AC = "---+--+-">
+<LT>Ante que <SEG C = "I" N = "RE" ID = "8">foss'</SEG> huna l&eacute;goa</LT>
+<LL>Ante que foss' huna l&eacute;goa</LL>
+</L>
+<L N = "8" NS = "3" RI = "ei" ERI = "come&ccedil;ey" AC = "--+">
+<LT>come&ccedil;ey</LT>
+<LL>come&ccedil;ey</LL>
+</L>
+<L N = "9" NS = "7" RI = "egoa" ERI = "&eacute;goa" AC = "-+--+-+-">
+<LT>aqueste cantar da &eacute;goa,</LT>
+<LL>aqueste cantar da &eacute;goa,</LL>
+</L>
+<L N = "10" NS = "6" RI = "egoa" ERI = "tr&eacute;goa" AC = "---+-+-">
+<LT>que non andou na tr&eacute;goa</LT>
+<LL>que non andou na tr&eacute;goa</LL>
+</L>
+<L N = "11" NS = "6" RI = "ei" ERI = "cantey" AC = "--+--+">
+<LT>e poren lhi cantey.</LT>
+<LL>e poren lhi cantey.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6+5">
+<ESQRIM TIPO = "aabaabCDCCD"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 6' 7 7 6' 7' 3' 7' 6' 6</ESQMET>
+<NOTMET>
+<P>Para Tavani o esquema &eacute; o seguinte: 7 7 7' 7 7 6' 7' 3' 7' 7'
+7</P></NOTMET></INFMET>
+<NUMESQ>32:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "on" ERI = "infan&ccedil;on" AC = "-+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Dey eu ao infan&ccedil;on</SEG></LT>
+<LL>Dey eu ao infan&ccedil;on</LL>
+</L>
+<L N = "2" NS = "7" RI = "-" ERI = "-" AC = "----+..">
+<LT><SEG C = "R" N = "CP" ID = "1">e a seu brial <SEG C = "I" N = "AU" ID = "9">...</SEG></SEG>,</LT>
+<LL>e a seu brial ...,</LL>
+</L>
+<L N = "3" NS = "6" RI = "ia" ERI = "pedia" AC = "+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "10">tr&eacute;goa</SEG>, que mh' a pedia</SEG>,</LT>
+<LL>tr&eacute;goa, que mh' a pedia,</LL>
+</L>
+<L N = "4" NS = "7" RI = "on" ERI = "Zevron" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">e a outro Zevron</SEG></LT>
+<LL>e a outro Zevron</LL>
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+<L N = "5" NS = "7" RI = "on" ERI = "selegon" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">a que reng' o selegon</SEG>;</LT>
+<LL>a que reng' o selegon;</LL>
+</L>
+<L N = "6" NS = "6" RI = "ia" ERI = "dia" AC = "-+---+-">
+<LT><SEG C = "R" N = "CD" ID = "4">mays</SEG> logo, naquel dia,</LT>
+<LL>mays logo, naquel dia,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "egoa" ERI = "l&eacute;goa" AC = "---+--+-">
+<LT>ante que foss' una l&eacute;goa</LT>
+<LL>ante que foss' una l&eacute;goa</LL>
+</L>
+<L N = "8" NS = "3" RI = "ei" ERI = "come&ccedil;ey" AC = "--+">
+<LT><SEG C = "I" N = "RE" ID = "11">come&ccedil;ey</SEG></LT>
+<LL>come&ccedil;ey</LL>
+</L>
+<L N = "9" NS = "7" RI = "egoa" ERI = "&eacute;goa" AC = "-+--+-+-">
+<LT><SEG C = "I" N = "RE" ID = "11">aqueste cantar da &eacute;goa</SEG>,</LT>
+<LL>aqueste cantar da &eacute;goa,</LL>
+</L>
+<L N = "10" NS = "6" RI = "egoa" ERI = "tr&eacute;goa" AC = "---+-+-">
+<LT><SEG C = "I" N = "RE" ID = "11">que non andou na tr&eacute;goa</SEG></LT>
+<LL>que non andou na tr&eacute;goa</LL>
+</L>
+<L N = "11" NS = "6" RI = "ei" ERI = "cantey" AC = "--+--+">
+<LT><SEG C = "I" N = "RE" ID = "11">e poren lhi cantey</SEG>.</LT>
+<LL>e poren lhi cantey.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "6+5">
+<ESQRIM TIPO = "aabaabCDCCD"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 6' 7 7 6' 7' 3' 7' 6' 6</ESQMET>
+<NOTMET>
+<P>Para Tavani o esquema &eacute; o seguinte: 7 7 7' 7 7 6' 7' 3' 7' 7'
+7</P></NOTMET></INFMET>
+<NUMESQ>32:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "an" ERI = "vilan" AC = "----+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">Ao infan&ccedil;on vilan</SEG>,</LT>
+<LL>Ao infan&ccedil;on vilan,</LL>
+</L>
+<L N = "2" NS = "7" RI = "an" ERI = "can" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">affamado come can</SEG>,</LT>
+<LL>affamado come can,</LL>
+</L>
+<L N = "3" NS = "6" RI = "ada" ERI = "canterllada" AC = "-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">e a<SEG C = "I" N = "RE" ID = "12">a </SEG>canterllada</SEG>,</LT>
+<LL>e aa canterllada,</LL>
+</L>
+<L N = "4" NS = "7" RI = "an" ERI = "Alvan" AC = "--+-+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">e o seu brial d' Alvan</SEG></LT>
+<LL>e o seu brial d' Alvan</LL>
+<TOPO CAT = "TOPOME">Alvan</TOPO>
+</L>
+<L N = "5" NS = "7" RI = "an" ERI = "pram" AC = "+----+-+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "10">tr&eacute;goa</SEG> lhi dey eu de pram</SEG>;</LT>
+<LL>tr&eacute;goa lhi dey eu de pram;</LL>
+</L>
+<L N = "6" NS = "6" RI = "ada" ERI = "dada" AC = "---+-+-">
+<LT>e pois lh' a ouvj <SEG C = "R" N = "RD" ID = "5">dada</SEG>,</LT>
+<LL>e pois lh' a ouvj dada,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "egoa" ERI = "l&eacute;goa" AC = "---+--+-">
+<LT>ante que foss' una l&eacute;goa</LT>
+<LL>ante que foss' una l&eacute;goa</LL>
+</L>
+<L N = "8" NS = "3" RI = "ei" ERI = "come&ccedil;ey" AC = "--+">
+<LT><SEG C = "I" N = "RE" ID = "13">come&ccedil;ey</SEG></LT>
+<LL>come&ccedil;ey</LL>
+</L>
+<L N = "9" NS = "7" RI = "egoa" ERI = "&eacute;goa" AC = "-+--+-+-">
+<LT><SEG C = "I" N = "RE" ID = "13">aqueste cantar da &eacute;goa</SEG>,</LT>
+<LL>aqueste cantar da &eacute;goa,</LL>
+</L>
+<L N = "10" NS = "6" RI = "egoa" ERI = "tr&eacute;goa" AC = "---+-+-">
+<LT><SEG C = "I" N = "RE" ID = "13">que non andou na tr&eacute;goa</SEG></LT>
+<LL>que non andou na tr&eacute;goa</LL>
+</L>
+<L N = "11" NS = "6" RI = "ei" ERI = "cantey" AC = "--+--+">
+<LT><SEG C = "I" N = "RE" ID = "13">e poren lhi cantey</SEG>.</LT>
+<LL>e poren lhi cantey.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

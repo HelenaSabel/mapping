@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "127005" TC = "REFR" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Meu senhor, direi-vos ora</INCIPIT>
+<NUCANT>127 5</NUCANT>
+<RM BCA = "B" NM = "1445" F = "300v" MU = "NON" EM = "NO" I.FI = "lb300v"></RM>
+<RM BCA = "V" NM = "1056" F = "171v" MU = "NON" EM = "NO" I.FI = "lv171v"></RM>
+<RM BCA = "V" NM = "1056" F = "172r" MU = "NON" EM = "NO" I.FI = "lv172r"></RM>
+<EDIANT T = "CRITI">
+<P>Nunes, Barroso, pp. 8-9</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Pero Gomes Barroso, 12</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. VI, p. 299</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Magne, Afonso Sanches, pp. 61-62</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1358</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1056</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 361</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "394"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>14/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "ENG"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:68</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ora" ERI = "ora" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Meu senhor</SEG>, direi-vos ora:</LT>
+<LL>Meu senhor, direi-vos ora:</LL>
+</L>
+<L N = "2" NS = "7" RI = "ora" ERI = "Mora" AC = "---+--+-">
+<LT>pela carreira de Mora,</LT>
+<LL>pela carreira de Mora,</LL>
+<TOPO CAT = "TOPOME">Mora</TOPO></L>
+<L N = "3" NS = "7" RI = "ora" ERI = "fora" AC = "--+---+-">
+<LT>u v&oacute;s j&aacute; pousastes fora</LT>
+<LL>u v&oacute;s j&aacute; pousastes fora</LL>
+</L>
+<L N = "4" NS = "7" RI = "ouro" ERI = "Touro" AC = "--+---+-">
+<LT>e con vosco os de Touro,</LT>
+<LL>e con vosco os de Touro,</LL>
+<TOPO CAT = "TOPOME">Touro</TOPO></L>
+<L N = "5" NS = "7" RI = "ora" ERI = "chora" AC = "-+----+-">
+<LT>e, pero que alguen chora,</LT>
+<LL>e, pero que alguen chora,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "7" RI = "ouro" ERI = "mouro" AC = "-+----+-">
+<LT>tragu' eu o our' e o mouro.</LT>
+<LL>tragu' eu o our' e o mouro.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:68</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ada" ERI = "nada" AC = "---+--+-">
+<LT>Pero non vos custou nada</LT>
+<LL>Pero non vos custou nada</LL>
+</L>
+<L N = "2" NS = "7" RI = "ada" ERI = "tornada" AC = "-+----+-">
+<LT>mia ida nen mia tornada,</LT>
+<LL>mia ida nen mia tornada,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ada" ERI = "espada" AC = "--+---+-">
+<LT>grad' a Deus, con mia espada</LT>
+<LL>grad' a Deus, con mia espada</LL>
+</L>
+<L N = "4" NS = "7" RI = "ouro" ERI = "louro" AC = "--+---+-">
+<LT>e con meu cavalo louro,</LT>
+<LL>e con meu cavalo louro,</LL>
+</L>
+<L N = "5" NS = "7" RI = "ada" ERI = "Graada" AC = "--+---+-">
+<LT>ben da vila da Graada</LT>
+<LL>ben da vila da Graada</LL>
+<TOPO CAT = "CIUDAD">Granada (Graada)</TOPO></L>
+<REFRAN>
+<L N = "6" NS = "7" RI = "ouro" ERI = "mouro" AC = "-+----+-">
+<LT>tragu' eu o our' e o mouro.</LT>
+<LL>tragu' eu o our' e o mouro.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>13:68</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "elha" ERI = "semelha" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Meu senhor</SEG>, que vos semelha</LT>
+<LL>Meu senhor, que vos semelha</LL>
+</L>
+<L N = "2" NS = "7" RI = "elha" ERI = "aparelha" AC = "---+--+-">
+<LT>do que xe vosc' aparelha</LT>
+<LL>do que xe vosc' aparelha</LL>
+</L>
+<L N = "3" NS = "7" RI = "elha" ERI = "orelha" AC = "--+---+-">
+<LT>e vos anda na orelha</LT>
+<LL>e vos anda na orelha</LL>
+</L>
+<L N = "4" NS = "7" RI = "ouro" ERI = "abesouro" AC = "-+----+-">
+<LT>rogindo co<SEG C = "M" N = "SIN" ID = "2">me a</SEG>besouro?:</LT>
+<LL>rogindo come abesouro?:</LL>
+</L>
+<L N = "5" NS = "7" RI = "elha" ERI = "Telha" AC = "---+--+-">
+<LT><SEG C = "I" N = "RE" ID = "3">que</SEG> Ro&iacute; G&oacute;mez de Telha</LT>
+<LL>que Ro&iacute; G&oacute;mez de Telha</LL>
+<ANTRO T = "REAL">Ro&iacute; G&oacute;mez de Telha</ANTRO></L>
+<REFRAN>
+<L N = "6" NS = "7" RI = "ouro" ERI = "mouro" AC = "-+----+-">
+<LT>trag' <SEG C = "I" N = "RE" ID = "4">i</SEG> o our' e o mouro!</LT>
+<LL>trag' i o our' e o mouro!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

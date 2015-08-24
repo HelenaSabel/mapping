@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "067004" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Fui eu, madr', en romaria a Faro con meu amigo</INCIPIT>
+<NUCANT>67 4</NUCANT>
+<RM BCA = "B" NM = "1289" F = "271r" MU = "NON" EM = "NO" I.FI = "lb271r"></RM>
+<RM BCA = "V" NM = "894" F = "140v" MU = "NON" EM = "NO" I.FI = "lv140v"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 219-220</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1237</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 894</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 36</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Spina, L&iacute;rica, p. 354</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 149</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 523</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "499">
+<COMAU>
+<P>Como Lapa, O texto, p. 193, preferimos dispo&ntilde;e-la cantiga en versos
+longos, &oacute; tempo que, por motivos m&eacute;tricos, seguimos no v. 2 III a
+lectura ele de Lapa fronte a el de Nunes.</P></COMAU>
+</DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>3/07/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Joham de Requeixo
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 1289. Est&aacute;
+situada no folio 271r, columna a. O que de Requeixo abreviado.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Joham de requeyxo
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 894. Est&aacute;
+situada no folio 140v, columna b.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "LS"></TEMA>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7'</ESQMET></INFMET>
+<NUMESQ>37:15</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "igo" ERI = "amigo" AC = "+-+---+-/-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Fui eu, madr', en romaria<SEG C = "M" N = "CAE" ID = "2"></SEG> a Faro con meu amigo</SEG></LT>
+<LL>Fui eu, madr', en romaria a Faro con meu amigo</LL>
+<TOPO CAT = "LCULTO">Santa Maria do Faro (Faro)</TOPO></L>
+<L N = "2" NS = "15" RI = "igo" ERI = "comigo" AC = "-+-+--+-/-+--+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1">e <SEG C = "R" N = "CF" ID = "3">venho</SEG> d' el namorada<SEG C = "M" N = "CAE" ID = "4"></SEG> por quanto falou comigo</SEG>,</LT>
+<LL>e venho d' el namorada por quanto falou comigo,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ia" ERI = "morria" AC = "---+--+-">
+<LT>ca mi jurou que morria</LT>
+<LL>ca mi jurou que morria</LL>
+</L>
+<L N = "4" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>por mi; tal ben mi queria!</LT>
+<LL>por mi; tal ben mi queria!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>37:4
+<NOTNESQ>
+<P>Outras posibilidades, 26:12 (I), 26:3 (II, III); 217:4 (I), 244:8 (II),
+244:7 (III).</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "ei" ERI = "serei" AC = "+-+---+-/-+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Leda <SEG C = "R" N = "CF" ID = "3">venho</SEG> da ermida<SEG C = "M" N = "CAE" ID = "5"></SEG> e d' esta vez leda serei</SEG>,</LT>
+<LL>Leda venho da ermida e d' esta vez leda serei,</LL>
+</L>
+<L N = "2" NS = "16" RI = "ei" ERI = "desejei" AC = "--+---+-/-+-+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">ca falei <SEG C = "R" N = "CF" ID = "6">con meu amigo</SEG>,<SEG C = "M" N = "CAE" ID = "7"></SEG> que sempre <SEG C = "I" N = "RE" ID = "8">muito</SEG> desejei</SEG>,</LT>
+<LL>ca falei con meu amigo, que sempre muito desejei,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ia" ERI = "morria" AC = "---+--+-">
+<LT>ca mi jurou que morria</LT>
+<LL>ca mi jurou que morria</LL>
+</L>
+<L N = "4" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>por mi; tal ben mi queria!</LT>
+<LL>por mi; tal ben mi queria!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>37:4
+<NOTNESQ>
+<P>Outras posibilidades, 26:12 (I), 26:3 (II, III); 217:4 (I), 244:8 (II),
+244:7 (III).</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "on" ERI = "perdon" AC = "--+---+-/-+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Du m' eu vi <SEG C = "R" N = "CF" ID = "6">con meu amigo</SEG><SEG C = "M" N = "CAE" ID = "9"></SEG> vin leda, se Deus mi perdon</SEG>,</LT>
+<LL>Du m' eu vi con meu amigo vin leda, se Deus mi perdon,</LL>
+</L>
+<L N = "2" NS = "16" RI = "on" ERI = "enton" AC = "-+--+--+/---+-+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">ca nunca lhi cuid' a mentir<SEG C = "M" N = "CAE" ID = "10"></SEG> por quanto m' ele diss' enton</SEG>,</LT>
+<LL>ca nunca lhi cuid' a mentir por quanto m' ele diss' enton,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ia" ERI = "morria" AC = "---+--+-">
+<LT>ca mi jurou que morria</LT>
+<LL>ca mi jurou que morria</LL>
+</L>
+<L N = "4" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>por mi; tal ben mi queria!</LT>
+<LL>por mi; tal ben mi queria!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

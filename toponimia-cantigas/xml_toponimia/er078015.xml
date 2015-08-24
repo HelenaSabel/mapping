@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="078015" NE="3" OL="NON" SG="NO" TC="RINT" XE="EP">
+      <INCIPIT>Ogan&#39;, en Muimenta</INCIPIT>
+
+      <NUCANT>78 15</NUCANT>
+
+      <RM BCA="B" EM="NO" F="27r" I.FI="lb027r" MU="NON" NM="104"></RM>
+
+      <EDIANT T="CRITI">
+        <P>CA 375</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 78</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 78</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 8</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 15</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="243"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>22/09/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima b sing.)</P></FRI>
+
+      <NOTC>tornel? ver no facsímil <COMNOTC><P>Nota colocciana...</P></COMNOTC></NOTC>
+
+      <NOTC>Martinn gil <COMNOTC><P>Nota colocciana á cantiga B 104. Fai
+      referencia ónome subliñado no v. 2 I.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Johã soayrez ssomesso <COMRUBRI><P>Rúbrica atributiva que
+      precede á cantiga B 104. Está situada no folio 27r, columna b.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="CAS"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababCAbC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6 6&#39; 6 9 6&#39; 6 9</ESQMET>
+
+          <NOTMET>
+            <P>O v. 1 I é hipómetro ou temos que fazer un hiato en Muimenta.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>96:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-" ERI="Muimenta" N="1" NS="6" RI="enta">
+          <LT>Ogan&#39;, <SEG C="R" ID="1" N="PR">en Muimenta</SEG>,</LT>
+
+          <LL>Ogan&#39;, en Muimenta,</LL>
+
+          <TOPO CAT="ALDEA">Muimenta</TOPO>
+        </L>
+
+        <L AC="+-+--+" ERI="Gil" N="2" NS="6" RI="il">
+          <LT><SEG C="R" ID="2" N="CD">disse</SEG> Don Martin Gil;</LT>
+
+          <LL>disse Don Martin Gil;</LL>
+
+          <ANTRO T="REAL">Don Martin Gil</ANTRO>
+        </L>
+
+        <L AC="+--+-+-" ERI="tormenta" N="3" NS="6" RI="enta">
+          <LT>- <SEG C="R" ID="3" N="CPL">Viv&#39; en mui <SEG C="R" ID="4"
+N="PR">gran tormenta</SEG></SEG></LT>
+
+          <LL>- Viv&#39; en mui gran tormenta</LL>
+        </L>
+
+        <L AC="+--+-+" ERI="Abril" N="4" NS="6" RI="il">
+          <LT>Dona Orrac&#39; Abril,</LT>
+
+          <LL>Dona Orrac&#39; Abril,</LL>
+
+          <ANTRO T="REAL">Dona Orrac&#39; Abril</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+-+" ERI="pai" N="5" NS="9" RI="ai">
+            <LT>per como a quer casar seu pai;</LT>
+
+            <LL>per como a quer casar seu pai;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="ẽmenta" N="6" NS="6" RI="enta">
+            <LT>e, a quen lho ẽmenta,</LT>
+
+            <LL>e, a quen lho ẽmenta,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="+-+--+" ERI="Sil" N="7" NS="6" RI="il">
+          <LT><SEG C="R" ID="5" N="CPL">cedo moira no Sil</SEG></LT>
+
+          <LL>cedo moira no Sil</LL>
+
+          <TOPO CAT="HIDRON">Sil</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+----+-+" ERI="vai" N="8" NS="9" RI="ai">
+            <LT>e a<SEG C="I" ID="6" N="RE">r</SEG> ela, se se con Chora vai.</LT>
+
+            <LL>e ar ela, se se con Chora vai.</LL>
+
+            <ANTRO T="REAL">Chora ?????</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababCAbC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6 6&#39; 6 9 6&#39; 6 9</ESQMET>
+        </INFMET>
+
+        <NUMESQ>96:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-" ERI="Muimenta" N="1" NS="6" RI="enta">
+          <LT><SEG C="R" ID="7" N="CPL"><SEG C="R" ID="2" N="CD">E disse <SEG
+C="R" ID="1" N="PR">en Muimenta</SEG></SEG></SEG></LT>
+
+          <LL>E disse en Muimenta</LL>
+
+          <TOPO CAT="ALDEA">Muimenta</TOPO>
+        </L>
+
+        <L AC="-+---+" ERI="direi" N="2" NS="6" RI="ei">
+          <LT><SEG C="I" ID="8" N="RE">en</SEG> como vos direi:</LT>
+
+          <LL>en como vos direi:</LL>
+        </L>
+
+        <L AC="+-+--+-" ERI="tormenta" N="3" NS="8" RI="enta">
+          <LT>- <SEG C="R" ID="3" N="CPL">Ela viv&#39; en <SEG C="R" ID="4"
+N="PR">tormenta</SEG></SEG>,</LT>
+
+          <LL>- Ela viv&#39; en tormenta,</LL>
+        </L>
+
+        <L AC="-+---+" ERI="sei" N="4" NS="6" RI="ei">
+          <LT>segundo o eu sei,</LT>
+
+          <LL>segundo o eu sei,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+-+" ERI="pai" N="5" NS="9" RI="ai">
+            <LT>per como a quer casar seu pai;</LT>
+
+            <LL>per como a quer casar seu pai;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="ẽmenta" N="6" NS="6" RI="enta">
+            <LT>e, a quen lho ẽmenta,</LT>
+
+            <LL>e, a quen lho ẽmenta,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="+--+-+" ERI="Rei" N="7" NS="6" RI="ei">
+          <LT><SEG C="R" ID="5" N="CPL">cedo o ma<SEG C="M" ID="9" N="SIN">te el</SEG>-Rei</SEG></LT>
+
+          <LL>cedo o mate el-Rei</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+----+-+" ERI="vai" N="8" NS="9" RI="ai">
+            <LT>e a<SEG C="I" ID="10" N="RE">r</SEG> ela, se se con Chora vai.</LT>
+
+            <LL>e ar ela, se se con Chora vai.</LL>
+
+            <ANTRO T="REAL">Chora ?????</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababCAbC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6 6&#39; 6 9 6&#39; 6 9</ESQMET>
+        </INFMET>
+
+        <NUMESQ>96:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-" ERI="Muimenta" N="1" NS="6" RI="enta">
+          <LT><SEG C="R" ID="7" N="CPL">E disse <SEG C="R" ID="1" N="PR">en Muimenta</SEG></SEG>,</LT>
+
+          <LL>E disse en Muimenta,</LL>
+
+          <TOPO CAT="ALDEA">Muimenta</TOPO>
+        </L>
+
+        <L AC="-+-+-+" ERI="ben" N="2" NS="6" RI="en">
+          <LT>assi me venha ben:</LT>
+
+          <LL>assi me venha ben:</LL>
+        </L>
+
+        <L AC="+--+-+-" ERI="tormenta" N="3" NS="6" RI="enta">
+          <LT>- <SEG C="R" ID="3" N="CPL">Viv&#39; en tan <SEG C="R" ID="4"
+N="PR">gran tormenta</SEG></SEG></LT>
+
+          <LL>- Viv&#39; en tan gran tormenta</LL>
+        </L>
+
+        <L AC="-+-+-+" ERI="sen" N="4" NS="6" RI="en">
+          <LT>que quer perder o sen,</LT>
+
+          <LL>que quer perder o sen,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+-+" ERI="pai" N="5" NS="9" RI="ai">
+            <LT><SEG C="I" ID="11" N="RE">per como a quer casar seu pai</SEG>;</LT>
+
+            <LL>per como a quer casar seu pai;</LL>
+          </L>
+
+          <L AC="--+--+-" ERI="ẽmenta" N="6" NS="6" RI="enta">
+            <LT>e, a quen lho ẽmenta,</LT>
+
+            <LL>e, a quen lho ẽmenta,</LL>
+          </L>
+        </REFRAN>
+
+        <L AC="+-+--+" ERI="poren" N="7" NS="6" RI="en">
+          <LT><SEG C="R" ID="5" N="CPL">cedo moira poren</SEG></LT>
+
+          <LL>cedo moira poren</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+----+-+" ERI="vai" N="8" NS="9" RI="ai">
+            <LT>e a<SEG C="I" ID="12" N="RE">r</SEG> ela, se se con Chora vai.</LT>
+
+            <LL>e ar ela, se se con Chora vai.</LL>
+
+            <ANTRO T="REAL">Chora ?????</ANTRO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

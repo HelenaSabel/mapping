@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="018039" NE="3" OL="NON" SG="NO" TC="REFR" XE="EPO">
+      <INCIPIT>Se me graça fezesse este Papa de Roma!</INCIPIT>
+
+      <NUCANT>18 39</NUCANT>
+
+      <RM BCA="B" EM="NO" F="102r" I.FI="lb102r" MU="NON" NM="463"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 355</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 405</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Carballo/García, Afonso X, p. 64</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 33</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 26</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 47</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="8"><COMAU><P>Preferimos a interpretación de
+      Arias, Antoloxía, 47 no v. 3 I, onde Paredes le: que en levass&#39;el os
+      cabos e dess&#39;a mi a soma;</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>28/10/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>papa <COMNOTC><P>Nota lingüística situada na marxe inferior do
+      folio 102r de B. Refírese a palabra: papa, subliñada no 1 I.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="CL"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 11&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+--+-" ERI="Roma" N="1" NS="13" RI="oma">
+          <LT><SEG C="R" ID="1" N="CPL"><SEG C="R" ID="2" N="CD">Se</SEG> me graça fezesse este Papa de Roma</SEG>!</LT>
+
+          <LL>Se me graça fezesse este Papa de Roma!</LL>
+
+          <ANTRO T="REAL">Clemente IV ou Gregorio X (Papa de Roma)</ANTRO>
+
+          <TOPO CAT="CIRCUNS">Roma</TOPO>
+        </L>
+
+        <L AC="--+--+------+-" ERI="toma" N="2" NS="13" RI="oma">
+          <LT>Pois que el<SEG C="I" ID="3" N="RE">e</SEG> os panos da mia
+          reposte toma,</LT>
+
+          <LL>Pois que ele os panos da mia reposte toma,</LL>
+        </L>
+
+        <L AC="--+--+-----+-" ERI="soma" N="3" NS="13" RI="oma">
+          <LT>que en levass&#39; el os cabos e dess&#39; a mi a soma;</LT>
+
+          <LL>que en levass&#39; el os cabos e dess&#39; a mi a soma;</LL>
+        </L>
+
+        <L AC="---+--+-----+-" ERI="galdrapa" N="4" NS="13" RI="apa">
+          <LT><SEG C="R" ID="4" N="CD">mais</SEG> doutra guisa me foi el
+          vende-la galdrapa.</LT>
+
+          <LL>mais doutra guisa me foi el vende-la galdrapa.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+--+---+-" ERI="Papa" N="5" NS="13" RI="apa">
+            <LT>Quisera eu assi ora deste nosso Papa</LT>
+
+            <LL>Quisera eu assi ora deste nosso Papa</LL>
+
+            <ANTRO T="REAL">Clemente IV ou Gregorio X (Papa)</ANTRO>
+          </L>
+
+          <L AC="---+----+-+-" ERI="capa" N="6" NS="11" RI="apa">
+            <LT>que me talhasse melhor aquesta <SEG C="R" ID="5" N="PV">capa</SEG>.</LT>
+
+            <LL>que me talhasse melhor aquesta capa.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 11&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+--+-" ERI="cardeaes" N="1" NS="13" RI="aes">
+          <LT><SEG C="R" ID="1" N="CPL"><SEG C="R" ID="2" N="CD">Se</SEG> m&#39; el graça fezesse con os seus cardeaes</SEG>,</LT>
+
+          <LL>Se m&#39; el graça fezesse con os seus cardeaes,</LL>
+        </L>
+
+        <L AC="--+------+--+-" ERI="iguaes" N="2" NS="13" RI="aes">
+          <LT>que lh&#39; eu desse, que mos talhasse iguaaes;</LT>
+
+          <LL>que lh&#39; eu desse, que mos talhasse iguaaes;</LL>
+        </L>
+
+        <L AC="-----+---+--+-" ERI="sinaes" N="3" NS="13" RI="aes">
+          <LT><SEG C="R" ID="4" N="CD">mais</SEG> vedes en que vi en el<SEG
+          C="I" ID="6" N="RE">e</SEG> maos sinaes,</LT>
+
+          <LL>mais vedes en que vi en ele maos sinaes,</LL>
+        </L>
+
+        <L AC="------+--+--+-" ERI="capa" N="4" NS="13" RI="apa">
+          <LT>quand&#39; o que me furtou, foi cobri-lo <SEG C="R" ID="7"
+          N="PRI">sa <SEG C="R" ID="5" N="PV">capa</SEG></SEG>.</LT>
+
+          <LL>quand&#39; o que me furtou, foi cobri-lo sa capa.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+--+---+-" ERI="Papa" N="5" NS="13" RI="apa">
+            <LT>Quisera eu assi <SEG C="I" ID="8" N="RE">ora</SEG> deste nosso
+            Papa</LT>
+
+            <LL>Quisera eu assi ora deste nosso Papa</LL>
+
+            <ANTRO T="REAL">Clemente IV ou Gregorio X (Papa)</ANTRO>
+          </L>
+
+          <L AC="---+----+-+-" ERI="capa" N="6" NS="11" RI="apa">
+            <LT><SEG C="I" ID="9" N="RE">que me talhasse melhor aquesta <SEG
+C="R" ID="5" N="PV">capa</SEG></SEG>.</LT>
+
+            <LL>que me talhasse melhor aquesta capa.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 11&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+---+--+-" ERI="conselhos" N="1" NS="13" RI="elhos">
+          <LT><SEG C="R" ID="2" N="CD">Se</SEG> conos cardeaes, con que faça
+          seus conselhos,</LT>
+
+          <LL>Se conos cardeaes, con que faça seus conselhos,</LL>
+        </L>
+
+        <L AC="-----+---+--+-" ERI="trebelhos" N="2" NS="13" RI="elhos">
+          <LT>posesse que guardasse nós de maos trebelhos,</LT>
+
+          <LL>posesse que guardasse nós de maos trebelhos,</LL>
+        </L>
+
+        <L AC="-----+----+-+-" ERI="elhos" N="3" NS="13" RI="elhos">
+          <LT>fezera gran mercee, ca non furtar con elhos</LT>
+
+          <LL>fezera gran mercee, ca non furtar con elhos</LL>
+        </L>
+
+        <L AC="--+---+-----+-" ERI="capa" N="4" NS="13" RI="apa">
+          <LT>e panos dos cristãos meter so <SEG C="I" ID="10" N="RE">es</SEG><SEG
+          C="R" ID="7" N="PRI">sa <SEG C="R" ID="5" N="PV">capa</SEG></SEG>.</LT>
+
+          <LL>e panos dos cristãos meter so essa capa.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+--+---+-" ERI="Papa" N="5" NS="13" RI="apa">
+            <LT>Quisera eu assi <SEG C="I" ID="11" N="RE">ora</SEG> deste
+            nosso Papa</LT>
+
+            <LL>Quisera eu assi ora deste nosso Papa</LL>
+
+            <ANTRO T="REAL">Clemente IV ou Gregorio X (Papa)</ANTRO>
+          </L>
+
+          <L AC="---+----+-+-" ERI="capa" N="6" NS="11" RI="apa">
+            <LT><SEG C="I" ID="12" N="RE">que me talhasse melhor aquesta <SEG
+C="R" ID="5" N="PV">capa</SEG></SEG>.</LT>
+
+            <LL>que me talhasse melhor aquesta capa.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

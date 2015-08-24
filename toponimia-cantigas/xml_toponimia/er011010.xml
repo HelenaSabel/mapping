@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "011010" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Por fazer romaria, pug' en meu cora&ccedil;on</INCIPIT>
+<NUCANT>11 10</NUCANT>
+<RM BCA = "B" NM = "663" F = "142v" MU = "NON" EM = "NO" I.FI = "lb142v"></RM>
+<RM BCA = "B" NM = "663" F = "143r" MU = "NON" EM = "NO" I.FI = "lb143r"></RM>
+<RM BCA = "V" NM = "265" F = "38r" MU = "NON" EM = "NO" I.FI = "lv038r"></RM>
+<EDIANT T = "CRITI">
+<P>Amigo 97</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>CA II, p. 826</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 192</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 626</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 265</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 205</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 186</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 42</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 48</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 22-23, 414</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 149</P></EDIANT>
+<DATOAU NOME = "Minervini" NUA = "13"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>4/12/96</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13 13 10</ESQMET></INFMET>
+<NUMESQ>26:28
+<NOTNESQ>
+<P>Outra posibilidade, 95:2 (I), 230:10 (II-III)</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "on" ERI = "cora&ccedil;on" AC = "--+--+-/+-+--+">
+<LT>Por fazer romaria,<SEG C = "M" N = "CAE" ID = "1"></SEG> pug' en meu cora&ccedil;on,</LT>
+<LL>Por fazer romaria, pug' en meu cora&ccedil;on,</LL>
+</L>
+<L N = "2" NS = "13" RI = "on" ERI = "ora&ccedil;on" AC = "---+-+-/--+--+">
+<LT>a Santiag', un dia,<SEG C = "M" N = "CAE" ID = "2"></SEG> por <SEG C = "R" N = "CF" ID = "3">fazer</SEG> ora&ccedil;on</LT>
+<LL>a Santiag', un dia, por fazer ora&ccedil;on</LL>
+<TOPO CAT = "CIUDAD">Santiago</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "i" ERI = "i" AC = "---+--+--+">
+<LT>e por veer meu amigo logu' i.</LT>
+<LL>e por veer meu amigo logu' i.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13 13 10</ESQMET></INFMET>
+<NUMESQ>26:18
+<NOTNESQ>
+<P>Outra posibilidade, 95:2 (I), 230:10 (II-III)</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "or" ERI = "for" AC = "---++-/---+--+">
+<LT>E sse <SEG C = "R" N = "CF" ID = "3">fezer</SEG> tenpo,<SEG C = "M" N = "CAE" ID = "4"></SEG> e <SEG C = "M" N = "HIA" ID = "5">mha</SEG> madre non for,</LT>
+<LL>E sse fezer tenpo, e mha madre non for,</LL>
+</L>
+<L N = "2" NS = "13" RI = "or" ERI = "melhor" AC = "-+-+-+-/---+-+">
+<LT><SEG C = "R" N = "CF" ID = "6">querrey</SEG> andar mui leda,<SEG C = "M" N = "CAE" ID = "7"></SEG> e parecer melhor,</LT>
+<LL>querrey andar mui leda, e parecer melhor,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "i" ERI = "i" AC = "---+--+--+">
+<LT>e por veer meu amigo logu' i.</LT>
+<LL>e por veer meu amigo logu' i.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13 13 10</ESQMET></INFMET>
+<NUMESQ>26:28
+<NOTNESQ>
+<P>Outra posibilidade, 95:2 (I), 230:10 (II-III)</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ey" ERI = "poderey" AC = "+-+--+-/-+---+">
+<LT><SEG C = "R" N = "CF" ID = "6">Quer'</SEG> eu ora mui cedo<SEG C = "M" N = "CAE" ID = "8"></SEG> provar se poderey</LT>
+<LL>Quer' eu ora mui cedo provar se poderey</LL>
+</L>
+<L N = "2" NS = "13" RI = "ey" ERI = "ey" AC = "+-+--+-/--+--+">
+<LT>hir queymar mhas candeas,<SEG C = "M" N = "CAE" ID = "9"></SEG> con gran coita que ey,</LT>
+<LL>hir queymar mhas candeas, con gran coita que ey,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "i" ERI = "i" AC = "---+--+--+">
+<LT>e por veer meu amigo logu' i.</LT>
+<LL>e por veer meu amigo logu' i.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

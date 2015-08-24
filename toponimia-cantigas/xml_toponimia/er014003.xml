@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="014003" NE="1" OL="NON" SG="NO" TC="NA" XE="M R">
+      <INCIPIT>A Santiagu&#39; en romaria ven</INCIPIT>
+
+      <NUCANT>14 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="185v" I.FI="lb185v" MU="NON" NM="874"></RM>
+
+      <RM BCA="V" EM="NO" F="73r" I.FI="lv073r" MU="NON" NM="458"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 257</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Ayras Núnez, 5</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Machado 815</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 458</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Monaci 458</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Auswahl 36</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 445</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 26</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 93</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 316</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tavani, Airas Nunez" NUA="5"><COMAU><P>Apartámonos da
+      edición seguida en que non dispoñemos tipograficamente os dous últimos
+      versos como se fosen refrán.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>20/11/96</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <TEMA CAT="LED"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbacc"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>Tavani no RM. 160:259, sinalaba como eneasílabo o penúltimo
+            verso. Sen embargo, na edición galega de 1992, p. 105, afirma:
+            &#34;Modificando a miña postura anterior, sosteño tamén que convén
+            restaura-la medida silábica, sexa duplicando a vocal radical do
+            verbo -&#34;ca ve[e]rei ell-rei&#34;- sexa interpolando o suxeito
+            pronominal implícito -&#34;ca veerei [eu] ell-rei&#34;. Á vista
+            das argumentacións de Lapa, adopto a primeira das solucións&#34;.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="ven" N="1" NS="10" RI="en">
+          <LT>A Santiagu&#39; en romaria ven</LT>
+
+          <LL>A Santiagu&#39; en romaria ven</LL>
+
+          <TOPO CAT="CIUDAD">Santiago</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="coraçon" N="2" NS="10" RI="on">
+          <LT>el-rei, madr&#39;, e praz-me de coraçon</LT>
+
+          <LL>el-rei, madr&#39;, e praz-me de coraçon</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="perdon" N="3" NS="10" RI="on">
+          <LT>por duas cousas, se Deus me perdon,</LT>
+
+          <LL>por duas cousas, se Deus me perdon,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="ben" N="4" NS="10" RI="en">
+          <LT>en que teño que me faz Deus gran ben:</LT>
+
+          <LL>en que teño que me faz Deus gran ben:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="vi" N="5" NS="10" RI="i">
+          <LT>ca ve<SEG C="I" ID="2" N="RE">e</SEG>rei el-rei, que nunca vi,</LT>
+
+          <LL>ca veerei el-rei, que nunca vi,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="6" NS="10" RI="i">
+          <LT>e meu amigo que ven con el i.</LT>
+
+          <LL>e meu amigo que ven con el i.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

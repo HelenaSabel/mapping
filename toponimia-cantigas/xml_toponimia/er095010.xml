@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "095010" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Por Deus que vos non p&ecirc;s</INCIPIT>
+<NUCANT>95 10</NUCANT>
+<RM BCA = "B" NM = "1243" F = "263v" MU = "NON" EM = "NO" I.FI = "lb263v">
+<NOTMAN N = "1">En B falta a cobra III</NOTMAN></RM>
+<RM BCA = "B" NM = "1243" F = "264r" MU = "NON" EM = "NO" I.FI = "lb264r">
+<NOTMAN N = "1">En B falta a cobra III</NOTMAN></RM>
+<RM BCA = "V" NM = "848" F = "134r" MU = "NON" EM = "NO" I.FI = "lv134r"></RM>
+<RM BCA = "V" NM = "848" F = "134v" MU = "NON" EM = "NO" I.FI = "lv134v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1191</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 848</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 31</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 73</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 113</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 478</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "456"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>26/05/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1243.
+Est&aacute; situada na columna b do folio 263v.</P></COMNOTC></NOTC>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>6 6 6 6 6 6</ESQMET></INFMET>
+<NUMESQ>160:466</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "es" ERI = "p&ecirc;s" AC = "-+---+">
+<LT>Por Deus que vos non p&ecirc;s,</LT>
+<LL>Por Deus que vos non p&ecirc;s,</LL>
+</L>
+<L N = "2" NS = "6" RI = "or" ERI = "senhor" AC = "-+---+">
+<LT><SEG C = "R" N = "CD" ID = "1">mia madr'</SEG> e mia senhor,</LT>
+<LL>mia madr' e mia senhor,</LL>
+</L>
+<L N = "3" NS = "6" RI = "or" ERI = "Salvador" AC = "+----+">
+<LT>d' ir a Sam Salvador,</LT>
+<LL>d' ir a Sam Salvador,</LL>
+
+<TOPO CAT = "LCULTO">Sam Salvador</TOPO></L>
+<L N = "4" NS = "6" RI = "es" ERI = "tres" AC = "--+--+">
+<LT><SEG C = "R" N = "CPL" ID = "2">ca, se oj' i van tres</SEG></LT>
+<LL>ca, se oj' i van tres</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "6" RI = "ei" ERI = "serei" AC = "-+---+">
+<LT>fremosas, eu <SEG C = "R" N = "RD" ID = "3">serei</SEG></LT>
+<LL>fremosas, eu serei</LL>
+</L>
+<L N = "6" NS = "6" RI = "ei" ERI = "sei" AC = "-+---+">
+<LT>a &utilde;a, ben o sei.</LT>
+<LL>a &utilde;a, ben o sei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>6 6 6 6 6 6</ESQMET></INFMET>
+<NUMESQ>160:466</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "on" ERI = "ora&ccedil;on" AC = "--+--+">
+<LT>Por fazer ora&ccedil;on,</LT>
+<LL>Por fazer ora&ccedil;on,</LL>
+</L>
+<L N = "2" NS = "6" RI = "ir" ERI = "ir" AC = "--+--+">
+<LT>quer' oj' eu al&aacute; <SEG C = "R" N = "RD" ID = "4">ir</SEG>,</LT>
+<LL>quer' oj' eu al&aacute; ir,</LL>
+</L>
+<L N = "3" NS = "6" RI = "ir" ERI = "mentir" AC = "--+--+">
+<LT>e, por vos non mentir,</LT>
+<LL>e, por vos non mentir,</LL>
+</L>
+<L N = "4" NS = "6" RI = "on" ERI = "son" AC = "--+--+">
+<LT><SEG C = "R" N = "CPL" ID = "2">se oj' i duas <SEG C = "R" N = "CF" ID = "5"><SEG C = "R" N = "RD" ID = "3">son</SEG></SEG></SEG></LT>
+<LL>se oj' i duas son</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "6" RI = "ei" ERI = "serei" AC = "-+---+">
+<LT>fremosas, eu <SEG C = "R" N = "RD" ID = "3">serei</SEG></LT>
+<LL>fremosas, eu serei</LL>
+</L>
+<L N = "6" NS = "6" RI = "ei" ERI = "sei" AC = "-+---+">
+<LT>a &utilde;a, ben o sei.</LT>
+<LL>a &utilde;a, ben o sei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>6 6 6 6 6 6</ESQMET></INFMET>
+<NUMESQ>160:466</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "ai" ERI = "ai" AC = "-+---+">
+<LT>I <SEG C = "R" N = "CF" ID = "5">&eacute;</SEG> meu amig', ai</LT>
+<LL>I &eacute; meu amig', ai</LL>
+</L>
+<L N = "2" NS = "6" RI = "er" ERI = "veer" AC = "-+---+">
+<LT><SEG C = "R" N = "CD" ID = "1">madr'</SEG>, e i<SEG C = "M" N = "SIN" ID = "6">-lo-ei</SEG> veer,</LT>
+<LL>madr', e i-lo-ei veer,</LL>
+</L>
+<L N = "3" NS = "6" RI = "er" ERI = "prazer" AC = "---+-+">
+<LT>por lhi fazer prazer;</LT>
+<LL>por lhi fazer prazer;</LL>
+</L>
+<L N = "4" NS = "6" RI = "ai" ERI = "vai" AC = "--+--+">
+<LT><SEG C = "R" N = "CPL" ID = "2">se oj' i &utilde;a <SEG C = "R" N = "RD" ID = "4">vai</SEG></SEG></LT>
+<LL>se oj' i &utilde;a vai</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "6" RI = "ei" ERI = "serei" AC = "-+---+">
+<LT>fremosa, eu <SEG C = "R" N = "RD" ID = "3">serei</SEG></LT>
+<LL>fremosa, eu serei</LL>
+</L>
+<L N = "6" NS = "6" RI = "ei" ERI = "sei" AC = "-+---+">
+<LT>a &utilde;a, ben o sei.</LT>
+<LL>a &utilde;a, ben o sei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

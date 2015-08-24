@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="156002" NE="2" OL="NON" SG="NO" TC="NA" XE="A">
+      <INCIPIT>Moyr&#39;, e faço dereyto</INCIPIT>
+
+      <NUCANT>156 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="339v" I.FI="lb339v" MU="NON" NM="1605"></RM>
+
+      <RM BCA="V" EM="NO" F="187r" I.FI="lv187r" MU="NON" NM="1138"><NOTMAN
+      N="1">En V só se copiou a primeira cobra. Falta, polo tanto, o inicio da
+      segunda, presente en B.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="187v" I.FI="lv187v" MU="NON" NM="1138"><NOTMAN
+      N="1">En V só se copiou a primeira cobra. Falta, polo tanto, o inicio da
+      segunda, presente en B.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amor 265</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1508</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1138</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 103</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 29</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 37</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, Apéndice I, 22</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 293</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 376-377, 601-602</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 247</P>
+      </EDIANT>
+
+      <DATOAU NOME="Stegagno, Vidal" NUA="1"><COMAU><P>Modifícase a edición
+      seguida ó non disponer como refrán os catro últimos versos da estrofa I.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>18/04/00</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <NOTC>cadahunha <COMNOTC><P>Nota colocciana situada na columna a do
+      folio 178v de V. Non é máis cá reproducción do indefinido co que remata
+      a rúbrica que precede á cantiga. O texto da rúbrica está subliñado.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Estas duas catigas . fez huu judeu deluas q auia nom Vidal .
+      por amor dua judia de ssa vila q avia nom dona e por q e be q o be q hom
+      faz sseno pça mandamolo scuer e no sabem9 mais dela mais de duas cobras
+      a pma cobra de cada hua. <COMRUBRI><P>Rúbrica atributivo-explicativa que
+      está situada na columna b do folio 339v, enriba da cantiga B 1605. A
+      úbrica está marcada cun trazo vertical á dereita. No texto da rúbrica
+      aparecen algunhas palabras subliñadas (huu judeu, Vidal, judia, dona).
+      Algunhas das palabras do texto da rúbrica presentan signos de
+      abreviatura: un trazo horizontal semellante a til de nasalidade atópase
+      en &#34;catigas&#34;, &#34;huu&#34;, &#34;dua&#34;. &#34;be&#34;,
+      &#34;senno&#34;, &#34;no&#34;. A partícula &#34;que&#34; presenta a
+      abreviatura habitual, é dicir, un &#34;q&#34; cun trazo horizontal
+      enriba. &#34;nom&#34; e &#34;hom&#34; presentan unha especie de til
+      agudo enriba do &#34;m&#34;, til que está abreviando un &#34;e&#34;.
+      &#34;escrever&#34; e &#34;primeira&#34; aparecen abreviadas como
+      &#34;scuer&#34; e &#34;pma&#34; cunha especie de semicírculo enriba do
+      &#34;u&#34; e do &#34;m&#34; respectivamente. Tamén &#34;sabemos&#34;
+      presenta a abreviatura habitual para a súa parte final. Man do copista.
+      Esta rúbrica tamén se refire á cantiga 156 1.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>afon ffz Cu <COMRUBRI><P>Rúbrica atributiva, da man de Colocci,
+      situada na columa b do folio 339v, enriba da cantiga B 1605. A rúbrica
+      presenta un trazo horizontal que a corta pola metade (coma un tachado),
+      porque o humanista se decata de que a atribución a Afonso Fernandez
+      Cubel.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Estas duas cantigas fez huu iudeu deluas q auia nom vida por
+      amor dua judia de ssa vila q avia nom dona e por q e be q o ben q hom
+      faz sseno psa madamolo scuer e no sabem9 mais dela mais de duas cobras a
+      pma cobra de cada hua. <COMRUBRI><P>Rúbrica atributivo-explicativa que
+      está situada nas columnas b do folio 187r e a do folio 187v, precedendo
+      á cantiga V 1138. A úbrica está marcada cun trazo vertical á esquerda.
+      Algunhas das palabras do texto da rúbrica presentan signos de
+      abreviatura: un trazo horizontal semellante a til de nasalidade atópase
+      en &#34;huu&#34;, &#34;dua&#34;. &#34;be&#34;, &#34;senno&#34;,
+      &#34;madamolo&#34;, &#34;no&#34;. A partícula &#34;que&#34; presenta a
+      abreviatura habitual, é dicir, un &#34;q&#34; cun trazo horizontal
+      enriba. &#34;nom&#34; e &#34;hom&#34; presentan unha especie de til
+      agudo enriba do &#34;m&#34;, til que está abreviando un &#34;e&#34;.
+      &#34;escrever&#34; e &#34;primeira&#34; aparecen abreviadas como
+      &#34;scuer&#34; e &#34;pma&#34; cunha especie de semicírculo enriba do
+      &#34;u&#34; e do &#34;m&#34; respectivamente. Tamén &#34;sabemos&#34;
+      presenta a abreviatura habitual para a súa parte final. Man do copista.
+      Esta rúbrica tamén se refire á cantiga 156 1.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="COI"></TEMA>
+
+      <TEMA CAT="SA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="10">
+        <ESQRIM TIPO="abababccdc"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6&#39; 6&#39; 6&#39; 6&#39; 6&#39; 6&#39; 7 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>71:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+-" ERI="dereyto" N="1" NS="6" RI="eito">
+          <LT>Moyr&#39;, e faço dereyto,</LT>
+
+          <LL>Moyr&#39;, e faço dereyto,</LL>
+        </L>
+
+        <L AC="---+-+-" ERI="Elvas" N="2" NS="6" RI="elvas">
+          <LT>por hũa Dona d&#39; Elvas</LT>
+
+          <LL>por hũa Dona d&#39; Elvas</LL>
+
+          <ANTRO T="REAL">Dona</ANTRO>
+
+          <TOPO CAT="TOPOME">Elvas</TOPO>
+        </L>
+
+        <L AC="--+--+-" ERI="tolheyto" N="3" NS="6" RI="eito">
+          <LT>que me trage tolheyto,</LT>
+
+          <LL>que me trage tolheyto,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="hervas" N="4" NS="6" RI="ervas">
+          <LT>co<SEG C="M" ID="1" N="SIN">mo a</SEG> quen dam as hervas.</LT>
+
+          <LL>como a quen dam as hervas.</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="peyto" N="5" NS="6" RI="eito">
+          <LT>Des que lh&#39; eu vi o peyto</LT>
+
+          <LL>Des que lh&#39; eu vi o peyto</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="servas" N="6" NS="6" RI="ervas">
+          <LT>branco, dix&#39; aas ssas servas:</LT>
+
+          <LL>branco, dix&#39; aas ssas servas:</LL>
+        </L>
+
+        <L AC="--+---+" ERI="par" N="7" NS="7" RI="ar">
+          <LT>&#34;A mha coyta non á par,</LT>
+
+          <LL>&#34;A mha coyta non á par,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="matar" N="8" NS="7" RI="ar">
+          <LT>ca ssey que me quer matar,</LT>
+
+          <LL>ca ssey que me quer matar,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="ela" N="9" NS="7" RI="ela">
+          <LT>e que<SEG C="M" ID="2" N="SIN">ro eu</SEG> morrer por ela,</LT>
+
+          <LL>e quero eu morrer por ela,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="guardar" N="10" NS="7" RI="ar">
+          <LT>ca me non poss&#39; ém guardar&#34;.</LT>
+
+          <LL>ca me non poss&#39; ém guardar&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="NA">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+" ERI="-" N="1" NS="3" RI="-">
+          <LT>Amor ey <SEG C="I" ID="3" N="AU">...</SEG></LT>
+
+          <LL>Amor ey ...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="068002" NE="4" OL="NON" SG="NO" TC="MEST" XE="EPO">
+      <INCIPIT>O que seja no pavio</INCIPIT>
+
+      <NUCANT>68 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="284r" I.FI="lb284r" MU="NON" NM="1327"></RM>
+
+      <RM BCA="B" EM="NO" F="284v" I.FI="lb284v" MU="NON" NM="1327"><NOTMAN
+      N="1">As lagoas que presenta a estrofa III márcanse cunha crux
+      desperationis.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="148r" I.FI="lv148r" MU="NON" NM="933"><NOTMAN
+      N="1">En V a estrofa III só presenta dous versos.</NOTMAN></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1276</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 933</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 463</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="200"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>7/07/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Jo. Fernãdez d&#39; ardeleyro <COMRUBRI><P>Rúbrica atributiva
+      que precede á cantiga B 1327. Está situada no folio 284r, columna b. Man
+      de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Esta cantiga foi feita a un comendador que ouvera sas palavras
+      con este escudeiro que lhi esta cantiga fez, por que o moveo a fazer del
+      queixume a el Rei, e fez lhi perder a terra que del tiinha e avia nome
+      Pavia. <COMRUBRI><P>Rúbrica explicativa situada na marxe inferior
+      dereita do folio B 284r. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Joham Fernandez d&#39; ardeleyro <COMRUBRI><P>Rúbrica
+      atributiva que precede á cantiga V 933. Está situada no folio 148r,
+      columna a. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Esta cantiga foi feita a un comendador que ouvera sas palavras
+      con este escudeiro que lhi esta cantiga fez, por que o moveo a fazer del
+      queixume a el Rei, e fez lhi perder a terra que del tiinha e avia nome
+      Pavia. <COMRUBRI><P>Rúbrica explicativa que precede á cantiga V 933.
+      Está situada no folio 148r, coluna a. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="TRA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abababab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>63:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="pavio" N="1" NS="7" RI="io">
+          <LT>O que seja no <SEG C="R" ID="1" N="RD">pavio</SEG>,</LT>
+
+          <LL>O que seja no pavio,</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="Pavia" N="2" NS="7" RI="ia">
+          <LT>que me fez perder <SEG C="R" ID="1" N="RD">Pavia</SEG>,</LT>
+
+          <LL>que me fez perder Pavia,</LL>
+
+          <TOPO CAT="CIUDAD">Pavia</TOPO>
+        </L>
+
+        <L AC="---+--+-" ERI="fio" N="3" NS="7" RI="io">
+          <LT>de que m&#39; eu nada non <SEG C="R" ID="2" N="RD">fio</SEG>,</LT>
+
+          <LL>de que m&#39; eu nada non fio,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="perfia" N="4" NS="7" RI="ia">
+          <LT>al m&#39; er fez, con sa <SEG C="R" ID="2" N="RD">perfia</SEG>:</LT>
+
+          <LL>al m&#39; er fez, con sa perfia:</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="frio" N="5" NS="7" RI="io">
+          <LT>de noite, con mui gran <SEG C="R" ID="3" N="RD">frio</SEG>,</LT>
+
+          <LL>de noite, con mui gran frio,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="fria" N="6" NS="7" RI="ia">
+          <LT>que tangess&#39; en pela <SEG C="R" ID="3" N="RD">fria</SEG>;</LT>
+
+          <LL>que tangess&#39; en pela fria;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="rio" N="7" NS="7" RI="io">
+          <LT>mais ainda m&#39; end&#39; eu <SEG C="R" ID="4" N="RD">rio</SEG></LT>
+
+          <LL>mais ainda m&#39; end&#39; eu rio</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="ria" N="8" NS="7" RI="ia">
+          <LT>como s&#39; end&#39; el nunca <SEG C="R" ID="4" N="RD">ria</SEG>.</LT>
+
+          <LL>como s&#39; end&#39; el nunca ria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abababab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>63:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="rendo" N="1" NS="7" RI="endo">
+          <LT>Nen ũas graças non <SEG C="R" ID="5" N="RD">rendo</SEG></LT>
+
+          <LL>Nen ũas graças non rendo</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="renda" N="2" NS="7" RI="enda">
+          <LT>a quen lhi deu tan gran <SEG C="R" ID="5" N="RD">renda</SEG>,</LT>
+
+          <LL>a quen lhi deu tan gran renda,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="defendo" N="3" NS="7" RI="endo">
+          <LT>per que m&#39; eu d&#39; el non <SEG C="R" ID="6" N="RD">defendo</SEG></LT>
+
+          <LL>per que m&#39; eu d&#39; el non defendo</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="defenda" N="4" NS="7" RI="enda">
+          <LT>nen acho quen me <SEG C="R" ID="6" N="RD">defenda</SEG>;</LT>
+
+          <LL>nen acho quen me defenda;</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="ẽmendo" N="5" NS="7" RI="endo">
+          <LT>e pois que eu non <SEG C="R" ID="7" N="RD">ẽmendo</SEG></LT>
+
+          <LL>e pois que eu non ẽmendo</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="emenda" N="6" NS="7" RI="enda">
+          <LT>nen me faz outrem <SEG C="R" ID="7" N="RD">emenda</SEG>,</LT>
+
+          <LL>nen me faz outrem emenda,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="acomendo" N="7" NS="7" RI="endo">
+          <LT>ao Demo<SEG C="M" ID="8" N="SIN"> o <SEG C="R" ID="9" N="RD">a</SEG></SEG><SEG
+          C="R" ID="9" N="RD">comendo</SEG></LT>
+
+          <LL>ao Demo o acomendo</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="comenda" N="8" NS="7" RI="enda">
+          <LT>que o a<SEG C="M" ID="10" N="SIN">ja en</SEG> sa <SEG C="R"
+          ID="9" N="RD">comenda</SEG>.</LT>
+
+          <LL>que o aja en sa comenda.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abababab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>63:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+---+-+-" ERI="mato" N="1" NS="7" RI="ato">
+          <LT>Coida-me lançar a <SEG C="R" ID="11" N="RD">mato</SEG>;</LT>
+
+          <LL>Coida-me lançar a mato;</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="mata" N="2" NS="7" RI="ata">
+          <LT>mais o que me d&#39; el mais <SEG C="R" ID="11" N="RD">mata</SEG></LT>
+
+          <LL>mais o que me d&#39; el mais mata</LL>
+        </L>
+
+        <L AC="+-----+-" ERI="desbarato" N="3" NS="7" RI="ato">
+          <LT>é que no meu<SEG C="R" ID="12" N="RD"><SEG C="I" ID="13" N="RE"> desbarato</SEG></SEG></LT>
+
+          <LL>é que no meu desbarato</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="barata" N="4" NS="7" RI="ata">
+          <LT><SEG C="I" ID="14" N="RE">ele</SEG> faz i gran <SEG C="R"
+          ID="12" N="RD">barata</SEG>;</LT>
+
+          <LL>ele faz i gran barata;</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="desato" N="5" NS="7" RI="ato">
+          <LT><SEG C="I" ID="15" N="RE">se mia fa</SEG>zenda <SEG C="R"
+          ID="16" N="RD">desato</SEG>,</LT>
+
+          <LL>se mia fazenda desato,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="ata" N="6" NS="7" RI="ata">
+          <LT>por quanto <SEG C="I" ID="17" N="RE">sei, el ma</SEG> <SEG C="R"
+          ID="16" N="RD">ata</SEG>;</LT>
+
+          <LL>por quanto sei, el ma ata;</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="percato" N="7" NS="7" RI="ato">
+          <LT>mais o de que m&#39; eu<SEG C="R" ID="18" N="RD"><SEG C="I"
+ID="19" N="RE"> per</SEG>cato</SEG>,</LT>
+
+          <LL>mais o de que m&#39; eu percato,</LL>
+        </L>
+
+        <L AC="-+-+--+-" ERI="cata" N="8" NS="7" RI="ata">
+          <LT>d&#39; el-Rei querer-mi non <SEG C="R" ID="18" N="RD">cata</SEG>.</LT>
+
+          <LL>d&#39; el-Rei querer-mi non cata.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abababab"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>63:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+-+-" ERI="pao" N="1" NS="7" RI="ao">
+          <LT>Que<SEG C="M" ID="20" N="SIN"> mi á</SEG>-de poer no <SEG C="R"
+          ID="21" N="RD">pao</SEG>,</LT>
+
+          <LL>Que mi á-de poer no pao,</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="paa" N="2" NS="7" RI="aa">
+          <LT>esto diz que viu na <SEG C="R" ID="21" N="RD">paa</SEG>;</LT>
+
+          <LL>esto diz que viu na paa;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="dá-o" N="3" NS="7" RI="ao">
+          <LT>e poren quanto ten, <SEG C="R" ID="22" N="RD">dá-o</SEG>,</LT>
+
+          <LL>e poren quanto ten, dá-o,</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="dá-a" N="4" NS="7" RI="aa">
+          <LT>e a mia lavoira <SEG C="R" ID="22" N="RD">dá-a</SEG>;</LT>
+
+          <LL>e a mia lavoira dá-a;</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="vao" N="5" NS="7" RI="ao">
+          <LT>mais, pois eu non acho <SEG C="R" ID="23" N="RD">vao</SEG></LT>
+
+          <LL>mais, pois eu non acho vao</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="vaa" N="6" NS="7" RI="aa">
+          <LT>a meu feito, sempre <SEG C="R" ID="23" N="RD">vaa</SEG></LT>
+
+          <LL>a meu feito, sempre vaa</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="mao" N="7" NS="7" RI="ao">
+          <LT>sa fazen<SEG C="M" ID="24" N="SIN">da en</SEG> ponto <SEG C="R"
+          ID="25" N="RD">mao</SEG></LT>
+
+          <LL>sa fazenda en ponto mao</LL>
+        </L>
+
+        <L AC="--+-+-+-" ERI="maa" N="8" NS="7" RI="aa">
+          <LT>e el mui<SEG C="M" ID="26" N="SIN">to en</SEG> ora <SEG C="R"
+          ID="25" N="RD">maa</SEG>.</LT>
+
+          <LL>e el muito en ora maa.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

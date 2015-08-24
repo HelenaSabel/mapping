@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="117006" NE="4" OL="NON" SG="NO" TC="REFR" XE="EA">
+      <INCIPIT>Non est a de Nogueyra a freyra que m&#39; en poder ten</INCIPIT>
+
+      <NUCANT>117 6</NUCANT>
+
+      <RM BCA="A" EM="YES" F="79r" I.FI="la079r" MU="NON" NM="282"></RM>
+
+      <RM BCA="B" EM="NO" F="259r" I.FI="lb259r" MU="NON" NM="1219"><NOTMAN
+      N="1">Tanto en B como en V preséntasen variantes respecto a A, sobre
+      todo nas cobras III e IV. A cobra IV parece una variante da III. Por
+      outra parte, o primeiro verso do refrán aparece repetido dúas veces,
+      despois preséntase o segundo verso do refrán e de novo o comezo do
+      primeiro verso do refrán: E moyro.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="130r" I.FI="lv130r" MU="NON" NM="824"><NOTMAN
+      N="1">Tanto en B como en V preséntasen variantes respecto a A, sobre
+      todo nas cobras III e IV. A cobra IV parece una variante da III. Por
+      outra parte, o primeiro verso do refrán aparece repetido dúas veces,
+      despois preséntase o segundo verso do refrán e de novo o comezo do
+      primeiro verso do refrán: E moyro.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>CA 282</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1167</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 824</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Auswahl 12</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 45</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 488</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 61-62</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 282-283</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 13</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 278-279, 552-553</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 177</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 293</P>
+      </EDIANT>
+
+      <DATOAU NOME="Reali" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>11/01/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana que precede á cantiga B 1219.
+      Está situada na columna a do folio 259r. Enriba do o aparece un sinal de
+      abreviatura que indica que falta o r.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Pedr&#39; en Solaz <COMRUBRI><P>Rúbrica atributiva que precede
+      á cantiga B 121. Está situada na columna a do folio 259r. Man do
+      copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Pedr&#39; en Solaz <COMRUBRI><P>Rúbrica atributiva que precede
+      á cantiga V 824. Está situada na columna a do folio 130r. Man de
+      Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="MA"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"><NOTRIM><P>Tavani non contempla a posibilidade de
+        estructura-la cantiga en versos longos, presentando como esquemas o
+        217:6 (I, II: a6&#39; b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III,
+        IV: a6&#39; b7&#39; c6&#39; b7&#39; A7&#39; A7&#39;)</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15 15 7&#39; 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani non contempla a posibilidade de estructura-la cantiga en
+            versos longos, presentando como esquemas o 217:6 (I, II: a6&#39;
+            b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III, IV: a6&#39; b7&#39;
+            c6&#39; b7&#39; A7&#39; A7&#39;)</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/-+-----+" ERI="ten" N="1" NS="15" RI="en">
+          <LT><SEG C="R" ID="1" N="PL">Non est a de Nogueyra<SEG C="M" ID="2"
+N="CAE"></SEG> a freyra que m&#39; e<SEG C="I" ID="3" N="SU">n</SEG> poder ten</SEG>,</LT>
+
+          <LL>Non est a de Nogueyra a freyra que m&#39; en poder ten,</LL>
+
+          <TOPO CAT="ALDEA">Nogueyra</TOPO>
+        </L>
+
+        <L AC="-+---+-/----+--+" ERI="ben" N="2" NS="15" RI="en">
+          <LT><SEG C="R" ID="4" N="PL">mays é x&#39; outra fremosa<SEG C="M"
+ID="5" N="CAE"></SEG> a que me quer&#39; eu mayor ben</SEG>.</LT>
+
+          <LL>mays é x&#39; outra fremosa a que me quer&#39; eu mayor ben.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+-" ERI="freyra" N="4" NS="7" RI="eira">
+            <LT>E moyro-m&#39; eu pola freyra...</LT>
+
+            <LL>E moyro-m&#39; eu pola freyra...</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="Nogueyra" N="5" NS="7" RI="eira">
+            <LT>mays non pola de <SEG C="R" ID="6" N="CFR">Nogueyra</SEG>.</LT>
+
+            <LL>mays non pola de Nogueyra.</LL>
+
+            <TOPO CAT="ALDEA">Nogueyra</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"><NOTRIM><P>Tavani non contempla a posibilidade de
+        estructura-la cantiga en versos longos, presentando como esquemas o
+        217:6 (I, II: a6&#39; b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III,
+        IV: a6&#39; b7&#39; c6&#39; b7&#39; A7&#39; A7&#39;)</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15 15 7&#39; 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani non contempla a posibilidade de estructura-la cantiga en
+            versos longos, presentando como esquemas o 217:6 (I, II: a6&#39;
+            b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III, IV: a6&#39; b7&#39;
+            c6&#39; b7&#39; A7&#39; A7&#39;)</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/-+-----+" ERI="amor" N="1" NS="15" RI="or">
+          <LT><SEG C="R" ID="1" N="PL">Non est a de <SEG C="R" ID="6" N="CFR">Nogueyra</SEG><SEG
+C="M" ID="7" N="CAE"></SEG> a freyra ond&#39; eu ey amor</SEG>,</LT>
+
+          <LL>Non est a de Nogueyra a freyra ond&#39; eu ey amor,</LL>
+
+          <TOPO CAT="ALDEA">Nogueyra</TOPO>
+        </L>
+
+        <L AC="-+---+-/----+--+" ERI="melhor" N="2" NS="15" RI="or">
+          <LT><SEG C="R" ID="4" N="PL">mays é x&#39; outra fremosa<SEG C="M"
+ID="8" N="CAE"></SEG> a que me <SEG C="R" ID="9" N="CF">quer&#39;</SEG> <SEG
+C="R" ID="9" N="CF">eu</SEG> muy melhor</SEG>.</LT>
+
+          <LL>mays é x&#39; outra fremosa a que me quer&#39; eu muy melhor.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+-" ERI="freyra" N="4" NS="7" RI="eira">
+            <LT>E moyro-m&#39; eu pola freyra...</LT>
+
+            <LL>E moyro-m&#39; eu pola freyra...</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="Nogueyra" N="5" NS="7" RI="eira">
+            <LT><SEG C="I" ID="10" N="RE">mays non pola de Nogueyra</SEG>.</LT>
+
+            <LL>mays non pola de Nogueyra.</LL>
+
+            <TOPO CAT="ALDEA">Nogueyra</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"><NOTRIM><P>Tavani non contempla a posibilidade de
+        estructura-la cantiga en versos longos, presentando como esquemas o
+        217:6 (I, II: a6&#39; b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III,
+        IV: a6&#39; b7&#39; c6&#39; b7&#39; A7&#39; A7&#39;)</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>14&#39; 14&#39; 7&#39; 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 2 é hipómetro. Tavani non contempla a posibilidade de
+            estructura-la cantiga en versos longos, presentando como esquemas
+            o 217:6 (I, II: a6&#39; b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7
+            (III, IV: a6&#39; b7&#39; c6&#39; b7&#39; A7&#39; A7&#39;).</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/-+----+-" ERI="quisesse" N="1" NS="14" RI="esse">
+          <LT><SEG C="R" ID="11" N="CD">Se</SEG> eu a freyra visse<SEG C="M"
+          ID="12" N="CAE">,</SEG> o dia que <SEG C="R" ID="9" N="CF">eu</SEG>
+          <SEG C="R" ID="9" N="CF">quisesse</SEG>,</LT>
+
+          <LL>Se eu a freyra visse, o dia que eu quisesse,</LL>
+        </L>
+
+        <L AC="--+--+-/-+---+-" ERI="ouvesse" N="2" NS="13" RI="esse">
+          <LT>non á coyta no mundo<SEG C="M" ID="13" N="CAE">,</SEG> nen
+          míngua que ouvesse.</LT>
+
+          <LL>non á coyta no mundo, nen míngua que ouvesse.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+-" ERI="freyra" N="4" NS="7" RI="eira">
+            <LT>E moyro-m&#39; eu pola freyra...</LT>
+
+            <LL>E moyro-m&#39; eu pola freyra...</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="Nogueyra" N="5" NS="7" RI="eira">
+            <LT><SEG C="I" ID="14" N="RE">mays non pola de Nogueyra</SEG>.</LT>
+
+            <LL>mays non pola de Nogueyra.</LL>
+
+            <TOPO CAT="ALDEA">Nogueyra</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"><NOTRIM><P>Tavani non contempla a posibilidade de
+        estructura-la cantiga en versos longos, presentando como esquemas o
+        217:6 (I, II: a6&#39; b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III,
+        IV: a6&#39; b7&#39; c6&#39; b7&#39; A7&#39; A7&#39;)</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>14&#39; 14&#39; 7&#39; 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani non contempla a posibilidade de estructura-la cantiga en
+            versos longos, presentando como esquemas o 217:6 (I, II: a6&#39;
+            b7 c6&#39; b7 A7&#39; A7&#39;) e o 217:7 (III, IV: a6&#39; b7&#39;
+            c6&#39; b7&#39; A7&#39; A7&#39;)</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-/---+--+-" ERI="farya" N="1" NS="14" RI="ia">
+          <LT><SEG C="R" ID="11" N="CD">Se</SEG> m&#39; el&#39; a min amasse<SEG
+          C="M" ID="15" N="CAE">,</SEG> muy gran dereyto farya,</LT>
+
+          <LL>Se m&#39; el&#39; a min amasse, muy gran dereyto farya,</LL>
+        </L>
+
+        <L AC="---+--+/--+---+-" ERI="dia" N="2" NS="14" RI="ia">
+          <LT>ca lhe quer&#39; eu muy gran ben<SEG C="M" ID="16" N="CAE"></SEG>
+          e punh&#39; i mays cada dia.</LT>
+
+          <LL>ca lhe quer&#39; eu muy gran ben e punh&#39; i mays cada dia.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--+-" ERI="freyra" N="4" NS="7" RI="eira">
+            <LT>E moyro-m&#39; eu pola freyra...</LT>
+
+            <LL>E moyro-m&#39; eu pola freyra...</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="Nogueyra" N="5" NS="7" RI="eira">
+            <LT><SEG C="I" ID="17" N="RE">mays non pola de Nogueyra</SEG>.</LT>
+
+            <LL>mays non pola de Nogueyra.</LL>
+
+            <TOPO CAT="ALDEA">Nogueyra</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

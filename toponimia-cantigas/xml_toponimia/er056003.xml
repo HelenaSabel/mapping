@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "056003" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Ben sabedes, senhor Rei</INCIPIT>
+<NUCANT>56 3</NUCANT>
+<RM BCA = "B" NM = "1532" F = "320v" MU = "NON" EM = "NO" I.FI = "lb320v"></RM>
+<EDIANT T = "DIVUL">
+<P>Randgl. VI, p. 311</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 405</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1444</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 49</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 127</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "167"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>2/06/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "ABS">
+<SUBTEMA CAT = "RE"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6+1">
+<ESQRIM TIPO = "ababcaC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7' 7 7' 7' 7 7'</ESQMET></INFMET>
+<NUMESQ>97:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ei" ERI = "Rei" AC = "--+---+">
+<LT>Ben sabedes, senhor Rei,</LT>
+<LL>Ben sabedes, senhor Rei,</LL>
+<ANTRO T = "REAL">Alfonso X o Sabio? (Rei)</ANTRO></L>
+<L N = "2" NS = "7" RI = "alo" ERI = "vassalo" AC = "--+---+-">
+<LT>des que fui vosso vassalo,</LT>
+<LL>des que fui vosso vassalo,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ei" ERI = "aguardei" AC = "-+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">que sempre vos <SEG C = "R" N = "RD" ID = "2">aguardei</SEG></SEG></LT>
+<LL>que sempre vos aguardei</LL>
+</L>
+<L N = "4" NS = "7" RI = "alo" ERI = "cavalo" AC = "--+---+-">
+<LT>quer a pee quer de cavalo,</LT>
+<LL>quer a pee quer de cavalo,</LL>
+</L>
+<L N = "5" NS = "7" RI = "&otilde;a" ERI = "d&otilde;a" AC = "---+--+-">
+<LT>sen voss'a ver e sen d&otilde;a;</LT>
+<LL>sen voss'a ver e sen d&otilde;a;</LL>
+</L>
+<L N = "6" NS = "7" RI = "ei" ERI = "errei" AC = "--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "3">mais atanto vos <SEG C = "R" N = "RD" ID = "4">errei</SEG></SEG>:</LT>
+<LL>mais atanto vos errei:</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "&otilde;a" ERI = "b&otilde;a" AC = "--+---+-">
+<LT>non foi vos<SEG C = "M" N = "SIN" ID = "5">co en</SEG> ora b&otilde;a.</LT>
+<LL>non foi vosco en ora b&otilde;a.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6+1">
+<ESQRIM TIPO = "ababcaC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7' 7 7' 7' 7 7'</ESQMET></INFMET>
+<NUMESQ>97:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ou" ERI = "Campou" AC = "--+---+">
+<LT>E en terra de Campou</LT>
+<LL>E en terra de Campou</LL>
+<TOPO CAT = "CIRCUNS">Campou</TOPO></L>
+<L N = "2" NS = "7" RI = "edo" ERI = "Olmedo" AC = "--+---+-">
+<LT>vos servi e en Olmedo;</LT>
+<LL>vos servi e en Olmedo;</LL>
+<TOPO CAT = "CIUDAD">Olmedo</TOPO></L>
+<L N = "3" NS = "7" RI = "ou" ERI = "Badalhou" AC = "--+---+">
+<LT>assi fiz en Badalhou</LT>
+<LL>assi fiz en Badalhou</LL>
+<TOPO CAT = "CIUDAD">Badalhou</TOPO></L>
+<L N = "4" NS = "7" RI = "edo" ERI = "Toledo" AC = "---+--+-">
+<LT>e outrossi en Toledo,</LT>
+<LL>e outrossi en Toledo,</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L>
+<L N = "5" NS = "7" RI = "&otilde;a" ERI = "cor&otilde;a" AC = "---+--+-">
+<LT>quand' i filhastes cor&otilde;a;</LT>
+<LL>quand' i filhastes cor&otilde;a;</LL>
+</L>
+<L N = "6" NS = "7" RI = "ou" ERI = "mengou" AC = "--+---+">
+<LT>mais atanto me mengou:</LT>
+<LL>mais atanto me mengou:</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "&otilde;a" ERI = "b&otilde;a" AC = "--+---+-">
+<LT>non fui vos<SEG C = "M" N = "SIN" ID = "6">co en</SEG> ora b&otilde;a.</LT>
+<LL>non fui vosco en ora b&otilde;a.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6+1">
+<ESQRIM TIPO = "ababcaC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>97:5</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ado" ERI = "aguardado" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Fostes mui ben <SEG C = "R" N = "RD" ID = "2">aguardado</SEG></SEG></LT>
+<LL>Fostes mui ben aguardado</LL>
+</L>
+<L N = "2" NS = "7" RI = "astes" ERI = "andastes" AC = "--+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">de min sempre u v&oacute;s andastes</SEG>,</LT>
+<LL>de min sempre u v&oacute;s andastes,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ado" ERI = "escusado" AC = "---+--+-">
+<LT>e nunca foi <SEG C = "R" N = "RD" ID = "7">escusado</SEG></LT>
+<LL>e nunca foi escusado</LL>
+</L>
+<L N = "4" NS = "7" RI = "astes" ERI = "escusastes" AC = "--+---+-">
+<LT>nen v&oacute;s nunca<SEG C = "M" N = "SIN" ID = "8"> me <SEG C = "R" N = "RD" ID = "7">es</SEG></SEG><SEG C = "R" N = "RD" ID = "7">cusastes</SEG></LT>
+<LL>nen v&oacute;s nunca me escusastes</LL>
+</L>
+<L N = "5" NS = "7" RI = "&otilde;a" ERI = "pess&otilde;a" AC = "--+---+-">
+<LT>de servir per mia pess&otilde;a;</LT>
+<LL>de servir per mia pess&otilde;a;</LL>
+</L>
+<L N = "6" NS = "7" RI = "ado" ERI = "errado" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "3">mais en tanto foi <SEG C = "R" N = "RD" ID = "4">errado</SEG></SEG>:</LT>
+<LL>mais en tanto foi errado:</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "&otilde;a" ERI = "b&otilde;a" AC = "--+---+-">
+<LT>non fui vos<SEG C = "M" N = "SIN" ID = "9">co en</SEG> ora b&otilde;a.</LT>
+<LL>non fui vosco en ora b&otilde;a.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

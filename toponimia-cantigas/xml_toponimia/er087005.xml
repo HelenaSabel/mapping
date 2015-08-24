@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087005" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>A mj quer mal o infan&ccedil;on</INCIPIT>
+<NUCANT>87 5</NUCANT>
+<RM BCA = "B" NM = "1341" F = "287r" MU = "NON" EM = "NO" I.FI = "lb287r"></RM>
+<RM BCA = "B" NM = "1341" F = "287v" MU = "NON" EM = "NO" I.FI = "lb287v"></RM>
+<RM BCA = "V" NM = "948" F = "150v" MU = "NON" EM = "NO" I.FI = "lv150v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 255</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>MAchado 1291</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 948</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 218</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "4"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>16/04/99</DATE>
+</RESP>
+<FRI>c. unis.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede a cantiga B 1341. Est&aacute;
+situada no folio 287r, columna b.</P></COMNOTC>
+</NOTC>
+<RUBRICA>Cf. a r&uacute;brica de 87,7.</RUBRICA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "aaabBBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>20:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "on" ERI = "infan&ccedil;on" AC = "---+---+">
+<LT>A mj quer mal o infan&ccedil;on,</LT>
+<LL>A mj quer mal o infan&ccedil;on,</LL>
+</L>
+<L N = "2" NS = "8" RI = "on" ERI = "azon" AC = "---+---+">
+<LT>a muj gran tort' e sen razon,</LT>
+<LL>a muj gran tort' e sen razon,</LL>
+</L>
+<L N = "3" NS = "8" RI = "on" ERI = "Orzelhon" AC = "---+---+">
+<LT>por trobadores d' Orzelhon</LT>
+<LL>por trobadores d' Orzelhon</LL>
+<TOPO CAT = "TOPOME">Orzelhon</TOPO></L>
+<L N = "4" NS = "8" RI = "al" ERI = "brial" AC = "--+----+">
+<LT><SEG C = "R" N = "CD" ID = "1">que lhi</SEG> cantam a <SEG C = "R" N = "PV" ID = "2">seu brial</SEG>;</LT>
+<LL>que lhi cantam a seu brial;</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "al" ERI = "mal" AC = "-+---+-+">
+<LT>e pesa-m' en e &eacute;-m' en <SEG C = "R" N = "PV" ID = "3">mal</SEG></LT>
+<LL>e pesa-m' en e &eacute;-m' en mal</LL>
+</L>
+<L N = "6" NS = "8" RI = "al" ERI = "brial" AC = "---+---+">
+<LT><SEG C = "R" N = "CD" ID = "1">que lh'</SEG> escarniron <SEG C = "R" N = "PV" ID = "2">seu brial</SEG>,</LT>
+<LL>que lh' escarniron seu brial,</LL>
+</L>
+<L N = "7" NS = "8" RI = "al" ERI = "cendal" AC = "-+-+---+">
+<LT>que <SEG C = "R" N = "CFR" ID = "4">era</SEG> nov' e de cendal.</LT>
+<LL>que era nov' e de cendal.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "aaabBBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>20:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "on" ERI = "son" AC = "--+--+-+">
+<LT>Quantus oi' en Galiza <SEG C = "R" N = "CFR" ID = "4">son</SEG>,</LT>
+<LL>Quantus oi' en Galiza son,</LL>
+<TOPO CAT = "CIRCUNS">Galiza</TOPO></L>
+<L N = "2" NS = "8" RI = "on" ERI = "Leon" AC = "---+---+">
+<LT>at&aacute; en terra de Leon,</LT>
+<LL>at&aacute; en terra de Leon,</LL>
+<TOPO CAT = "CIRCUNS">Leon</TOPO></L>
+<L N = "3" NS = "8" RI = "on" ERI = "Colhon" AC = "+----+-+">
+<LT>todus con o brial &quot;Colhon!&quot;</LT>
+<LL>todus con o brial &quot;Colhon!&quot;</LL>
+</L>
+<L N = "4" NS = "8" RI = "al" ERI = "mal" AC = "+--+---+">
+<LT>dizen, e fazen-o muj <SEG C = "R" N = "PV" ID = "3">mal</SEG>;</LT>
+<LL>dizen, e fazen-o muj mal;</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "al" ERI = "mal" AC = "-+---+-+">
+<LT>e pesa-m' en e &eacute;-m' en <SEG C = "R" N = "PV" ID = "3">mal</SEG></LT>
+<LL>e pesa-m' en e &eacute;-m' en mal</LL>
+</L>
+<L N = "6" NS = "8" RI = "al" ERI = "brial" AC = "---+---+">
+<LT><SEG C = "I" N = "RE" ID = "5"><SEG C = "R" N = "CD" ID = "1">que lh'</SEG> escarniron <SEG C = "R" N = "PV" ID = "2">seu brial</SEG></SEG>,</LT>
+<LL>que lh' escarniron seu brial,</LL>
+</L>
+<L N = "7" NS = "8" RI = "al" ERI = "cendal" AC = "-+-+---+">
+<LT><SEG C = "I" N = "RE" ID = "5">que era nov' e de cendal</SEG></LT>
+<LL>que era nov' e de cendal</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "aaabBBB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>20:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "on" ERI = "Zevron" AC = "---+---+">
+<LT>e-sseu irmano o Zevron,</LT>
+<LL>e-sseu irmano o Zevron,</LL>
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+<L N = "2" NS = "8" RI = "on" ERI = "cora&ccedil;on" AC = "---+---+">
+<LT><SEG C = "R" N = "CD" ID = "1">que lhi</SEG> quer mal de cora&ccedil;on,</LT>
+<LL>que lhi quer mal de cora&ccedil;on,</LL>
+</L>
+<L N = "3" NS = "8" RI = "on" ERI = "selegon" AC = "---+---+">
+<LT>porque lhi reng' o selegon</LT>
+<LL>porque lhi reng' o selegon</LL>
+</L>
+<L N = "4" NS = "8" RI = "al" ERI = "cal" AC = "-+--+---+">
+<LT>(e-sse lhi renge non m' en cal);</LT>
+<LL>(e-sse lhi renge non m' en cal);</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "al" ERI = "mal" AC = "-+---+-+">
+<LT>e pesa-m' en <SEG C = "I" N = "RE" ID = "6">e &eacute;-m' en <SEG C = "R" N = "PV" ID = "3">mal</SEG></SEG></LT>
+<LL>e pesa-m' en e &eacute;-m' en mal</LL>
+</L>
+<L N = "6" NS = "8" RI = "al" ERI = "brial" AC = "---+---+">
+<LT><SEG C = "I" N = "RE" ID = "6"><SEG C = "R" N = "CD" ID = "1">que lh'</SEG> escarniron <SEG C = "R" N = "PV" ID = "2">seu brial</SEG></SEG>,</LT>
+<LL>que lh' escarniron seu brial,</LL>
+</L>
+<L N = "7" NS = "8" RI = "al" ERI = "cendal" AC = "-+-+---+">
+<LT><SEG C = "I" N = "RE" ID = "6">que era nov' e de cendal.</SEG></LT>
+<LL>que era nov' e de cendal.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="006009" NE="3" OL="NON" SG="NO" TC="REFR" XE="EPO">
+      <INCIPIT>Seiaxi Don Belpelho en ũa sa maison,</INCIPIT>
+
+      <NUCANT>6 9</NUCANT>
+
+      <RM BCA="B" EM="NO" F="307v" I.FI="lb307v" MU="NON" NM="1470"></RM>
+
+      <RM BCA="B" EM="NO" F="308r" I.FI="lb308r" MU="NON" NM="1470"></RM>
+
+      <RM BCA="V" EM="NO" F="176r" I.FI="lv176r" MU="NON" NM="1080"></RM>
+
+      <RM BCA="V" EM="NO" F="176v" I.FI="lv176v" MU="NON" NM="1080"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 57</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Michaëlis, Em volta, pp. 23-24</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, pp. 294-295</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Horrent, Un écho, pp. 133-141, 193-203</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 14</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1382</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1080</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 16</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesía trovadoresca, pp. 66-68</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarea Blázquez, Escolma, pp. 132-134</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 173-175</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 44</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 75</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lorenzo Gradín, Bayão 716p</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lorenzo Gradín" NUA="8">Lorenzo Gradín</DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>David González Couso</NOME>
+
+        <DATE>20/11/08</DATE>
+      </RESP>
+
+      <FRI>NA<P>Tres tiradas de vv. monorrimos anisómetricos: I: 24 vv. en
+      -on, II: 15 vv. en -an, III: 17 vv. en -eira. Cada unha das tiradas
+      remata coa interxección Eoy!, que é unha adaptación da contida no Cantar
+      de Roldán.</P></FRI>
+
+      <NOTC>unisona canbio <COMNOTC>
+          <P>Nota colocciana situada na marxe inferior do folio 307v, á altura
+          da columna a do folio 307v de B. A nota refírese á rima que é igual
+          en cada unha das cobras pero distinta de cobra en cobra.</P>
+        </COMNOTC></NOTC>
+
+      <RUBRICA>Aqui se começa a gesta que fez Don Afonso Lopez a don Meendo e
+      a seus vassalos, de maldizer <COMRUBRI>
+          <P>Rúbrica explicativa que precede á cantiga B 1470. Está situada na
+          columna a do folio 307v. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>Don Affonsso Lopez de bayã <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cobra III da cantiga B 1470.
+          Está situada na columna a do folio 308r. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>Aqui se começa a gesta que fez Don Afonso Lopez a don Meendo e
+      a seus vassalos, de maldizer <COMRUBRI>
+          <P>Rúbrica explicativa que precede á cantiga V 1080. Está situada na
+          columna a do folio 176r. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>Don Affonsso Lopez de Bayam <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cantiga V 1080. Está situada na
+          columna a do folio 307v. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="ABS"><SUBTEMA CAT="NB"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="24+1">
+        <ESQRIM TIPO="aaaaaaaaaaaaaaaaaaaaaaaaB"><NOTRIM>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 11 11 11 10 11 10 11 12 11 11 11 11 11 10 11 13 12 11 10
+          13 11 10 11 2'</ESQMET>
+
+          <NOTMET>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+------+" ERI="maison" N="1" NS="13" RI="on">
+          <LT>Seiaxi Don Belpe<SEG C="M" ID="1" N="SIN">lho en</SEG> ũa sa
+          <SEG C="R" ID="2" N="PV">maison,</SEG></LT>
+
+          <LL>Seiaxi Don Belpelho en ũa sa maison</LL>
+
+          <ANTRO T="ALTER">Don Belpelho</ANTRO>
+        </L>
+
+        <L AC="---+------+" ERI="son" N="2" NS="11" RI="on">
+          <LT>que chaman Longos, ond' eles todos <SEG C="R" ID="3" N="PV">son</SEG>.</LT>
+
+          <LL>que chaman Longos, ond' eles todos son.</LL>
+
+          <TOPO CAT="LCULTO">Mosteiro de Longos (Longos)</TOPO>
+        </L>
+
+        <L AC="---+------+" ERI="Farazon" N="3" NS="11" RI="on">
+          <LT>Per porta lh' entra Martin de Farazon,</LT>
+
+          <LL>Per porta lh' entra Martin de Farazon,</LL>
+
+          <ANTRO T="REAL">Martin de Farazon</ANTRO>
+        </L>
+
+        <L AC="---+------+" ERI="capon" N="4" NS="11" RI="on">
+          <LT><SEG C="R" ID="4" N="CD">escud' a colo</SEG> en que sev' un
+          capon,</LT>
+
+          <LL>escud' a colo en que sev' un capon,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="sazon" N="5" NS="10" RI="on">
+          <LT>que foi ja poleir' en outra sazon;</LT>
+
+          <LL>que foi ja poleir' en outra sazon;</LL>
+        </L>
+
+        <L AC="---+------+" ERI="forón" N="6" NS="11" RI="on">
+          <LT><SEG C="R" ID="5" N="CD">caval'</SEG> agudo que semelha
+          forón,</LT>
+
+          <LL>caval' agudo que semelha forón,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="selegon" N="7" NS="10" RI="on">
+          <LT>en cima del un velho selegon,</LT>
+
+          <LL>en cima del un velho selegon,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="bardon" N="8" NS="11" RI="on">
+          <LT>sen estrebeiras e con roto bardon;</LT>
+
+          <LL>sen estrebeiras e con roto bardon;</LL>
+        </L>
+
+        <L AC="----+------+" ERI="lorigon" N="9" NS="12" RI="on">
+          <LT>nen porta loriga nen porta lorigon,</LT>
+
+          <LL>nen porta loriga nen porta lorigon,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="son" N="10" NS="11" RI="on">
+          <LT>nen geolheiras, quaes de ferro <SEG C="R" ID="3" N="PV">son</SEG>;</LT>
+
+          <LL>nen geolheiras, quaes de ferro son;</LL>
+        </L>
+
+        <L AC="---+------+" ERI="algodon" N="11" NS="11" RI="on">
+          <LT>mais trax perponto roto sen algodon</LT>
+
+          <LL>mais trax perponto roto sen algodon</LL>
+        </L>
+
+        <L AC="---+------+" ERI="zarelhon" N="12" NS="11" RI="on">
+          <LT>e cuberturas dun velho zarelhon;</LT>
+
+          <LL>e cuberturas dun velho zarelhon;</LL>
+        </L>
+
+        <L AC="---+------+" ERI="pendon" N="13" NS="11" RI="on">
+          <LT>lança de pinho e de bragal o <SEG C="R" ID="5" N="PV">pendon</SEG>,</LT>
+
+          <LL>lança de pinho e de bragal o pendon,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="pon" N="14" NS="11" RI="on">
+          <LT><SEG C="R" ID="7" N="CD">chapel de ferro</SEG> que xi lhi mui
+          mal pon</LT>
+
+          <LL>chapel de ferro que xi lhi mui mal pon</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="espadarron" N="15" NS="10" RI="on">
+          <LT>e sobarcad' un ve<SEG C="M" ID="8" N="SIN">lho es</SEG>padarron,</LT>
+
+          <LL>e sobarcad' un velho espadarron,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="farcilhon" N="16" NS="11" RI="on">
+          <LT>cuitel a cachas, cinta sen farcilhon,</LT>
+
+          <LL>cuitel a cachas, cinta sen farcilhon,</LL>
+        </L>
+
+        <L AC="-----+------+" ERI="son" N="17" NS="13" RI="on">
+          <LT>duas esporas destras, ca seestras non <SEG C="R" ID="3" N="PV">son</SEG>,</LT>
+
+          <LL>duas esporas destras, ca seestras non son,</LL>
+        </L>
+
+        <L AC="---+-------+" ERI="arçon" N="18" NS="12" RI="on">
+          <LT>maça de fuste que lhi pende do arçon.</LT>
+
+          <LL>maça de fuste que lhi pende do arçon.</LL>
+        </L>
+
+        <L AC="---+------+" ERI="razon" N="19" NS="11" RI="on">
+          <LT>a Don Belpelho moveu esta razon:</LT>
+
+          <LL>a Don Belpelho moveu esta razon:</LL>
+
+          <ANTRO T="ALTER">Don Belpelho</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="perdon" N="20" NS="10" RI="on">
+          <LT>"¡Ai, meu senhor!, assi Deus vos perdon,</LT>
+
+          <LL>"¡Ai, meu senhor!, assi Deus vos perdon,</LL>
+        </L>
+
+        <L AC="---+--------+" ERI="companhon" N="21" NS="13" RI="on">
+          <LT>¿u é Johan Aranha, o vosso companhon</LT>
+
+          <LL>¿u é Johan Aranha, o vosso companhon</LL>
+
+          <ANTRO T="ALTER">Johan Aranha</ANTRO>
+        </L>
+
+        <L AC="---+------+" ERI="pendon" N="22" NS="11" RI="on">
+          <LT>e vosso alferez, que vos ten o <SEG C="R" ID="5" N="PV">pendon</SEG>?</LT>
+
+          <LL>e vosso alferez, que vos ten o pendon?</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="maison" N="23" NS="10" RI="on">
+          <LT>Se é aqui, saia desta <SEG C="R" ID="2" N="PV">maison</SEG>,</LT>
+
+          <LL>Se é aqui, saia desta maison,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="son" N="24" NS="11" RI="on">
+          <LT><SEG C="R" ID="9" N="CD">ca ja</SEG> os outros todos en Basto
+          <SEG C="R" ID="3" N="PV">son</SEG>".</LT>
+
+          <LL>ca ja os outros todos en Basto son".</LL>
+
+          <TOPO CAT="TOPOME">Basto</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="-+-" ERI="eoy" N="25" NS="2" RI="oi">
+            <LT>EOI!</LT>
+
+            <LL>EOI!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="15+1">
+        <ESQRIM TIPO="aaaaaaaaaaaaaaaB"><NOTRIM>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11 9 10 10 11 12 10 13 11 11 11 11 11 2'</ESQMET>
+
+          <NOTMET>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-----+" ERI="Froian" N="1" NS="11" RI="an">
+          <LT>Estas oras chega <SEG C="R" ID="10" N="PV">Johan de Froian</SEG>,</LT>
+
+          <LL>Estas oras chega Johan de Froian,</LL>
+
+          <ANTRO T="REAL">Joham de Froian</ANTRO>
+        </L>
+
+        <L AC="---+------+" ERI="alazan" N="2" NS="11" RI="an">
+          <LT><SEG C="R" ID="5" N="CD">cavalo</SEG> velho, caçurr' e
+          alazan,</LT>
+
+          <LL>cavalo velho, caçurr' e alazan,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="avan" N="3" NS="11" RI="an">
+          <LT>sinaes porta eno arçon d' avan:</LT>
+
+          <LL>sinaes porta eno arçon d' avan:</LL>
+        </L>
+
+        <L AC="--+-----+" ERI="can" N="4" NS="9" RI="an">
+          <LT>'campo verde u inquire o can',</LT>
+
+          <LL>'campo verde u inquire o can',</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="acharán" N="5" NS="10" RI="an">
+          <LT>eno escud' ataes lh' acharán;</LT>
+
+          <LL>eno escud' ataes lh' acharán;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Roan" N="6" NS="10" RI="an">
+          <LT>ceram' e cint' e calças de Roan,</LT>
+
+          <LL>ceram' e cint' e calças de Roan,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="jaian" N="7" NS="11" RI="an">
+          <LT>sa catadura semelh'a dun jaian.</LT>
+
+          <LL>sa catadura semelh'a dun jaian.</LL>
+        </L>
+
+        <L AC="----+------+" ERI="aparelhan" N="8" NS="12" RI="an">
+          <LT>Ante Don Belpelho se vai aparelhan</LT>
+
+          <LL>Ante Don Belpelho se vai aparelhan</LL>
+
+          <ANTRO T="ALTER">Don Belpelho</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="pan" N="9" NS="10" RI="an">
+          <LT><SEG C="R" ID="11" N="CD">e diz</SEG>: "Senhor, non valredes un
+          pan</LT>
+
+          <LL>e diz: "Senhor, non valredes un pan</LL>
+        </L>
+
+        <L AC="-----+------+" ERI="van" N="10" NS="13" RI="an">
+          <LT>se os que son en Basto se xi vos assi <SEG C="R" ID="12" N="RD">van</SEG>,</LT>
+
+          <LL>se os que son en Basto se xi vos assi van,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="iran" N="11" NS="11" RI="an">
+          <LT>mais id' a eles, ca xen vos non <SEG C="R" ID="12" N="RD">iran</SEG>,</LT>
+
+          <LL>mais id' a eles, ca xen vos non iran,</LL>
+        </L>
+
+        <L AC="---+------+" ERI="escarmentarán" N="12" NS="11" RI="an">
+          <LT>achalos edes <SEG C="I" ID="13" N="RE">[e]</SEG>
+          escarmentarán:</LT>
+
+          <LL>achalos edes [e] escarmentarán:</LL>
+        </L>
+
+        <L AC="---+------+" ERI="dan" N="13" NS="11" RI="an">
+          <LT>"¡Vingad' a casa en que vos me<SEG C="I" ID="14"
+          N="RE"></SEG>ia<SEG C="I" ID="15" N="RE"></SEG> dan!"</LT>
+
+          <LL>"¡Vingad' a casa en que vos meia dan!"</LL>
+        </L>
+
+        <L AC="---+------+" ERI="verran" N="14" NS="11" RI="an">
+          <LT>que digan todos quantos pos nós verran</LT>
+
+          <LL>que digan todos quantos pos nós verran</LL>
+        </L>
+
+        <L AC="---+------+" ERI="Froian" N="15" NS="11" RI="an">
+          <LT>que tal conselho deu <SEG C="R" ID="10" N="PV">Johan de Froian</SEG>".</LT>
+
+          <LL>que tal conselho deu Joham de Froian".</LL>
+
+          <ANTRO T="REAL">Joham de Froian</ANTRO>
+        </L>
+
+        <REFRAN>
+          <L AC="-+-" ERI="eoy" N="16" NS="2" RI="oi">
+            <LT>EOI!</LT>
+
+            <LL>EOI!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="17+1">
+        <ESQRIM TIPO="aaaaaaaaaaaaaaaaaB"><NOTRIM>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11' 11' 11' 11' 13' 9' 11' 11' 11' 13' 11' 9' 11' 11' 11'
+          11' 12' 2'</ESQMET>
+
+          <NOTMET>
+            <P>Tavani, RM, p. 284, considera que éun descordo, detallando a
+            medida de tódolos versos.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+------+-" ERI="Ferreira" N="1" NS="11" RI="eira">
+          <LT>Esto per dito, chegou Pero Ferreira,</LT>
+
+          <LL>Esto per dito, chegou Pero Ferreira,</LL>
+
+          <ANTRO T="REAL">Pero Ferreira</ANTRO>
+        </L>
+
+        <L AC="---+------+-" ERI="peteira" N="2" NS="11" RI="eira">
+          <LT><SEG C="R" ID="5" N="CD">cavalo</SEG> branco, vermelho na
+          peteira,</LT>
+
+          <LL>cavalo branco, vermelho na peteira,</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="masseira" N="3" NS="11" RI="eira">
+          <LT><SEG C="R" ID="4" N="CD">escud' a colo</SEG> que foi dunha
+          masseira,</LT>
+
+          <LL>escud' a colo que foi dunha masseira,</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="cerdeira" N="4" NS="11" RI="eira">
+          <LT>sa lança torta dun ramo de cerdeira,</LT>
+
+          <LL>sa lança torta dun ramo de cerdeira,</LL>
+        </L>
+
+        <L AC="----+-------+-" ERI="trincheira" N="5" NS="13" RI="eira">
+          <LT><SEG C="R" ID="7" N="CD">capelo de ferro</SEG>, o anassal na
+          trincheira</LT>
+
+          <LL>capelo de ferro, o anassal na trincheira</LL>
+        </L>
+
+        <L AC="----+---+-" ERI="moleira" N="6" NS="9" RI="eira">
+          <LT>e furad' en cima da moleira,</LT>
+
+          <LL>e furad' en cima da moleira,</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="geolheira" N="7" NS="11" RI="eira">
+          <LT>tragu' ũa osa e ũa geolheira;</LT>
+
+          <LL>tragu' ũa osa e ũa geolheira;</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="maneira" N="8" NS="11" RI="eira">
+          <LT>estrebeirando vai de mui gran maneira,</LT>
+
+          <LL>estrebeirando vai de mui gran maneira,</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="eira" N="9" NS="11" RI="eira">
+          <LT><SEG C="M" ID="16" N="SIN">e a</SEG>chou Belpelho estand' en ũa
+          eira,</LT>
+
+          <LL>e achou Belpelho estand' en ũa eira,</LL>
+
+          <ANTRO T="ALTER">Belpelho</ANTRO>
+        </L>
+
+        <L AC="-----+-------+-" ERI="matreira" N="10" NS="13" RI="eira">
+          <LT><SEG C="R" ID="11" N="CD">e diz</SEG>: "Aqui estades, ¡ai velho
+          de matreira!.</LT>
+
+          <LL>e diz: "Aqui estades, ¡ai velho de matreira!.</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="Cabreira" N="11" NS="11" RI="eira">
+          <LT>Venha Pachacho e don Ro[i] Cabreira</LT>
+
+          <LL>Venha Pachacho e don Ro[i] Cabreira</LL>
+
+          <ANTRO T="REAL">Pachacho</ANTRO>
+
+          <ANTRO T="REAL">don Roi Cabreira</ANTRO>
+        </L>
+
+        <L AC="----+---+-" ERI="deanteira" N="12" NS="9" RI="eira">
+          <LT>pera dar a min a deanteira,</LT>
+
+          <LL>pera dar a min a deanteira,</LL>
+        </L>
+
+        <L AC="---+------+-" ERI="Beira" N="13" NS="11" RI="eira">
+          <LT><SEG C="R" ID="9" N="CD">ca ja</SEG> vos tarda essa gente da
+          Beira:</LT>
+
+          <LL>ca ja vos tarda essa gente da Beira:</LL>
+
+          <TOPO CAT="CIRCUNS">Beira</TOPO>
+        </L>
+
+        <L AC="---+------+-" ERI="Cheira" N="14" NS="11" RI="eira">
+          <LT>o moordom' e o sobrinho de Cheira,</LT>
+
+          <LL>o moordom' e o sobrinho de Cheira,</LL>
+
+          <ANTRO T="ALTER">Cheira</ANTRO>
+        </L>
+
+        <L AC="---+------+-" ERI="Meira" N="15" NS="11" RI="eira">
+          <LT>e Meen Sapo e Don Martin de Meira,</LT>
+
+          <LL>e Meen Sapo e Don Martin de Meira,</LL>
+
+          <ANTRO T="ALTER">Meen Sapo</ANTRO>
+
+          <ANTRO T="ALTER">Don Martin de Meira</ANTRO>
+        </L>
+
+        <L AC="---+------+-" ERI="freira" N="16" NS="11" RI="eira">
+          <LT>e Lopo Gato, esse filho da freira,</LT>
+
+          <LL>e Lopo Gato, esse filho da freira,</LL>
+
+          <ANTRO T="ALTER">Lopo Gato</ANTRO>
+        </L>
+
+        <L AC="----+------+-" ERI="peideira" N="17" NS="12" RI="eira">
+          <LT>que non <SEG C="M" ID="17" N="SIN">á an</SEG>tre nós melhor
+          lança per peideira".</LT>
+
+          <LL>que non á antre nós melhor lança per peideira".</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+-" ERI="eoy" N="18" NS="2" RI="oi">
+            <LT>EOI!</LT>
+
+            <LL>EOI!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

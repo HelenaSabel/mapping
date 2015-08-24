@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063054" TC = "REFR" NE = "3+F" SG = "NO" XE = "M D" OL = "NON">
+<INCIPIT>O voss' amigo, que s' a cas d' el-rei</INCIPIT>
+<NUCANT>63 54</NUCANT>
+<RM BCA = "B" NM = "1041" F = "222r" MU = "NON" EM = "NO" I.FI = "lb222r"></RM>
+<RM BCA = "V" NM = "631" F = "100v" MU = "NON" EM = "NO" I.FI = "lv100v"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 62</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 317</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 976</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 631</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, pp. 68-69</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 576</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "61"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>22/07/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+<TEMA CAT = "COR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:90</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "rei" AC = "---+-----+">
+<LT>- O voss' amigo, que s' a cas d' el-rei</LT>
+<LL>- O voss' amigo, que s' a cas d' el-rei</LL>
+</L>
+<L N = "2" NS = "10" RI = "a" ERI = "verra" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">foi, amiga, mui cedo vos <SEG C = "R" N = "RD" ID = "2">verra</SEG></SEG>,</LT>
+<LL>foi, amiga, mui cedo vos verra,</LL>
+</L>
+<L N = "3" NS = "10" RI = "a" ERI = "dara" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">e partid' as doas</SEG> que vos dara</SEG>.</LT>
+<LL>e partid' as doas que vos dara.</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "direi" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "6">- Amiga</SEG>, verdade ben vos <SEG C = "R" N = "CF" ID = "7">direi</SEG></SEG>:</LT>
+<LL>- Amiga, verdade ben vos direi:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "er" ERI = "adusser" AC = "---+-----+">
+<LT>fara-mi Deus ben, se<SEG C = "M" N = "SIN" ID = "8"> mi o</SEG> adusser,</LT>
+<LL>fara-mi Deus ben, se mi o adusser,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "quiser" AC = "--+------+">
+<LT>e sas doas d&eacute;-as a quen <SEG C = "R" N = "PV" ID = "9">quiser</SEG>.</LT>
+<LL>e sas doas d&eacute;-as a quen quiser.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:90</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "on" ERI = "perdon" AC = "---+-----+">
+<LT><SEG C = "R" N = "CF" ID = "7"><SEG C = "R" N = "CD" ID = "10">- Disseron</SEG></SEG><SEG C = "M" N = "SIN" ID = "11"> mi o</SEG>ra, se Deus mi perdon,</LT>
+<LL>- Disseron mi ora, se Deus mi perdon,</LL>
+</L>
+<L N = "2" NS = "10" RI = "al" ERI = "Portugal" AC = "--+------+">
+<LT>que vos trage d&otilde;as de Portugal,</LT>
+<LL>que vos trage d&otilde;as de Portugal,</LL>
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+<L N = "3" NS = "10" RI = "al" ERI = "mal" AC = "--+------+">
+<LT><SEG C = "R" N = "CD" ID = "6">e, amiga</SEG>, nonas partades mal.</LT>
+<LL>e, amiga, nonas partades mal.</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "cora&ccedil;on" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CF" ID = "12">- Direi</SEG>-vos, <SEG C = "R" N = "CF" ID = "12">amiga</SEG>, meu cora&ccedil;on</SEG>:</LT>
+<LL>- Direi-vos, amiga, meu cora&ccedil;on:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "er" ERI = "adusser" AC = "---+-----+">
+<LT>fara-mi Deus <SEG C = "I" N = "RE" ID = "14">ben, se<SEG C = "M" N = "SIN" ID = "15"> mi o</SEG> adusser</SEG>,</LT>
+<LL>fara-mi Deus ben, se mi o adusser,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "quiser" AC = "--+------+">
+<LT><SEG C = "I" N = "RE" ID = "14">e sas doas d&eacute;-as a quen <SEG C = "R" N = "PV" ID = "9">quiser</SEG></SEG>.</LT>
+<LL>e sas doas d&eacute;-as a quen quiser.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:90</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eu" ERI = "meu" AC = "---+-----+">
+<LT><SEG C = "R" N = "CF" ID = "12"><SEG C = "R" N = "CD" ID = "10">- Dizen</SEG></SEG><SEG C = "R" N = "CF" ID = "12">, amiga</SEG>, que non ven o meu</LT>
+<LL>- Dizen, amiga, que non ven o meu</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ven" AC = "-+-------+">
+<LT><SEG C = "R" N = "CP" ID = "1">amigo, mailo vosso cedo <SEG C = "R" N = "RD" ID = "2">ven</SEG></SEG>,</LT>
+<LL>amigo, mailo vosso cedo ven,</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ben" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">e partid' as d&otilde;as</SEG>, que trage, ben</SEG>.</LT>
+<LL>e partid' as d&otilde;as, que trage, ben.</LL>
+</L>
+<L N = "4" NS = "10" RI = "eu" ERI = "eu" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "13">- Direi-vos, amiga</SEG>, o que digu' eu</SEG>:</LT>
+<LL>- Direi-vos, amiga, o que digu' eu:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "er" ERI = "adusser" AC = "---+-----+">
+<LT>fara-mi Deus <SEG C = "I" N = "RE" ID = "16">ben, se<SEG C = "M" N = "SIN" ID = "17"> mi o</SEG> adusser</SEG>,</LT>
+<LL>fara-mi Deus ben, se mi o adusser,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "quiser" AC = "--+------+">
+<LT><SEG C = "I" N = "RE" ID = "16">e sas doas d&eacute;-as a quen <SEG C = "R" N = "PV" ID = "9">quis<SEG C = "R" N = "CCR" ID = "18">er</SEG></SEG></SEG>.</LT>
+<LL>e sas doas d&eacute;-as a quen quiser.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "cc"></ESQRIM>
+<INFMET>
+<ESQMET>10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "veer" AC = "---+-----+">
+<LT>E ben sei eu <SEG C = "I" N = "RE" ID = "19">que</SEG>, des que el <SEG C = "R" N = "RD" ID = "2">ve<SEG C = "R" N = "CCR" ID = "18">er</SEG></SEG>,</LT>
+<LL>E ben sei eu que, des que el veer,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "quiser" AC = "---+-----+">
+<LT>averei d&otilde;as e quant' al <SEG C = "R" N = "PV" ID = "9">quiser</SEG>.</LT>
+<LL>averei d&otilde;as e quant' al quiser.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "002007" TC = "NA" NE = "1" SG = "NO" XE = "EP CEP" OL = "NON">
+<INCIPIT>A &utilde;a velha quis ora trobar</INCIPIT>
+<NUCANT>2 7</NUCANT>
+<RM BCA = "B" NM = "1590" F = "334v" MU = "NON" EM = "NO" I.FI = "lb334v"></RM>
+<RM BCA = "V" NM = "1122" F = "184v" MU = "NON" EM = "NO" I.FI = "lv184v"></RM>
+<EDIANT T = "DIVUL">
+<P>Gaspar 19</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1492</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1122</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 13</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 214</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 40</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 68</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "48"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>10/02/97</DATE></RESP>
+<RUBRICA>Affonso do Cotom
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 1122. Est&aacute;
+situada na columna b do folio 184v.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "DF">
+<SUBTEMA CAT = "S"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "ababcc"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>99:3</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "trobar" AC = "---+-----+">
+<LT>A &utilde;a velha quis ora trobar,</LT>
+<LL>A &utilde;a velha quis ora trobar,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ez" ERI = "vez" AC = "---+-----+">
+<LT>quand' en Toledo fiquei desta vez;</LT>
+<LL>quand' en Toledo fiquei desta vez;</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L>
+<L N = "3" NS = "10" RI = "ar" ERI = "rogar" AC = "---+--+--+">
+<LT>e veo-me Orraca L&oacute;pez rogar</LT>
+<LL>e veo-me Orraca L&oacute;pez rogar</LL>
+<ANTRO T = "REAL">Orraca L&oacute;pez</ANTRO></L>
+<L N = "4" NS = "10" RI = "ez" ERI = "fez" AC = "----+----+">
+<LT>e disso-m' assi: - Por Deus, que vos fez,</LT>
+<LL>e disso-m' assi: - Por Deus, que vos fez,</LL>
+</L>
+<L N = "5" NS = "10" RI = "i" ERI = "aqui" AC = "--+----+-+">
+<LT>non trobedes a nulha velh' aqui,</LT>
+<LL>non trobedes a nulha velh' aqui,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "min" AC = "---+-----+">
+<LT>ca cuidaran que trobades a min.</LT>
+<LL>ca cuidaran que trobades a min.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

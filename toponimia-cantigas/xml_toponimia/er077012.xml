@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077012" TC = "REFR" NE = "4" SG = "NO" XE = "M MR" OL = "NON">
+<INCIPIT>Filha, o que queredes ben</INCIPIT>
+<NUCANT>77 12</NUCANT>
+<RM BCA = "B" NM = "1143a" F = "245v" MU = "NON" EM = "NO" I.FI = "lb245v">
+</RM>
+<RM BCA = "V" NM = "746" F = "118v" MU = "NON" EM = "NO" I.FI = "lv118v"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 217</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 15</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1088</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 746</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., p. 82</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, pp. 73-74</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 97</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 381</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "376"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>8/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1143a.
+Est&aacute; situada na columna a do folio 245 v.
+A silaba inicial con aparece abreviada coa abreviatura 9. Falta o o
+final.</P></COMNOTC></NOTC>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1143a.
+Est&aacute; situada na columna a do folio 245v.</P></COMNOTC></NOTC>
+<TEMA CAT = "SN"></TEMA>
+<TEMA CAT = "OR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7</ESQMET></INFMET>
+<NUMESQ>42:20</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "en" ERI = "ben" AC = "----+-+">
+<LT><SEG C = "R" N = "CD" ID = "1">Fi<SEG C = "M" N = "SIN" ID = "2">lha</SEG>,</SEG> <SEG C = "M" N = "SIN" ID = "2">o</SEG> que queredes ben</LT>
+<LL>Filha, o que queredes ben</LL>
+</L>
+<L N = "2" NS = "7" RI = "en" ERI = "aquen" AC = "---+--+">
+<LT>partiu-s' agora d' aquen</LT>
+<LL>partiu-s' agora d' aquen</LL>
+</L>
+<L N = "3" NS = "7" RI = "er" ERI = "veer" AC = "---+--+">
+<LT><SEG C = "R" N = "RL" ID = "3">e non vos quiso<SEG C = "R" N = "PR" ID = "4"> <SEG C = "R" N = "PV" ID = "5">veer</SEG></SEG></SEG>;</LT>
+<LL>e non vos quiso veer;</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "er" ERI = "querer" AC = "---+--+">
+<LT>e ides v&oacute;s ben querer</LT>
+<LL>e ides v&oacute;s ben querer</LL>
+</L>
+<L N = "5" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT>a quen vos non quer <SEG C = "R" N = "PV" ID = "5">veer</SEG>?</LT>
+<LL>a quen vos non quer veer?</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>42:22</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ades" ERI = "baratades" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Filha</SEG>, que mal baratades</LT>
+<LL>Filha, que mal baratades</LL>
+</L>
+<L N = "2" NS = "7" RI = "ades" ERI = "amades" AC = "----+-+-">
+<LT>que o sen meu grad' amades,</LT>
+<LL>que o sen meu grad' amades,</LL>
+</L>
+<L N = "3" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT><SEG C = "R" N = "CPL" ID = "6">pois que vos non quer<SEG C = "R" N = "PR" ID = "4"> <SEG C = "R" N = "PV" ID = "5">veer</SEG></SEG></SEG>,</LT>
+<LL>pois que vos non quer veer,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "er" ERI = "querer" AC = "---+--+">
+<LT>e ides v&oacute;s ben querer</LT>
+<LL>e ides v&oacute;s ben querer</LL>
+</L>
+<L N = "5" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT>a quen vos non quer <SEG C = "R" N = "CFR" ID = "7">quer</SEG> <SEG C = "R" N = "PV" ID = "5">veer</SEG>?</LT>
+<LL>a quen vos non quer quer veer?</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7</ESQMET></INFMET>
+<NUMESQ>42:20</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "al" ERI = "mal" AC = "-+----+">
+<LT>Por esto lhi <SEG C = "R" N = "CFR" ID = "7">quer'</SEG> eu mal,</LT>
+<LL>Por esto lhi quer' eu mal,</LL>
+</L>
+<L N = "2" NS = "7" RI = "al" ERI = "al" AC = "-+----+">
+<LT><SEG C = "R" N = "CD" ID = "1">mia filha</SEG>, e non por al,</LT>
+<LL>mia filha, e non por al,</LL>
+</L>
+<L N = "3" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT><SEG C = "R" N = "CPL" ID = "6">porque vos non quis<SEG C = "R" N = "PR" ID = "4"> <SEG C = "R" N = "PV" ID = "5">veer</SEG></SEG></SEG>;</LT>
+<LL>porque vos non quis veer;</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "er" ERI = "querer" AC = "---+--+">
+<LT>e ides v&oacute;s ben querer</LT>
+<LL>e ides v&oacute;s ben querer</LL>
+</L>
+<L N = "5" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT>a quen vos non quer <SEG C = "R" N = "PV" ID = "5">veer</SEG>?</LT>
+<LL>a quen vos non quer veer?</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7 7 7</ESQMET></INFMET>
+<NUMESQ>42:22</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ando" ERI = "chorando" AC = "----+-+-">
+<LT>Andades por el chorando,</LT>
+<LL>Andades por el chorando,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ando" ERI = "Servando" AC = "--+---+-">
+<LT>e foi o<SEG C = "M" N = "SIN" ID = "8">ra a</SEG> San Servando</LT>
+<LL>e foi ora a San Servando</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "3" NS = "7" RI = "er" ERI = "veer" AC = "---+--+">
+<LT><SEG C = "R" N = "RL" ID = "3">e non vos quiso<SEG C = "R" N = "PR" ID = "4"> <SEG C = "R" N = "PV" ID = "5">veer</SEG></SEG></SEG>;</LT>
+<LL>e non vos quiso veer;</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "er" ERI = "querer" AC = "---+--+">
+<LT>e ides v&oacute;s ben querer</LT>
+<LL>e ides v&oacute;s ben querer</LL>
+</L>
+<L N = "5" NS = "7" RI = "er" ERI = "veer" AC = "----+-+">
+<LT>a quen vos non quer <SEG C = "R" N = "PV" ID = "5">veer</SEG>?</LT>
+<LL>a quen vos non quer veer?</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

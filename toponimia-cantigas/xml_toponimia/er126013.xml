@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="126013" NE="3" OL="NON" SG="NO" TC="MEST" XE="EL">
+      <INCIPIT>Querri' agora fazer hun cantar</INCIPIT>
+
+      <NUCANT>126 13</NUCANT>
+
+      <RM BCA="B" EM="NO" F="336r" I.FI="lb336r" MU="NON" NM="1598"></RM>
+
+      <RM BCA="B" EM="NO" F="336v" I.FI="lb336v" MU="NON" NM="1598"></RM>
+
+      <RM BCA="V" EM="NO" F="186r" I.FI="lv186r" MU="NON" NM="1130"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 338</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, pp. 682-683</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1500</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1130</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 334</P>
+      </EDIANT>
+
+      <DATOAU NOME="Alvar" NUA="12"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>14/03/00</DATE>
+      </RESP>
+
+      <RESP ROLE="CO">
+        <NOME>Miguel A. Pousada Cruz</NOME>
+
+        <DATE>21/06/12</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <TEMA CAT="VIN"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:112</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="cantar" N="1" NS="10" RI="ar">
+          <LT>Querri' agora fazer hun cantar,</LT>
+
+          <LL>Querri' agora fazer hun cantar,</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="Amigo" N="2" NS="10" RI="igo">
+          <LT>se eu podesse tal, a <SEG C="R" ID="1" N="PR">Pedr' Amigo</SEG></LT>
+
+          <LL>se eu podesse tal, a Pedr' Amigo</LL>
+
+          <ANTRO T="REAL">Pedr' Amigo de Sevilha (Pedr' Amigo)</ANTRO>
+        </L>
+
+        <L AC="-----+---+-" ERI="comigo" N="3" NS="10" RI="igo">
+          <LT><SEG C="R" ID="2" N="CP">que sse non perdess' el poren <SEG
+                C="R" ID="3" N="PR">comigo</SEG></SEG></LT>
+
+          <LL>que sse non perdess' el poren comigo</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="achar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="4" N="CD">nen eu con él</SEG>; pero non poss' achar</SEG></LT>
+
+          <LL>nen eu con él; pero non poss' achar</LL>
+        </L>
+
+        <L AC="--+------+" ERI="fazer" N="5" NS="10" RI="er">
+          <LT><SEG C="R" ID="5" N="CD">tal</SEG> razon en que lho possa
+          fazer,</LT>
+
+          <LL>tal razon en que lho possa fazer,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="perder" N="6" NS="10" RI="er">
+          <LT>que me non aja con el de perder</LT>
+
+          <LL>que me non aja con el de perder</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="trobar" N="7" NS="10" RI="ar">
+          <LT>e el comigo des que lh' eu trob<SEG C="R" ID="6" N="CC">ar</SEG>.</LT>
+
+          <LL>e el comigo des que lh' eu trobar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:112</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="entrar" N="1" NS="10" RI="ar">
+          <LT><SEG C="R" ID="7" N="CD">Ca</SEG> ja outra vez, quando foi
+          entr<SEG C="R" ID="6" N="CC">ar</SEG></LT>
+
+          <LL>Ca ja outra vez, quando foi entrar</LL>
+        </L>
+
+        <L AC="-----+---+-" ERI="Amigo" N="2" NS="10" RI="igo">
+          <LT>ena ermida velha <SEG C="R" ID="1" N="PR">Pedr' Amigo</SEG>,</LT>
+
+          <LL>ena ermida velha Pedr' Amigo,</LL>
+
+          <ANTRO T="REAL">Pedr' Amigo de Sevilha (Pedr' Amigo)</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="comigo" N="3" NS="10" RI="igo">
+          <LT><SEG C="R" ID="2" N="CP">trobei-lh' end' eu e perdeu-ss' el <SEG
+                C="R" ID="3" N="PR">comigo</SEG></SEG>,</LT>
+
+          <LL>trobei-lh' end' eu e perdeu-ss' el comigo,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Ultramar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="4" N="CD">e eu con el</SEG> quando vin d' Ultramar</SEG>;</LT>
+
+          <LL>e eu con el quando vin d' Ultramar;</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="cometer" N="5" NS="10" RI="er">
+          <LT>mais ora ja, pois m' el foi cometer,</LT>
+
+          <LL>mais ora ja, pois m' el foi cometer,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="mover" N="6" NS="10" RI="er">
+          <LT>outra razon lhi cuid' eu a mover</LT>
+
+          <LL>outra razon lhi cuid' eu a mover</LL>
+        </L>
+
+        <L AC="--+------+" ERI="pesar" N="7" NS="10" RI="ar">
+          <LT>de que aja dous tamanho pesar.</LT>
+
+          <LL>de que aja dous tamanho pesar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:112</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="escatimar" N="1" NS="10" RI="ar">
+          <LT><SEG C="R" ID="7" N="CD">Ca</SEG> se acha per u m'
+          escatimar,</LT>
+
+          <LL>Ca se acha per u m' escatimar,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Amigo" N="2" NS="10" RI="igo">
+          <LT>non vos é el contra mi <SEG C="R" ID="1" N="PR">Pedr' Amigo</SEG>;</LT>
+
+          <LL>non vos é el contra mi Pedr' Amigo;</LL>
+
+          <ANTRO T="REAL">Pedr' Amigo de Sevilha (Pedr' Amigo)</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="comigo" N="3" NS="10" RI="igo">
+          <LT><SEG C="R" ID="2" N="CP">e per aquesto perder-ss' á <SEG C="R"
+                ID="3" N="PR">comigo</SEG></SEG></LT>
+
+          <LL>e per aquesto perder-ss' á comigo</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="começar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="4" N="CD">e eu con el</SEG>; ca poi-l' eu começar</SEG>,</LT>
+
+          <LL>e eu con el; ca poi-l' eu começar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="dizer" N="5" NS="10" RI="er">
+          <LT><SEG C="R" ID="5" N="CD">tal</SEG> escatima lhi cuid' eu
+          dizer</LT>
+
+          <LL>tal escatima lhi cuid' eu dizer</LL>
+        </L>
+
+        <L AC="----+-----+" ERI="viver" N="6" NS="10" RI="er">
+          <LT>que sse mil anos no mund' el viver,</LT>
+
+          <LL>que sse mil anos no mund' el viver,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="vingar" N="7" NS="10" RI="ar">
+          <LT>que ja sempr' aja de que sse vingar.</LT>
+
+          <LL>que ja sempr' aja de que sse vingar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

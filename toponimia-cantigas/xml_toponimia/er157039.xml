@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="157039" NE="3" OL="NON" SG="NO" TC="REFR" XE="A">
+      <INCIPIT>Pero eu vejo aqui trobadores</INCIPIT>
+
+      <NUCANT>157 39</NUCANT>
+
+      <RM BCA="A" EM="YES" F="78r" I.FI="la078r" MU="NON" NM="279"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1622</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 251</P>
+      </EDIANT>
+
+      <DATOAU NOME="CA" NUA="279"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>4/05/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a II = a III)</P></FRI>
+
+      <TEMA CAT="DA"></TEMA>
+
+      <TEMA CAT="ST"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 10 9&#39; 10 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:44</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="trobadores" N="1" NS="9" RI="ores">
+          <LT>Pero eu ve<SEG C="M" ID="9" N="SIN">jo a</SEG>qui trobadores,</LT>
+
+          <LL>Pero eu vejo aqui trobadores,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="meus" N="2" NS="10" RI="eus">
+          <LT><SEG C="R" ID="2" N="CD">senhor</SEG> e lume d&#39; estes olhos
+          meus,</LT>
+
+          <LL>senhor e lume d&#39; estes olhos meus,</LL>
+        </L>
+
+        <L AC="----+---+-" ERI="senhores" N="3" NS="9" RI="ores">
+          <LT>que troban d&#39; amor por sas senhores,</LT>
+
+          <LL>que troban d&#39; amor por sas senhores,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Deus" N="4" NS="10" RI="eus">
+          <LT><SEG C="R" ID="3" N="CPL">non vej&#39; eu aqui trobador, par Deus</SEG>,</LT>
+
+          <LL>non vej&#39; eu aqui trobador, par Deus,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="digo" N="5" NS="9" RI="igo">
+            <LT>que m&#39; og&#39; entenda o por que digo:</LT>
+
+            <LL>que m&#39; og&#39; entenda o por que digo:</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx&#39; e al Seserigo!</LT>
+
+            <LL>al é Alfanx&#39; e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx&#39;)</TOPO>
+
+            <TOPO CAT="TOPOME">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 9&#39; 10 9&#39; 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:38</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="son" N="1" NS="10" RI="on">
+          <LT><SEG C="R" ID="2" N="CD">Senhor</SEG>, fremosa mais de quantas
+          son</LT>
+
+          <LL>Senhor, fremosa mais de quantas son</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="desejo" N="2" NS="9" RI="ejo">
+          <LT>en Sanctaren, e que mais desejo,</LT>
+
+          <LL>en Sanctaren, e que mais desejo,</LL>
+
+          <TOPO CAT="CIUDAD">Santaren (Sanctaren)</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="perdon" N="3" NS="10" RI="on">
+          <LT>dizer-vus quero ¡se Deus me perdon!</LT>
+
+          <LL>dizer-vus quero ¡se Deus me perdon!</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="vejo" N="4" NS="9" RI="ejo">
+          <LT><SEG C="R" ID="3" N="CPL">non vej&#39; <SEG C="I" ID="4" N="RE">eu</SEG> ome de quantos vejo</SEG></LT>
+
+          <LL>non vej&#39; eu ome de quantos vejo</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="digo" N="5" NS="9" RI="igo">
+            <LT>que m&#39; og&#39; entenda o por que digo:</LT>
+
+            <LL>que m&#39; og&#39; entenda o por que digo:</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx&#39; e al Seserigo!</LT>
+
+            <LL>al é Alfanx&#39; e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx&#39;)</TOPO>
+
+            <TOPO CAT="TOPOME">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 9&#39; 10 9&#39; 9&#39; 9&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:38</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="coraçon" N="1" NS="10" RI="on">
+          <LT>Amo vos tant&#39; e tan de <SEG C="R" ID="5" N="PV">coraçon</SEG></LT>
+
+          <LL>Amo vos tant&#39; e tan de coraçon</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="perdudo" N="2" NS="9" RI="udo">
+          <LT>que o dormir ja o ei perdudo,</LT>
+
+          <LL>que o dormir ja o ei perdudo,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="coraçon" N="3" NS="10" RI="on">
+          <LT><SEG C="R" ID="2" N="CD">senhor</SEG> de mi e do meu <SEG C="R"
+          ID="5" N="PV">coraçon</SEG>;</LT>
+
+          <LL>senhor de mi e do meu coraçon;</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="entendudo" N="4" NS="9" RI="udo">
+          <LT><SEG C="R" ID="3" N="CPL">non vej&#39; eu ome tan entendudo</SEG></LT>
+
+          <LL>non vej&#39; eu ome tan entendudo</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="digo" N="5" NS="9" RI="igo">
+            <LT>que m&#39; og&#39; entenda o por que digo:</LT>
+
+            <LL>que m&#39; og&#39; entenda o por que digo:</LL>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx&#39; e al Seserigo!</LT>
+
+            <LL>al é Alfanx&#39; e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx&#39;)</TOPO>
+
+            <TOPO CAT="TOPOME">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

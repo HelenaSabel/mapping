@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="015004" NE="2" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Quer&#39; ir a Santa Maria de Reça, e, irmana, treides migo</INCIPIT>
+
+      <NUCANT>15 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="270v" I.FI="lb270v" MU="NON" NM="1285"></RM>
+
+      <RM BCA="V" EM="NO" F="140r" I.FI="lv140r" MU="NON" NM="891"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Machado 1234</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 891</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 342</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="520p"><COMAU><P>Dispoñémos a composición en
+      vv. longos, segundo a proposta de Cohen, Cantigas d&#39;Amigo, p. 520.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>24/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>Gran peza <COMNOTC><P>Nota lingüística que se refire á expresión:
+      gram peça, situada no verso 6 I. Está situada na marxe inferior do folio
+      270v de B, columna a.</P></COMNOTC></NOTC>
+
+      <NOTC>Quero <COMNOTC><P>Nota lingüística que se refire á palabra quero
+      situada no primeiro verso do refrán. Está situada na marxe inferior do
+      folio 270v de B, columna a.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Ayras Paez <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga B 1285. Está situada na columna a do folio 270v. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Ayras Paez <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga V 891. Está situada na columna b do folio 140r.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>19&#39; 15&#39; 10&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>NA <NOTNESQ><P>Outra posibilidade, 217:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+--+---+--+-+-" ERI="migo" N="1" NS="19" RI="igo">
+          <LT>Quer&#39; ir a Santa Maria <SEG C="I" ID="1" N="RE">de Reça</SEG>,<SEG
+          C="M" ID="2" N="CAE"></SEG> e, irmana, treides <SEG C="R" ID="3"
+          N="PV">migo</SEG>,</LT>
+
+          <LL>Quer&#39; ir a Santa Maria de Reça, e, irmana, treides migo,</LL>
+
+          <TOPO CAT="LCULTO">Santa Maria de Reça</TOPO>
+        </L>
+
+        <L AC="--+---+---+---+-" ERI="migo" N="2" NS="15" RI="igo">
+          <LT><SEG C="R" ID="4" N="CP">e verrá o namorado<SEG C="M" ID="5"
+N="CAE"></SEG> de bon grado falar <SEG C="R" ID="3" N="PV">migo</SEG></SEG>;</LT>
+
+          <LL>e verrá o namorado de bon grado falar migo;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+--+" ERI="Reça" N="3" NS="10" RI="eça">
+            <LT>quer&#39; ir a Santa Maria de Reça</LT>
+
+            <LL>quer&#39; ir a Santa Maria de Reça</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria de Reça</TOPO>
+          </L>
+
+          <L AC="--+---+" ERI="peça" N="4" NS="7" RI="eça">
+            <LT>u non <SEG C="R" ID="6" N="CFR">fui</SEG> á mui gran peça</LT>
+
+            <LL>u non fui á mui gran peça</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16&#39; 17&#39; 10&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>NA <NOTNESQ><P>Outra posibilidade, 244:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+--+---+--+-" ERI="verria" N="1" NS="16" RI="ia">
+          <LT>Se alá <SEG C="R" ID="6" N="CFR">foss&#39;</SEG>, irmana, <SEG
+          C="R" ID="4" N="CP">ben sei<SEG C="M" ID="7" N="CAE"></SEG> que meu amig&#39; i verria</SEG></LT>
+
+          <LL>Se alá foss&#39;, irmana, ben sei que meu amig&#39; i verria</LL>
+        </L>
+
+        <L AC="---+----+----+--+-" ERI="dia" N="2" NS="17" RI="ia">
+          <LT><SEG C="R" ID="4" N="CP">por me veer e <SEG C="I" ID="8" N="RE">por</SEG> falar migo</SEG>,
+          <SEG C="M" ID="9" N="CAE"></SEG>ca lho non vi noutro dia;</LT>
+
+          <LL>por me veer e por falar migo, ca lho non vi noutro dia;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+--+" ERI="Reça" N="3" NS="10" RI="eça">
+            <LT>quero ir a Santa Maria de <SEG C="I" ID="10" N="RE">Reça</SEG></LT>
+
+            <LL>quero ir a Santa Maria de Reça</LL>
+
+            <TOPO CAT="LCULTO">Santa Maria de Reça</TOPO>
+          </L>
+
+          <L AC="--+---+" ERI="peça" N="4" NS="7" RI="eça">
+            <LT><SEG C="I" ID="11" N="RE">u non fui á mui gran peça</SEG></LT>
+
+            <LL>u non fui á mui gran peça</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

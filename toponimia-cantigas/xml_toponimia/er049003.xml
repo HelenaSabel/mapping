@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "049003" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Don Guilhelm' e Don Adan e Don Migueel Carri&ccedil;o</INCIPIT>
+<NUCANT>49 3</NUCANT>
+<RM BCA = "B" NM = "1554" F = "324v" MU = "NON" EM = "NO" I.FI = "lb324v"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 427</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1466</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 125</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 105</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "142"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>26/05/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Fern&atilde; Soarez de Qnhones
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 1554. Est&aacute;
+situada no folio 324v, columna a.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "ENG"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 7</ESQMET></INFMET>
+<NUMESQ>26:33</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "i&ccedil;o" ERI = "Carri&ccedil;o" AC = "--+---+/---+-+-">
+<LT>Don Guilhelm' e Don Adan<SEG C = "M" N = "CAE" ID = "1"></SEG> e Don Migueel Carri&ccedil;o,</LT>
+<LL>Don Guilhelm' e Don Adan e Don Migueel Carri&ccedil;o,</LL>
+<ANTRO T = "REAL">Don Guilhelme</ANTRO>
+<ANTRO T = "REAL">Don Adan</ANTRO>
+<ANTRO T = "REAL">Don Migueel Carri&ccedil;o</ANTRO></L>
+<L N = "2" NS = "13" RI = "i&ccedil;o" ERI = "qui&ccedil;o" AC = "--+---+-/--+-+-">
+<LT>pela porta da igreja,<SEG C = "M" N = "CAE" ID = "2"></SEG> que saiu do qui&ccedil;o,</LT>
+<LL>pela porta da igreja, que saiu do qui&ccedil;o,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ei" ERI = "Rei" AC = "-+--+-+">
+<LT>irado-los-&aacute; el-Rei.</LT>
+<LL>irado-los-&aacute; el-Rei.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 7</ESQMET></INFMET>
+<NUMESQ>26:33</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "eiros" ERI = "pegureiros" AC = "--+---+-/+---+-">
+<LT>Eles, nunca, pois naceron,<SEG C = "M" N = "CAE" ID = "3"></SEG> foron pegureiros;</LT>
+<LL>Eles, nunca, pois naceron, foron pegureiros;</LL>
+</L>
+<L N = "2" NS = "13" RI = "eiros" ERI = "carneiros" AC = "---+--+-/--+-+-">
+<LT>mas, por un ome d' Estorga,<SEG C = "M" N = "CAE" ID = "4"></SEG> que perdeu carneiros,</LT>
+<LL>mas, por un ome d' Estorga, que perdeu carneiros,</LL>
+<TOPO CAT = "CIUDAD">Estorga</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ei" ERI = "Rei" AC = "-+--+-+">
+<LT>irado-los-&aacute; el-Rei.</LT>
+<LL>irado-los-&aacute; el-Rei.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 7</ESQMET></INFMET>
+<NUMESQ>26:33</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ara" ERI = "comprara" AC = "-+-+--+/-+---+-">
+<LT>Deitou un frad' a pacer<SEG C = "M" N = "CAE" ID = "5"></SEG> sas bestas, que comprara;</LT>
+<LL>Deitou un frad' a pacer sas bestas, que comprara;</LL>
+</L>
+<L N = "2" NS = "13" RI = "ara" ERI = "deitara" AC = "----+-+/-+---+-">
+<LT>e, por que as non achou<SEG C = "M" N = "CAE" ID = "6"></SEG> ali u as deitara,</LT>
+<LL>e, por que as non achou ali u as deitara,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ei" ERI = "Rei" AC = "-+--+-+">
+<LT>irado-los-&aacute; el-Rei.</LT>
+<LL>irado-los-&aacute; el-Rei.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

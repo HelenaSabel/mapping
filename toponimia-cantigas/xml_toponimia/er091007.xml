@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "091007" TC = "REFR" NE = "4" SG = "NO" XE = "M MAR" OL = "NON">
+<INCIPIT>Quantas sabedes amar amigo</INCIPIT>
+<NUCANT>91 7</NUCANT>
+<RM BCA = "B" NM = "1282" F = "270r" MU = "NON" EM = "NO" I.FI = "lb270r"></RM>
+<RM BCA = "V" NM = "888" F = "140r" MU = "NON" EM = "NO" I.FI = "lv140r"></RM>
+<RM BCA = "K" NM = "888" F = "198v" MU = "NON" EM = "NO" I.FI = "lk198v"></RM>
+<RM BCA = "N" NM = "5" F = "1r" MU = "SI" EM = "NO" I.FI = "ln001r">
+<NOTMAN N = "1">O texto da cantiga est&aacute; copiado na columna c do
+Pergami&ntilde;o.</NOTMAN></RM>
+<EDIANT T = "CRITI">
+<P>Cunha, Codax, 5</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Oviedo y Arce 5</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Nunes, Martim Codax, 5</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Bell, Mart&iacute;n Codax, 5</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 495</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 260</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1231</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 888</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 72</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 156</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cant., 31</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 159</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Beltr&aacute;n, O cervo, 39</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;varez Bl&aacute;zquez, Escolma, p. 161</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 71</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 13</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, 107-108</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 212-213, 514</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 517</P></EDIANT>
+<DATOAU NOME = "Cantigas, Codax" NUA = "5"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>03/11/04</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana situada na columna a do folio 270r, enriba da cantiga B
+1282. Fai referencia &aacute; presencia de refr&aacute;n na
+cantiga.</P></COMNOTC></NOTC>
+<NOTC>eueremo
+<COMNOTC>
+<P>Reclamo situado no centro do folio 198v. Reproduce a palabra pola que segue
+a copia da cantiga na columna b, o segundo verso da terceira
+estrofa.</P></COMNOTC></NOTC>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET> <ESQMET>9' 9' 8'</ESQMET></INFMET>
+<NUMESQ>26:94</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Quantas sabedes amar <SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "3">amigo</SEG></SEG></SEG>,</LT>
+<LL>Quantas sabedes amar amigo,</LL>
+</L>
+<L N = "2" NS = "9" RI = "igo" ERI = "Vigo" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "4"><SEG C = "R" N = "LP" ID = "5">treides comig' a lo mar de Vigo</SEG></SEG>.</LT>
+<LL>treides comig' a lo mar de Vigo.</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ondas" ERI = "ondas" AC = "--+----+-">
+<LT>E bannarnos emos nas ondas.</LT>
+<LL>E bannarnos emos nas ondas.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET> <ESQMET>9' 9' 8'</ESQMET></INFMET>
+<NUMESQ>26:94</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "amado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Quantas sabedes amar <SEG C = "R" N = "PV" ID = "6"><SEG C = "R" N = "RD" ID = "3">amado</SEG></SEG></SEG>,</LT>
+<LL>Quantas sabedes amar amado,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "levado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "4"><SEG C = "R" N = "LP" ID = "5">treides vos mig' a lo mar levado</SEG></SEG>.</LT>
+<LL>treides vos mig' a lo mar levado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ondas" ERI = "ondas" AC = "--+----+-">
+<LT>E bannarnos emos nas ondas.</LT>
+<LL>E bannarnos emos nas ondas.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET> <ESQMET>9' 9' 8'</ESQMET></INFMET>
+<NUMESQ>26:94</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "igo" ERI = "Vigo" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "5">Treides comig' a lo mar de Vigo</SEG>,</LT>
+<LL>Treides comig' a lo mar de Vigo,</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<L N = "2" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "7">e veeremo-lo meu <SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "3">amigo</SEG></SEG></SEG>.</LT>
+<LL>e veeremo-lo meu amigo.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ondas" ERI = "ondas" AC = "--+----+-">
+<LT>E bannarnos emos nas ondas.</LT>
+<LL>E bannarnos emos nas ondas.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET> <ESQMET>9' 9' 8'</ESQMET></INFMET>
+<NUMESQ>26:94</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "levado" AC = "---+----+-">
+<LT><SEG C = "R" N = "LP" ID = "5">Treides <SEG C = "I" N = "RE" ID = "8">vos</SEG> mig' a lo mar levado</SEG>,</LT>
+<LL>Treides vos mig' a lo mar levado,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "amado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "7">e veeremo-lo meu <SEG C = "R" N = "PV" ID = "6"><SEG C = "R" N = "RD" ID = "3">amado</SEG></SEG></SEG>.</LT>
+<LL>e veeremo-lo meu amado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ondas" ERI = "ondas" AC = "--+----+-">
+<LT>E bannarnos emos nas ondas.</LT>
+<LL>E bannarnos emos nas ondas.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

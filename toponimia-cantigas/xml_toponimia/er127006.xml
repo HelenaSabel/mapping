@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="127006" NE="2" OL="NON" SG="NO" TC="MEST" XE="EA">
+      <INCIPIT>Moir&#39; eu aqui de dessoriam</INCIPIT>
+
+      <NUCANT>127 6</NUCANT>
+
+      <RM BCA="B" EM="NO" F="299v" I.FI="lb299v" MU="NON" NM="1441bis"></RM>
+
+      <RM BCA="V" EM="NO" F="171r" I.FI="lv171r" MU="NON" NM="1052"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Nunes, Barroso, pp. 324-325</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Camargo et alii, Pero Gomes Barroso, 8</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1354</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1052</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 198</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 390</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 201</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lopes" NUA="357"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>20/12/04</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima c sing.)</P></FRI>
+
+      <TEMA CAT="COI"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:276</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="dessoriam" N="1" NS="8" RI="an">
+          <LT>Moir&#39; eu aqui de dessoriam</LT>
+
+          <LL>Moir&#39; eu aqui de dessoriam</LL>
+        </L>
+
+        <L AC="----+--+" ERI="amor" N="2" NS="8" RI="or">
+          <LT>e dizem ca moiro <SEG C="R" ID="1" N="PR">d&#39; amor</SEG>;</LT>
+
+          <LL>e dizem ca moiro d&#39; amor;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="sabor" N="3" NS="8" RI="or">
+          <LT>e haveria <SEG C="R" ID="2" N="PR">gram sabor</SEG></LT>
+
+          <LL>e haveria gram sabor</LL>
+        </L>
+
+        <L AC="--+----+" ERI="pam" N="4" NS="8" RI="an">
+          <LT>de comer, se tevesse pam;</LT>
+
+          <LL>de comer, se tevesse pam;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="al" N="5" NS="8" RI="al">
+          <LT>e, amigos, direi-vos al:</LT>
+
+          <LL>e, amigos, direi-vos al:</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="Portugal" N="6" NS="8" RI="al">
+          <LT>moir&#39; eu do que em Portugal</LT>
+
+          <LL>moir&#39; eu do que em Portugal</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="Baiam" N="7" NS="8" RI="an">
+          <LT>morreu Dom Ponço de Bai<SEG C="R" ID="3" N="CC">am</SEG>.</LT>
+
+          <LL>morreu Dom Ponço de Baiam.</LL>
+
+          <ANTRO T="REAL">Dom Ponço de Baiam</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 7 8 8 8 8</ESQMET>
+
+          <NOTMET>
+            <P>O terceiro verso á hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:276</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+" ERI="dirám" N="1" NS="8" RI="an">
+          <LT>E quantos m&#39; est&#39; a mi dir<SEG C="R" ID="3" N="CC"><SEG
+C="R" ID="4" N="RD">ám</SEG></SEG></LT>
+
+          <LL>E quantos m&#39; est&#39; a mi dirám</LL>
+        </L>
+
+        <L AC="--+----+" ERI="amor" N="2" NS="8" RI="or">
+          <LT>que nom posso comer <SEG C="R" ID="1" N="PR">d&#39; amor</SEG>,</LT>
+
+          <LL>que nom posso comer d&#39; amor,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="sabor" N="3" NS="7" RI="or">
+          <LT>dê-lhis Deus <SEG C="I" ID="4a" N="RE">a</SEG>tam <SEG C="R"
+          ID="2" N="PR">gram sabor</SEG></LT>
+
+          <LL>dê-lhis Deus atam gram sabor</LL>
+        </L>
+
+        <L AC="---+---+" ERI="veerám" N="4" NS="8" RI="an">
+          <LT>com&#39; end&#39; eu hei; e v<SEG C="I" ID="5" N="RE">e</SEG>erám</LT>
+
+          <LL>com&#39; end&#39; eu hei; e veerám</LL>
+        </L>
+
+        <L AC="---+---+" ERI="comer" N="5" NS="8" RI="er">
+          <LT>que há gram coita de comer</LT>
+
+          <LL>que há gram coita de comer</LL>
+        </L>
+
+        <L AC="--+----+" ERI="aver" N="6" NS="8" RI="er">
+          <LT>quem dinheiros non pod&#39; <SEG C="R" ID="4" N="RD">haver</SEG></LT>
+
+          <LL>quem dinheiros non pod&#39; haver</LL>
+        </L>
+
+        <L AC="---+---+" ERI="dam" N="7" NS="8" RI="an">
+          <LT>de que o compr&#39; e nom lho dam.</LT>
+
+          <LL>de que o compr&#39; e nom lho dam.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

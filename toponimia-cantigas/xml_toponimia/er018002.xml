@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018002" TC = "REFR" NE = "2" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Ai eu coitada como vivo en gran cuidado</INCIPIT>
+<NUCANT>18 2</NUCANT>
+<RM BCA = "B" NM = "456" F = "101r" MU = "NON" EM = "NO" I.FI = "lb101r"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, pp. 593-594</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. XIV, pp, 418-419</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 252 (sen indicaci&oacute;n de autor e cunha
+distinta disposici&oacute;n)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Auswahl 50</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 348</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 398</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 1</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Vasconcelos, Textos arcaicos, pp. 17-18 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp. 69-70 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, p. 66 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 426 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Tavares, Textos medievais, pp. 8-9 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Spina, L&iacute;rica, p. 339 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 15 (atrib. a Sancho
+I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 32 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 1</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 1 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 149 (atrib. a Sancho I)</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 512</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 536</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "1">
+</DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>18/10/04</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>El rey don Affonso de Leon
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 456. Est&aacute;
+situada na columna a do folio 101r.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 10' 4' 7'</ESQMET></INFMET>
+<NUMESQ>37:28
+<NOTNESQ>
+<P>Outra posibilidade, 244:26</P></NOTNESQ>
+</NUMESQ></CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ado" ERI = "cuidado" AC = "---+-/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Ai eu coitada <SEG C = "M" N = "CAE" ID = "2"></SEG>como vi<SEG C = "M" N = "SIN" ID = "3">vo en</SEG> gran cuidado</SEG></LT>
+<LL>Ai eu coitada como vivo en gran cuidado</LL>
+</L>
+<L N = "2" NS = "10" RI = "ado" ERI = "alongado" AC = "---+-/----+-">
+<LT><SEG C = "R" N = "PL" ID = "4">por meu amigo <SEG C = "M" N = "CAE" ID = "5"></SEG>que ei alongado</SEG>!</LT>
+<LL>por meu amigo que ei alongado!</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "arda" ERI = "tarda" AC = "---+-">
+<LT>Muito me tarda</LT>
+<LL>Muito me tarda</LL>
+</L>
+<L N = "4" NS = "7" RI = "arda" ERI = "Guarda" AC = "---+--+-">
+<LT>o meu amigo na Guarda!</LT>
+<LL>o meu amigo na Guarda!</LL>
+
+<TOPO CAT = "ALDEA">guarda</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 10' 4' 7'</ESQMET></INFMET>
+<NUMESQ>37:28
+<NOTNESQ>
+<P>Outra posibilidade, 244:26</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ejo" ERI = "desejo" AC = "---+-/--+---+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Ai eu coitada <SEG C = "M" N = "CAE" ID = "6"></SEG>como vi<SEG C = "M" N = "SIN" ID = "7">vo en</SEG> gran desejo</SEG></LT>
+<LL>Ai eu coitada como vivo en gran desejo</LL>
+</L>
+<L N = "2" NS = "10" RI = "ejo" ERI = "vejo" AC = "---+-/----+-">
+<LT><SEG C = "R" N = "PL" ID = "4">por meu amigo <SEG C = "M" N = "CAE" ID = "8"></SEG>que tar<SEG C = "M" N = "SIN" ID = "9">da e</SEG> non vejo</SEG>!</LT>
+<LL>por meu amigo que tarda e non vejo!</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "arda" ERI = "tarda" AC = "---+-">
+<LT>Muito me tarda</LT>
+<LL>Muito me tarda</LL>
+</L>
+<L N = "4" NS = "7" RI = "arda" ERI = "Guarda" AC = "---+--+-">
+<LT>o meu amigo na Guarda!</LT>
+<LL>o meu amigo na Guarda!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

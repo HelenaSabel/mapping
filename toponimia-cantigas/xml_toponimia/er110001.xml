@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="110001" NE="3" OL="NON" SG="NO" TC="REFR" XE="M MR">
+      <INCIPIT>Des quando vos fostes d&#39; aqui</INCIPIT>
+
+      <NUCANT>110 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="255r" I.FI="lb255r" MU="NON" NM="1200"></RM>
+
+      <RM BCA="V" EM="NO" F="126v" I.FI="lv126v" MU="NON" NM="805"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, pp. 225-226</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1148</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 805</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 180-181</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 433</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="427"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>2/11/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = b III; C = A)</P></FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1200 e
+      situada no fol. 255r, columna a, enriba da cantiga, marxe dereita. A
+      nota fai referencia á presencia de refrán na cantiga. Enriba do
+      &#34;o&#34; hai como un til agudo que está abreviando un &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <NOTC>Hai nota <COMNOTC><P>Nota colocciana para a cantiga B 1200 e
+      situada no fol. 255r, columna a, enriba da cantiga, marxe dereita. A
+      nota é de difícil lectura e presenta enriba do &#34;a&#34; un til agudo.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Nuno Treez <COMRUBRI><P>Rúbrica atributiva referida á cantiga V
+      805 e situada no fol. 126v, columna a, enriba da cantiga. A rúbrica está
+      subliñada. É da man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+4">
+        <ESQRIM TIPO="ababCCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+" ERI="aqui" N="1" NS="8" RI="i">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="2" N="CD">Des</SEG> quando vos fostes d&#39; aqui</SEG>,</LT>
+
+          <LL>Des quando vos fostes d&#39; aqui,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="prazer" N="2" NS="8" RI="er">
+          <LT><SEG C="R" ID="3" N="CD">meu amigo</SEG>, sen meu prazer,</LT>
+
+          <LL>meu amigo, sen meu prazer,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="i" N="3" NS="8" RI="i">
+          <LT><SEG C="R" ID="1" N="CP">ouv&#39; eu tan gram coita des i</SEG>,</LT>
+
+          <LL>ouv&#39; eu tan gram coita des i,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="dizer" N="4" NS="8" RI="er">
+          <LT>qual vos ora quero dizer:</LT>
+
+          <LL>qual vos ora quero dizer:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+---+" ERI="enton" N="5" NS="8" RI="on">
+            <LT>que non fezeron des enton</LT>
+
+            <LL>que non fezeron des enton</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="6" NS="8" RI="on">
+            <LT>os meus olhos <SEG C="R" ID="4" N="PV">se chorar non</SEG>,</LT>
+
+            <LL>os meus olhos se chorar non,</LL>
+          </L>
+
+          <L AC="on" ERI="coraçon" N="7" NS="8" RI="on">
+            <LT>nen ar quis o meu coraçon</LT>
+
+            <LL>nen ar quis o meu coraçon</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="8" NS="8" RI="on">
+            <LT>que fezessen <SEG C="R" ID="4" N="PV">se chorar non</SEG>.</LT>
+
+            <LL>que fezessen se chorar non.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+4">
+        <ESQRIM TIPO="ababCCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="achei" N="1" NS="8" RI="ei">
+          <LT><SEG C="R" ID="1" N="CP"><SEG C="R" ID="2" N="CD">E, des</SEG> que m&#39; eu sen vós achei</SEG>,</LT>
+
+          <LL>E, des que m&#39; eu sen vós achei,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="conselhar" N="2" NS="8" RI="ar">
+          <LT>sol non me soubi conselhar</LT>
+
+          <LL>sol non me soubi conselhar</LL>
+        </L>
+
+        <L AC="--+----+" ERI="fiquei" N="3" NS="8" RI="ei">
+          <LT><SEG C="R" ID="1" N="CP">e mui triste por en fiquei</SEG></LT>
+
+          <LL>e mui triste por en fiquei</LL>
+        </L>
+
+        <L AC="--+----+" ERI="pesar" N="4" NS="8" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">e con coita grand&#39; e pesar</SEG>:</LT>
+
+          <LL>e con coita grand&#39; e pesar:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+---+" ERI="enton" N="5" NS="8" RI="on">
+            <LT>que non fezeron des enton</LT>
+
+            <LL>que non fezeron des enton</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="6" NS="8" RI="on">
+            <LT>os meus olhos <SEG C="R" ID="4" N="PV">se chorar non</SEG>,</LT>
+
+            <LL>os meus olhos se chorar non,</LL>
+          </L>
+
+          <L AC="on" ERI="coraçon" N="7" NS="8" RI="on">
+            <LT>nen ar quis o meu coraçon</LT>
+
+            <LL>nen ar quis o meu coraçon</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="8" NS="8" RI="on">
+            <LT>que <SEG C="R" ID="5" N="CFR">fezessen</SEG> <SEG C="R" ID="4"
+            N="PV">se chorar n<SEG C="R" ID="6" N="CCR">on</SEG></SEG>.</LT>
+
+            <LL>que fezessen se chorar non.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+4">
+        <ESQRIM TIPO="ababAAAA"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>59:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="oraçon" N="1" NS="8" RI="on">
+          <LT>E fui eu <SEG C="R" ID="5" N="CFR">fazer</SEG> oraç<SEG C="R"
+          ID="6" N="CCR">on</SEG></LT>
+
+          <LL>E fui eu fazer oraçon</LL>
+        </L>
+
+        <L AC="---+---+" ERI="vi" N="2" NS="8" RI="i">
+          <LT>a San Clemenç&#39; e non vos vi</LT>
+
+          <LL>a San Clemenç&#39; e non vos vi</LL>
+
+          <TOPO CAT="LCULTO">San Clemenç&#39;</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="sazon" N="3" NS="8" RI="on">
+          <LT>e ben des aquela sazon,</LT>
+
+          <LL>e ben des aquela sazon,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="assi" N="4" NS="8" RI="i">
+          <LT><SEG C="R" ID="3" N="CD">meu amig&#39;</SEG>, e avẽo-m&#39;
+          assi:</LT>
+
+          <LL>meu amig&#39;, e avẽo-m&#39; assi:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+---+" ERI="enton" N="5" NS="8" RI="on">
+            <LT>que non fezeron des enton</LT>
+
+            <LL>que non fezeron des enton</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="6" NS="8" RI="on">
+            <LT>os meus olhos <SEG C="R" ID="4" N="PV">se chorar non</SEG>,</LT>
+
+            <LL>os meus olhos se chorar non,</LL>
+          </L>
+
+          <L AC="on" ERI="coraçon" N="7" NS="8" RI="on">
+            <LT>nen ar quis o meu coraçon</LT>
+
+            <LL>nen ar quis o meu coraçon</LL>
+          </L>
+
+          <L AC="--+----+" ERI="non" N="8" NS="8" RI="on">
+            <LT>que fezessen <SEG C="R" ID="4" N="PV">se chorar non</SEG>.</LT>
+
+            <LL>que fezessen se chorar non.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

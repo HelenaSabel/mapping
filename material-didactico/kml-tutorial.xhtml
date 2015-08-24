@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    
+    
+    
+    <head>
+        <title>Introduction to KML</title>
+        <!--<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>-->
+<link href="http://www.obdurodon.org/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="http://dh.obdurodon.org/projects.css" rel="stylesheet" type="text/css"/>
+<!--<meta http-equiv="Content-Script-Type" content="text/javascript"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>-->
+
+        <link href="http://www.obdurodon.org/css/numberlines.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="http://www.obdurodon.org/js/numberlines.js">/**/</script>
+        <style type="text/css">
+            img.center{
+                display:block;
+                margin-left:auto;
+                margin-right:auto;
+                padding-bottom:1%;
+                padding-top:1%;
+            }
+            p,
+            h2,
+            h3,
+            h4{
+                clear:both;
+            }</style>
+    </head>
+    <body>
+        <h1><a class="logo" href="http://www.obdurodon.org">&lt;oo&gt;</a>&#x2192;<a
+    href="http://dh.obdurodon.org" class="logo">&lt;dh&gt;</a> Digital humanities</h1>
+<hr />
+<p class="boilerplate">
+    
+    <span><strong>Author:</strong> Helena Bermúdez Sabel (<a href="mailto:helena.bermudez@usc.es">helena.bermudez@usc.es</a>)</span>
+    
+    
+    <span><strong>Maintained by:</strong> David J. Birnbaum (<a
+        href="mailto:djbpitt@gmail.com">djbpitt@gmail.com</a>) <a
+            href="http://creativecommons.org/licenses/by-nc-sa/3.0/" style="outline: none;">
+            <img src="http://www.obdurodon.org/images/cc/88x31.png"
+                alt="[Creative Commons BY-NC-SA 3.0 Unported License]"
+                title="Creative Commons BY-NC-SA 3.0 Unported License"
+                style="height: 1em; vertical-align: text-bottom;" />
+        </a>
+    </span>
+    <span><strong>Last modified:</strong>
+        
+        2015-01-02T16:14:23+0000</span>
+</p>
+<p>
+</p>
+<hr />
+<h2>Introduction to KML</h2>
+
+
+
+        <h3>Table of contents</h3>
+        <ol>
+            <li><a href="#about">About KML</a></li>
+            <li><a href="#structure">KML structure</a></li>
+            <li><a href="#style">Styling</a></li>
+            <li><a href="#xslt">XML to KML using XSLT</a></li>
+            <li><a href="#embedding">Embedding KML files into HTML</a></li>
+        </ol>
+        <h3 id="about">About KML</h3>
+        <p>Keyhole Markup Language (KML) is an XML-based standard for displaying geographic data in
+            maps or earth browsers, such as <a href="https://www.google.com/maps">Google Maps</a>,
+                <a href="https://www.google.com/earth">Google Earth</a>, <a
+                href="https://www.mapbox.com/">Mapbox</a>, <a href="https://marble.kde.org/"
+                >Marble</a> or <a href="https://www.here.com">HERE Maps</a>. It has been an <a
+                href="http://www.opengeospatial.org/standards/kml">international standard</a> of the
+                <a href="http://www.opengeospatial.org/">Open Geospatial Consortium</a> since 2008.
+            KML was developed initially for use with Keyhole LT, a precursor of Google Earth that
+            was acquired by Google in 2004.
+            <!--The close relationship between this language and a
+            gigantic multinational corporation explains the need for both detailed tutorials and
+            easy-to-use visualization tools, and this tutorial is situated primarily within the
+            context of Google Maps and Google Earth.--></p>
+        <h3 id="structure">KML structure</h3>
+        <p>KML documents must be in the KML namespace (<q>http://www.opengis.net/kml/2.2</q>). The
+            root element of a KML file is <code>&lt;kml&gt;</code> and it typically contains at
+            least one <code>&lt;Document&gt;</code> element. The most used element in KML is
+                <code>&lt;Placemark&gt;</code>, a child of <code>&lt;Document&gt;</code>.
+                <code>&lt;Placemark&gt;</code> pinpoints a location through reference to the Earth’s
+            surface and it contains a <code>&lt;name&gt;</code> (the label of the pinpoint, to be
+            displayed on a map), a <code>&lt;description&gt;</code> (the tooltip that appears when
+            clicking on the icon), and a <code>&lt;Point&gt;</code>, which contains geographical
+            information inside a <code>&lt;coordinates&gt;</code> child element.</p>
+        <p>Thus, a basic KML document would look like this:</p>
+        <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;kml xmlns="http://www.opengis.net/kml/2.2"&gt;
+    &lt;Document&gt;
+        &lt;name&gt;Sample&lt;/name&gt;
+        &lt;Placemark&gt;
+            &lt;name&gt;Obdurodonia&lt;/name&gt;
+            &lt;description&gt;Digital Humanists’ favorite place on Earth&lt;/description&gt;
+            &lt;Point&gt;
+                &lt;coordinates&gt;-169.866667,-19.05,200&lt;/coordinates&gt;
+            &lt;/Point&gt;
+        &lt;/Placemark&gt;
+    &lt;/Document&gt;
+&lt;/kml&gt;</pre>
+        <p>KML uses a reference system of three-dimensional geographic coordinates: longitude,
+            latitude and altitude, <em>in that order</em>, with negative values for west, south and
+            below sea level. The longitude and latitude components are expressed in <a
+                href="http://en.wikipedia.org/wiki/Geographic_coordinate_conversion">decimal degrees
+                (WGS84)</a>. The third value, altitude, is optional; if it is omitted from a
+            coordinate string, it assumes the default value of 0. Be aware that most websites with
+            mapping information (e.g., Flickr, Google, Multimap, Wikipedia, etc.) use the <a
+                href="http://en.wikipedia.org/wiki/Geo_(microformat)">Geo</a> microformat for
+            encoding and representing coordinate information. This means that, if not specified
+            otherwise, latitude is always the first value. For example, if you search for the
+            Cathedral of Learning in Google Maps, you will get the coordinates <q>40.444241,
+                -79.953370</q>, where the first value is latitude and the second longitude. However,
+            if you want to enter those into KML, where longitude precedes latitude, you must change
+            the order to
+            <code>&lt;coordinates&gt;-79.953370,40.444241&lt;/coordinates&gt;</code>.</p>
+        <p>In addition to encoding individual pinpoints, you may want to create lines to connect
+            different locations in a map visually. To do so, still within a
+                <code>&lt;Placemark&gt;</code> element, instead of placing the
+                <code>&lt;coordinates&gt;</code> element inside a <code>&lt;Point&gt;</code>, put it
+            instead inside a <code>&lt;LineString&gt;</code> element. The
+                <code>&lt;coordinates&gt;</code> element inside a <code>&lt;LineString&gt;</code>
+            element must identify at least two points to connect; see the <a
+                href="https://developers.google.com/kml/documentation/kmlreference#linestring"
+                >relevant section of the Google Developers KML reference</a> for examples and
+            discussion. In addition to <code>&lt;Point&gt;</code> and
+                <code>&lt;LineString&gt;</code>, there are other objects that you can draw inside a
+                <code>&lt;Placemark&gt;</code>, such as <code>&lt;LinearRing&gt;</code>,
+                <code>&lt;Polygon&gt;</code> or <code>&lt;MultiGeometry&gt;</code>. See the Google
+                <a href="https://developers.google.com/kml/documentation/kmlreference">KML
+                Reference</a> for more information.</p>
+        <p>Some of the geospatial software that understands KML supports the visualization of time
+            data. However, in the wake of the December 2014 <a
+                href="http://googlegeodevelopers.blogspot.com/2014/12/announcing-deprecation-of-google-earth.html"
+                >deprecation of the Google Earth API</a>, we do not know about alternatives for
+            building timelines with 3D mapping applications in the browser (other than <a
+                href="https://play.google.com/store/apps/details?id=com.google.earth&amp;hl=en"
+                >Google Earth for Android</a>). Because it is no longer possible to show live
+            examples of timeline support within a browser, the timeline portion of this tutorial
+            will be illustrated with screen shots from the <a href="https://www.google.com/earth"
+                >Google Earth stand-alone application</a> for personal computers.</p>
+        <p>To code a single moment in time, we use <code>&lt;TimeStamp&gt;</code>, the only child of
+            which is a <code>&lt;when&gt;</code> element, which contains the date.There is also a
+                <code>&lt;TimeSpan&gt;</code> element for expressing an extent in time; its child
+            elements are <code>&lt;begin&gt;</code> and <code>&lt;end&gt;</code>.</p>
+        <p>All dates in KML must be expressed using the <a
+                href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> format
+            <em>YYYY-MM-DD</em>, except that the day or both the month and day values may be
+            omitted. To include time information the format is
+                    <em>YYYY-MM-DD<strong>T</strong>hh:mm:ss<strong>Z</strong></em>, where
+                <strong>T</strong> is the separator between the date and the time information and
+                <strong>Z</strong> indicates <a
+                href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time">UTC</a>:</p>
+        <pre>&lt;TimeStamp&gt;
+    &lt;when&gt;1997-07-16T07:30:15Z&lt;/when&gt;
+&lt;/TimeStamp&gt;</pre>
+        <p>Time within a specific time zone can be represented by using
+                <em>YYYY-MM-DD</em><strong>T</strong><em>hh:mm:sszzzzzz</em>, where we specify the
+            local time and then the ± conversion to UTC. Expressing the seconds is mandatory in both
+            of these formats.</p>
+        <pre>&lt;TimeStamp&gt;
+  &lt;when&gt;1997-07-16T10:30:15+03:00&lt;/when&gt;
+&lt;/TimeStamp&gt;</pre>
+        <p>Consider the following example, where we have coded the discovery of monotreme fossils,
+            which begins in the nineteenth century, using <code>&lt;TimeStamp&gt;</code> (lines 9–15
+            are explained below under the <a href="#style">Styling</a> section). Here is the
+                <code>&lt;PlaceMark&gt;</code> element for the most recent such discovery, Obdurodon
+            tharalkooschild, in 2012:</p>
+        <pre class="block">&lt;Placemark&gt;
+    &lt;name&gt;Obdurodon tharalkooschild&lt;/name&gt;
+    <span class="pre-highlight 2">&lt;TimeStamp&gt;
+        &lt;when&gt;2012&lt;/when&gt;
+    &lt;/TimeStamp&gt;</span>
+    &lt;description&gt;
+        &lt;!--et cetera--&gt;
+    &lt;/description&gt;
+    &lt;Style&gt;
+        &lt;IconStyle&gt;
+            &lt;Icon&gt;
+                &lt;href&gt;http://dh.obdurodon.org/kml/images/Obdurodon.jpg&lt;/href&gt;
+            &lt;/Icon&gt;
+        &lt;/IconStyle&gt;
+    &lt;/Style&gt;
+    &lt;Point&gt;
+        &lt;coordinates&gt;137, -19.5&lt;/coordinates&gt;
+    &lt;/Point&gt;
+&lt;/Placemark&gt;</pre>
+        <p>The following two screen shots capture different moments in the timeline progression, the
+            first in 1884 and the other in 2012 (showing icons for three additional species; a
+            fourth, the <a href="http://en.wikipedia.org/wiki/Zaglossus_hacketti">Zaglossus
+                hacketti</a>, an extinct species of long-beaked echidna from Western Australia that
+            is dated to the Pleistocene, is not visible because the image has been cropped). The
+            third image is the result of clicking the icon for Obdurodon tharalkooschild, which
+            opens a view of the information associated with the <code>&lt;Point&gt;</code>.</p>
+        <img class="center" src="images/googleearth1.png" alt="earth1" style="width:100%" />
+        <img class="center" src="images/googleearth2.png" alt="earth2" style="width:100%" />
+        <img class="center" src="images/googleearth3.png" alt="earth3" style="width:100%" />
+        <p>You can review the <a href="time-sample.xhtml">complete code for this example</a> to
+            learn more about the finer points of KML timeline syntax. For another example that uses
+                <code>&lt;TimeSpan&gt;</code> instead, see the <a
+                href="http://iberian.obdurodon.org/maps#googleearth.xhtml">Mapping medieval
+                Galician-Portuguese literature and its networks project globe</a> (functional only
+            in browsers that continue to support the <a
+                href="http://googlegeodevelopers.blogspot.com/2014/12/announcing-deprecation-of-google-earth.html"
+                >deprecated Google Earth browser plug-in</a>) and its <a
+                href="https://github.com/spb40/Iberian-Poets/blob/master/KML/KML-files/timeline-trial.kml"
+                >code</a>.</p>
+        <h3 id="style">Styling</h3>
+        <p>Enhanced styling of map layers is usually accomplished by using a markup language called
+                <a href="http://www.opengeospatial.org/standards/sld">Styled Layer Descriptor</a>,
+            or SLD for short. SLD is an XML-based markup language that is both powerful and complex,
+            but in this section we will limit our discussion to the KML elements available for
+            customization. Most usefully, KML includes an element <code>&lt;Style&gt;</code>, which
+            can contain <code>&lt;IconStyle&gt;</code> to customize the pinpoints and
+                <code>&lt;LineStyle&gt;</code> to style the strokes that join two or more
+            geographical points.</p>
+        <p>One of the easiest ways to introduce different icons into your map is by copying the
+            reference URLs used by Google. If you have installed the Google Earth application, you
+            can use that to access to a list with all the available icons and their URLs. More
+            interestingly, you can include your own icons by incorporating them directly into the
+            KML, as in the following example, but with your own URL:</p>
+        <pre>&lt;Style&gt;
+    &lt;IconStyle&gt;
+        &lt;Icon&gt;
+            &lt;href&gt;http://dh.obdurodon.org/kml/images/megalibgwilia.jpg&lt;/href&gt;
+        &lt;/Icon&gt;
+    &lt;/IconStyle&gt;
+&lt;/Style&gt;</pre>
+        <p>The most common children of <code>&lt;LineStyle&gt;</code> are <code>&lt;color&gt;</code>
+            and <code>&lt;width&gt;</code>. Instead of the six-digit hexadecimal values that are
+            common in CSS, KML works with a <a
+                href="https://developers.google.com/kml/documentation/kmlreference#color"
+                >eight-digit hex system</a>; you can look up the values at the <a
+                href="http://www.zonums.com/gmaps/kml_color">Zonum Solutions on-line KML color
+                utility</a>. The <code>&lt;Style&gt;</code> element may contain an <code>@id</code>
+            attribute, and if you declare the different styles you will use at the beginning of your
+            KML file (after <code>Document/name</code>), you could refer to them afterwards using
+                <code>&lt;styleUrl&gt;</code>. The syntax is very simple:</p>
+        <pre>&lt;Document&gt;
+  &lt;name&gt;Sample&lt;/name&gt;
+  <span class="pre-highlight">&lt;Style id="purpleLine"&gt;
+    &lt;LineStyle&gt;
+      &lt;color&gt;50FF78B4&lt;/color&gt;
+      &lt;width&gt;3&lt;/width&gt;
+    &lt;/LineStyle&gt;
+  &lt;/Style&gt;</span>
+  &lt;Placemark&gt;
+    &lt;description&gt;An echidna’s journey&lt;/description&gt;
+    <span class="pre-highlight">&lt;styleUrl&gt;#purpleLine&lt;/styleUrl&gt;</span>
+    &lt;LineString&gt;
+      &lt;coordinates&gt; 
+        &lt;!--et cetera--&gt;</pre>
+        <h4>Descriptive HTML</h4>
+        <p>Because KML is XML, you can’t include HTML markup, with angle brackets, inside a
+                <code>&lt;description&gt;</code> element directly. You could use character entities
+                (<code>&amp;lt;</code> and <code>&amp;gt;</code>) instead of raw angle brackets to
+            wrap up the HTML elements. However, we recommend instead wrapping HTML inside a
+                <dfn>CDATA marked section</dfn>, as in the following example (pay special attention
+            to lines 4 and 15, since the marked sections require special delimiters):</p>
+        <pre class="block" style="float:left; width:52%; white-space: pre-wrap">&lt;Placemark&gt;
+   &lt;name&gt;Obdurodonia&lt;/name&gt;
+   &lt;description&gt;
+   <span class="pre-highlight">&lt;![CDATA[</span>           
+    &lt;p style="color:#DB9390;background-color:#57373E;
+          padding:0.5em"&gt;   
+      &lt;strong&gt;National language:&lt;/strong&gt; XPath 3.0&lt;br/&gt;
+      &lt;strong&gt;Ethnic Groups:&lt;/strong&gt; Digital Humanists&lt;br/&gt;
+      &lt;strong&gt;Demonym:&lt;/strong&gt; Obdurodonians&lt;br/&gt;
+      &lt;strong&gt;Population:&lt;/strong&gt; Unknown&lt;br/&gt;
+      &lt;strong&gt;Time zone:&lt;/strong&gt; UTC±00:00&lt;br/&gt;
+    &lt;/p&gt;
+    &lt;img src="http://www.obdurodon.org/images/platypus-01.png"
+            alt="obdurodon"/&gt;
+    <span class="pre-highlight">]]&gt;</span>
+   &lt;/description&gt;
+   &lt;Style&gt;
+     &lt;IconStyle&gt;
+          &lt;Icon&gt;
+              &lt;href&gt;http://maps.google.com/mapfiles/kml/paddle/
+                  purple-stars.png&lt;/href&gt;
+          &lt;/Icon&gt;
+      &lt;/IconStyle&gt;
+    &lt;/Style&gt;
+    &lt;Point&gt;
+       &lt;coordinates&gt;-169.866667,-19.05,2000&lt;/coordinates&gt;
+    &lt;/Point&gt;
+&lt;/Placemark&gt;</pre>
+        <img src="images/obdurodonia.png" style="float:right;width:40%;margin-top:1%"
+            alt="obdurodonia" />
+        <p>The CDATA marked section protects the HTML markup from being interpreted by the KML
+            processor prematurely, so that it is included in the content and can be interpreted and
+            rendered as HTML when needed.</p>
+        <h3 id="xslt">From XML to KML using XSLT</h3>
+        <p>Since the output KML has to be in the KML namespace, you need to be able to declare that
+            namespace. If you happen not to have memorized it, in &lt;oXygen/&gt; you can go to File
+            > New > Framework templates, select <q>KML</q>, and copy the namespace declaration,
+            which you can then paste into the XSLT stylesheet you will create as the default output
+            namespace.</p>
+        <pre>&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" <span class="pre-highlight">xmlns="http://www.opengis.net/kml/2.2"</span>
+    exclude-result-prefixes="xs" version="2.0"&gt;
+    
+&lt;xsl:output method="xml" indent="yes"/&gt;</pre>
+        <p>In your template rule for the document node you need to create the root
+                <code>&lt;kml&gt;</code> element and its <code>&lt;Document&gt;</code> child. Add a
+                <code>&lt;name&gt;</code> child to the <code>&lt;Document&gt;</code> element, along
+            with any <code>&lt;Style&gt;</code> elements that you would like to refer later on.</p>
+        <p>For a detailed example of extracting geographical information from multiple XML files, see 
+            Elisa Beshero-Bondar’s <a href="http://www.pitt.edu/~ebb8/DHDS/XQueryExercise3.html">
+                Using XQuery and XSLT together to produce KML for mapping</a>.</p>
+        <p>After saving your recently created KML file, use the Galdos Systems <a
+                href="http://www.kmlvalidator.com/home.htm">KML validator</a> for validation, since
+            &lt;oXygen/&gt; may report spurious errors.</p>
+        <p class="note">In the likely case that the coordinates of your input XML file aren’t
+            formatted with longitude before latitude, as required by KML, we find it easiest to do
+            an <a href="http://dh.obdurodon.org/analyze-string.xhtml">identity transformation</a> to
+            modify them before we generate the actual KML. You are likely to need the functions
+                <code>concat()</code>, <code>string-join()</code>, <code>substring-after()</code>
+            and <code>substring-before()</code>, which you can review in the <a
+                href="http://dh.obdurodon.org/functions.html">XPath functions we use most</a>
+            tutorial. You might also want to use <code>&lt;xsl:analyze-string&gt;</code>, which
+            you can read about in <a href="http://dh.obdurodon.org/analyze-string.xhtml">our
+                tutorial</a>.</p>
+        <h3 id="embedding">Embedding KML files into HTML</h3>
+        <p>In this section, you will learn how to embed Google Maps displaying your data into HTML.
+            We use Google Maps as an example, but other geospatial software that can render KML
+            encoding, such as <a href="https://www.here.com">Maps Here</a>, may be better suited to
+            your requirements.</p>
+        <p>To create content in Google Maps to be embedded in your HTML you need to have a Google
+            Account. Log in and go to <a href="https://mapsengine.google.com/map/">Maps Engine</a>.
+            If you are familiar with Google Maps, you can reach this application by selecting <a
+                href="https://www.google.com/maps"><q>My maps</q></a> and clicking the <q>Create</q>
+            icon. After selecting <q>Create a new map</q>, click on <q>Add layer</q> and then import
+            your KML file. If you want to be able to toggle among multiple layers, as in <a
+                href="http://iberian.obdurodon.org/maps.xhtml#googlemaps">the Iberian poetry
+                example</a>, you will need a different KML file for each layer. Once the data have
+            been uploaded, you can edit the place marks, modify their designs, add images, and
+            export the recently changed data as a new KML file (click on the <q>Folder</q> icon in
+            the interface for access).</p>
+        <img src="images/change-data.png" class="center" alt="snapshot1" />
+        <img src="images/enriched-data.png" class="center" style="width:75%" alt="snapshot2" />
+        <p>Before publishing your map, verify the names of the layers and add descriptions of each
+            of them in the box to your left. Set a default view by zooming the map until your
+            current view of it is the one you want as a default; then under the folder icon select
+                <q>Set default view</q>. Do the same each layer.</p>
+        <p>In order to create a link to your map, click the <q>Share</q> button on the upper right
+            corner. You will be prompted to name the map and save it, and a new window will open
+            where you must change the permissions of the map. Under Under <q>Who has access</q>,
+            change the default from <q>Private</q> to <q>Public</q>. Then copy the <q>Link to
+                share</q>. Alternatively, after changing the access permissions, you can select the
+                <q>Embed on my site</q> option available under the folder icon: you will get the
+            same link as before, but inside a <code>@src</code> attribute in an
+                <code>&lt;iframe&gt;</code> tag with <code>@width</code> and <code>@height</code>
+            properties, and you can copy and paste the entire <code>&lt;iframe&gt;</code> element
+            into your HTML.</p>
+        <p>Maps Engine has a secondary platform that you can reach by clicking on the small gear
+            icon in the upper right corner and selecting <q>Go to Google Maps Engine</q>, as in the
+            image below:</p>
+        <img src="images/mapsengine.png" class="center" alt="snapshot3" />
+        <p>In this API you can efficiently manage a complex mapping project. The method of importing
+            the data is bit different and the easiest way to do it is by adding links to your KML
+            files, which means that you need to upload them first to your project directory, so that
+            the URLs will correspond to the ones you will use for publication.</p>
+        <p>One of the advantages that this platform has over the one described earlier is that it
+            allows you to add multiple files to supply information about the source of your data.
+            You can upload and save files in different formats into the same directory and you can
+            use any of them later to create other maps. However, you cannot edit specific aspects of
+            your data (such as, for example, the color or the location of a particular place mark)
+            as easily as with the first method.</p>
+        <p>If you want to get a link to embed a Google Earth globe instead of Google Maps view in
+            your site, you can obtain it only by using this second API (go to <q>Sharing</q>
+            settings and change the permissions to <q>public</q>; then go to the <q>Links</q>
+            section). As noted above, though, the Google Earth API (for embedding Google Earth
+            visualizations in web pages) was deprecated in December 2014, has already stopped
+            working in some of the major browsers, and will stop working entirely in December 2015.
+            For this reason, we can no longer recommend embedding Google Earth visualizations in web
+            pages, although embedded Google Maps views continue to work as they did previously, and
+            the same is true of the Google Earth stand-alone application.</p>
+        <img src="images/earth-link.png" class="center" alt="snapshot4" />
+        <p>A completely different method of embedding Google GIS visualizations into your site is by
+            using the <a href="http://dh.obdurodon.org/kml-gadget.xhtml">KML embed gadget</a>.</p>
+    </body>
+</html>

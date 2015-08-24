@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="016001" NE="DI+10" OL="SI" SG="NO" TC="MEST" XE="EPO">
+      <INCIPIT>Á lealdade da Bezerra que pela Beira muito anda</INCIPIT>
+
+      <NUCANT>16 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="309r" I.FI="lb309r" MU="NON" NM="1477"><NOTMAN
+      N="1">Neste folio só aparece a rúbrica explicativa.</NOTMAN></RM>
+
+      <RM BCA="B" EM="NO" F="309v" I.FI="lb309v" MU="NON" NM="1477"><NOTMAN
+      N="1">A cantiga está disposta en versos curtos. O número 1477 está á
+      altura da primeira estrofa, quedando fóra o tetrástico (para nós
+      dístico) inicial.</NOTMAN></RM>
+
+      <RM BCA="B" EM="NO" F="310r" I.FI="lb310r" MU="NON" NM="1477"><NOTMAN
+      N="1">Neste manuscrito faltan os versos 2, 3 X. A súa ausencia está
+      marcada por senllas cruces desperationis.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="178r" I.FI="lv178r" MU="NON" NM="1088"><NOTMAN
+      N="1">Falta neste manuscrito o tetrástico inicial. Del só queda, ó
+      seguir da rúbrica explicativa Al...</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="178v" I.FI="Iv178v" MU="NON" NM="1088"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Michaëlis, Em volta, pp. 17-19</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, 297-299</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1390</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1088</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Oliveira/Machado, pp. 130-131</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 540-541</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., 142-144</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 28</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 124-126</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 106</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 180-182</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 40-43, 425-428</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 78</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 88</P>
+      </EDIANT>
+
+      <DATOAU NOME="Arias, Antoloxía," NUA="39"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>10/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = b V; b IV = a V; a VII = b IX)</P></FRI>
+
+      <NOTC>Rey don Affonso <COMNOTC>
+          <P>A nota fai referencia á expresión subliñada na terceira liña da
+          rúbrica explicativa. Está situada na marxe inferior do folio 309r,
+          columna b. Man de Colocci.</P>
+        </COMNOTC></NOTC>
+
+      <RUBRICA>Esta outra cantiga é de mal dizer dos que deron os castelos
+      como non devian al rei Don Afonso. <COMRUBRI>
+          <P>Rúbrica explicativa que precede ás cantigas B 1477 e V 1088. En B
+          está situada na columna b do folio 309r, en V está na columna a do
+          folio 178r. En ámbolos dous manuscritos a rúbrica é de man de
+          Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="TRA"><SUBTEMA CAT="CA"></SUBTEMA> <SUBTEMA
+      CAT="CL"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="DISINI">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="xx"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 1 é hipérmetro</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-/--+---+-" ERI="anda" N="1" NS="16" RI="anda">
+          <LT>Á lealdade da Bezerra <SEG C="M" ID="1" N="CAE"></SEG>que pela
+          Beira muito anda,</LT>
+
+          <LL>Á lealdade da Bezerra que pela Beira muito anda,</LL>
+
+          <ANTRO T="REAL">Bezerra</ANTRO>
+
+          <TOPO CAT="CIRCUNS">Beira</TOPO>
+        </L>
+
+        <L AC="---+--+-/----+-+-" ERI="manda" N="2" NS="15" RI="anda">
+          <LT><SEG C="R" ID="2" N="CP">ben é <SEG C="M" ID="3" N="SIN">que a</SEG> nostr'adenhamos, <SEG
+                C="M" ID="4" N="CAE"></SEG>pois que no-lo Papa manda</SEG>.</LT>
+
+          <LL>ben é que a nostr'adenhamos, pois que no-lo Papa manda.</LL>
+
+          <ANTRO T="REAL">Inocencio IV (Papa)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+--+-/--+--+-+-" ERI="Monsanto" N="1" NS="15" RI="anto">
+          <LT>Non ten Sueiro Bezerra <SEG C="M" ID="5" N="CAE"></SEG>que tort'
+          é en vender <SEG C="R" ID="6" N="PV">Monsanto</SEG>,</LT>
+
+          <LL>Non ten Sueiro Bezerra que tort' é en vender Monsanto,</LL>
+
+          <TOPO CAT="ALDEA">Monsanto</TOPO>
+        </L>
+
+        <L AC="-+-+--+-/--+---+" ERI="tanto" N="2" NS="15" RI="anto">
+          <LT><SEG C="R" ID="7" N="CD">ca</SEG> diz que nunca Deus diss<SEG
+          C="I" ID="8" N="RE">e</SEG><SEG C="M" ID="9" N="CAE"></SEG> a San
+          Pedro máis de tanto:</LT>
+
+          <LL>ca diz que nunca Deus disse a San Pedro máis de tanto:</LL>
+
+          <ANTRO T="REAL">San Pedro</ANTRO>
+        </L>
+
+        <L AC="---+--+-/---+--+" ERI="celo" N="3" NS="15" RI="elo">
+          <LT>-<SEG C="L" ID="10" N="OL">"Quem tu legares in terra <SEG C="M"
+                ID="11" N="CAE"></SEG>erit ligatum in celo"</SEG>.</LT>
+
+          <LL>- "Quem tu legares in terra erit ligatum in celo".</LL>
+        </L>
+
+        <L AC="--+---+-/--+---+" ERI="castelo" N="4" NS="15" RI="elo">
+          <LT><SEG C="R" ID="12" N="CPL"><SEG C="R" ID="13" N="CD">Poren</SEG> diz ca non é torto<SEG
+                C="M" ID="14" N="CAE"></SEG> de <SEG C="R" ID="15" N="CF">vender</SEG> hom' o castelo</SEG>.</LT>
+
+          <LL>Poren diz ca non é torto de vender hom' o castelo.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 4 é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-/---+--+-" ERI="Marialva" N="1" NS="15" RI="alva">
+          <LT><SEG C="R" ID="12" N="CPL"><SEG C="R" ID="13" N="CD">Poren</SEG> diz que non fez torto <SEG
+                C="M" ID="16" N="CAE"></SEG>o que <SEG C="R" ID="15" N="CF">vendeu</SEG> Marialva</SEG>,</LT>
+
+          <LL>Poren diz que non fez torto o que vendeu Marialva,</LL>
+
+          <TOPO CAT="ALDEA">Marialva</TOPO>
+        </L>
+
+        <L AC="--+---+-/-+----+-" ERI="salva" N="2" NS="15" RI="alva">
+          <LT><SEG C="R" ID="17" N="CP"><SEG C="R" ID="7" N="CD">ca</SEG> lhe diss' o arcebispo <SEG
+                C="M" ID="18" N="CAE"></SEG>u<SEG C="I" ID="18a" N="RE">n</SEG> vesso per que se salva</SEG>:</LT>
+
+          <LL>ca lhe diss' o arcebispo un vesso per que se salva:</LL>
+        </L>
+
+        <L AC="-+-+--+-/--+---+-" ERI="serpente" N="3" NS="15" RI="ente">
+          <LT>-<SEG C="L" ID="19" N="OL"> "Estote fortes in bello <SEG C="M"
+                ID="20" N="CAE"></SEG>et pugnate cum serpente"</SEG>.</LT>
+
+          <LL>- "Estote fortes in bello et pugnate cum serpente".</LL>
+        </L>
+
+        <L AC="--+---+-/-+-+-+-" ERI="mente" N="4" NS="14" RI="ente">
+          <LT><SEG C="R" ID="13" N="CD">Poren</SEG> diz ca non é torto <SEG
+          C="M" ID="21" N="CAE"></SEG>quen <SEG C="R" ID="22" N="CF">faz</SEG>
+          traiçon <SEG C="I" ID="23" N="RE">e</SEG> mente.</LT>
+
+          <LL>Poren diz ca non é torto quen faz traiçon e mente.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-/--+-+-+-" ERI="dereito" N="1" NS="15" RI="eito">
+          <LT><SEG C="R" ID="24" N="CD">O que</SEG> vendeu Leirea,<SEG C="M"
+          ID="25" N="CAE"></SEG> muito ten que <SEG C="R" ID="22" N="CF">fez</SEG>
+          dereito,</LT>
+
+          <LL>O que vendeu Leirea, muito ten que fez dereito,</LL>
+
+          <TOPO CAT="ALDEA">Leirea</TOPO>
+        </L>
+
+        <L AC="---+--+-/---+--+-" ERI="esleito" N="2" NS="15" RI="eito">
+          <LT><SEG C="R" ID="7" N="CD">ca</SEG> fez mandado do Papa <SEG C="M"
+          ID="26" N="CAE"></SEG>e confirmou-lh' o esleito:</LT>
+
+          <LL>ca fez mandado do Papa e confirmou-lh' o esleito:</LL>
+
+          <ANTRO T="REAL">Inocencio IV (Papa)</ANTRO>
+        </L>
+
+        <L AC="----+-+-/---+--+-" ERI="capa" N="3" NS="15" RI="apa">
+          <LT>-<SEG C="L" ID="27" N="OL"><SEG C="R" ID="28" N="CD"> "Super</SEG> istud caput meum <SEG
+                C="M" ID="29" N="CAE"></SEG>et super ista mea capa"</SEG>,</LT>
+
+          <LL>- "Super istud caput meum et super ista mea capa",</LL>
+        </L>
+
+        <L AC="+--+--+-/---+--+-" ERI="Papa" N="4" NS="15" RI="apa">
+          <LT>da<SEG C="M" ID="30" N="SIN">de o</SEG> castelo ao conde,<SEG
+          C="M" ID="31" N="CAE"></SEG> pois vo-lo manda o Papa.</LT>
+
+          <LL>dade o castelo ao conde, pois vo-lo manda o Papa.</LL>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+
+          <ANTRO T="REAL">Inocencio IV (Papa)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 1 é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+-/---+--+-" ERI="pecados" N="1" NS="14" RI="ados">
+          <LT><SEG C="R" ID="24" N="CD">O que</SEG> vendeu Faria <SEG C="M"
+          ID="32" N="CAE"></SEG>per remiir seus pecados</LT>
+
+          <LL>O que vendeu Faria per remiir seus pecados</LL>
+
+          <TOPO CAT="ALDEA">Faria</TOPO>
+        </L>
+
+        <L AC="---+---+-/-+---+-" ERI="prelados" N="2" NS="15" RI="ados">
+          <LT>se máis tevesse máis dari<SEG C="R" ID="33" N="SIN">a, e </SEG><SEG
+          C="M" ID="34" N="CAE"></SEG>disseron dous prelados:</LT>
+
+          <LL>se máis tevesse máis daria, e disseron dous prelados:</LL>
+        </L>
+
+        <L AC="---+---+-/-+---+" ERI="confonde" N="3" NS="15" RI="onde">
+          <LT>-<SEG C="L" ID="35" N="OL"> "Tu autem, Dominem, dimitte <SEG
+                C="M" ID="36" N="CAE"></SEG></SEG>aquel que se <SEG C="R"
+          ID="37" N="PV">confonde"</SEG>.</LT>
+
+          <LL>- "Tu autem, Dominem, dimitte aquel que se confonde".</LL>
+        </L>
+
+        <L AC="---+--+-/-+--+-+" ERI="conde" N="4" NS="15" RI="onde">
+          <LT>Ben esmolou en sa vida<SEG C="M" ID="38" N="CAE"></SEG> quen deu
+          Santarem ao <SEG C="R" ID="39" N="PV">c<SEG C="R" ID="40" N="CC">onde</SEG></SEG>.</LT>
+
+          <LL>Ben esmolou en sa vida quen deu Santarem ao conde.</LL>
+
+          <TOPO CAT="CIUDAD">Santaren</TOPO>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-++-/--+---+-" ERI="confonde" N="1" NS="15" RI="onde">
+          <LT><SEG C="R" ID="41" N="CD">Ofereceu</SEG> Martin Diaz<SEG C="M"
+          ID="42" N="CAE"></SEG> aa cruz que os <SEG C="R" ID="37" N="PV">conf<SEG
+                C="R" ID="40" N="CC">onde</SEG></SEG>,</LT>
+
+          <LL>Ofereceu Martin Diaz aa cruz que os confonde,</LL>
+
+          <ANTRO T="REAL">Martin Diaz</ANTRO>
+        </L>
+
+        <L AC="--+-+-+--+-/-+-+-" ERI="conde" N="2" NS="15" RI="onde">
+          <LT>Covilhãa, e Pero Diaz, Sortelha. <SEG C="M" ID="43"
+          N="CAE"></SEG>E diss' o <SEG C="R" ID="39" N="PV">conde</SEG>:</LT>
+
+          <LL>Covilhãa, e Pero Diaz, Sortelha. E diss' o conde:</LL>
+
+          <ANTRO T="REAL">Covilhãa</ANTRO>
+
+          <ANTRO T="REAL">Pero Díaz Sortelha</ANTRO>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+        </L>
+
+        <L AC="+----+--/-+--+-+-" ERI="Santo" N="3" NS="15" RI="anto">
+          <LT>-<SEG C="L" ID="44" N="OL"> "Centuplum accipiatis </SEG><SEG
+          C="M" ID="45" N="CAE"></SEG>de mão do Padre Santo".</LT>
+
+          <LL>- "Centuplum accipiatis de mão do Padre Santo".</LL>
+        </L>
+
+        <L AC="+-++-/+-+----+-+-" ERI="Monsanto" N="4" NS="15" RI="anto">
+          <LT><SEG C="R" ID="46" N="CD">Diz</SEG> Fernan Diaz: <SEG C="M"
+          ID="47" N="CAE"></SEG>"Ben m' est<SEG C="I" ID="48" N="RE">e</SEG>,
+          por que <SEG C="R" ID="49" N="CF">oferi</SEG> <SEG C="R" ID="6"
+          N="PV">Monsanto"</SEG>.</LT>
+
+          <LL>Diz Fernan Diaz: "Ben m' este, por que oferi Monsanto".</LL>
+
+          <ANTRO T="REAL">Fernan Diaz</ANTRO>
+
+          <TOPO CAT="ALDEA">Monsanto</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+-/--+--+-+-" ERI="Bezerro" N="1" NS="15" RI="erro">
+          <LT><SEG C="R" ID="49" N="CF"><SEG C="R" ID="41" N="CD">Ofereceu</SEG></SEG>
+          Trancos' ao<SEG C="M" ID="50" N="CAE"></SEG> conde Roi Bezerro.</LT>
+
+          <LL>Ofereceu Trancos' ao conde Roi Bezerro.</LL>
+
+          <TOPO CAT="CIUDAD">Trancoso</TOPO>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+
+          <ANTRO T="REAL">Roí Bezerro</ANTRO>
+        </L>
+
+        <L AC="---+--+-/--+-+-+-" ERI="erro" N="2" NS="15" RI="erro">
+          <LT>Falou enton don Soeiro, <SEG C="M" ID="51" N="CAE"></SEG>per
+          sacar seu filho d' erro:</LT>
+
+          <LL>Falou enton don Soeiro, per sacar seu filho d' erro:</LL>
+
+          <ANTRO T="REAL">Don Soeiro</ANTRO>
+        </L>
+
+        <L AC="-+-+-+-/--+-+-+--+-" ERI="quidquam" N="3" NS="17" RI="ican">
+          <LT>-<SEG C="L" ID="52" N="OL">"Non potest filia mea <SEG C="M"
+                ID="53" N="CAE"></SEG>sine patre suo facere quidquam"</SEG>.</LT>
+
+          <LL>- "Non potest filia mea sine patre suo facere quidquam".</LL>
+        </L>
+
+        <L AC="+-+---+-/-+--+-+-" ERI="fican" N="4" NS="15" RI="ican">
+          <LT><SEG C="R" ID="54" N="CD">Salvos</SEG> son os traedores, <SEG
+          C="M" ID="55" N="CAE"></SEG>pois ben isopados fican.</LT>
+
+          <LL>Salvos son os traedores, pois ben isopados fican.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="7" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----++-/+-----+-" ERI="cavaleiro" N="1" NS="15" RI="eiro">
+          <LT>O que ofereceu Sintra <SEG C="M" ID="56" N="CAE"></SEG>fez come
+          bon cavaleiro,</LT>
+
+          <LL>O que ofereceu Sintra fez come bon cavaleiro,</LL>
+
+          <TOPO CAT="ALDEA">Sintra</TOPO>
+        </L>
+
+        <L AC="-+----+-/+-+---+-" ERI="Salteiro" N="2" NS="15" RI="eiro">
+          <LT><SEG C="R" ID="17" N="CP"><SEG C="R" ID="57" N="CD">e disso-lh</SEG>i o legado <SEG
+                C="M" ID="58" N="CAE"></SEG>log' un vesso do Salteiro</SEG>:</LT>
+
+          <LL>e disso-lhi o legado log' un vesso do Salteiro:</LL>
+        </L>
+
+        <L AC="+---+--+-/+----+-" ERI="acordado" N="3" NS="15" RI="ado">
+          <LT>-<SEG C="L" ID="59" N="OL">"Sagitte potentis acu<SEG C="M"
+                ID="60" N="SIN">te</SEG></SEG>" -<SEG C="M" ID="60" N="SIN">e</SEG><SEG
+          C="M" ID="61" N="CAE"></SEG> foi i ben acordado;</LT>
+
+          <LL>- "Sagitte potentis acute" - e foi i ben acordado;</LL>
+        </L>
+
+        <L AC="--+-+--+/--+---+-" ERI="escomungado" N="4" NS="15" RI="ado">
+          <LT>melhor é de seer traedor <SEG C="M" ID="62" N="CAE"></SEG>ca
+          morrer escomungado.</LT>
+
+          <LL>melhor é de seer traedor ca morrer escomungado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="8" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-/-+---+-" ERI="Celorico" N="1" NS="15" RI="ico">
+          <LT>E quan<SEG C="M" ID="63" N="SIN">do o</SEG> conde ao castelo
+          <SEG C="M" ID="64" N="CAE"></SEG>chegou de <SEG C="R" ID="65"
+          N="PV">Celorico</SEG>,</LT>
+
+          <LL>E quando o conde ao castelo chegou de Celorico,</LL>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+
+          <TOPO CAT="CIUDAD">Celorico</TOPO>
+        </L>
+
+        <L AC="-+----+-/-+-+--+-" ERI="bispo" N="2" NS="15" RI="ispo">
+          <LT>Pachequ' enton o cuitelo <SEG C="M" ID="66" N="CAE"></SEG>tirou,
+          e disse-lh' un bispo:</LT>
+
+          <LL>Pachequ' enton o cuitelo tirou, e disse-lh' un bispo:</LL>
+
+          <ANTRO T="REAL">Fernão Rodrigues Pacheco (Pacheco)</ANTRO>
+        </L>
+
+        <L AC="+-+----+-/-+----+-" ERI="empeescas" N="3" NS="15" RI="eescas">
+          <LT>-<SEG C="L" ID="67" N="OL"> "Mitte gladium in vagina</SEG>,<SEG
+          C="M" ID="68" N="CAE"></SEG> con el non nos empeescas".</LT>
+
+          <LL>- "Mitte gladium in vagina, con el non nos empeescas".</LL>
+        </L>
+
+        <L AC="+-+---+-/-+--+-+-" ERI="crescas" N="4" NS="15" RI="escas">
+          <LT><SEG C="R" ID="69" N="CF"><SEG C="R" ID="46" N="CD">Diz</SEG></SEG>
+          Pacheco: - "Alhur, conde,<SEG C="M" ID="70" N="CAE"></SEG> pee<SEG
+          C="M" ID="71" N="SIN">de u</SEG> vos <SEG C="R" ID="69" N="CF">digan</SEG>
+          "crescas"».</LT>
+
+          <LL>Diz Pacheco: - "Alhur, conde, peede u vos digan "crescas"».</LL>
+
+          <ANTRO T="REAL">Fernão Rodrigues Pacheco</ANTRO>
+
+          <ANTRO T="REAL">D. Afonso (Conde)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="9" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+-+-/--+---+-" ERI="dia" N="1" NS="15" RI="ia">
+          <LT>Mal<SEG C="R" ID="69" N="CF">disse</SEG> Don Airas Soga <SEG
+          C="M" ID="72" N="CAE"></SEG>a ũa velha noutro dia;</LT>
+
+          <LL>Maldisse Don Airas Soga a ũa velha noutro dia;</LL>
+
+          <ANTRO T="REAL">Don Airas Soga</ANTRO>
+        </L>
+
+        <L AC="+--+--+-/-+----+" ERI="clerizia" N="2" NS="15" RI="ia">
+          <LT><SEG C="R" ID="17" N="CP"><SEG C="R" ID="57" N="CD">disse-lhi</SEG> Pero Soarez <SEG
+                C="M" ID="73" N="CAE"></SEG>un vesso per clerizia</SEG>:</LT>
+
+          <LL>disse-lhi Pero Soarez un vesso per clerizia:</LL>
+
+          <ANTRO T="REAL">Pero Soarez</ANTRO>
+        </L>
+
+        <L AC="-+-----+/-+--+-+-" ERI="ficum" N="3" NS="15" RI="ico">
+          <LT>-<SEG C="L" ID="74" N="OL"> "Non vetula bonbatricon <SEG C="M"
+                ID="75" N="CAE"></SEG>scandit confusio ficum"</SEG>;</LT>
+
+          <LL>- "Non vetula bonbatricon scandit confusio ficum";</LL>
+        </L>
+
+        <L AC="-+-+--+-/-+----+" ERI="Celorico" N="4" NS="15" RI="ico">
+          <LT>non <SEG C="R" ID="76" N="CF">foi</SEG> Soeiro Bezerra <SEG
+          C="M" ID="77" N="CAE"></SEG>alcaide de <SEG C="R" ID="65" N="PV">Celorico</SEG>.</LT>
+
+          <LL>non foi Soeiro Bezerra alcaide de Celorico.</LL>
+
+          <ANTRO T="REAL">Soeiro Bezerra</ANTRO>
+
+          <TOPO CAT="CIUDAD">Celorico</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="10" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aabb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15' 15' 15' 15'</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3 é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>37:6</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+---+-/----+-+-" ERI="deron" N="1" NS="15" RI="eron">
+          <LT><SEG C="R" ID="54" N="CD">Salvos</SEG> <SEG C="R" ID="76"
+          N="CF">son</SEG> os traedores <SEG C="M" ID="78"
+          N="CAE"></SEG>quantos os castelos deron;</LT>
+
+          <LL>Salvos son os traedores quantos os castelos deron;</LL>
+        </L>
+
+        <L AC="-+----+-/-+----+-" ERI="fezeron" N="2" NS="15" RI="eron">
+          <LT>mostraron-lhi en escrito<SEG C="M" ID="79" N="CAE"></SEG> <SEG
+          C="I" ID="79a" N="RE">que foi ben quanto fezeron</SEG></LT>
+
+          <LL>mostraron-lhi en escrito que foi ben quanto fezeron</LL>
+        </L>
+
+        <L AC="--+--+-/----+-+-" ERI="opem" N="3" NS="14" RI="open">
+          <LT><SEG C="L" ID="80" N="OL"><SEG C="R" ID="28" N="CD">super</SEG> ignem eternum <SEG
+                C="M" ID="81" N="CAE"></SEG>et divinitatis opem</SEG>,</LT>
+
+          <LL>super ignem eternum et divinitatis opem,</LL>
+        </L>
+
+        <L AC="+-+-+--+-/-+---+-" ERI="isopen" N="4" NS="15" RI="open">
+          <LT><SEG C="R" ID="54" N="CD">salvo</SEG> é quen trae castelo <SEG
+          C="M" ID="82" N="CAE"></SEG>a preito <SEG C="M" ID="83" N="SIN">que o</SEG>
+          isopen.</LT>
+
+          <LL>salvo é quen trae castelo a preito que o isopen.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

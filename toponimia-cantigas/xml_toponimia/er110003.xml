@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "110003" TC = "REFR" NE = "6" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Non vou eu a San Clemen&ccedil;o orar e fa&ccedil;o gram razon</INCIPIT>
+<NUCANT>110 3</NUCANT>
+<RM BCA = "B" NM = "1202" F = "255r" MU = "NON" EM = "NO" I.FI = "lb255r"></RM>
+<RM BCA = "B" NM = "1202" F = "255v" MU = "NON" EM = "NO" I.FI = "lb255v"></RM>
+<RM BCA = "V" NM = "807" F = "126v" MU = "NON" EM = "NO" I.FI = "lv126v"></RM>
+<RM BCA = "V" NM = "807" F = "127r" MU = "NON" EM = "NO" I.FI = "lv127r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 226-227</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1150</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 807</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, pp. 17-18</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 381-382</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 181-182</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 163</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 435</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "429">
+<COMAU>
+<P>A cantiga &eacute; disposta en versos longos, como recomeda Lapa, O texto,
+p. 188. No verso 1 da III cobra preferimos a lectura de Lapa p&etilde;ad'
+fronte &aacute; de Nunes penad', por se la m&aacute;is fiel &oacute;s
+manuscritos.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>2/11/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+columna b, enriba da cantiga, na marxe dereita. Ref&iacute;rese &aacute;
+presencia de refr&aacute;n na cantiga. Enriba do &quot;o&quot; hai un til agudo
+que est&aacute; abreviando un &quot;r&quot;.</P></COMNOTC></NOTC>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+columna b, enriba da IV cobra. Probablemente Colocci estea confundido a IV
+estrofa da peza co comezo dunha cantiga diferente que, en consecuencia,
+tam&eacute;n ter&iacute;a refr&aacute;n. Enriba do &quot;o&quot; hai un til agudo
+que est&aacute; abreviando un &quot;r&quot;.</P></COMNOTC></NOTC>
+<NOTC>16
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+&oacute; lado dereito dos dous primeiros versos da I cobra, remitindo &aacute;
+conveniencia da s&uacute;a disposici&oacute;n en versos
+longos.</P></COMNOTC></NOTC>
+<NOTC>16
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+&oacute; lado dereito dos dous primeiros versos da II cobra (disposta en
+versos curtos), remitindo &aacute;
+conveniencia da s&uacute;a disposici&oacute;n en versos
+longos.</P></COMNOTC></NOTC>
+<NOTC>16
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+&oacute; lado dereito dos dous primeiros versos da III cobra (disposta en
+versos curtos), remitindo &aacute; conveniencia da s&uacute;a disosici&oacute;n en versos
+longos.</P></COMNOTC></NOTC>
+<NOTC>16
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+&oacute; lado dereito dos dous primeiros versos da IV cobra, remitindo &aacute;
+conveniencia da s&uacute;a disposici&oacute;n en versos
+longos.</P></COMNOTC></NOTC>
+<NOTC>16 syll
+<COMNOTC>
+<P>Nota colocciana referida &aacute; cantiga B 1202 e situada no fol. 255r,
+columna b, marxe inferior. &Eacute; unha indicaci&oacute;n do n&uacute;mero de
+s&iacute;labas que te&ntilde;en os versos e, polo tanto, da conveniencia de
+dispo&ntilde;er en versos longos de 16 s&iacute;labas o que no c&oacute;dice
+son versos curtos.</P></COMNOTC></NOTC>
+<TEMA CAT = "IND"></TEMA>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>244:9
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "on" ERI = "razon" AC = "-+----+-/-+-----+">
+<LT><SEG C = "R" N = "PL" ID = "1">Non vou eu a San Clemen&ccedil;o<SEG C = "M" N = "CAE" ID = "2"></SEG> orar e fa&ccedil;o gram razon</SEG>,</LT>
+<LL>Non vou eu a San Clemen&ccedil;o orar e fa&ccedil;o gram razon,</LL>
+
+<TOPO CAT = "LCULTO">San Clemen&ccedil;o</TOPO></L>
+<L N = "2" NS = "16" RI = "on" ERI = "cora&ccedil;on" AC = "-+----+-/-+-----+">
+<LT>ca <SEG C = "R" N = "CF" ID = "3">el</SEG> non mi to<SEG C = "M" N = "SIN" ID = "4">lhe a</SEG> coita<SEG C = "M" N = "CAE" ID = "5"></SEG> que trago no meu cora&ccedil;on,</LT>
+<LL>ca el non mi tolhe a coita que trago no meu cora&ccedil;on,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">nen<SEG C = "M" N = "SIN" ID = "7"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>nen mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>227:1
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "i" ERI = "mi" AC = "-+----+-/-+-----+">
+<LT><SEG C = "R" N = "PL" ID = "1">Non vou eu a San Clemen&ccedil;o<SEG C = "M" N = "CAE" ID = "8">,</SEG> nen <SEG C = "R" N = "CF" ID = "3">el</SEG> non se nembra de mi</SEG>,</LT>
+<LL>Non vou eu a San Clemen&ccedil;o, nen el non se nembra de mi,</LL>
+</L>
+<L N = "2" NS = "16" RI = "i" ERI = "vi" AC = "--+---+-/-+-----+">
+<LT><SEG C = "R" N = "CD" ID = "6">nen<SEG C = "M" N = "SIN" ID = "9"> mi</SEG> <SEG C = "R" N = "CF" ID = "10"><SEG C = "M" N = "SIN" ID = "9">a</SEG>duz</SEG></SEG> o meu amigo<SEG C = "M" N = "CAE" ID = "11">,</SEG> que sempr' amei des que o vi,</LT>
+<LL>nen mi aduz o meu amigo, que sempr' amei des que o vi,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">nen<SEG C = "M" N = "SIN" ID = "12"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>nen mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>244:9
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "ar" ERI = "andar" AC = "--+---+-/---+---+">
+<LT><SEG C = "R" N = "PL" ID = "13">Ca, se el m<SEG C = "I" N = "RE" ID = "14">e</SEG> <SEG C = "R" N = "CF" ID = "10">adussesse</SEG><SEG C = "M" N = "CAE" ID = "15"></SEG> o que me faz p&etilde;ad' andar</SEG>,</LT>
+<LL>Ca, se el me adussesse o que me faz p&etilde;ad' andar,</LL>
+</L>
+<L N = "2" NS = "16" RI = "ar" ERI = "altar" AC = "--+---+-/--+----+">
+<LT><SEG C = "R" N = "PL" ID = "16">nunca tantos estadaes<SEG C = "M" N = "CAE" ID = "17"></SEG> arderan ant' o seu altar</SEG>,</LT>
+<LL>nunca tantos estadaes arderan ant' o seu altar,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">nen<SEG C = "M" N = "SIN" ID = "18"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>nen mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>244:9
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "or" ERI = "amor" AC = "--+---+-/---+---+">
+<LT><SEG C = "R" N = "PL" ID = "13">Ca, se el m<SEG C = "I" N = "RE" ID = "19">e</SEG> adussesse<SEG C = "M" N = "CAE" ID = "20"></SEG> o por que eu moiro d' amor</SEG>,</LT>
+<LL>Ca, se el me adussesse o por que eu moiro d' amor,</LL>
+</L>
+<L N = "2" NS = "16" RI = "or" ERI = "senhor" AC = "--+---+-/--+----+">
+<LT><SEG C = "R" N = "PL" ID = "16">nunca tantos estades<SEG C = "M" N = "CAE" ID = "21"></SEG> arderan ant' o meu senhor</SEG>,</LT>
+<LL>nunca tantos estades arderan ant' o meu senhor,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">non<SEG C = "M" N = "SIN" ID = "22"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>non mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>16 16 7' 7'</ESQMET></INFMET>
+<NUMESQ>99:60
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "16" RI = "is" ERI = "fis" AC = "-+----+-/----+--+">
+<LT>Pois eu e<SEG C = "I" N = "RE" ID = "23">n</SEG> mia voontade<SEG C = "M" N = "CAE" ID = "24"></SEG> de o non veer son ben fis;</LT>
+<LL>Pois eu en mia voontade de o non veer son ben fis;</LL>
+</L>
+<L N = "2" NS = "16" RI = "is" ERI = "Paris" AC = "--+---+-/-+-----+">
+<LT>que porrei par caridade<SEG C = "M" N = "CAE" ID = "25"></SEG> ant' el candeas de Paris?</LT>
+<LL>que porrei par caridade ant' el candeas de Paris?</LL>
+
+<TOPO CAT = "CIUDAD">Paris</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">non<SEG C = "M" N = "SIN" ID = "26"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>non mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 7' 7'</ESQMET></INFMET>
+<NUMESQ>58:7
+<NOTNESQ>
+<P>Tavani parece esquecerse dos posibles esquemas en versos longos, n&ordm; 26
+(aaB) e n&ordm; 37 (aaBB).</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ia" ERI = "perfia" AC = "---+--+-/-+----+-">
+<LT>En mi tolher meu amigo<SEG C = "M" N = "CAE" ID = "27"></SEG> filhou comigo perfia,</LT>
+<LL>En mi tolher meu amigo filhou comigo perfia,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ia" ERI = "bogia" AC = "-+----+-/-+----+-">
+<LT>por end' arder&aacute;, vos digo<SEG C = "M" N = "CAE" ID = "28">,</SEG> ant' el lume de bogia,</LT>
+<LL>por end' arder&aacute;, vos digo, ant' el lume de bogia,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "6">nen<SEG C = "M" N = "SIN" ID = "29"> mi a</SEG>duz</SEG> o meu amigo,</LT>
+<LL>nen mi aduz o meu amigo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "digo" AC = "---+--+-">
+<LT>pero lho rogu' e lho digo.</LT>
+<LL>pero lho rogu' e lho digo.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>

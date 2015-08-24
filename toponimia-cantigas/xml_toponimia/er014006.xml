@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "014006" TC = "REFR" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Desfiar enviaron ora de Tudela</INCIPIT>
+<NUCANT>14 6</NUCANT>
+<RM BCA = "B" NM = "883" F = "186v" MU = "NON" EM = "NO" I.FI = "lb186v">
+</RM>
+<RM BCA = "B" NM = "883" F = "187r" MU = "NON" EM = "NO" I.FI = "lb187r">
+</RM>
+<RM BCA = "V" NM = "466" F = "74r" MU = "NON" EM = "NO" I.FI = "lv074r">
+</RM>
+<EDIANT T = "CRITI">
+<P>Lapa 70</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. XII, pp. 221-222</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Ayras N&uacute;z, 13</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Machado 822</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Monaci 466</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Brag 466</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 25-26</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 135</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 411</P></EDIANT>
+<DATOAU NOME = "Tavani, Airas Nunez" NUA = "11"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>21/11/96</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "ENG">
+<SUBTEMA CAT = "RE"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 12' 12' 13 13 13</ESQMET>
+</INFMET>
+<NUMESQ>19:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ela" ERI = "Tudela" AC = "-----+-----+">
+<LT>Desfiar enviaron ora de Tudela,</LT>
+<LL>Desfiar enviaron ora de Tudela,</LL>
+<TOPO CAT = "CIUDAD">Tudela</TOPO></L>
+<L N = "2" NS = "12" RI = "ela" ERI = "Castela" AC = "-----+-----+">
+<LT>fillos de don Fernando, el-rei de Castela.</LT>
+<LL>fillos de don Fernando, el-rei de Castela.</LL>
+<ANTRO T = "REAL">don Fernando</ANTRO>
+<TOPO CAT = "CIUDAD">Castela</TOPO></L>
+<L N = "3" NS = "12" RI = "ela" ERI = "Vela" AC = "---------+-+">
+<LT>E di<SEG C = "M" N = "SIN" ID = "1">sse el</SEG>-rei logo: &quot;Ide al&aacute;, don Vela;</LT>
+<LL>E disse el-rei logo: &quot;Ide al&aacute;, don Vela;</LL>
+<ANTRO T = "REAL">don Vela</ANTRO></L>
+<L N = "4" NS = "13" RI = "on" ERI = "razon" AC = "--+--+--+---+">
+<LT>desfia<SEG C = "M" N = "SIN" ID = "2">de e</SEG> mostrade por min esta razon:</LT>
+<LL>desfiade e mostrade por min esta razon:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "13" RI = "on" ERI = "Leon" AC = "--+--+--+---+">
+<LT><SEG C = "R" N = "CD" ID = "3">se quiseren</SEG>, por cambio do reino de Leon</LT>
+<LL>se quiseren, por cambio do reino de Leon</LL>
+<TOPO CAT = "CIUDAD">Leon</TOPO></L>
+<L N = "6" NS = "13" RI = "on" ERI = "Arangon" AC = "---+---+----+">
+<LT>fillen por &eacute;n Nava<SEG C = "M" N = "SIN" ID = "4">rra ou</SEG> o reino d' Arangon.</LT>
+<LL>fillen por &eacute;n Navarra ou o reino d' Arangon.</LL>
+<TOPO CAT = "CIUDAD">Navarra</TOPO>
+<TOPO CAT = "CIUDAD">Arangon</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 12' 12' 13 13 13</ESQMET>
+</INFMET>
+<NUMESQ>19:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ia" ERI = "preitessia" AC = "-----+--+--+">
+<LT>Ainda lles fazede outra preitessia:</LT>
+<LL>Ainda lles fazede outra preitessia:</LL>
+</L>
+<L N = "2" NS = "12" RI = "ia" ERI = "Lombardia" AC = "----+--+---+">
+<LT>dar-lles-ei por cambio quanto ei en Lombardia</LT>
+<LL>dar-lles-ei por cambio quanto ei en Lombardia</LL>
+<TOPO CAT = "CIUDAD">Lombardia</TOPO></L>
+<L N = "3" NS = "12" RI = "ia" ERI = "perfia" AC = "-----+---+-+">
+<LT>e aquesto lles fa&ccedil;o por partir perfia,</LT>
+<LL>e aquesto lles fa&ccedil;o por partir perfia,</LL>
+</L>
+<L N = "4" NS = "13" RI = "on" ERI = "son" AC = "-----+----+-+">
+<LT>e fa&ccedil;o gran direito, ca meus sobri&ntilde;us son:</LT>
+<LL>e fa&ccedil;o gran direito, ca meus sobri&ntilde;us son:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "13" RI = "on" ERI = "Leon" AC = "-----+--+---+">
+<LT><SEG C = "R" N = "CD" ID = "3">se quiseren</SEG>, por <SEG C = "I" N = "RE" ID = "5">cambio do reino de Leon</SEG></LT>
+<LL>se quiseren, por cambio do reino de Leon</LL>
+<TOPO CAT = "CIUDAD">Leon</TOPO></L>
+<L N = "6" NS = "13" RI = "on" ERI = "Arangon" AC = "---+----+---+">
+<LT><SEG C = "I" N = "RE" ID = "5">fillen por &eacute;n Nava<SEG C = "M" N = "SIN" ID = "6">rra ou</SEG> o reino d' Arangon</SEG>.</LT>
+<LL>fillen por &eacute;n Navarra ou o reino d' Arangon.</LL>
+<TOPO CAT = "CIUDAD">Navarra</TOPO>
+<TOPO CAT = "CIUDAD">Arangon</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabBB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 12' 12' 13 13 13</ESQMET>
+</INFMET>
+<NUMESQ>19:4</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ano" ERI = "engano" AC = "-----+--+--+">
+<LT>E veed' ora, amigos, se prend' eu engano</LT>
+<LL>E veed' ora, amigos, se prend' eu engano</LL>
+</L>
+<L N = "2" NS = "12" RI = "ano" ERI = "dano" AC = "----+--+---+">
+<LT>e fazed de guisa que seja sen meu dano;</LT>
+<LL>e fazed de guisa que seja sen meu dano;</LL>
+</L>
+<L N = "3" NS = "12" RI = "ano" ERI = "ano" AC = "----+------+">
+<LT><SEG C = "R" N = "CD" ID = "3">se quisseren</SEG> tregoa, dade-ll' a por &utilde;u ano: </LT>
+<LL>se quisseren tregoa, dade-ll' a por &utilde;u ano: </LL>
+</L>
+<L N = "4" NS = "13" RI = "on" ERI = "Gaston" AC = "-----+------+">
+<LT>outorgo-a por min, e por eles don Gaston:</LT>
+<LL>outorgo-a por min, e por eles don Gaston:</LL>
+<ANTRO T = "REAL">don Gaston</ANTRO></L>
+<REFRAN>
+<L N = "5" NS = "13" RI = "on" ERI = "Leon" AC = "-----+------+">
+<LT><SEG C = "R" N = "CD" ID = "3">se quisseren</SEG>, por <SEG C = "I" N = "RE" ID = "7">cambio do reino de Leon</SEG></LT>
+<LL>se quisseren, por cambio do reino de Leon</LL>
+<TOPO CAT = "CIUDAD">Leon</TOPO></L>
+<L N = "6" NS = "13" RI = "on" ERI = "Arangon" AC = "---+--------+">
+<LT><SEG C = "I" N = "RE" ID = "7">fillen por &eacute;n Nava<SEG C = "M" N = "SIN" ID = "8">rra ou</SEG> o reino d' Arangon</SEG>.&quot;</LT>
+<LL>fillen por &eacute;n Navarra ou o reino d' Arangon.&quot;</LL>
+<TOPO CAT = "CIUDAD">Navarra</TOPO>
+<TOPO CAT = "CIUDAD">Arangon</TOPO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

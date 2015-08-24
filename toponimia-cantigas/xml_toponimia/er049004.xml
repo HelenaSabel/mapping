@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "049004" TC = "REFR" NE = "TI+3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Lop' Anaia non se vaia</INCIPIT>
+<NUCANT>49 4</NUCANT>
+<RM BCA = "B" NM = "1555" F = "324v" MU = "NON" EM = "NO" I.FI = "lb324v"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 428</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1467</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 46</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 143</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 106</P></EDIANT>
+<DATOAU NOME = "Arias, Antolox&iacute;a," NUA = "75"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>17/01/05</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "FAL"></TEMA>
+<TEMA CAT = "ENG"></TEMA>
+</CT>
+<GRUPO TIPO = "TEINI" NUM = "1">
+<CABGRU NUTOTVER = "4">
+<ESQRIM TIPO = "CBCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7 7' 7</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "aia" ERI = "vaia" AC = "+-+---+-">
+<LT>Lop' Anaia non se <SEG C = "R" N = "RD" ID = "1">vaia</SEG>,</LT>
+<LL>Lop' Anaia non se vaia,</LL>
+
+<ANTRO T = "REAL">Lopo Anaia</ANTRO></L>
+<L N = "2" NS = "7" RI = "ai" ERI = "vai" AC = "--+-+-+">
+<LT>ca, senhor, se s' ora<SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "1"> vai</SEG></SEG></LT>
+<LL>ca, senhor, se s' ora vai</LL>
+</L>
+<L N = "3" NS = "7" RI = "aia" ERI = "faia" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3">e lhi frorecer a faia</SEG>,</LT>
+<LL>e lhi frorecer a faia,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ai" ERI = "lai" AC = "--+--++">
+<LT>a alguen jogar&aacute; lai.</LT>
+<LL>a alguen jogar&aacute; lai.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6+4">
+<ESQRIM TIPO = "aaababCBCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7' 7 7' 7 7' 7</ESQMET></INFMET>
+<NUMESQ>15:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "age" ERI = "bastage" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">Se</SEG> lhi frore&ccedil;' o <SEG C = "L" N = "OL" ID = "5">bastage</SEG></SEG>,</LT>
+<LL>Se lhi frore&ccedil;' o bastage,</LL>
+</L>
+<L N = "2" NS = "7" RI = "age" ERI = "sage" AC = "--+-+-+-">
+<LT>meu senhor, seede <SEG C = "L" N = "OL" ID = "6">sage</SEG></LT>
+<LL>meu senhor, seede sage</LL>
+</L>
+<L N = "3" NS = "7" RI = "age" ERI = "gage" AC = "--+-+-+-">
+<LT>que prendades dele <SEG C = "L" N = "OL" ID = "7">gage</SEG>,</LT>
+<LL>que prendades dele gage,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ai" ERI = "vai" AC = "--+---+">
+<LT>ca, se s' ora d'aqui<SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "1"> vai</SEG></SEG>,</LT>
+<LL>ca, se s' ora d'aqui vai,</LL>
+</L>
+<L N = "5" NS = "7" RI = "age" ERI = "domage" AC = "--+-+-+-">
+<LT><SEG C = "R" N = "CD" ID = "5">ben</SEG>, fara tan gran <SEG C = "L" N = "OL" ID = "8">domage</SEG></LT>
+<LL>ben fara tan gran domage</LL>
+</L>
+<L N = "6" NS = "7" RI = "ai" ERI = "Romai" AC = "---+--+">
+<LT>come Fernan de Romai.</LT>
+<LL>come Fernan de Romai.</LL>
+
+<TOPO CAT = "CIUDAD">Romai</TOPO>
+<ANTRO T = "REAL">Fernando</ANTRO></L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "aia" ERI = "vaia" AC = "+-+---+-">
+<LT>Lop' Anaia non se <SEG C = "R" N = "RD" ID = "1">vaia</SEG>,</LT>
+<LL>Lop' Anaia non se vaia,</LL>
+
+<ANTRO T = "REAL">Lopo Anaia</ANTRO></L>
+<L N = "8" NS = "7" RI = "ai" ERI = "vai" AC = "--+-+-+">
+<LT>ca, senhor, se s' ora<SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "1"> vai</SEG></SEG></LT>
+<LL>ca, senhor, se s' ora vai</LL>
+</L>
+<L N = "9" NS = "7" RI = "aia" ERI = "faia" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3">e lhi frorecer a faia</SEG>,</LT>
+<LL>e lhi frorecer a faia,</LL>
+</L>
+<L N = "10" NS = "7" RI = "ai" ERI = "lai" AC = "--+--++">
+<LT>a alguen jogar&aacute; lai.</LT>
+<LL>a alguen jogar&aacute; lai.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6+4">
+<ESQRIM TIPO = "aaababCBCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7' 7 7' 7 7' 7</ESQMET></INFMET>
+<NUMESQ>15:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "eiras" ERI = "freiras" AC = "-+--+-+-">
+<LT><SEG C = "R" N = "CD" ID = "4">Se</SEG> el algur acha freiras,</LT>
+<LL>Se el algur acha freiras,</LL>
+</L>
+<L N = "2" NS = "7" RI = "eiras" ERI = "solteiras" AC = "--+---+-">
+<LT>ou casadas, ou solteiras,</LT>
+<LL>ou casadas, ou solteiras,</LL>
+</L>
+<L N = "3" NS = "7" RI = "eiras" ERI = "carreiras" AC = "+--+--+-">
+<LT>filha-x'as pelas carreiras,</LT>
+<LL>filha-x'as pelas carreiras,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ai" ERI = "ai" AC = "--+--++">
+<LT>e se queren dizer &quot;&inexcla;ai!&quot;,</LT>
+<LL>e se queren dizer &quot;&inexcla;ai!&quot;,</LL>
+</L>
+<L N = "5" NS = "7" RI = "eiras" ERI = "olheiras" AC = "---+--+-">
+<LT>ata lhis faz as olheiras</LT>
+<LL>ata lhis faz as olheiras</LL>
+</L>
+<L N = "6" NS = "7" RI = "ai" ERI = "Cambrai" AC = "+--+--+">
+<LT><SEG C = "R" N = "CD" ID = "5">ben</SEG> come pres de <SEG C = "L" N = "OL" ID = "9">Cambrai</SEG>.</LT>
+<LL>ben come pres de Cambrai.</LL>
+
+<TOPO CAT = "CIUDAD">Cambrai</TOPO></L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "aia" ERI = "vaia" AC = "+-+---+-">
+<LT>Lop' Anaia non se <SEG C = "R" N = "RD" ID = "1">vaia</SEG>,</LT>
+<LL>Lop' Anaia non se vaia,</LL>
+
+<ANTRO T = "REAL">Lopo Anaia</ANTRO></L>
+<L N = "8" NS = "7" RI = "ai" ERI = "vai" AC = "--+-+-+">
+<LT>ca, senhor, se s' ora<SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "1"> vai</SEG></SEG></LT>
+<LL>ca, senhor, se s' ora vai</LL>
+</L>
+<L N = "9" NS = "7" RI = "aia" ERI = "faia" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3">e lhi frorecer a faia</SEG>,</LT>
+<LL>e lhi frorecer a faia,</LL>
+</L>
+<L N = "10" NS = "7" RI = "ai" ERI = "lai" AC = "--+--++">
+<LT>a alguen jogar&aacute; lai.</LT>
+<LL>a alguen jogar&aacute; lai.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6+4">
+<ESQRIM TIPO = "aaababCBCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7' 7 7' 7 7' 7</ESQMET></INFMET>
+<NUMESQ>15:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ilha" ERI = "Sevilha" AC = "--+---+-">
+<LT>Non se vaia de Sevilha,</LT>
+<LL>Non se vaia de Sevilha,</LL>
+
+<TOPO CAT = "CIUDAD">Sevilha</TOPO></L>
+<L N = "2" NS = "7" RI = "ilha" ERI = "maravilha" AC = "--+---+-">
+<LT>ca sera gran maravilha</LT>
+<LL>ca sera gran maravilha</LL>
+</L>
+<L N = "3" NS = "7" RI = "ilha" ERI = "filha" AC = "--+---+-">
+<LT>quant' achar se o non filha,</LT>
+<LL>quant' achar se o non filha,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ai" ERI = "pai" AC = "---+--+">
+<LT>ca assi fez<SEG C = "I" N = "RE" ID = "10">o</SEG> seu pai;</LT>
+<LL>ca assi fezo seu pai;</LL>
+</L>
+<L N = "5" NS = "7" RI = "ilha" ERI = "trilha" AC = "----+-+-">
+<LT>ca ja nen un boi non trilha</LT>
+<LL>ca ja nen un boi non trilha</LL>
+</L>
+<L N = "6" NS = "7" RI = "ai" ERI = "sai" AC = "-+----+">
+<LT>en Oscos -esto ben sai.</LT>
+<LL>en Oscos -esto ben sai.</LL>
+
+<TOPO CAT = "ALDEA">Oscos</TOPO></L>
+<REFRAN>
+<L N = "7" NS = "7" RI = "aia" ERI = "vaia" AC = "+-+---+-">
+<LT>Lop' Anaia non se <SEG C = "R" N = "RD" ID = "1">vaia</SEG>,</LT>
+<LL>Lop' Anaia non se vaia,</LL>
+
+<ANTRO T = "REAL">Lopo Anaia</ANTRO></L>
+<L N = "8" NS = "7" RI = "ai" ERI = "vai" AC = "--+-+-+">
+<LT>ca, senhor, se s' ora<SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "1">vai</SEG></SEG></LT>
+<LL>ca, senhor, se s' ora vai</LL>
+</L>
+<L N = "9" NS = "7" RI = "aia" ERI = "faia" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "3">e lhi frorecer a faia</SEG>,</LT>
+<LL>e lhi frorecer a faia,</LL>
+</L>
+<L N = "10" NS = "7" RI = "ai" ERI = "lai" AC = "--+--++">
+<LT>a alguen jogar&aacute; lai.</LT>
+<LL>a alguen jogar&aacute; lai.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

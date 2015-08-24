@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "016005" TC = "MEST" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Don Est&ecirc;v&atilde;o diz que desamor</INCIPIT>
+<NUCANT>16 5</NUCANT>
+<RM BCA = "B" NM = "1478" F = "310r" MU = "NON" EM = "NO" I.FI = "lb310r"></RM>
+<RM BCA = "V" NM = "1089" F = "178v" MU = "NON" EM = "NO" I.FI = "lv178v"></RM>
+<RM BCA = "V" NM = "1089" F = "179r" MU = "NON" EM = "NO" I.FI = "lv179r"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. I, p. 199 n.</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 288-289</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1391</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1089</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 27</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 89</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "79"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>22/01/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "TRA">
+<SUBTEMA CAT = "NB"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:10</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "or" ERI = "desamor" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">Don Est&ecirc;v&atilde;o</SEG> diz que desamor</SEG></LT>
+<LL>Don Est&ecirc;v&atilde;o diz que desamor</LL>
+<ANTRO T = "REAL">Est&eacute;v&atilde;o Anes (Don
+Est&eacute;v&atilde;o)</ANTRO></L>
+<L N = "2" NS = "10" RI = "i" ERI = "i" AC = "+--+-+---+">
+<LT><SEG C = "R" N = "CD" ID = "1">&aacute; con el-Rei, e sei eu ca ment' i</SEG>:</LT>
+<LL>&aacute; con el-Rei, e sei eu ca ment' i:</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "3" NS = "10" RI = "i" ERI = "aqui" AC = "---+-+-+-+">
+<LT><SEG C = "R" N = "CP" ID = "3">ca nunca viu prazer, pois foi aqui</SEG></LT>
+<LL>ca nunca viu prazer, pois foi aqui</LL>
+</L>
+<L N = "4" NS = "10" RI = "or" ERI = "for" AC = "-+---+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">o Conde, nen veer&aacute; mentr' el i for</SEG>;</LT>
+<LL>o Conde, nen veer&aacute; mentr' el i for;</LL>
+<ANTRO T = "REAL">Conde de Bolonha? (Conde)</ANTRO></L>
+<L N = "5" NS = "10" RI = "ei" ERI = "sei" AC = "---+---+-+">
+<LT>e, per quant' eu de sa fazenda sei,</LT>
+<LL>e, per quant' eu de sa fazenda sei,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ei" ERI = "Rei" AC = "---+--+--+">
+<LT>por que non ven ao reino el-Rei,</LT>
+<LL>por que non ven ao reino el-Rei,</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "7" NS = "10" RI = "or" ERI = "sabor" AC = "---+--+--+">
+<LT>non vee cousa ond' aja sabor.</LT>
+<LL>non vee cousa ond' aja sabor.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:10</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "ben" AC = "-+-+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Con arte diz que non quer al Rei ben</SEG>,</LT>
+<LL>Con arte diz que non quer al Rei ben,</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "2" NS = "10" RI = "a" ERI = "veer&aacute;" AC = "-+-+-+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">ca sei eu d' el ca j&aacute; non <SEG C = "R" N = "RD" ID = "4">veer&aacute;</SEG></SEG></LT>
+<LL>ca sei eu d' el ca j&aacute; non veer&aacute;</LL>
+</L>
+<L N = "3" NS = "10" RI = "a" ERI = "&aacute;" AC = "---+-+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">nunca prazer, <SEG C = "M" N = "SIN" ID = "5">se o</SEG> Conde reinar &aacute;</SEG>;</LT>
+<LL>nunca prazer, se o Conde reinar &aacute;;</LL>
+<ANTRO T = "REAL">Conde de Bolonha (Conde)</ANTRO></L>
+<L N = "4" NS = "10" RI = "en" ERI = "ren" AC = "---+--+--+">
+<LT>ca ben quit' &eacute; de veer nulha ren</LT>
+<LL>ca ben quit' &eacute; de veer nulha ren</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "prazer" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CD" ID = "2">Don Est&ecirc;v&atilde;<SEG C = "M" N = "SIN" ID = "6">o</SEG></SEG><SEG C = "M" N = "SIN" ID = "6"> on</SEG>d' aja gran prazer;</LT>
+<LL>Don Est&ecirc;v&atilde;o ond' aja gran prazer;</LL>
+<ANTRO T = "REAL">Est&ecirc;v&atilde;o Anes (Don
+Est&ecirc;v&atilde;o)</ANTRO></L>
+<L N = "6" NS = "10" RI = "er" ERI = "veer" AC = "-+---+---+">
+<LT>dest' &eacute; j&aacute; el ben quite de <SEG C = "R" N = "RD" ID = "4">veer</SEG>,</LT>
+<LL>dest' &eacute; j&aacute; el ben quite de veer,</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "Santaren" AC = "--+---+--+">
+<LT>mentr' o Cond' assi ouver Santaren.</LT>
+<LL>mentr' o Cond' assi ouver Santaren.</LL>
+<ANTRO T = "REAL">Conde de Bolonha (Conde)</ANTRO>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:10</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "mal" AC = "--+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Por que vos diz el que quer al Rei mal</SEG>,</LT>
+<LL>Por que vos diz el que quer al Rei mal,</LL>
+<ANTRO T = "REAL">Sancho II? (Rei)</ANTRO></L>
+<L N = "2" NS = "10" RI = "on" ERI = "pardon" AC = "---+--+--+">
+<LT>ca ren non vee, assi Deus mi pardon,</LT>
+<LL>ca ren non vee, assi Deus mi pardon,</LL>
+</L>
+<L N = "3" NS = "10" RI = "on" ERI = "cora&ccedil;on" AC = "---+--+--+">
+<LT>que el mais am' eno seu cora&ccedil;on</LT>
+<LL>que el mais am' eno seu cora&ccedil;on</LL>
+</L>
+<L N = "4" NS = "10" RI = "al" ERI = "al" AC = "--+----+-+">
+<LT>nen veer&aacute; nunca; e direi-vos al:</LT>
+<LL>nen veer&aacute; nunca; e direi-vos al:</LL>
+</L>
+<L N = "5" NS = "10" RI = "iu" ERI = "partiu" AC = "---+--+--+">
+<LT>pois que s' agora o reino partiu,</LT>
+<LL>pois que s' agora o reino partiu,</LL>
+</L>
+<L N = "6" NS = "10" RI = "iu" ERI = "viu" AC = "-+-+---+-+">
+<LT>prazer pois nunca Don Est&ecirc;v&atilde;o <SEG C = "R" N = "RD" ID = "4">viu</SEG></LT>
+<LL>prazer pois nunca Don Est&ecirc;v&atilde;o viu</LL>
+<ANTRO T = "REAL">Est&ecirc;v&atilde;o Anes (Don
+Est&ecirc;v&atilde;o)</ANTRO></L>
+<L N = "7" NS = "10" RI = "al" ERI = "Portugal" AC = "---+-+---+">
+<LT>nen veer&aacute; jamais en Portugal.</LT>
+<LL>nen veer&aacute; jamais en Portugal.</LL>
+<TOPO CAT = "CIRCUNS">Potugal</TOPO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

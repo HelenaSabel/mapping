@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "126011" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Pero d' Armea, quando composestes</INCIPIT>
+<NUCANT>126 11</NUCANT>
+<RM BCA = "B" NM = "1603" F = "339r" MU = "NON" EM = "NO" I.FI = "lb339r"></RM>
+<RM BCA = "V" NM = "1135" F = "186v" MU = "NON" EM = "NO" I.FI = "lv186v"></RM>
+<RM BCA = "V" NM = "1135" F = "187r" MU = "NON" EM = "NO" I.FI = "lv187r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 340</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1505</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1135</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 21</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 27</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 336</P></EDIANT>
+<DATOAU NOME = "Alvar" NUA = "14"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>14/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>PERO Dambroa
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B
+1603. Est&aacute; situada na columna a do folio 339r,
+concretamente antes da r&uacute;brica expliciva que vai a
+continuaci&oacute;n.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Estoutra cantiga fez Pero d' Ambr&otilde;a a Pero d' Armea por
+estoutra cantiga de &ccedil;ima que fezera.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute; cantiga B
+1603. Est&aacute; situada na columna a do folio 339r. Como ben
+indica esta r&uacute;brica, esta cantiga nace como resposta
+&aacute; 121,8 de Pero d' Armea.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Estoutra cantiga fez Pero d' Ambr&otilde;a a Pero d' Armea por
+estoutra cantiga de &ccedil;ima que fezera.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute; cantiga V
+1135. Est&aacute; situada na columna b do folio 186v. Como ben
+indica esta r&uacute;brica, esta cantiga nace como resposta
+&aacute; 121,8 de Pero d' Armea.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "DF"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>100:42</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "estes" ERI = "composestes" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Pero d' Armea</SEG>, quando composestes</LT>
+<LL>Pero d' Armea, quando composestes</LL>
+<ANTRO T = "REAL">Pero d' Armea</ANTRO></L>
+<L N = "2" NS = "10" RI = "esse" ERI = "parescesse" AC = "---+-----+-">
+<LT>o vosso cuu, que tan ben parescesse,</LT>
+<LL>o vosso cuu, que tan ben parescesse,</LL>
+</L>
+<L N = "3" NS = "10" RI = "estes" ERI = "posestes" AC = "---+-----+-">
+<LT>e lhi revol e con&ccedil;ela <SEG C = "R" N = "PV" ID = "2"> <SEG C = "R" N = "RD" ID = "3">posestes</SEG></SEG>,</LT>
+<LL>e lhi revol e con&ccedil;ela  posestes,</LL>
+</L>
+<L N = "4" NS = "10" RI = "esse" ERI = "vencesse" AC = "--+------+-">
+<LT>que donzela de parescer vencesse,</LT>
+<LL>que donzela de parescer vencesse,</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "p&otilde;er" AC = "---+-----+">
+<LT>e sobran&ccedil;elhas lhi fostes <SEG C = "R" N = "RD" ID = "3">p&otilde;er</SEG>:</LT>
+<LL>e sobran&ccedil;elhas lhi fostes p&otilde;er:</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "perder" AC = "---+-----+">
+<LT>tod' est' amigo soubestes perder,</LT>
+<LL>tod' est' amigo soubestes perder,</LL>
+</L>
+<L N = "7" NS = "10" RI = "estes" ERI = "posestes" AC = "---+-----+-">
+<LT>polos <SEG C = "R" N = "CF" ID = "4">narizes</SEG>, que lhi non <SEG C = "R" N = "CF" ID = "4"><SEG C = "R" N = "PV" ID = "2"><SEG C = "R" N = "RD" ID = "3">posestes</SEG></SEG></SEG>.</LT>
+<LL>polos narizes, que lhi non posestes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>100:42</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "izes" ERI = "narizes" AC = "--+------+-">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CD" ID = "1">E, don Pedro</SEG>, <SEG C = "R" N = "CF" ID = "4">ponede</SEG>-lh' os <SEG C = "R" N = "CF" ID = "4">narizes</SEG></SEG></LT>
+<LL>E, don Pedro, ponede-lh' os narizes</LL>
+<ANTRO T = "REAL">Pero d' Armea (don Pedro)</ANTRO></L>
+<L N = "2" NS = "10" RI = "osso" ERI = "posso" AC = "----+----+-">
+<LT>ca vos conselh' eu o melhor que posso;</LT>
+<LL>ca vos conselh' eu o melhor que posso;</LL>
+</L>
+<L N = "3" NS = "10" RI = "izes" ERI = "perdizes" AC = "---+-----+-">
+<LT>e mat<SEG C = "I" N = "RE" ID = "6">a</SEG>rei h&utilde;u par de perdizes,</LT>
+<LL>e matarei h&utilde;u par de perdizes,</LL>
+</L>
+<L N = "4" NS = "10" RI = "osso" ERI = "vosso" AC = "----+----+-">
+<LT>que atan bel cuu com' &eacute; esse vosso,</LT>
+<LL>que atan bel cuu com' &eacute; esse vosso,</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "buscar" AC = "----+----+">
+<LT>ainda <SEG C = "M" N = "SIN" ID = "7">que o</SEG> home queira buscar,</LT>
+<LL>ainda que o home queira buscar,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "achar" AC = "--+----+-+">
+<LT><SEG C = "M" N = "SIN" ID = "8">que o</SEG> non possan en to<SEG C = "M" N = "SIN" ID = "9">da a</SEG> te<SEG C = "M" N = "SIN" ID = "10">rra a</SEG>char,</LT>
+<LL>que o non possan en toda a terra achar,</LL>
+</L>
+<L N = "7" NS = "10" RI = "izes" ERI = "Felizes" AC = "---+-----+-">
+<LT>de San Ffagundo at&aacute; Ssan Felizes.</LT>
+<LL>de San Ffagundo at&aacute; Ssan Felizes.</LL>
+<TOPO CAT = "TOPOME">Sahag&uacute;n (San Ffagundo)</TOPO>
+<TOPO CAT = "TOPOME">Saelices (Ssan Felizes))</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10 10 10'</ESQMET>
+<NOTMET>
+<P>O verso 6 &eacute; hip&eacute;rmetro.</P></NOTMET></INFMET>
+<NUMESQ>101:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ede" ERI = "p&otilde;ede" AC = "--+------+-">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CD" ID = "1">E, don Pedro</SEG>, os bei&ccedil;os lh' er <SEG C = "R" N = "RD" ID = "3">p&otilde;ede</SEG></SEG></LT>
+<LL>E, don Pedro, os bei&ccedil;os lh' er p&otilde;ede</LL>
+<ANTRO T = "REAL">Pero d' Armea (don Pedro)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ado" ERI = "barvado" AC = "---+-----+-">
+<LT>a esse cuu que fo tam bem barvado,</LT>
+<LL>a esse cuu que fo tam bem barvado,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ede" ERI = "fazede" AC = "---+-----+-">
+<LT>e o granhon ben feito lhi fazede,</LT>
+<LL>e o granhon ben feito lhi fazede,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ado" ERI = "arrufado" AC = "-----+---+-">
+<LT>e faredes o cuu ben arrufado;</LT>
+<LL>e faredes o cuu ben arrufado;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ir" ERI = "encobrir" AC = "----+----+">
+<LT>e punhade logo <SEG C = "M" N = "SIN" ID = "11">de o</SEG> encobrir,</LT>
+<LL>e punhade logo de o encobrir,</LL>
+</L>
+<L N = "6" NS = "11" RI = "ir" ERI = "vir" AC = "--+-------+">
+<LT>ca sse ve-lo don Fernand' Escalho vir,</LT>
+<LL>ca sse ve-lo don Fernand' Escalho vir,</LL>
+<ANTRO T = "REAL">Fernand' Escalho</ANTRO></L>
+<L N = "7" NS = "10" RI = "ado" ERI = "casado" AC = "---+-----+-">
+<LT>ssodes soltei<SEG C = "M" N = "SIN" ID = "12">ro e</SEG> seredes casado.</LT>
+<LL>ssodes solteiro e seredes casado.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

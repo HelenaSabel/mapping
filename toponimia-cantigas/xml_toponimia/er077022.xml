@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077022" TC = "REFR" NE = "3+F" SG = "NO" XE = "M MR" OL = "NON">
+<INCIPIT>Trist' and' eu, velida, e ben vo-lo digo</INCIPIT>
+<NUCANT>77 22</NUCANT>
+<RM BCA = "B" NM = "1149bis" F = "245r" MU = "NON" EM = "NO" I.FI = "lb245r">
+</RM>
+<RM BCA = "V" NM = "742" F = "118r" MU = "NON" EM = "NO" I.FI = "lv118r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 216-217</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 11</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1084</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 742</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 95</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 114</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 377</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "372">
+<COMAU>
+<P>Segu&iacute;mo-la lectura de Lapa, O texto, p. 184, no v. 1 III,
+en lugar da de Nunes: E, pero m' aguardan que o non veja.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>22/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1149bis.
+Est&aacute; situada na columna a do folio 245r. A s&iacute;laba
+inicial con pres&aacute;ntase mediante a abreviatura 9. Falta o o
+final.</P></COMNOTC></NOTC>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1149bis.
+Est&aacute; situada na columna a do folio 245r.</P></COMNOTC></NOTC>
+<TEMA CAT = "OR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 7 10</ESQMET></INFMET>
+<NUMESQ>37:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "igo" ERI = "digo" AC = "--+-------+-">
+<LT>Trist' and' eu, velida, e ben vo-lo digo,</LT>
+<LL>Trist' and' eu, velida, e ben vo-lo digo,</LL>
+</L>
+<L N = "2" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">por que mi non leixam veer meu <SEG C = "R" N = "RD" ID = "2">amigo</SEG></SEG>:</LT>
+<LL>por que mi non leixam veer meu amigo:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ar" ERI = "guardar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">poden-m' agora <SEG C = "R" N = "PV" ID = "4">guardar</SEG></SEG>,</LT>
+<LL>poden-m' agora guardar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "amar" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">mais <SEG C = "R" N = "PV" ID = "5">non me partir&aacute;m de o <SEG C = "R" N = "RD" ID = "2">amar</SEG></SEG></SEG>.</LT>
+<LL>mais non me partir&aacute;m de o amar.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 7 10</ESQMET></INFMET>
+<NUMESQ>37:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ia" ERI = "dia" AC = "----+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "6">Pero me</SEG> feriron por el noutro dia,</LT>
+<LL>Pero me feriron por el noutro dia,</LL>
+</L>
+<L N = "2" NS = "11" RI = "ia" ERI = "veeria" AC = "----+-----+-">
+<LT>fui a San Servando se o <SEG C = "R" N = "RD" ID = "7">ve<SEG C = "I" N = "RE" ID = "8">e</SEG>ria</SEG>:</LT>
+<LL>fui a San Servando se o veeria:</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ar" ERI = "guardar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">poden-m' agora <SEG C = "R" N = "PV" ID = "4">guardar</SEG></SEG>,</LT>
+<LL>poden-m' agora guardar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "amar" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">mais <SEG C = "R" N = "PV" ID = "5">non me partir&aacute;m de o <SEG C = "R" N = "RD" ID = "2">amar</SEG></SEG></SEG>.</LT>
+<LL>mais non me partir&aacute;m de o amar.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 7 10</ESQMET></INFMET>
+<NUMESQ>37:34</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "eja" ERI = "veja" AC = "----+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "6">E, pero me</SEG> guardan que <SEG C = "I" N = "RE" ID = "9">eu</SEG> o non <SEG C = "R" N = "RD" ID = "7">veja</SEG></SEG>,</LT>
+<LL>E, pero me guardan que eu o non veja,</LL>
+</L>
+<L N = "2" NS = "11" RI = "eja" ERI = "seja" AC = "------+---+-">
+<LT>esto non <SEG C = "R" N = "CF" ID = "10">pode</SEG> seer per ren que seja:</LT>
+<LL>esto non pode seer per ren que seja:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ar" ERI = "guardar" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">poden-m' agora <SEG C = "R" N = "PV" ID = "4">guardar</SEG></SEG>,</LT>
+<LL>poden-m' agora guardar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "amar" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">mais <SEG C = "R" N = "PV" ID = "5">non me partir&aacute;m de o <SEG C = "R" N = "RD" ID = "2">am<SEG C = "R" N = "CCR" ID = "11">ar</SEG></SEG></SEG></SEG>.</LT>
+<LL>mais non me partir&aacute;m de o amar.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "bb"></ESQRIM>
+<INFMET>
+<ESQMET>8 8</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ar" ERI = "guardar" AC = "----+--+">
+<LT><SEG C = "R" N = "CP" ID = "3">E muito me <SEG C = "R" N = "CF" ID = "10">poden</SEG> <SEG C = "R" N = "PV" ID = "4">guard<SEG C = "R" N = "CCR" ID = "11">ar</SEG></SEG></SEG>,</LT>
+<LL>E muito me poden guardar,</LL>
+</L>
+<L N = "2" NS = "8" RI = "ar" ERI = "amar" AC = "-----+-+">
+<LT><SEG C = "R" N = "CP" ID = "3">e <SEG C = "R" N = "PV" ID = "5">non me partir&aacute;m d'<SEG C = "M" N = "SIN" ID = "12">o <SEG C = "R" N = "RD" ID = "2">a</SEG></SEG><SEG C = "R" N = "RD" ID = "2">mar</SEG></SEG></SEG>.</LT>
+<LL>e non me partir&aacute;m d'o amar.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="070029" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EL">
+      <INCIPIT>Lourenço, pois te quitas de rascar</INCIPIT>
+
+      <NUCANT>70 29</NUCANT>
+
+      <RM BCA="B" EM="NO" F="313r" I.FI="lb313r" MU="NON" NM="1495"></RM>
+
+      <RM BCA="V" EM="NO" F="182r" I.FI="lv182r" MU="NON" NM="1106"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Nobiling 39</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Domingues, Guilhade, 45</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Tavani, Lourenço, pp. 148-149</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1408</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1106</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 169</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="210"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>7/08/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = c II; b I = a III; b II = d)</P></FRI>
+
+      <NOTC>congedo <COMNOTC><P>Nota colocciana que precede á cantiga B 1495;
+      folio 313r. A nota aparece abreviada [con ]ged.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="BT"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:46</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+---+" ERI="rascar" N="1" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CD">Lourenço</SEG>, pois te quitas de
+          rascar</LT>
+
+          <LL>Lourenço, pois te quitas de rascar</LL>
+
+          <ANTRO T="REAL">Lourenço jograr (Lourenço)</ANTRO>
+        </L>
+
+        <L AC="---+--+--+" ERI="citolon" N="2" NS="10" RI="on">
+          <LT>e desemparas o teu citolon,</LT>
+
+          <LL>e desemparas o teu citolon,</LL>
+        </L>
+
+        <L AC="+---+-+--+" ERI="son" N="3" NS="10" RI="on">
+          <LT>rogo-te que nunca digas meu son</LT>
+
+          <LL>rogo-te que nunca digas meu son</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="pesar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="2" N="CD">e já mais nunca</SEG> mi farás pesar;</LT>
+
+          <LL>e já mais nunca mi farás pesar;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="guarecer" N="5" NS="10" RI="er">
+          <LT><SEG C="R" ID="3" N="CPL">ca, per trobar, queres já guarecer</SEG>,</LT>
+
+          <LL>ca, per trobar, queres já guarecer,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="perder" N="6" NS="10" RI="er">
+          <LT>e farás-m&#39; ora desejos perder</LT>
+
+          <LL>e farás-m&#39; ora desejos perder</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="Juncal" N="7" NS="10" RI="al">
+          <LT>do trobador que trobou do Juncal.</LT>
+
+          <LL>do trobador que trobou do Juncal.</LL>
+
+          <TOPO CAT="ALDEA">Juncal ?</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:46</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+---+-+--+" ERI="dormir" N="1" NS="10" RI="ir">
+          <LT>Ora cuido eu cobrar o <SEG C="R" ID="4" N="RD">dormir</SEG></LT>
+
+          <LL>Ora cuido eu cobrar o dormir</LL>
+        </L>
+
+        <L AC="--++-----+" ERI="vi" N="2" NS="10" RI="i">
+          <LT>que perdi: sempre cada que te vi</LT>
+
+          <LL>que perdi: sempre cada que te vi</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="dormi" N="3" NS="10" RI="i">
+          <LT>rascar no cep&#39; e tanger, non <SEG C="R" ID="4" N="RD">dormi</SEG>;</LT>
+
+          <LL>rascar no cep&#39; e tanger, non dormi;</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="partir" N="4" NS="10" RI="ir">
+          <LT><SEG C="R" ID="5" N="CD">mais, poi</SEG>-lo queres já de ti
+          partir,</LT>
+
+          <LL>mais, poi-lo queres já de ti partir,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="trobar" N="5" NS="10" RI="ar">
+          <LT><SEG C="R" ID="3" N="CPL">pois guarecer <SEG C="I" ID="6" N="RE">buscas i</SEG> per trobar</SEG>,</LT>
+
+          <LL>pois guarecer buscas i per trobar,</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="logar" N="6" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CD">Lourenço</SEG>, nunca irás a logar</LT>
+
+          <LL>Lourenço, nunca irás a logar</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="riir" N="7" NS="10" RI="ir">
+          <LT>u tu non faças as gentes riir.</LT>
+
+          <LL>u tu non faças as gentes riir.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:46</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+--+--+" ERI="pardon" N="1" NS="10" RI="on">
+          <LT>E vês, Lourenço, se Deus mi <SEG C="R" ID="7" N="PE">pardon</SEG>,</LT>
+
+          <LL>E vês, Lourenço, se Deus mi pardon,</LL>
+
+          <ANTRO T="REAL">Lourenço jograr (Lourenço)</ANTRO>
+        </L>
+
+        <L AC="---+--+--+" ERI="pavor" N="2" NS="10" RI="or">
+          <LT>pois que mi tolhes do cepo pavor</LT>
+
+          <LL>pois que mi tolhes do cepo pavor</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="amor" N="3" NS="10" RI="or">
+          <LT>e de cantar, farei-t&#39; eu sempr&#39; amor,</LT>
+
+          <LL>e de cantar, farei-t&#39; eu sempr&#39; amor,</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="razon" N="4" NS="10" RI="on">
+          <LT>e tenho que farei mui gran razon;</LT>
+
+          <LL>e tenho que farei mui gran razon;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="farei" N="5" NS="10" RI="ei">
+          <LT>e direi-t&#39; i qual amor t&#39; eu farei:</LT>
+
+          <LL>e direi-t&#39; i qual amor t&#39; eu farei:</LL>
+        </L>
+
+        <L AC="--+---+--+" ERI="oirei" N="6" NS="10" RI="ei">
+          <LT><SEG C="R" ID="2" N="CD">já mais nunca</SEG> teu cantar oirei,</LT>
+
+          <LL>já mais nunca teu cantar oirei,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="coraçon" N="7" NS="10" RI="on">
+          <LT><SEG C="M" ID="8" N="SIN">que en</SEG> non riia mui de coraçon;</LT>
+
+          <LL>que en non riia mui de coraçon;</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="dda"><NOTRIM><P>Sobre III.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+---+" ERI="prendi" N="1" NS="10" RI="i">
+          <LT>Ca vês, Lourenço, muito mal prendi</LT>
+
+          <LL>Ca vês, Lourenço, muito mal prendi</LL>
+
+          <ANTRO T="REAL">Lourenço jograr (Lourenço)</ANTRO>
+        </L>
+
+        <L AC="---+--+--+" ERI="ti" N="2" NS="10" RI="i">
+          <LT>de teu rascar e do cep&#39; e de ti;</LT>
+
+          <LL>de teu rascar e do cep&#39; e de ti;</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="perdon" N="3" NS="10" RI="on">
+          <LT><SEG C="R" ID="5" N="CD">mais, pois</SEG> t&#39; en quitas, cu<SEG
+          C="I" ID="9" N="RE">i</SEG>do ti <SEG C="R" ID="7" N="PE">perdon</SEG>.</LT>
+
+          <LL>mais, pois t&#39; en quitas, cuido ti perdon.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

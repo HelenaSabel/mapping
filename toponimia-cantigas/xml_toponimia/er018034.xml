@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018034" TC = "REFR" NE = "3+F" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Pero da Ponte, paro-vos sinal</INCIPIT>
+<NUCANT>18 34</NUCANT>
+<RM BCA = "B" NM = "487" F = "108v" MU = "NON" EM = "NO" I.FI = "lb108v"></RM>
+<RM BCA = "V" NM = "70" F = "5r" MU = "NON" EM = "NO" I.FI = "lv005r"></RM>
+<EDIANT T = "CRITI">
+<P>Pellegrini, Provenzalismo, pp. 128-130</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 432</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 70</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Caballo/Garc&iacute;a, Afonso X, p. 45</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 53-54</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 163</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 56-57, 435-436</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 17</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 46</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "33"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>26/10/04</DATE></RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabAB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>13:29</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "sinal" AC = "---+--+--+">
+<LT>Pero da Ponte, paro-vos sinal</LT>
+<LL>Pero da Ponte, paro-vos sinal</LL>
+
+<ANTRO T = "REAL">Pero da Ponte</ANTRO></L>
+<L N = "2" NS = "10" RI = "al" ERI = "infernal" AC = "---+--+--+">
+<LT>per an<SEG C = "M" N = "SIN" ID = "1">te o</SEG> Demo do fo<SEG C = "M" N = "SIN" ID = "2">go in</SEG>fernal,</LT>
+<LL>per ante o Demo do fogo infernal,</LL>
+</L>
+<L N = "3" NS = "10" RI = "al" ERI = "spirital" AC = "---+-+---+">
+<LT>por que con Deus, o padre spirital,</LT>
+<LL>por que con Deus, o padre spirital,</LL>
+</L>
+<L N = "4" NS = "10" RI = "estes" ERI = "descreestes" AC = "---+----+-">
+<LT>minguar quisestes, mal per descreestes.</LT>
+<LL>minguar quisestes, mal per descreestes.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "al" ERI = "fal" AC = "---+---+-+">
+<LT>E ben vej' ora que trovar vos fal,</LT>
+<LL>E ben vej' ora que trovar vos fal,</LL>
+</L>
+<L N = "6" NS = "10" RI = "estes" ERI = "cometestes" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CFR" ID = "3">pois</SEG> v&oacute;s tan louca <SEG C = "R" N = "CFR" ID = "3">razon</SEG> cometestes</LT>
+<LL>pois v&oacute;s tan louca razon cometestes</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabAB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>13:29</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "descomunal" AC = "---+-----+">
+<LT>E <SEG C = "R" N = "CFR" ID = "3">pois razon</SEG> <SEG C = "I" N = "RE" ID = "4">a</SEG>tan descomunal</LT>
+<LL>E pois razon atan descomunal</LL>
+</L>
+<L N = "2" NS = "10" RI = "al" ERI = "val" AC = "---+-----+">
+<LT>fostes filhar, e que tan pouco val,</LT>
+<LL>fostes filhar, e que tan pouco val,</LL>
+</L>
+<L N = "3" NS = "10" RI = "al" ERI = "sal" AC = "---+-----+">
+<LT>pesar-<SEG C = "M" N = "SIN" ID = "5">mi-&aacute;</SEG> en, se vos pois a ben sal</LT>
+<LL>pesar-mi-&aacute; en, se vos pois a ben sal</LL>
+</L>
+<L N = "4" NS = "10" RI = "estes" ERI = "obedeecestes" AC = "---+-----+-">
+<LT>an<SEG C = "M" N = "SIN" ID = "6">te o</SEG> diaboo, a que obedeecestes.</LT>
+<LL>ante o diaboo, a que obedeecestes.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "al" ERI = "fal" AC = "---+---+-+">
+<LT>E ben vej' ora que trobar vos fal,</LT>
+<LL>E ben vej' ora que trobar vos fal,</LL>
+</L>
+<L N = "6" NS = "10" RI = "estes" ERI = "cometestes" AC = "---+--+--+-">
+<LT><SEG C = "I" N = "RE" ID = "7">pois<SEG C = "R" N = "CFR" ID = "8"> v&oacute;s</SEG> tan louca razon cometestes</SEG>.</LT>
+<LL>pois v&oacute;s tan louca razon cometestes.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaabAB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>13:29</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "proen&ccedil;al" AC = "---+-----+">
+<LT><SEG C = "R" N = "CFR" ID = "8">V&oacute;s</SEG> non trobades come proen&ccedil;al,</LT>
+<LL>V&oacute;s non trobades come proen&ccedil;al,</LL>
+</L>
+<L N = "2" NS = "10" RI = "al" ERI = "Bonaval" AC = "----+----+">
+<LT>mais come Bernaldo de Bonaval;</LT>
+<LL>mais come Bernaldo de Bonaval;</LL>
+
+<ANTRO T = "REAL">Bernal de Bonaval (Bernaldo de Bonaval)</ANTRO></L>
+<L N = "3" NS = "10" RI = "al" ERI = "natural" AC = "------+--+">
+<LT>e poren non &eacute; trobar natural,</LT>
+<LL>e poren non &eacute; trobar natural,</LL>
+</L>
+<L N = "4" NS = "10" RI = "estes" ERI = "aprendestes" AC = "---+--+--+-">
+<LT>pois que o del e do dem' aprendestes.</LT>
+<LL>pois que o del e do dem' aprendestes.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "al" ERI = "fal" AC = "---+---+-+">
+<LT>E ben vej' ora que trobar vos fal,</LT>
+<LL>E ben vej' ora que trobar vos fal,</LL>
+</L>
+<L N = "6" NS = "10" RI = "estes" ERI = "cometestes" AC = "---+--+--+-">
+<LT><SEG C = "I" N = "RE" ID = "9">pois v&oacute;s tan louca razon cometestes</SEG>.</LT>
+<LL>pois v&oacute;s tan louca razon cometestes.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "ab"></ESQRIM>
+<INFMET>
+<ESQMET>10 10'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "real" AC = "--+-+----+">
+<LT>E poren, Don Pedr', en Vilarreal,</LT>
+<LL>E poren, Don Pedr', en Vilarreal,</LL>
+
+<ANTRO T = "REAL">Pero da Ponte (Don Pedro)</ANTRO>
+<TOPO CAT = "CIUDAD">Vila Real</TOPO></L>
+<L N = "2" NS = "10" RI = "estes" ERI = "bevestes" AC = "---+--+--+-">
+<LT>en mao ponto v&oacute;s tanto bevestes.</LT>
+<LL>en mao ponto v&oacute;s tanto bevestes.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

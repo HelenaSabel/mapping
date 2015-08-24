@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="127007" NE="2" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Pero d&#39; Ambroa, se Deus mi pardon</INCIPIT>
+
+      <NUCANT>127 7</NUCANT>
+
+      <RM BCA="B" EM="NO" F="300v" I.FI="lb300v" MU="NON" NM="1446"></RM>
+
+      <RM BCA="V" EM="NO" F="172r" I.FI="lv172r" MU="NON" NM="1057"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Nunes, Barroso, p. 9</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Camargo et alii, Pero Gomes Barroso, 13</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, p. 681</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1359</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1057</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 362</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="395"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>14/03/00</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>fragm.</P></FRI>
+
+      <TEMA CAT="VIX"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:21</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="pardon" N="1" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CP">Pero d&#39; Ambroa, se Deus mi pardon</SEG>,</LT>
+
+          <LL>Pero d&#39; Ambroa, se Deus mi pardon,</LL>
+
+          <ANTRO T="REAL">Pero d&#39; Ambroa</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="Ultramar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">non vos trobei da terra <SEG C="M"
+ID="2" N="SIN">do <SEG C="R" ID="3" N="RD">Ul</SEG></SEG><SEG C="R" ID="3"
+N="RD">tramar</SEG></SEG>,</LT>
+
+          <LL>non vos trobei da terra do Ultramar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="razon" N="3" NS="10" RI="on">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="1" N="CP">vedes por quê: ca non achei razon</SEG></SEG></LT>
+
+          <LL>vedes por quê: ca non achei razon</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="trobar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">por que</SEG> vos dela podesse <SEG
+C="R" ID="6" N="RD">trobar</SEG></SEG>,</LT>
+
+          <LL>por que vos dela podesse trobar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ei" N="5" NS="10" RI="ei">
+          <LT><SEG C="R" ID="7" N="CP"><SEG C="R" ID="4" N="CP">pois i non fostes; mais <SEG
+C="R" ID="6" N="RD">trobar-vos-ei</SEG></SEG></SEG></LT>
+
+          <LL>pois i non fostes; mais trobar-vos-ei</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="direi" N="6" NS="10" RI="ei">
+          <LT><SEG C="R" ID="7" N="CP">de muitas cousas que vos eu direi</SEG>,</LT>
+
+          <LL>de muitas cousas que vos eu direi,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="guardar" N="7" NS="10" RI="ar">
+          <LT><SEG C="R" ID="7" N="CP">de que vos vós non sabedes guardar</SEG>.</LT>
+
+          <LL>de que vos vós non sabedes guardar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:21</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="non" N="1" NS="10" RI="on">
+          <LT><SEG C="R" ID="1" N="CP">Se Deus mi valha, vedes por que non</SEG></LT>
+
+          <LL>Se Deus mi valha, vedes por que non</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="logar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">vos trobei d&#39; Ácri nen desse logar</SEG>:</LT>
+
+          <LL>vos trobei d&#39; Ácri nen desse logar:</LL>
+
+          <TOPO CAT="LCULTO">Acre (Ácri)</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="son" N="3" NS="10" RI="on">
+          <LT><SEG C="R" ID="4" N="CP"><SEG C="R" ID="5" N="CD">por que</SEG> non viron quantos aqui son</SEG></LT>
+
+          <LL>por que non viron quantos aqui son</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="mar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CP">que nunca vós passastes alen <SEG C="R"
+ID="3" N="RD">mar</SEG></SEG>.</LT>
+
+          <LL>que nunca vós passastes alen mar.</LL>
+        </L>
+
+        <L AC="--+------+" ERI="sei" N="5" NS="10" RI="ei">
+          <LT><SEG C="R" ID="7" N="CP">E da terra u non fostes, non <SEG C="R"
+ID="8" N="RD">sei</SEG></SEG></LT>
+
+          <LL>E da terra u non fostes, non sei</LL>
+        </L>
+
+        <L AC="----+----+" ERI="ei" N="6" NS="10" RI="ei">
+          <LT><SEG C="R" ID="7" N="CP">como vos tro<SEG C="M" ID="9" N="SIN">be i</SEG>, mais <SEG
+C="R" ID="8" N="RD">saber-vos-ei</SEG></SEG></LT>
+
+          <LL>como vos trobe i, mais saber-vos-ei</LL>
+        </L>
+
+        <L AC="----+----+" ERI="contar" N="7" NS="10" RI="ar">
+          <LT><SEG C="R" ID="7" N="CP">as manhas, que vós avedes, contar</SEG>.</LT>
+
+          <LL>as manhas, que vós avedes, contar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

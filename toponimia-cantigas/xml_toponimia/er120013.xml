@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120013" NE="3" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>Dun tal ricome vos quero contar</INCIPIT>
+
+      <NUCANT>120 13</NUCANT>
+
+      <RM BCA="B" EM="NO" F="348v" I.FI="lb348v" MU="NON" NM="1633"></RM>
+
+      <RM BCA="B" EM="NO" F="349r" I.FI="lb349r" MU="NON" NM="1633"></RM>
+
+      <RM BCA="V" EM="NO" F="192r" I.FI="lv192r" MU="NON" NM="1167"></RM>
+
+      <RM BCA="V" EM="NO" F="192v" I.FI="lv192v" MU="NON" NM="1167"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 146-147</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, p. 202</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 29</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. III, p. 163</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1537</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1167</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 301</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="349"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>18/02/00</DATE>
+      </RESP>
+
+      <FRI>c. alt.<P>(a I, III = b II; b I, III = a II; rima c unis.)</P></FRI>
+
+      <NOTC>sel diss <COMNOTC><P>Nota colocciana que precede á cantiga B 1633.
+      Está situada na columna b do folio 348v.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Pero da <COMRUBRI><P>Rúbrica atributiva situada na marxe
+      superior do folio 192v de V. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="RI"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"><NOTRIM><P>Panunzio considera que se trata de
+        c. unis. con cambio das rimas a, b na estr. II.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="contar" N="1" NS="10" RI="ar">
+          <LT>Dun tal ricome vos quero contar</LT>
+
+          <LL>Dun tal ricome vos quero contar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="chegou" N="2" NS="10" RI="ou">
+          <LT>que noutro di<SEG C="M" ID="1" N="SIN">a a</SEG> Segóvia chegou,</LT>
+
+          <LL>que noutro dia a Segóvia chegou,</LL>
+
+          <TOPO CAT="CIUDAD">Segóvia</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="refeçar" N="3" NS="10" RI="ar">
+          <LT>de como foi a vi<SEG C="M" ID="2" N="SIN">da a</SEG> <SEG C="R"
+          ID="3" N="RD">refeçar</SEG>,</LT>
+
+          <LL>de como foi a vida a refeçar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="entrou" N="4" NS="10" RI="ou">
+          <LT><SEG C="R" ID="4" N="CD">pois o ricome</SEG> na vila entrou:</LT>
+
+          <LL>pois o ricome na vila entrou:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="i" N="5" NS="10" RI="i">
+          <LT><SEG C="R" ID="5" N="CD">ca</SEG> o manjar que ante davan <SEG
+          C="R" ID="6" N="PV">i</SEG></LT>
+
+          <LL>ca o manjar que ante davan i</LL>
+        </L>
+
+        <L AC="--+------+" ERI="maravedi" N="6" NS="10" RI="i">
+          <LT>por dez soldos ou por maravedi,</LT>
+
+          <LL>por dez soldos ou por maravedi,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="tornou" N="7" NS="10" RI="ou">
+          <LT>logu&#39; ese dia cinc soldos torn<SEG C="R" ID="7" N="CC">ou</SEG>.</LT>
+
+          <LL>logu&#39; ese dia cinc soldos tornou.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"><NOTRIM><P>Panunzio considera que se trata de
+        c. unis. con cambio das rimas a, b na estr. II.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="enviou" N="1" NS="10" RI="ou">
+          <LT>Ricome foi que nos Deus envi<SEG C="R" ID="7" N="CC">ou</SEG>,</LT>
+
+          <LL>Ricome foi que nos Deus enviou,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="desamparar" N="2" NS="10" RI="ar">
+          <LT>que nos non quis assi desamparar,</LT>
+
+          <LL>que nos non quis assi desamparar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="refeçou" N="3" NS="10" RI="ou">
+          <LT>que nos a vida assi <SEG C="R" ID="3" N="RD">refeçou</SEG>,</LT>
+
+          <LL>que nos a vida assi refeçou,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="logar" N="4" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CD">poi-lo ricome</SEG> vẽo no logar;</LT>
+
+          <LL>poi-lo ricome vẽo no logar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="vi" N="5" NS="10" RI="i">
+          <LT><SEG C="R" ID="5" N="CD">ca</SEG> nunca eu tan gran miragre vi:</LT>
+
+          <LL>ca nunca eu tan gran miragre vi:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="assi" N="6" NS="10" RI="i">
+          <LT>polo açougue refeçar assi,</LT>
+
+          <LL>polo açougue refeçar assi,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="comprar" N="7" NS="10" RI="ar">
+          <LT><SEG C="R" ID="8" N="CD">mentr&#39; o ricome</SEG> mandara compr<SEG
+          C="R" ID="9" N="CC">ar</SEG>.</LT>
+
+          <LL>mentr&#39; o ricome mandara comprar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"><NOTRIM><P>Panunzio considera que se trata de
+        c. unis. con cambio das rimas a, b na estr. II.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:18</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="dar" N="1" NS="10" RI="ar">
+          <LT>E a Deus devemos graças a d<SEG C="R" ID="9" N="CC">ar</SEG></LT>
+
+          <LL>E a Deus devemos graças a dar</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="presentou" N="2" NS="10" RI="ou">
+          <LT>deste ricome que nos presentou,</LT>
+
+          <LL>deste ricome que nos presentou,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="car" N="3" NS="10" RI="ar">
+          <LT>de mais en ano que era tan car</LT>
+
+          <LL>de mais en ano que era tan car</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="passou" N="4" NS="10" RI="ou">
+          <LT>com&#39; este foi que ogano passou;</LT>
+
+          <LL>com&#39; este foi que ogano passou;</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="aqui" N="5" NS="10" RI="i">
+          <LT><SEG C="R" ID="5" N="CD">ca</SEG>, pois este ricom&#39; entrou
+          aqui,</LT>
+
+          <LL>ca, pois este ricom&#39; entrou aqui,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="i" N="6" NS="10" RI="i">
+          <LT>nunca maa careza entrou <SEG C="R" ID="6" N="PV">i</SEG>,</LT>
+
+          <LL>nunca maa careza entrou i,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="morou" N="7" NS="10" RI="ou">
+          <LT><SEG C="R" ID="8" N="CD">mentr&#39; o ricome</SEG> na corte
+          morou.</LT>
+
+          <LL>mentr&#39; o ricome na corte morou.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

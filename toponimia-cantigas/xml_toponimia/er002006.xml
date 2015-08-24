@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="002006" NE="3" OL="NON" SG="NO" TC="MEST" XE="EA">
+      <INCIPIT>As mias jornadas vedes quaes son</INCIPIT>
+
+      <NUCANT>2 6</NUCANT>
+
+      <RM BCA="B" EM="NO" F="209r" I.FI="Ib209r" MU="NON" NM="968"></RM>
+
+      <RM BCA="B" EM="NO" F="209v" I.FI="lb209v" MU="NON" NM="968"><NOTMAN
+      N="1">En B só aparece o primeiro verso da cobra, en V aparece unha
+      terceira cobra formada por cinco versos, dos cales os catro últimos
+      están incompletos</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="88r" I.FI="lv088r" MU="NON" NM="555"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Gaspar 4</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 911</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 555</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 56</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="36"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>10/02/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(estr. III fragm.)</P></FRI>
+
+      <RUBRICA>Affonss' Anes <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cantiga V 555. Esá situada na
+          columna a do folio 88r, na marxe superior. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="COI"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 9' 9' 10 10' 10' 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:215</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="son" N="1" NS="10" RI="on">
+          <LT>As mias jornadas vedes quaes son,</LT>
+
+          <LL>As mias jornadas vedes quaes son,</LL>
+        </L>
+
+        <L AC="--+-----+-" ERI="femença" N="2" NS="9" RI="ença">
+          <LT>meus amigos, meted' i femença:</LT>
+
+          <LL>meus amigos, meted' i femença:</LL>
+        </L>
+
+        <L AC="-+-+----+-" ERI="Palença" N="3" NS="9" RI="ença">
+          <LT>de Castr' a Burgos <SEG C="M" ID="1" N="SIN">e en</SEG>d' a
+          Palença;</LT>
+
+          <LL>de Castr' a Burgos e end' a Palença;</LL>
+
+          <TOPO CAT="ALDEA">Castro</TOPO>
+
+          <TOPO CAT="CIUDAD">Burgos</TOPO>
+
+          <TOPO CAT="CIUDAD">Palença</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="Carrion" N="4" NS="10" RI="on">
+          <LT>e de Palença sair-mi a Carrion</LT>
+
+          <LL>e de Palença sair-mi a Carrion</LL>
+
+          <TOPO CAT="CIUDAD">Palença</TOPO>
+
+          <TOPO CAT="CIUDAD">Carrion</TOPO>
+        </L>
+
+        <L AC="--+--+---+-" ERI="conselho" N="5" NS="10" RI="elho">
+          <LT><SEG C="M" ID="2" N="SIN">e en</SEG>d' a Castro; e Deus mi dé
+          conselho,</LT>
+
+          <LL>e end' a Castro; e Deus mi dé conselho,</LL>
+
+          <TOPO CAT="ALDEA">Castro</TOPO>
+        </L>
+
+        <L AC="-+----+--+-" ERI="semelho" N="6" NS="10" RI="elho">
+          <LT>ca vedes: pero vos ledo semelho,</LT>
+
+          <LL>ca vedes: pero vos ledo semelho,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="coraçon" N="7" NS="10" RI="on">
+          <LT>muit' <SEG C="R" ID="3" N="CF">anda</SEG> trist' o meu
+          coraçon.</LT>
+
+          <LL>muit' anda trist' o meu coraçon.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 9' 9' 10 10' 10' 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:215</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="andar" N="1" NS="10" RI="ar">
+          <LT>E a dona que m' assi faz <SEG C="R" ID="3" N="CF">andar</SEG></LT>
+
+          <LL>E a dona que m' assi faz andar</LL>
+        </L>
+
+        <L AC="-+---+--+-" ERI="solteira" N="2" NS="9" RI="eira">
+          <LT>casad' é, ou viuv' ou solteira,</LT>
+
+          <LL>casad' é, ou viuv' ou solteira,</LL>
+        </L>
+
+        <L AC="---+--+-+-" ERI="freira" N="3" NS="9" RI="eira">
+          <LT>ou touquinegra, ou mon<SEG C="M" ID="4" N="SIN">ja ou</SEG>
+          freira;</LT>
+
+          <LL>ou touquinegra, ou monja ou freira;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="guardar" N="4" NS="10" RI="ar">
+          <LT>e ar se guarde quen s' á per guardar,</LT>
+
+          <LL>e ar se guarde quen s' á per guardar,</LL>
+        </L>
+
+        <L AC="---+---+-+-" ERI="falha" N="5" NS="10" RI="alha">
+          <LT>ca mia fazenda vos digu' eu sen falha;</LT>
+
+          <LL>ca mia fazenda vos digu' eu sen falha;</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="valha" N="6" NS="10" RI="alha">
+          <LT>e rog' a Deus que m' ajud' e mi valha</LT>
+
+          <LL>e rog' a Deus que m' ajud' e mi valha</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="buscar" N="7" NS="10" RI="ar">
+          <LT>e nuncas valh' a quen mi mal buscar.</LT>
+
+          <LL>e nuncas valh' a quen mi mal buscar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="dizer" N="1" NS="10" RI="er">
+          <LT>E non vos ous' eu dela mais dizer</LT>
+
+          <LL>E non vos ous' eu dela mais dizer</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="2" NS="3" RI="-">
+          <LT>de como <SEG C="I" ID="5" N="AU">...</SEG></LT>
+
+          <LL>de como ...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="8" RI="-">
+          <LT>non á i tal que logo non <SEG C="I" ID="6" N="AU">...</SEG></LT>
+
+          <LL>non á i tal que logo non ...</LL>
+        </L>
+
+        <L AC="na" ERI="parecer" N="4" NS="6" RI="er">
+          <LT><SEG C="I" ID="7" N="AU">...</SEG> que en seu parecer</LT>
+
+          <LL>... que en seu parecer</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="1" RI="-">
+          <LT>non <SEG C="I" ID="8" N="AU">...</SEG></LT>
+
+          <LL>non ...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

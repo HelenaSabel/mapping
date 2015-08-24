@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="020001" NE="2" OL="NON" SG="NO" TC="NA" XE="PG">
+      <INCIPIT>Luis Vaasquez, depois que parti</INCIPIT>
+
+      <NUCANT>20 1</NUCANT>
+
+      <RM BCA="V" EM="NO" F="65r" I.FI="lv065r" MU="NON" NM="410"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1635</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 410</P>
+      </EDIANT>
+
+      <DATOAU NOME="Stegagno, Pastorelas," NUA="119p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Carlos Cordeiro Moledo</NOME>
+
+        <DATE>11/05/00</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <RUBRICA>Pregunta que ffez Alvaro Afomso, cantor do senhor Inffante, a
+      hũun escollar <COMRUBRI><P>Rúbrica explicativa que precede á cantiga 410
+      de V. Está situada na parte superior da cantiga, na columna b do folio
+      65r dese manuscrito. Man de copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="IND"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcccb"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="parti" N="1" NS="10" RI="i">
+          <LT>Luis Vaasquez, depois que parti</LT>
+
+          <LL>Luis Vaasquez, depois que parti</LL>
+
+          <ANTRO T="ALTER">Luis Vaasquez</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="Lisboa" N="2" NS="10" RI="oa">
+          <LT>d&#39; esa çidade tam boa, Lisboa,</LT>
+
+          <LL>d&#39; esa çidade tam boa, Lisboa,</LL>
+
+          <TOPO CAT="CIUDAD">Lisboa</TOPO>
+        </L>
+
+        <L AC="----+-----+" ERI="mim" N="3" NS="11" RI="in">
+          <LT>achey tall emcontro que, digo per mim,</LT>
+
+          <LL>achey tall emcontro que, digo per mim,</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="toa" N="4" NS="10" RI="oa">
+          <LT>que som ja desfec<SEG C="M" ID="1" N="SIN">to e</SEG> jaço à
+          toa:</LT>
+
+          <LL>que som ja desfecto e jaço à toa:</LL>
+        </L>
+
+        <L AC="----+-----+-" ERI="sserra" N="5" NS="11" RI="erra">
+          <LT>acerca de Sintra, ò pee d&#39; esta sserra,</LT>
+
+          <LL>acerca de Sintra, ò pee d&#39; esta sserra,</LL>
+        </L>
+
+        <L AC="----+-----+-" ERI="guerra" N="6" NS="11" RI="erra">
+          <LT>vy hũa sserana que braadava g<SEG C="I" ID="2" N="RE">u</SEG>erra:</LT>
+
+          <LL>vy hũa sserana que braadava guerra:</LL>
+        </L>
+
+        <L AC="----+-----+-" ERI="terra" N="7" NS="11" RI="erra">
+          <LT>&#34;Vós treedes comigo: deçê-vus a terra,</LT>
+
+          <LL>&#34;Vós treedes comigo: deçê-vus a terra,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="soa" N="8" NS="10" RI="oa">
+          <LT>pois <SEG C="I" ID="3" N="RE">a</SEG>llá tangem e qua ora
+          soa!&#34;</LT>
+
+          <LL>pois allá tangem e qua ora soa!&#34;</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="------+---+-" ERI="espantado" N="1" NS="11" RI="ado">
+          <LT>Pero de sa vista eu fos&#39; espantado</LT>
+
+          <LL>Pero de sa vista eu fos&#39; espantado</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="resanhuda" N="2" NS="10" RI="uda">
+          <LT>quall <SEG C="M" ID="4" N="SIN">me e</SEG>lla par&#39; çeo tam
+          resanhuda,</LT>
+
+          <LL>quall me ella par&#39; çeo tam resanhuda,</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="5" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

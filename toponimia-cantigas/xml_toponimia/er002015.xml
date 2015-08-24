@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="002015" NE="4" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Meestre Nicolás, a meu cuidar</INCIPIT>
+
+      <NUCANT>2 15</NUCANT>
+
+      <RM BCA="B" EM="NO" F="333r" I.FI="lb333r" MU="NON" NM="1584"></RM>
+
+      <RM BCA="V" EM="NO" F="183v" I.FI="lv183v" MU="NON" NM="1116"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Gaspar 13</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA II, p. 536</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1486</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1116</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, p. 94</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 47</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 4-5, 402-405</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 62</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="42"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>13/02/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = b II; b I = a II)</P></FRI>
+
+      <TEMA CAT="IPR"><SUBTEMA CAT="MT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+" ERI="cuidar" N="1" NS="10" RI="ar">
+          <LT>Meestre Nicolás, a meu cuidar,</LT>
+
+          <LL>Meestre Nicolás, a meu cuidar,</LL>
+
+          <ANTRO T="REAL">Meestre Nicolás</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="saber" N="2" NS="10" RI="er">
+          <LT>é mui bon físico; por non <SEG C="R" ID="1" N="PV"><SEG C="R"
+ID="2" N="RD">saber</SEG></SEG></LT>
+
+          <LL>é mui bon físico; por non saber</LL>
+        </L>
+
+        <L AC="----+----+" ERI="guarecer" N="3" NS="10" RI="er">
+          <LT>el assi as gentes ben guarecer,</LT>
+
+          <LL>el assi as gentes ben guarecer,</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="Ultramar" N="4" NS="10" RI="ar">
+          <LT>mais vejo-lhi capelo d&#39; Ultramar</LT>
+
+          <LL>mais vejo-lhi capelo d&#39; Ultramar</LL>
+
+          <TOPO CAT="LCULTO">Ultramar</TOPO>
+        </L>
+
+        <L AC="-+---+---+" ERI="Mompisler" N="5" NS="10" RI="er">
+          <LT>e trage livros ben de Mompisler;</LT>
+
+          <LL>e trage livros ben de Mompisler;</LL>
+
+          <TOPO CAT="CIUDAD">Mompisler</TOPO>
+        </L>
+
+        <L AC="--+---+--+" ERI="quer" N="6" NS="10" RI="er">
+          <LT>e latin come qual clérigo quer</LT>
+
+          <LL>e latin come qual clérigo quer</LL>
+        </L>
+
+        <L AC="-+----+--+" ERI="tornar" N="7" NS="10" RI="ar">
+          <LT>entende, mais nõno <SEG C="R" ID="3" N="CF">sabe</SEG> tornar;</LT>
+
+          <LL>entende, mais nõno sabe tornar;</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="trager" N="1" NS="10" RI="er">
+          <LT><SEG C="R" ID="4" N="CD">E <SEG C="R" ID="3" N="CF">sabe</SEG></SEG>
+          seus livros sigo trager,</LT>
+
+          <LL>E sabe seus livros sigo trager,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="catar" N="2" NS="10" RI="ar">
+          <LT>como meestr&#39;, e sabe-os catar</LT>
+
+          <LL>como meestr&#39;, e sabe-os catar</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="cantar" N="3" NS="10" RI="ar">
+          <LT><SEG C="R" ID="4" N="CD">e sabe</SEG> os cadernos ben cantar;</LT>
+
+          <LL>e sabe os cadernos ben cantar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="leer" N="4" NS="10" RI="er">
+          <LT>quiçai non sabe per eles <SEG C="R" ID="5" N="RD">leer</SEG>,</LT>
+
+          <LL>quiçai non sabe per eles leer,</LL>
+        </L>
+
+        <L AC="-+--+----+" ERI="custou" N="5" NS="10" RI="ou">
+          <LT>mais ben vos dirá quisquanto custou,</LT>
+
+          <LL>mais ben vos dirá quisquanto custou,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="comprou" N="6" NS="10" RI="ou">
+          <LT>todo per conta, <SEG C="M" ID="6" N="SIN">ca ele</SEG> xos
+          comprou.</LT>
+
+          <LL>todo per conta, ca ele xos comprou.</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="saber" N="7" NS="10" RI="er">
+          <LT>Ora veede se á gran <SEG C="R" ID="1" N="PV"><SEG C="R" ID="2"
+N="RD">saber</SEG></SEG>!</LT>
+
+          <LL>Ora veede se á gran saber!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaaaa"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>130:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+--+" ERI="leeu" N="1" NS="10" RI="eu">
+          <LT>E en bon ponto el tan muito <SEG C="R" ID="5" N="RD">leeu</SEG>,</LT>
+
+          <LL>E en bon ponto el tan muito leeu,</LL>
+        </L>
+
+        <L AC="--+-+----+" ERI="reis" N="2" NS="10" RI="eis">
+          <LT>ca per <SEG C="I" ID="7" N="RE">i</SEG> o preçan condes e reis;</LT>
+
+          <LL>ca per i o preçan condes e reis;</LL>
+        </L>
+
+        <L AC="----+--+-+" ERI="seis" N="3" NS="10" RI="eis">
+          <LT><SEG C="R" ID="4" N="CD">e sabe</SEG> contar qua<SEG C="M"
+          ID="8" N="SIN">tro e</SEG> cinqu&#39; e seis</LT>
+
+          <LL>e sabe contar quatro e cinqu&#39; e seis</LL>
+        </L>
+
+        <L AC="----+----+" ERI="aprendeu" N="4" NS="10" RI="eu">
+          <LT>per <SEG C="I" ID="9" N="RE">e</SEG>strolomia &#39;n que
+          aprendeu;</LT>
+
+          <LL>per estrolomia &#39;n que aprendeu;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="eu" N="5" NS="10" RI="eu">
+          <LT>e mais vos quer&#39; end&#39; ora dizer eu:</LT>
+
+          <LL>e mais vos quer&#39; end&#39; ora dizer eu:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Andreu" N="6" NS="10" RI="eu">
+          <LT>mais van a el que a meestr&#39; Andreu,</LT>
+
+          <LL>mais van a el que a meestr&#39; Andreu,</LL>
+
+          <ANTRO T="REAL">meestr&#39; Andreu</ANTRO>
+        </L>
+
+        <L AC="--+---+--+" ERI="morreu" N="7" NS="10" RI="eu">
+          <LT>des antano que o outro morreu.</LT>
+
+          <LL>des antano que o outro morreu.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+--+" ERI="melhor" N="1" NS="10" RI="or">
+          <LT>E outras artes sab&#39; el mui melhor</LT>
+
+          <LL>E outras artes sab&#39; el mui melhor</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="falei" N="2" NS="10" RI="ei">
+          <LT>que estas todas de que vos falei:</LT>
+
+          <LL>que estas todas de que vos falei:</LL>
+        </L>
+
+        <L AC="--+------+" ERI="direi" N="3" NS="10" RI="ei">
+          <LT>diz das aves <SEG C="I" ID="10" N="RE">en</SEG> como vos direi:</LT>
+
+          <LL>diz das aves en como vos direi:</LL>
+        </L>
+
+        <L AC="----+----+" ERI="Senhor" N="4" NS="10" RI="or">
+          <LT>que xas fezo todas Nostro Senhor;</LT>
+
+          <LL>que xas fezo todas Nostro Senhor;</LL>
+        </L>
+
+        <L AC="----+----+" ERI="razon" N="5" NS="10" RI="on">
+          <LT>e dos <SEG C="I" ID="11" N="RE">e</SEG>stormentos diz tal razon:</LT>
+
+          <LL>e dos estormentos diz tal razon:</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="son" N="6" NS="10" RI="on">
+          <LT>que mui ben pod&#39; en eles fazer son</LT>
+
+          <LL>que mui ben pod&#39; en eles fazer son</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="sabedor" N="7" NS="10" RI="or">
+          <LT>to<SEG C="M" ID="12" N="SIN">do o</SEG>me que en seja <SEG C="R"
+          ID="2" N="RD">sabedor.</SEG></LT>
+
+          <LL>todo ome que en seja sabedor.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

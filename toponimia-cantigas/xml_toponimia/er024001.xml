@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "024001" TC = "MEST" NE = "3" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Os d' Aragon, que soen donear</INCIPIT>
+<NUCANT>24 1</NUCANT>
+<RM BCA = "B" NM = "1623" F = "346v" MU = "NON" EM = "NO" I.FI = "lb346v"></RM>
+<RM BCA = "V" NM = "1157" F = "190v" MU = "NON" EM = "NO" I.FI = "lv190v"></RM>
+<EDIANT T = "CRITI">
+<P>Vatteroni, pp. 168-181</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1527</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1157</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 414</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "431"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>7/03/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Caldeyron
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga B 1623. Es&aacute;
+situada na columna a do folio 346v.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Caldeyrom
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 1157. Est&aacute;
+situada na marxe superior do folio 190v, columna a.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "BT"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaab"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>81:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "donear" AC = "---+-+---+">
+<LT>Os d' Aragon, que soen donear,</LT>
+<LL>Os d' Aragon, que soen donear,</LL>
+<TOPO CAT = "CIRCUNS">Aragon</TOPO></L>
+<L N = "2" NS = "10" RI = "ia" ERI = "perfia" AC = "---+-+---+-">
+<LT>e Catal&atilde;es con eles a perfia,</LT>
+<LL>e Catal&atilde;es con eles a perfia,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "lidar" AC = "-+-+-+---+">
+<LT>leixados son por donas a lidar,</LT>
+<LL>leixados son por donas a lidar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ia" ERI = "folia" AC = "+--+--+--+-">
+<LT>van-s' acordando que era folia;</LT>
+<LL>van-s' acordando que era folia;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ia" ERI = "ia" AC = "--+-+-+--+-">
+<LT>e de bu<SEG C = "I" N = "RE" ID = "1">r</SEG>las, cuid' eu, rir-s' end'-ia</LT>
+<LL>e de burlas, cuid' eu, rir-s' end'-ia</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "cantar" AC = "---+-+---+">
+<LT>quen lhe dissess' aqueste meu cantar</LT>
+<LL>quen lhe dissess' aqueste meu cantar</LL>
+</L>
+<L N = "7" NS = "10" RI = "ar" ERI = "semelhar" AC = "---+--+--+">
+<LT>a dona gaia do bon semelhar,-</LT>
+<LL>a dona gaia do bon semelhar,-</LL>
+</L>
+<L N = "8" NS = "10" RI = "ia" ERI = "pre&ccedil;aria" AC = "--+-+----+-">
+<LT>oo amor qui&ccedil;&aacute; non no pre&ccedil;aria.</LT>
+<LL>oo amor qui&ccedil;&aacute; non no pre&ccedil;aria.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaab"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>81:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "al" AC = "-++----+-+">
+<LT>Cantar quer' eu - non aver&aacute; i al -</LT>
+<LL>Cantar quer' eu - non aver&aacute; i al -</LL>
+</L>
+<L N = "2" NS = "10" RI = "onha" ERI = "Cadalonha" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "2">dos d' Aragon</SEG> e dos de Cadalonha,</LT>
+<LL>dos d' Aragon e dos de Cadalonha,</LL>
+<TOPO CAT = "CIRCUNS">Aragon</TOPO>
+<TOPO CAT = "CIRCUNS">Cadalonha</TOPO></L>
+<L N = "3" NS = "10" RI = "al" ERI = "mal" AC = "---+--+--+">
+<LT>per como guardan as armas de mal</LT>
+<LL>per como guardan as armas de mal</LL>
+</L>
+<L N = "4" NS = "10" RI = "onha" ERI = "sonha" AC = "---+--+--+-">
+<LT>cada un deles, empero sen sonha;</LT>
+<LL>cada un deles, empero sen sonha;</LL>
+</L>
+<L N = "5" NS = "10" RI = "onha" ERI = "vergonha" AC = "---+--+--+-">
+<LT>ante xe queren sofrir a vergonha</LT>
+<LL>ante xe queren sofrir a vergonha</LL>
+</L>
+<L N = "6" NS = "10" RI = "al" ERI = "val" AC = "---+-----+">
+<LT>daqueste segre, polo que mais val;</LT>
+<LL>daqueste segre, polo que mais val;</LL>
+</L>
+<L N = "7" NS = "10" RI = "al" ERI = "Espital" AC = "---+-----+">
+<LT>non pararian os do <SEG C = "I" N = "RE" ID = "3">E</SEG>spital</LT>
+<LL>non pararian os do Espital</LL>
+</L>
+<L N = "8" NS = "10" RI = "onha" ERI = "besonha" AC = "--+--+---+-">
+<LT>de melhor men<SEG C = "M" N = "SIN" ID = "4">te a</SEG> lide nen besonha.</LT>
+<LL>de melhor mente a lide nen besonha.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaab"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10 10' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>81:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "descobrir" AC = "---+-+---+">
+<LT>Desto contar' el-Rei me descobrir</LT>
+<LL>Desto contar' el-Rei me descobrir</LL>
+</L>
+<L N = "2" NS = "10" RI = "iza" ERI = "Galiza" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">dos d' Aragon</SEG>, quand' eu vin de Galiza,</LT>
+<LL>dos d' Aragon, quand' eu vin de Galiza,</LL>
+<TOPO CAT = "CIRCUNS">Arago</TOPO>
+<TOPO CAT = "CIRCUNS">Galiza</TOPO></L>
+<L N = "3" NS = "10" RI = "ir" ERI = "lezir" AC = "-+---+---+">
+<LT>u viven con gran m&iacute;ngua de lezir,</LT>
+<LL>u viven con gran m&iacute;ngua de lezir,</LL>
+</L>
+<L N = "4" NS = "10" RI = "iza" ERI = "Fariza" AC = "---+--+--+-">
+<LT><SEG C = "I" N = "RE" ID = "5">e</SEG> a<SEG C = "I" N = "RE" ID = "6">r</SEG> busquei ben aalen de Fariza.</LT>
+<LL>e ar busquei ben aalen de Fariza.</LL>
+<TOPO CAT = "CIUDAD">Fariza</TOPO></L>
+<L N = "5" NS = "10" RI = "i&ccedil;a" ERI = "peli&ccedil;a" AC = "--+----+-+-">
+<LT>Non se faz todo per fardar peli&ccedil;a?</LT>
+<LL>Non se faz todo per fardar peli&ccedil;a?</LL>
+</L>
+<L N = "6" NS = "10" RI = "ir" ERI = "oir" AC = "---+---+-+">
+<LT>Mais quen <SEG C = "I" N = "RE" ID = "7">aqu</SEG>este meu cantar oir</LT>
+<LL>Mais quen aqueste meu cantar oir</LL>
+</L>
+<L N = "7" NS = "10" RI = "ir" ERI = "esbaldir" AC = "-+-+------+">
+<LT>gracir-<SEG C = "M" N = "SIN" ID = "8">mi-&aacute;</SEG> ben; e, pois que s' esbaldir,</LT>
+<LL>gracir-mi-&aacute; ben; e, pois que s' esbaldir,</LL>
+</L>
+<L N = "8" NS = "10" RI = "i&ccedil;a" ERI = "li&ccedil;a" AC = "--+--++--+-">
+<LT>se <SEG C = "I" N = "RE" ID = "9">alguen</SEG> s' en queixar, busque-me li&ccedil;a.</LT>
+<LL>se alguen s' en queixar, busque-me li&ccedil;a.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

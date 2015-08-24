@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="018003" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Ansur Moniz, muit' ouve gran pesar</INCIPIT>
+
+      <NUCANT>18 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="107v" I.FI="lb107v" MU="NON" NM="482"></RM>
+
+      <RM BCA="V" EM="NO" F="4r" I.FI="lv004r" MU="NON" NM="65"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 427</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 65</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Carballo/García, Afonso X, pp. 37-38</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 12</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 41</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="28"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>18/10/04</DATE>
+      </RESP>
+
+      <RESP ROLE="CO">
+        <NOME>Miguel A. Pousada Cruz</NOME>
+
+        <DATE>21/06/12</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <TEMA CAT="FAL"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+
+      <TEMA CAT="POB"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:16</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="pesar" N="1" NS="10" RI="ar">
+          <LT>Ansur Moniz, muit' ouve gran pesar</LT>
+
+          <LL>Ansur Moniz, muit' ouve gran pesar</LL>
+
+          <ANTRO T="REAL">Ansur Moniz</ANTRO>
+        </L>
+
+        <L AC="---+-+---+-" ERI="porteiros" N="2" NS="10" RI="eiros">
+          <LT>quando vos vi deitar aos porteiros</LT>
+
+          <LL>quando vos vi deitar aos porteiros</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="escudeiros" N="3" NS="10" RI="eiros">
+          <LT>vilanamente d' an<SEG C="M" ID="1" N="SIN">tr' os</SEG>
+          escudeiros;</LT>
+
+          <LL>vilanamente d' antr' os escudeiros;</LL>
+        </L>
+
+        <L AC="----+----+" ERI="ampar" N="4" NS="10" RI="ar">
+          <LT>e dixe-lhis logo, se Deus m' ampar:</LT>
+
+          <LL>e dixe-lhis logo, se Deus m' ampar:</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="mal" N="5" NS="10" RI="al">
+          <LT>- Per boa fe, fazede-lo mui mal,</LT>
+
+          <LL>- Per boa fe, fazede-lo mui mal,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="val" N="6" NS="10" RI="al">
+          <LT>ca don Ansur, onde el meos val,</LT>
+
+          <LL>ca don Ansur, onde el meos val,</LL>
+
+          <ANTRO T="REAL">Ansur Moniz (Don Ansur)</ANTRO>
+        </L>
+
+        <L AC="------+--+-" ERI="Ferreiros" N="7" NS="10" RI="eiros">
+          <LT><SEG C="R" ID="3" N="CF">ven dos de</SEG> Vilanansur de
+          Ferreiros!</LT>
+
+          <LL>ven dos de Vilanansur de Ferreiros!</LL>
+
+          <TOPO CAT="ALDEA">Vilanansur de Ferreiros</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:16</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="Escobar" N="1" NS="10" RI="ar">
+          <LT>E <SEG C="M" ID="4" N="SIN">da ou</SEG>tra parte <SEG C="R"
+          ID="3" N="CF">ven dos d'</SEG> Escobar</LT>
+
+          <LL>E da outra parte ven dos d' Escobar</LL>
+
+          <TOPO CAT="ALDEA">Escobar</TOPO>
+        </L>
+
+        <L AC="--+--+---+-" ERI="Cizneiros" N="2" NS="10" RI="eiros">
+          <LT>e de Campos, mais non dos de Cizneiros,</LT>
+
+          <LL>e de Campos, mais non dos de Cizneiros,</LL>
+
+          <TOPO CAT="ALDEA">Campos</TOPO>
+
+          <TOPO CAT="ALDEA">Cizneiros</TOPO>
+        </L>
+
+        <L AC="----+----+-" ERI="Carvoeiros" N="3" NS="10" RI="eiros">
+          <LT>mais de Lavradores e de Carvoeiros;</LT>
+
+          <LL>mais de Lavradores e de Carvoeiros;</LL>
+
+          <TOPO CAT="ALDEA">Lavradores</TOPO>
+
+          <TOPO CAT="ALDEA">Carvoeiros</TOPO>
+        </L>
+
+        <L AC="---+-+---+" ERI="Estepar" N="4" NS="10" RI="ar">
+          <LT>e doutra vea foi dos d' Estepar;</LT>
+
+          <LL>e doutra vea foi dos d' Estepar;</LL>
+
+          <TOPO CAT="ALDEA">Estepar</TOPO>
+        </L>
+
+        <L AC="---+-+---+" ERI="natural" N="5" NS="10" RI="al">
+          <LT>e d' Azeved' ar é mui natural,</LT>
+
+          <LL>e d' Azeved' ar é mui natural,</LL>
+
+          <TOPO CAT="ALDEA">Azevedo</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="tal" N="6" NS="10" RI="al">
+          <LT>u jaz seu padr' e sa madr' outro tal,</LT>
+
+          <LL>u jaz seu padr' e sa madr' outro tal,</LL>
+        </L>
+
+        <L AC="--+--+---+-" ERI="erdeiros" N="7" NS="10" RI="eiros">
+          <LT>e jara el e todos seus erdeiros.</LT>
+
+          <LL>e jara el e todos seus erdeiros.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10' 10' 10 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:16</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+" ERI="gaanhar" N="1" NS="10" RI="ar">
+          <LT>E, sen esto, er foi el gaanhar</LT>
+
+          <LL>E, sen esto, er foi el gaanhar</LL>
+        </L>
+
+        <L AC="----+----+-" ERI="primeiros" N="2" NS="10" RI="eiros">
+          <LT>mais ca os seus avoos primeiros;</LT>
+
+          <LL>mais ca os seus avoos primeiros;</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="Cabreiros" N="3" NS="10" RI="eiros">
+          <LT>e comprou Fouce, <SEG C="I" ID="5" N="AU">...</SEG>Cabreiros,</LT>
+
+          <LL>e comprou Fouce, ...Cabreiros,</LL>
+
+          <TOPO CAT="ALDEA">Fouce</TOPO>
+
+          <TOPO CAT="ALDEA">Cabreiros</TOPO>
+        </L>
+
+        <L AC="----+----+" ERI="comprar" N="4" NS="10" RI="ar">
+          <LT>e Vilar de Paes ar foi comprar</LT>
+
+          <LL>e Vilar de Paes ar foi comprar</LL>
+
+          <TOPO CAT="ALDEA">Vilar de Paes</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="cal" N="5" NS="10" RI="al">
+          <LT>pera seu corp', e diz ca non lh' en cal</LT>
+
+          <LL>pera seu corp', e diz ca non lh' en cal</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="fal" N="6" NS="10" RI="al">
+          <LT>de viver pobre, ca, quen x' assi fal,</LT>
+
+          <LL>de viver pobre, ca, quen x' assi fal,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="companheiros" N="7" NS="10" RI="eiros">
+          <LT>falecer-lh'-an todos seus companheiros.</LT>
+
+          <LL>falecer-lh'-an todos seus companheiros.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

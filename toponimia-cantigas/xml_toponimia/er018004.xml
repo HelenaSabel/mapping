@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018004" TC = "MEST" NE = "5" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Ao daian de C&aacute;lez eu achei</INCIPIT>
+<NUCANT>18 4</NUCANT>
+<RM BCA = "B" NM = "493" F = "110r" MU = "NON" EM = "NO" I.FI = "lb110r"></RM>
+<RM BCA = "V" NM = "76" F = "6r" MU = "NON" EM = "NO" I.FI = "lv006r"></RM>
+<RM BCA = "V" NM = "76" F = "6v" MU = "NON" EM = "NO" I.FI = "lv006v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 438</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 76</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 51</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 55-56</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 1</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 165-166</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 23</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 52</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 51</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "39"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>10/10/04</DATE>
+</RESP>
+<FRI>c. doblas</FRI>
+<RUBRICA>El rey Dom Affonso de Castella he de Leom
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na marxe superior do folio 6v de V.
+Man do copista</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "CL"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "achei" AC = "---+-+---+">
+<LT>Ao daian de C&aacute;lez eu achei</LT>
+<LL>Ao daian de C&aacute;lez eu achei</LL>
+
+<TOPO CAT = "CIUDAD">C&aacute;lez</TOPO></L>
+<L N = "2" NS = "10" RI = "er" ERI = "benzer" AC = "-----+---+">
+<LT>livros que lhe levarian da benzer,</LT>
+<LL>livros que lhe levarian da benzer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ei" ERI = "preguntei" AC = "-----+---+">
+<LT>e o que os tragia preguntei</LT>
+<LL>e o que os tragia preguntei</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "Senher" AC = "-+----+--+">
+<LT>por eles, e respondeu-m' el: -Senher,</LT>
+<LL>por eles, e respondeu-m' el: -Senher,</LL>
+</L>
+<L N = "5" NS = "10" RI = "ous" ERI = "dous" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">con estes livros que v&oacute;s veedes dous</SEG></LT>
+<LL>con estes livros que v&oacute;s veedes dous</LL>
+</L>
+<L N = "6" NS = "10" RI = "ous" ERI = "sous" AC = "---+---+-+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">e conos outros</SEG> que el ten dos sous</SEG>,</LT>
+<LL>e conos outros que el ten dos sous,</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "quer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">fod' el</SEG> per eles quanto foder <SEG C = "R" N = "RD" ID = "4">quer</SEG></SEG>.</LT>
+<LL>fod' el per eles quanto foder quer.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "direi" AC = "----+-+--+">
+<LT><SEG C = "R" N = "CP" ID = "5">E ainda vos end' eu mais direi</SEG>:</LT>
+<LL>E ainda vos end' eu mais direi:</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "leer" AC = "---+-+---+">
+<LT>macar vel el muit' aj<SEG C = "I" N = "RE" ID = "6">a</SEG> <SEG C = "I" N = "RE" ID = "7">de</SEG> leer,</LT>
+<LL>macar vel el muit' aja de leer,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ei" ERI = "sei" AC = "---+---+-+">
+<LT>por quanto eu <SEG C = "I" N = "RE" ID = "8">de</SEG> sa fazenda <SEG C = "R" N = "RD" ID = "9">sei</SEG>,</LT>
+<LL>por quanto eu de sa fazenda sei,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "molher" AC = "--+--+-+--">
+<LT><SEG C = "R" N = "CD" ID = "2">conos livros</SEG> que ten non &aacute; molher</LT>
+<LL>conos livros que ten non &aacute; molher</LL>
+</L>
+<L N = "5" NS = "10" RI = "ous" ERI = "grous" AC = "---+---+-+-">
+<LT>a que non fa&ccedil;a que semelhen grous</LT>
+<LL>a que non fa&ccedil;a que semelhen grous</LL>
+</L>
+<L N = "6" NS = "10" RI = "ous" ERI = "babous" AC = "-+----+--+-">
+<LT>os corvos, e as anguias babous,</LT>
+<LL>os corvos, e as anguias babous,</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "quiser" AC = "-+---+---+">
+<LT>per for&ccedil;a de <SEG C = "R" N = "CF" ID = "10">foder</SEG>, se x'el <SEG C = "R" N = "RD" ID = "4">quiser</SEG>.</LT>
+<LL>per for&ccedil;a de foder, se x'el quiser.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "foder" AC = "--+--+---+">
+<LT>Ca non &aacute; mais, na arte do <SEG C = "R" N = "CF" ID = "10">foder</SEG>,</LT>
+<LL>Ca non &aacute; mais, na arte do foder,</LL>
+</L>
+<L N = "2" NS = "10" RI = "az" ERI = "jaz" AC = "--+----+--">
+<LT>do que <SEG C = "I" N = "RE" ID = "11">e</SEG>nos livros que el ten jaz;</LT>
+<LL>do que enos livros que el ten jaz;</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "leer" AC = "--+---+---">
+<LT>e el &aacute; tal sabor de os leer,</LT>
+<LL>e el &aacute; tal sabor de os leer,</LL>
+</L>
+<L N = "4" NS = "10" RI = "az" ERI = "faz" AC = "---+--+--+">
+<LT>que nunca noite nen dia al <SEG C = "R" N = "PV" ID = "12">faz</SEG>;</LT>
+<LL>que nunca noite nen dia al faz;</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ben" AC = "-+--+---+--">
+<LT>e sabe d' arte do foder tan ben,</LT>
+<LL>e sabe d' arte do foder tan ben,</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "ten" AC = "----+-+--+">
+<LT><SEG C = "R" N = "CD" ID = "13">que c&otilde;nos seus livros</SEG> d' artes, <SEG C = "M" N = "SIN" ID = "14">que el</SEG> <SEG C = "R" N = "PV" ID = "15">ten</SEG>,</LT>
+<LL>que c&otilde;nos seus livros d' artes, que el ten,</LL>
+</L>
+<L N = "7" NS = "10" RI = "az" ERI = "praz" AC = "-+-+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">fod' el</SEG> as mouras cada que lhi praz</SEG>.</LT>
+<LL>fod' el as mouras cada que lhi praz.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "saber" AC = "-+---+---+">
+<LT><SEG C = "R" N = "CP" ID = "5">E mais vos contarei de seu <SEG C = "R" N = "RD" ID = "9">saber</SEG></SEG>,</LT>
+<LL>E mais vos contarei de seu saber,</LL>
+</L>
+<L N = "2" NS = "10" RI = "az" ERI = "faz" AC = "---+---+-+">
+<LT><SEG C = "R" N = "CD" ID = "13">que c&otilde;nos livros</SEG> que el ten <SEG C = "I" N = "RE" ID = "16">i</SEG> <SEG C = "R" N = "PV" ID = "12">faz</SEG>:</LT>
+<LL>que c&otilde;nos livros que el ten i faz:</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "trager" AC = "--+---+--+">
+<LT>manda-os ante si todos trager,</LT>
+<LL>manda-os ante si todos trager,</LL>
+</L>
+<L N = "4" NS = "10" RI = "az" ERI = "assaz" AC = "---+--+--+">
+<LT>e, pois que fode per eles assaz,</LT>
+<LL>e, pois que fode per eles assaz,</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "ten" AC = "--+----+-+">
+<LT><SEG C = "R" N = "CP" ID = "17">se molher acha que o demo <SEG C = "R" N = "PV" ID = "15">ten</SEG></SEG>,</LT>
+<LL>se molher acha que o demo ten,</LL>
+</L>
+<L N = "6" NS = "10" RI = "en" ERI = "sen" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CP" ID = "17"><SEG C = "R" N = "CD" ID = "18">assi a</SEG> fode per arte e per sen</SEG>,</LT>
+<LL>assi a fode per arte e per sen,</LL>
+</L>
+<L N = "7" NS = "10" RI = "az" ERI = "malvaz" AC = "-+----+--+">
+<LT><SEG C = "R" N = "CP" ID = "17">que saca dela o demo malvaz</SEG>.</LT>
+<LL>que saca dela o demo malvaz.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababcca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>100:6</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "al" ERI = "al" AC = "--+---+-+-">
+<LT>E, con tod' esto, ainda faz <SEG C = "R" N = "PV" ID = "19">al</SEG></LT>
+<LL>E, con tod' esto, ainda faz al</LL>
+</L>
+<L N = "2" NS = "10" RI = "fe" ERI = "f&eacute;" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CD" ID = "2">conos livros</SEG> que ten, per b&otilde;a f&eacute;:</LT>
+<LL>conos livros que ten, per b&otilde;a f&eacute;:</LL>
+</L>
+<L N = "3" NS = "10" RI = "al" ERI = "mal" AC = "-+--+-+--+">
+<LT><SEG C = "R" N = "CP" ID = "17">se acha molher que aja <SEG C = "I" N = "RE" ID = "20">o</SEG> mal</SEG></LT>
+<LL>se acha molher que aja o mal</LL>
+</L>
+<L N = "4" NS = "10" RI = "e" ERI = "&eacute;" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CP" ID = "17">deste fogo que de San Mar&ccedil;al &eacute;</SEG>,</LT>
+<LL>deste fogo que de San Mar&ccedil;al &eacute;,</LL>
+
+<ANTRO T = "ALTER">San Mar&ccedil;al</ANTRO></L>
+<L N = "5" NS = "10" RI = "ar" ERI = "encantar" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "17"><SEG C = "R" N = "CD" ID = "18">assi <SEG C = "I" N = "RE" ID = "21">a</SEG></SEG> vai per foder encantar</SEG></LT>
+<LL>assi a vai per foder encantar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "semelhar" AC = "--+--+---+">
+<LT><SEG C = "R" N = "CP" ID = "17">que, fodendo, lhi faz ben semelhar</SEG></LT>
+<LL>que, fodendo, lhi faz ben semelhar</LL>
+</L>
+<L N = "7" NS = "10" RI = "al" ERI = "al" AC = "-+-+--+--+">
+<LT><SEG C = "R" N = "CP" ID = "17">que &eacute; geada ou nev' e non <SEG C = "R" N = "PV" ID = "19">al</SEG></SEG>.</LT>
+<LL>que &eacute; geada ou nev' e non al.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "095001" TC = "REFR" NE = "3" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Ai meu amigo, coitada</INCIPIT>
+<NUCANT>95 1</NUCANT>
+<RM BCA = "B" NM = "1242" F = "263v" MU = "NON" EM = "NO" I.FI = "lb263v"></RM>
+<RM BCA = "V" NM = "847" F = "134r" MU = "NON" EM = "NO" I.FI = "lv134r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1190</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 847</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 71-73</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 477</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "455"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>12/05/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1242.
+Est&aacute; situada na columna b do folio 263v.</P></COMNOTC></NOTC>
+<TEMA CAT = "COI"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:457</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ada" ERI = "coitada" AC = "---+--+-">
+<LT>Ai meu amigo, coitada</LT>
+<LL>Ai meu amigo, coitada</LL>
+</L>
+<L N = "2" NS = "7" RI = "ejo" ERI = "vejo" AC = "+-----+-">
+<LT>vivo, por que vos non vejo</LT>
+<LL>vivo, por que vos non vejo</LL>
+</L>
+<L N = "3" NS = "7" RI = "ejo" ERI = "desejo" AC = "--+---+-">
+<LT>e, pois vos tanto desejo,</LT>
+<LL>e, pois vos tanto desejo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ada" ERI = "nada" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1">en grave dia foi <SEG C = "R" N = "RD" ID = "2">nada</SEG></SEG>,</LT>
+<LL>en grave dia foi nada,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>se vos cedo, meu <SEG C = "R" N = "RD" ID = "3">amigo</SEG>,</LT>
+<LL>se vos cedo, meu amigo,</LL>
+</L>
+<L N = "6" NS = "7" RI = "igo" ERI = "digo" AC = "----+-+-">
+<LT>non fa&ccedil;o prazer e digo.</LT>
+<LL>non fa&ccedil;o prazer e digo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7' 7' 7 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:437</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "i" ERI = "ven&ccedil;i" AC = "----+-+">
+<LT>Pois que o cendal ven&ccedil;i</LT>
+<LL>Pois que o cendal ven&ccedil;i</LL>
+</L>
+<L N = "2" NS = "7" RI = "ongo" ERI = "Valongo" AC = "---+--+-">
+<LT>de parecer en Valongo,</LT>
+<LL>de parecer en Valongo,</LL>
+<TOPO CAT = "ALDEA">Valongo</TOPO></L>
+<L N = "3" NS = "7" RI = "ongo" ERI = "alongo" AC = "-+----+-">
+<LT>se m' ora de v&oacute;s alongo,</LT>
+<LL>se m' ora de v&oacute;s alongo,</LL>
+</L>
+<L N = "4" NS = "7" RI = "i" ERI = "naci" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">en grave dia <SEG C = "R" N = "RD" ID = "2">naci</SEG></SEG>,</LT>
+<LL>en grave dia naci,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>se vos cedo, meu <SEG C = "R" N = "RD" ID = "3">amigo</SEG>,</LT>
+<LL>se vos cedo, meu amigo,</LL>
+</L>
+<L N = "6" NS = "7" RI = "igo" ERI = "digo" AC = "----+-+-">
+<LT>non fa&ccedil;o prazer e digo.</LT>
+<LL>non fa&ccedil;o prazer e digo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 7 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:436</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ar" ERI = "pesar" AC = "---+--+">
+<LT>Por quantas vezes pesar</LT>
+<LL>Por quantas vezes pesar</LL>
+</L>
+<L N = "2" NS = "7" RI = "ei" ERI = "amei" AC = "-+----+">
+<LT>vos fiz, de<SEG C = "I" N = "RE" ID = "4">s</SEG> que vos <SEG C = "R" N = "RD" ID = "3">amei</SEG>,</LT>
+<LL>vos fiz, des que vos amei,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ei" ERI = "farei" AC = "---+--+">
+<LT>alg&utilde;a vez vos farei</LT>
+<LL>alg&utilde;a vez vos farei</LL>
+</L>
+<L N = "4" NS = "7" RI = "ar" ERI = "ampar" AC = "---+--+">
+<LT>prazer e Deus non m' ampar,</LT>
+<LL>prazer e Deus non m' ampar,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>se vos cedo, meu <SEG C = "R" N = "RD" ID = "3">amigo</SEG>,</LT>
+<LL>se vos cedo, meu amigo,</LL>
+</L>
+<L N = "6" NS = "7" RI = "igo" ERI = "digo" AC = "----+-+-">
+<LT>non fa&ccedil;o prazer e digo.</LT>
+<LL>non fa&ccedil;o prazer e digo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

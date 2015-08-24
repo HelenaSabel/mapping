@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="097032" NE="3" OL="NON" SG="NO" TC="MEST" XE="EMO">
+      <INCIPIT>Pois boas donas son desemparadas</INCIPIT>
+
+      <NUCANT>97 32</NUCANT>
+
+      <RM BCA="B" EM="NO" F="43v" I.FI="lb043v" MU="NON" NM="172"></RM>
+
+      <RM BCA="B" EM="NO" F="44r" I.FI="lb044r" MU="NON" NM="172"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Bertolucci 29</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA 398</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 147</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 145</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 8</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 16</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 481-482</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 219-220</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 285</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 248</P>
+      </EDIANT>
+
+      <DATOAU NOME="Arias, Antoloxía," NUA="153"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>18/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tre stãnza <COMNOTC><P>Nota colocciana situada en B, no fol. 43v,
+      na columna b, na parte superior da cantiga. Fai referencia ó número de
+      estrofas da cantiga.</P></COMNOTC></NOTC>
+
+      <NOTC>uarra <COMNOTC><P>Nota colocciana situada en B no fol. 44r, na
+      columna a, na parte superior do folio. É a adaptación ó italiano da
+      forma &#34;ualrra&#34;, que aparece no terceiro verso da segunda cobra,
+      e que Colocci subliña.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Esta cantiga de cima fez Martin Soórez a Roí Gómez de
+      Briteiros, que era infançon e tornou ricomen, por que roussou Dona
+      Elvira Eanes, filha de Don Johan Pérez da Maia e de Dona Guiomar
+      Meéndez, filha del Conde Meendo. <COMRUBRI><P>Rúbrica explicativa
+      presente en B no fol. 44, columna a, e ubicada ó final da cantiga. É da
+      man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="IN"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababbaba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39; 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>84:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="desemparadas" N="1" NS="10" RI="adas">
+          <LT>Pois boas donas son desemparadas</LT>
+
+          <LL>Pois boas donas son desemparadas</LL>
+        </L>
+
+        <L AC="--+-----+-" ERI="defender" N="2" NS="10" RI="er">
+          <LT>e nu<SEG C="M" ID="1" N="SIN">lho ho</SEG>me non as quer
+          defender,</LT>
+
+          <LL>e nulho home non as quer defender,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="quedadas" N="3" NS="10" RI="adas">
+          <LT>non as quer&#39; eu leixar estar quedadas,</LT>
+
+          <LL>non as quer&#39; eu leixar estar quedadas,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prender" N="4" NS="10" RI="er">
+          <LT>mais quer&#39; én duas per força prender,</LT>
+
+          <LL>mais quer&#39; én duas per força prender,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="escolher" N="5" NS="8" RI="er">
+          <LT>ou tres ou quatro, quaes m&#39; én escolher;</LT>
+
+          <LL>ou tres ou quatro, quaes m&#39; én escolher;</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="vengadas" N="6" NS="10" RI="adas">
+          <LT>pois non an ja per que sejan vengadas,</LT>
+
+          <LL>pois non an ja per que sejan vengadas,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="cometer" N="7" NS="10" RI="er">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="3" N="CD">netas de</SEG> conde quer&#39; eu cometer,</SEG></LT>
+
+          <LL>netas de conde quer&#39; eu cometer,</LL>
+
+          <ANTRO T="REAL">Conde Meendo (Conde)</ANTRO>
+        </L>
+
+        <L AC="---+-----+-" ERI="acoomiadas" N="8" NS="10" RI="adas">
+          <LT><SEG C="R" ID="2" N="CP">que me seran máis pouc&#39; acoomiadas</SEG>.</LT>
+
+          <LL>que me seran máis pouc&#39; acoomiadas.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababbaba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39; 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>84:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="donzela" N="1" NS="10" RI="ela">
+          <LT><SEG C="R" ID="3" N="CD">Netas de</SEG> conde, viuvas, nen
+          donzela,</LT>
+
+          <LL>Netas de conde, viuvas, nen donzela,</LL>
+
+          <ANTRO T="REAL">Conde Meendo (Conde)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="leixar" N="2" NS="10" RI="ar">
+          <LT>essa per ren non a quer&#39; eu leixar,</LT>
+
+          <LL>essa per ren non a quer&#39; eu leixar,</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="mesela" N="3" NS="10" RI="ela">
+          <LT>nen lhe valrá se se chamar &#34;¡mesela!&#34;,</LT>
+
+          <LL>nen lhe valrá se se chamar &#34;¡mesela!&#34;,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="chorar" N="4" NS="10" RI="ar">
+          <LT>nen de carpir muito, nen de chorar,</LT>
+
+          <LL>nen de carpir muito, nen de chorar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="desfiar" N="5" NS="10" RI="ar">
+          <LT>ca me non an por én a <SEG C="R" ID="4" N="RD">desfiar</SEG></LT>
+
+          <LL>ca me non an por én a desfiar</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="Castela" N="6" NS="10" RI="ela">
+          <LT>seu linhagen, nen deitar a Castela;</LT>
+
+          <LL>seu linhagen, nen deitar a Castela;</LL>
+
+          <TOPO CAT="CIRCUNS">Castela</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="andar" N="7" NS="10" RI="ar">
+          <LT><SEG C="R" ID="5" N="CD">e veeredes</SEG> meus filhos andar</LT>
+
+          <LL>e veeredes meus filhos andar</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="Sousela" N="8" NS="10" RI="ela">
+          <LT><SEG C="R" ID="3" N="CD"><SEG C="R" ID="6" N="CF">netos</SEG> de</SEG>
+          G<SEG C="I" ID="7" N="RE">u</SEG>ed&#39; e partir en Sousela.</LT>
+
+          <LL>netos de Gued&#39; e partir en Sousela.</LL>
+
+          <ANTRO T="REAL">Gueda (Gued&#39;)</ANTRO>
+
+          <TOPO CAT="CIUDAD">Sousela</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababbaba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10&#39; 10 10 10&#39; 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>84:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+-" ERI="grado" N="1" NS="10" RI="ado">
+          <LT><SEG C="R" ID="2" N="CP">Se eu <SEG C="R" ID="6" N="CF">netas</SEG> de conde, sen seu grado</SEG>,</LT>
+
+          <LL>Se eu netas de conde, sen seu grado,</LL>
+
+          <ANTRO T="REAL">Conde Meendo (Conde)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="for" N="2" NS="10" RI="or">
+          <LT><SEG C="R" ID="2" N="CP">tomo, e<SEG C="I" ID="7a" N="RE">n</SEG> tanto com&#39; eu vivo <SEG
+C="R" ID="8" N="RD">for</SEG></SEG></LT>
+
+          <LL>tomo, en tanto com&#39; eu vivo for</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="desafiado" N="3" NS="10" RI="ado">
+          <LT><SEG C="R" ID="2" N="CP">nunca por én serei <SEG C="R" ID="4"
+N="RD">desafiado</SEG></SEG>,</LT>
+
+          <LL>nunca por én serei desafiado,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="peior" N="4" NS="10" RI="or">
+          <LT>nen pararei mia natura peior,</LT>
+
+          <LL>nen pararei mia natura peior,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="melhor" N="5" NS="10" RI="or">
+          <LT>ante farei meu linhagen melhor</LT>
+
+          <LL>ante farei meu linhagen melhor</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="baixado" N="6" NS="10" RI="ado">
+          <LT>(o que end&#39; é de Gueda máis baixado):</LT>
+
+          <LL>(o que end&#39; é de Gueda máis baixado):</LL>
+
+          <ANTRO T="REAL">Gueda</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="for" N="7" NS="10" RI="or">
+          <LT><SEG C="R" ID="5" N="CD">e veeredes</SEG> pois meu filho <SEG
+          C="R" ID="8" N="RD">for</SEG></LT>
+
+          <LL>e veeredes pois meu filho for</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="mizcrado" N="8" NS="10" RI="ado">
+          <LT><SEG C="R" ID="3" N="CD">neto de</SEG> Gueda con condes
+          mizcrado.</LT>
+
+          <LL>neto de Gueda con condes mizcrado.</LL>
+
+          <ANTRO T="REAL">Gueda</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

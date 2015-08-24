@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="067001" NE="3" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>A Far&#39; un dia irei</INCIPIT>
+
+      <NUCANT>67 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="271r" I.FI="lb271r" MU="NON" NM="1290"></RM>
+
+      <RM BCA="V" EM="NO" F="140v" I.FI="lv140v" MU="NON" NM="895"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestometia, p. 220</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1238</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 895</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 147</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen p. 524</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="500"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>3/07/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = a III)</P></FRI>
+
+      <TEMA CAT="EN"></TEMA>
+
+      <TEMA CAT="COI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 8 6 8 6 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:78</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+-+" ERI="irei" N="1" NS="6" RI="ei">
+          <LT>A Far&#39; un di<SEG C="M" ID="1" N="SIN">a i</SEG>rei,</LT>
+
+          <LL>A Far&#39; un dia irei,</LL>
+
+          <TOPO CAT="LCULTO">Santa Maria do Faro (Faro)</TOPO>
+        </L>
+
+        <L AC="--+----+" ERI="prouguer" N="2" NS="8" RI="er">
+          <LT><SEG C="I" ID="2" N="RE">eu, mia</SEG> madre, se vos prouguer,</LT>
+
+          <LL>eu, mia madre, se vos prouguer,</LL>
+        </L>
+
+        <L AC="-+---+" ERI="veerei" N="3" NS="6" RI="ei">
+          <LT>rogar se veerei</LT>
+
+          <LL>rogar se veerei</LL>
+        </L>
+
+        <L AC="--+----+" ERI="quer" N="4" NS="8" RI="er">
+          <LT>meu amigo, que mi ben <SEG C="R" ID="3" N="RD">quer</SEG>,</LT>
+
+          <LL>meu amigo, que mi ben quer,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+" ERI="enton" N="5" NS="6" RI="on">
+            <LT>e direi-lh&#39; eu enton</LT>
+
+            <LL>e direi-lh&#39; eu enton</LL>
+          </L>
+
+          <L AC="-+--+--+" ERI="coraçon" N="6" NS="8" RI="on">
+            <LT>a coita do meu coraçon.</LT>
+
+            <LL>a coita do meu coraçon.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 7&#39; 6 7&#39; 6 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:79</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+----+" ERI="eu" N="1" NS="6" RI="eu">
+          <LT>Muito per desej&#39; eu</LT>
+
+          <LL>Muito per desej&#39; eu</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="amigo" N="2" NS="7" RI="igo">
+          <LT>que veesse meu <SEG C="R" ID="4" N="RD">amigo</SEG></LT>
+
+          <LL>que veesse meu amigo</LL>
+        </L>
+
+        <L AC="---+-+" ERI="deu" N="3" NS="6" RI="eu">
+          <LT>que m&#39; estas penas deu</LT>
+
+          <LL>que m&#39; estas penas deu</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="comigo" N="4" NS="7" RI="igo">
+          <LT>e que falasse comigo</LT>
+
+          <LL>e que falasse comigo</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+" ERI="enton" N="5" NS="6" RI="on">
+            <LT>e direi-lh&#39; eu enton</LT>
+
+            <LL>e direi-lh&#39; eu enton</LL>
+          </L>
+
+          <L AC="-+--+--+" ERI="coraçon" N="6" NS="8" RI="on">
+            <LT>a coita do meu coraçon.</LT>
+
+            <LL>a coita do meu coraçon.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="ababCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>6 7&#39; 6 7&#39; 6 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>99:79</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+" ERI="quiser" N="1" NS="6" RI="er">
+          <LT>Se s&#39; el nembrar <SEG C="R" ID="3" N="RD">quiser</SEG></LT>
+
+          <LL>Se s&#39; el nembrar quiser</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="namorada" N="2" NS="7" RI="ada">
+          <LT>como fiquei <SEG C="R" ID="4" N="RD">namorada</SEG></LT>
+
+          <LL>como fiquei namorada</LL>
+        </L>
+
+        <L AC="--+--+" ERI="veer" N="3" NS="6" RI="er">
+          <LT>e se cedo veer</LT>
+
+          <LL>e se cedo veer</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="talhada" N="4" NS="7" RI="ada">
+          <LT>e o vir eu, ben talhada,</LT>
+
+          <LL>e o vir eu, ben talhada,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+" ERI="enton" N="5" NS="6" RI="on">
+            <LT>e direi-lh&#39; eu enton</LT>
+
+            <LL>e direi-lh&#39; eu enton</LL>
+          </L>
+
+          <L AC="-+--+--+" ERI="coraçon" N="6" NS="8" RI="on">
+            <LT>a coita do meu coraçon.</LT>
+
+            <LL>a coita do meu coraçon.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

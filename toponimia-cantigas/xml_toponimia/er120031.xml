@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120031" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="CE">
+      <INCIPIT>O que Valença conquereu</INCIPIT>
+
+      <NUCANT>120 31</NUCANT>
+
+      <RM BCA="B" EM="NO" F="214v" I.FI="lb214v" MU="NON" NM="990"></RM>
+
+      <RM BCA="B" EM="NO" F="215r" I.FI="lb215r" MU="NON" NM="990"></RM>
+
+      <RM BCA="V" EM="NO" F="92v" I.FI="lv092v" MU="NON" NM="578"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, pp. 167-168</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 21</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA 466</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 934</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 578</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 146</P>
+      </EDIANT>
+
+      <DATOAU NOME="Panunzio" NUA="125-126pp"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>1/03/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(c II = a III)</P></FRI>
+
+      <NOTC>9ged <COMNOTC><P>Nota colocciana que precede á cantiga B 990. Está
+      situada na columna b do folio 214v. A sílaba inicial con aparece coa
+      abreviatura con. Falta o o final.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="ENC"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="conquereu" N="1" NS="8" RI="eu">
+          <LT>O que <SEG C="R" ID="1" N="AE">Valença</SEG> <SEG C="R" ID="2"
+          N="RD">conquereu</SEG></LT>
+
+          <LL>O que Valença conquereu</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="aver" N="2" NS="8" RI="er">
+          <LT>por sempre mays <SEG C="R" ID="1" N="AE">valenç&#39;</SEG> aver,</LT>
+
+          <LL>por sempre mays valenç&#39; aver,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="manteer" N="3" NS="8" RI="er">
+          <LT><SEG C="R" ID="1" N="AE">Valença</SEG> se quer <SEG C="R" ID="3"
+          N="RD">manteer</SEG>,</LT>
+
+          <LL>Valença se quer manteer,</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="----+--+" ERI="entendeu" N="4" NS="8" RI="eu">
+          <LT>e ssenpr&#39; en <SEG C="R" ID="1" N="AE">valen<SEG C="R" ID="4"
+N="SIN">ça</SEG></SEG> <SEG C="R" ID="4" N="SIN">en</SEG>tendeu.</LT>
+
+          <LL>e ssenpr&#39; en valença entendeu.</LL>
+        </L>
+
+        <L AC="---+---+" ERI="senhor" N="5" NS="8" RI="or">
+          <LT>E de <SEG C="R" ID="1" N="AE">Valença</SEG> é senhor,</LT>
+
+          <LL>E de Valença é senhor,</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="--+" ERI="loor" N="6" NS="8" RI="or">
+          <LT>poys el manten prez e loor</LT>
+
+          <LL>poys el manten prez e loor</LL>
+        </L>
+
+        <L AC="---+---+" ERI="valer" N="7" NS="8" RI="er">
+          <LT>e pres <SEG C="R" ID="5" N="CF"><SEG C="R" ID="1" N="AE">Valença</SEG></SEG>
+          por valer.</LT>
+
+          <LL>e pres Valença por valer.</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="obrou" N="1" NS="8" RI="ou">
+          <LT><SEG C="R" ID="6" N="CD">E per <SEG C="R" ID="5" N="CF"><SEG
+C="R" ID="1" N="AE">valença</SEG></SEG></SEG> sen<SEG C="M" ID="7" N="SIN">pre o</SEG>brou</LT>
+
+          <LL>E per valença senpre obrou</LL>
+        </L>
+
+        <L AC="----+--+" ERI="pram" N="2" NS="8" RI="an">
+          <LT>por aver <SEG C="R" ID="1" N="AE">Valença</SEG>, <SEG C="R"
+          ID="8" N="PV">de pram</SEG>;</LT>
+
+          <LL>por aver Valença, de pram;</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="diran" N="3" NS="8" RI="an">
+          <LT>e por <SEG C="R" ID="1" N="AE">valença</SEG> <SEG C="R" ID="9"
+          N="PV">lhi diran</SEG></LT>
+
+          <LL>e por valença lhi diran</LL>
+        </L>
+
+        <L AC="---+---+" ERI="gaanhou" N="4" NS="8" RI="ou">
+          <LT>que ben <SEG C="R" ID="1" N="AE">Valença</SEG> gaanhou.</LT>
+
+          <LL>que ben Valença gaanhou.</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="tem" N="5" NS="8" RI="en">
+          <LT>E o bon rey <SEG C="R" ID="1" N="AE">Valença</SEG> tem,</LT>
+
+          <LL>E o bon rey Valença tem,</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (bon rey)</ANTRO>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="--+----+" ERI="manten" N="6" NS="8" RI="en">
+          <LT>que, pois prez et valor <SEG C="R" ID="3" N="RD">manten</SEG>,</LT>
+
+          <LL>que, pois prez et valor manten,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="diram" N="7" NS="8" RI="an">
+          <LT><SEG C="R" ID="10" N="CD">rey de</SEG> <SEG C="R" ID="1" N="AE">Valença</SEG>
+          <SEG C="R" ID="9" N="PV">lhi diram</SEG>.</LT>
+
+          <LL>rey de Valença lhi diram.</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (rey)</ANTRO>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:34</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ssem" N="1" NS="8" RI="en">
+          <LT>Ca Deus lhi deu esforç&#39; e <SEG C="R" ID="11" N="PV">ssem</SEG></LT>
+
+          <LL>Ca Deus lhi deu esforç&#39; e ssem</LL>
+        </L>
+
+        <L AC="----+--+" ERI="reinar" N="2" NS="8" RI="ar">
+          <LT>por sobre <SEG C="R" ID="1" N="AE">Valença</SEG> reinar,</LT>
+
+          <LL>por sobre Valença reinar,</LL>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="----+--+" ERI="acabar" N="3" NS="8" RI="ar">
+          <LT>e lhi fez <SEG C="R" ID="1" N="AE">valen<SEG C="M" ID="12"
+N="SIN">ça</SEG></SEG><SEG C="M" ID="12" N="SIN"> a</SEG>cabar</LT>
+
+          <LL>e lhi fez valença acabar</LL>
+        </L>
+
+        <L AC="----+--+" ERI="conven" N="4" NS="8" RI="en">
+          <LT>con quant&#39; a <SEG C="R" ID="1" N="AE">valença</SEG> conven.</LT>
+
+          <LL>con quant&#39; a valença conven.</LL>
+        </L>
+
+        <L AC="----+--+" ERI="conquis" N="5" NS="8" RI="is">
+          <LT>El rey que <SEG C="R" ID="1" N="AE">Valença</SEG> <SEG C="R"
+          ID="2" N="RD">conquis</SEG>,</LT>
+
+          <LL>El rey que Valença conquis,</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (El rey)</ANTRO>
+
+          <TOPO CAT="CIUDAD">Valença</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="fiz" N="6" NS="8" RI="iz">
+          <LT>que de <SEG C="R" ID="1" N="AE">valença</SEG> est bem fiz,</LT>
+
+          <LL>que de valença est bem fiz,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="obrar" N="7" NS="8" RI="ar">
+          <LT><SEG C="R" ID="6" N="CD">e per <SEG C="R" ID="1" N="AE">valença</SEG></SEG>
+          quer obrar,</LT>
+
+          <LL>e per valença quer obrar,</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="ccb"><NOTRIM><P>Rima sobre II.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="sem" N="1" NS="8" RI="en">
+          <LT><SEG C="R" ID="10" N="CD">rey de</SEG> razon, rey de bon <SEG
+          C="R" ID="11" N="PV">sem</SEG>,</LT>
+
+          <LL>rey de razon, rey de bon sem,</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (rey)</ANTRO>
+        </L>
+
+        <L AC="--+----+" ERI="bem" N="2" NS="8" RI="en">
+          <LT><SEG C="R" ID="10" N="CD">rey de</SEG> prez, rey de todo bem</LT>
+
+          <LL>rey de prez, rey de todo bem</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (rey)</ANTRO>
+        </L>
+
+        <L AC="-----+-+" ERI="pram" N="3" NS="8" RI="an">
+          <LT>est, e rey d&#39; Aragon, <SEG C="R" ID="8" N="PV">de pram</SEG>!</LT>
+
+          <LL>est, e rey d&#39; Aragon, de pram!</LL>
+
+          <ANTRO T="REAL">Jaume I de Aragón (rey d&#39; Aragon)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

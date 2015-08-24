@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="145004" NE="3+F" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Muit&#39; ei, ai Amor, que te gradescer</INCIPIT>
+
+      <NUCANT>145 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="248v" I.FI="lb248v" MU="NON" NM="1163"></RM>
+
+      <RM BCA="V" EM="NO" F="121r" I.FI="lv121r" MU="NON" NM="766"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 393</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1108</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 766</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 151</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 148</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 354-355, 589-590</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Macchi 6</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="398p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>29/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(B = C)</P></FRI>
+
+      <NOTC>[con ]ged <COMNOTC><P>Nota colocciana situada na columna a do
+      folio 248v, enriba da cantiga B 1163. Fai referencia á existencia de
+      fiinda na cantiga, parte do texto que, ademais, foi marcada cun trazo
+      vertical polo humanista. A sílaba &#34;con-&#34; presenta a abreviatura
+      habitual.</P></COMNOTC></NOTC>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana situada na columna a do folio
+      248v, enriba da cantiga B 1163. Fai referencia á presencia de refrán na
+      cantiga, parte do texto que ademais tamén é marcada cun trazo. Enriba do
+      &#34;o&#34; hai como unha especie de til agudo que está abreviando un
+      &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="PA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>151:5</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="gradescer" N="1" NS="10" RI="er">
+          <LT>Muit&#39; ei, ai Amor, que te gradescer</LT>
+
+          <LL>Muit&#39; ei, ai Amor, que te gradescer</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="morar" N="2" NS="10" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">por que quiseste comigo <SEG C="R"
+ID="2" N="PV">morar</SEG></SEG></LT>
+
+          <LL>por que quiseste comigo morar</LL>
+        </L>
+
+        <L AC="----+----+" ERI="desemparar" N="3" NS="10" RI="ar">
+          <LT>e non me quiseste desemparar,</LT>
+
+          <LL>e non me quiseste desemparar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prazer" N="4" NS="10" RI="er">
+          <LT><SEG C="R" ID="3" N="CPL">atá que ven meu lum&#39; e meu prazer</SEG></LT>
+
+          <LL>atá que ven meu lum&#39; e meu prazer</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="andar" N="5" NS="10" RI="ar">
+            <LT>e meu amigo, que se foi andar</LT>
+
+            <LL>e meu amigo, que se foi andar</LL>
+          </L>
+
+          <L AC="--+------+" ERI="lidar" N="6" NS="10" RI="ar">
+            <LT>a Granada por meu <SEG C="R" ID="4" N="CFR">amor</SEG> lidar</LT>
+
+            <LL>a Granada por meu amor lidar</LL>
+
+            <TOPO CAT="CIUDAD">Granada</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>O verso 4 é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>160:220</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="ren" N="1" NS="10" RI="en">
+          <LT><SEG C="R" ID="4" N="CFR">Amor</SEG>, gradesco <SEG C="I" ID="5"
+          N="RE">te</SEG> mais d&#39; outra ren</LT>
+
+          <LL>Amor, gradesco te mais d&#39; outra ren</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="daqui" N="2" NS="10" RI="i">
+          <LT>des que se foi meu amigo daqui</LT>
+
+          <LL>des que se foi meu amigo daqui</LL>
+        </L>
+
+        <L AC="----+----+" ERI="min" N="3" NS="10" RI="in">
+          <LT><SEG C="R" ID="1" N="CP">que te non quiseste partir de min</SEG></LT>
+
+          <LL>que te non quiseste partir de min</LL>
+        </L>
+
+        <L AC="---+----+" ERI="ben" N="4" NS="9" RI="en">
+          <LT><SEG C="R" ID="3" N="CPL">atá que veu meu lum&#39; e meu ben</SEG></LT>
+
+          <LL>atá que veu meu lum&#39; e meu ben</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="andar" N="5" NS="10" RI="ar">
+            <LT>e meu amigo, <SEG C="I" ID="6" N="RE">que se foi andar</SEG></LT>
+
+            <LL>e meu amigo, que se foi andar</LL>
+          </L>
+
+          <L AC="--+------+" ERI="lidar" N="6" NS="10" RI="ar">
+            <LT><SEG C="I" ID="6" N="RE">a Granada por meu amor lidar</SEG></LT>
+
+            <LL>a Granada por meu amor lidar</LL>
+
+            <TOPO CAT="CIUDAD">Granada</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9&#39; 9&#39; 9&#39; 9&#39; 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:303</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+---+-" ERI="queixume" N="1" NS="9" RI="ume">
+          <LT>Nunca prenderei de ti queixume,</LT>
+
+          <LL>Nunca prenderei de ti queixume,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="partido" N="2" NS="9" RI="ido">
+          <LT><SEG C="R" ID="1" N="CP">ca nun<SEG C="I" ID="7" N="RE">ca</SEG> fuste de min partido</SEG></LT>
+
+          <LL>ca nunca fuste de min partido</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="ido" N="3" NS="9" RI="ido">
+          <LT>pois meu amigo foi daquend&#39; ido</LT>
+
+          <LL>pois meu amigo foi daquend&#39; ido</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="lume" N="4" NS="9" RI="ume">
+          <LT><SEG C="R" ID="3" N="CPL">atá que ven meu ben e meu lume</SEG></LT>
+
+          <LL>atá que ven meu ben e meu lume</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="andar" N="5" NS="10" RI="ar">
+            <LT>e meu amigo, <SEG C="I" ID="6" N="RE">que se foi andar</SEG></LT>
+
+            <LL>e meu amigo, que se foi andar</LL>
+          </L>
+
+          <L AC="--+------+" ERI="lidar" N="6" NS="10" RI="ar">
+            <LT><SEG C="I" ID="6" N="RE">a Granada por meu amor lid<SEG C="R"
+ID="8" N="CCR">ar</SEG></SEG></LT>
+
+            <LL>a Granada por meu amor lidar</LL>
+
+            <TOPO CAT="CIUDAD">Granada</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="2">
+        <ESQRIM TIPO="cc"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10</ESQMET>
+
+          <NOTMET>
+            <P>O segundo verso é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="aguardar" N="1" NS="10" RI="ar">
+          <LT>Poys me quiseste tan ben aguard<SEG C="R" ID="9" N="CCR">ar</SEG>,</LT>
+
+          <LL>Poys me quiseste tan ben aguardar,</LL>
+        </L>
+
+        <L AC="----+-----+" ERI="morar" N="2" NS="11" RI="ar">
+          <LT>por Deus, non me leixes, sen ti <SEG C="R" ID="2" N="PV">morar</SEG>.</LT>
+
+          <LL>por Deus, non me leixes, sen ti morar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

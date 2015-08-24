@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "116011" TC = "RINT" NE = "3" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Joham Baveca e Pero d' Anbr&otilde;a</INCIPIT>
+<NUCANT>116 11</NUCANT>
+<RM BCA = "B" NM = "1664" F = "355v" MU = "NON" EM = "NO" I.FI = "lb355v">
+<NOTMAN N = "1">S&oacute; transmite as estrofas I e II e parte da
+III.</NOTMAN></RM>
+<RM BCA = "V" NM = "1198" F = "198v" MU = "NON" EM = "NO" I.FI = "lv198v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 316</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. VII, p. 684</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1568</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1198</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 72</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 218</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 111</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 274-275, 550-551</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 283</P></EDIANT>
+<DATOAU NOME = "Marroni" NUA = "29">
+<COMAU>
+<P>Preferimos dispo&ntilde;er tipograficamente os versos 1, 4 e 7 en cursiva, pois se
+trata dun refr&aacute;n intercalar de versos id&eacute;nticos. Marroni escribe
+&quot;cantiga de maldizer, del tipo can&ccedil;&atilde;o redonda (con 1, 4 e
+7 v. uguali in tutte le strofe), formata da tre coblas singulars, con a sempre
+fissa&quot;(p. 127)</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>27/04/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel doppio</NOTC>
+<TEMA CAT = "VIX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "AbbAccA"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:162</NUMESQ>
+</CABGRU>
+<BODY>
+<REFRAN>
+<L N = "1" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "RR" ID = "1">Joham Baveca e Pero d' Anbr&otilde;a</SEG></LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "2" NS = "10" RI = "on" ERI = "ten&ccedil;on" AC = "--+------+">
+<LT>come&ccedil;aron de fazer sa ten&ccedil;on,</LT>
+<LL>come&ccedil;aron de fazer sa ten&ccedil;on,</LL>
+</L>
+<L N = "3" NS = "10" RI = "on" ERI = "razon" AC = "--+------+">
+<LT>e sayron-sse logo da razon</LT>
+<LL>e sayron-sse logo da razon</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "RR" ID = "1">Joan Baveca e Pero d' Anbr&otilde;a</SEG></LT>
+<LL>Joan Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joan Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "5" NS = "10" RI = "ir" ERI = "seguyr" AC = "----+----+">
+<LT>e, por que x' a non souberon seguyr,</LT>
+<LL>e, por que x' a non souberon seguyr,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ir" ERI = "departir" AC = "---+-----+">
+<LT>nunca quedaron poys en departir</LT>
+<LL>nunca quedaron poys en departir</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CF" ID = "2"><SEG C = "R" N = "RR" ID = "1">Joham Baveca e Pero d' Anbr<SEG C = "R" N = "CCR" ID = "3">&otilde;a</SEG></SEG></SEG>.</LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a.</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joham Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "AbbAccA"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:162</NUMESQ>
+</CABGRU>
+<BODY>
+<REFRAN>
+<L N = "1" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CF" ID = "2"><SEG C = "R" N = "RR" ID = "1">Joham Baveca e Pero d' Anbr<SEG C = "R" N = "CCR" ID = "3">&otilde;a</SEG></SEG></SEG></LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joham Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "2" NS = "10" RI = "ar" ERI = "come&ccedil;ar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "4">ar</SEG> foron outra razon come&ccedil;ar,</LT>
+<LL>ar foron outra razon come&ccedil;ar,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "pelejar" AC = "----+----+">
+<LT>sobre que ouverom de pelejar</LT>
+<LL>sobre que ouverom de pelejar</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "RR" ID = "1">J<SEG C = "I" N = "RE" ID = "5">o</SEG>am Baveca e Pero d' Anbr&otilde;a</SEG>:</LT>
+<LL>Joam Baveca e Pero d' Anbr&otilde;a:</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joam Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "5" NS = "10" RI = "en" ERI = "Iherusalen" AC = "---+-----+">
+<LT>sobre la terra de Iherusalen</LT>
+<LL>sobre la terra de Iherusalen</LL>
+
+<TOPO CAT = "LCULTO">Xerusal&eacute;m (Iherusalen)</TOPO></L>
+<L N = "6" NS = "10" RI = "en" ERI = "ben" AC = "--+------+">
+<LT>que dizian que sabian mui ben</LT>
+<LL>que dizian que sabian mui ben</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CF" ID = "2"><SEG C = "R" N = "RR" ID = "1">Joham <SEG C = "I" N = "RE" ID = "7">B</SEG>aveca e Pero d' Anbr<SEG C = "R" N = "CCR" ID = "8">&otilde;a</SEG></SEG></SEG>.</LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a.</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joham Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+3">
+<ESQRIM TIPO = "AbbAccA"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:162</NUMESQ>
+</CABGRU>
+<BODY>
+<REFRAN>
+<L N = "1" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CF" ID = "2"><SEG C = "R" N = "RR" ID = "1">Joham Baveca e Pero d' Anbr<SEG C = "R" N = "CCR" ID = "8">&otilde;a</SEG></SEG></SEG></LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joham Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "2" NS = "10" RI = "an" ERI = "Can" AC = "-----+---+">
+<LT><SEG C = "R" N = "CD" ID = "4">ar</SEG> departiron logo no Gram Can;</LT>
+<LL>ar departiron logo no Gram Can;</LL>
+</L>
+<L N = "3" NS = "10" RI = "an" ERI = "pran" AC = "---+-----+">
+<LT>e pelejaron sobr' esto, de pran,</LT>
+<LL>e pelejaron sobr' esto, de pran,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "RR" ID = "1">J<SEG C = "I" N = "RE" ID = "9">o</SEG>a<SEG C = "I" N = "RE" ID = "10">m Baveca e Pero d' Anbr&otilde;a</SEG></SEG></LT>
+<LL>Joam Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca(Joam Baveca)</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+<L N = "5" NS = "10" RI = "e" ERI = "&eacute;" AC = "-----+---+">
+<LT>dizend': &quot;Ora veeremus quis qual &eacute;&quot;.</LT>
+<LL>dizend': &quot;Ora veeremus quis qual &eacute;&quot;.</LL>
+</L>
+<L N = "6" NS = "10" RI = "e" ERI = "fe" AC = "-----+---+">
+<LT>E leixei eu assy, per b&otilde;a fe,</LT>
+<LL>E leixei eu assy, per b&otilde;a fe,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "10" RI = "&otilde;a" ERI = "Anbr&otilde;a" AC = "--+-----+-">
+<LT><SEG C = "R" N = "RR" ID = "1">Joham Baveca e Pero d' Anbr&otilde;a</SEG></LT>
+<LL>Joham Baveca e Pero d' Anbr&otilde;a</LL>
+
+<ANTRO T = "REAL">Johan Baveca</ANTRO>
+<ANTRO T = "REAL">Pero Garcia d' Ambroa (Pero d' Anbr&otilde;a)</ANTRO></L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

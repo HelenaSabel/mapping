@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="156001" NE="3" OL="NON" SG="NO" TC="REFR" XE="A">
+      <INCIPIT>Faz-m&#39; agora por ssy morrer</INCIPIT>
+
+      <NUCANT>156 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="340r" I.FI="lb340r" MU="NON" NM="1606"><NOTMAN
+      N="1">Cómpre ver a rúbrica da cantiga 156 2</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="187v" I.FI="lv187v" MU="NON" NM="1139"><NOTMAN
+      N="2">Neste manuscrito só se copiou a primeira estrofa.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amor 266</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1509</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1139</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, Apéndice, 6</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Beltrán, O cervo, 42</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 30</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Dobarro et alii, Literatura, Apéndice I, 20</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 249</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 378-379, 602-603</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 248</P>
+      </EDIANT>
+
+      <DATOAU NOME="Stegagno, Vidal" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>17/04/00</DATE>
+      </RESP>
+
+      <FRI>c. sing. <P>A segunda estrofa é fragmentaria.</P></FRI>
+
+      <NOTC>Ide <COMNOTC><P>Nota colocciana situada na columna a do folio
+      340r, enriba da cantiga B 1606. Probablemente faga referencia á que a
+      cantiga é do mesmo trobador cá anterior, atribuída pola rúbrica a Vidal.
+      Enriba do &#34;e&#34; hai un trazo que está abreviando unha nasal.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="MA"></TEMA>
+
+      <TEMA CAT="COI"></TEMA>
+
+      <TEMA CAT="COI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+4">
+        <ESQRIM TIPO="abababacDCDC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 8 6&#39; 8 6&#39; 8 6&#39; 8 6&#39; 8 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 9 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>64:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="morrer" N="1" NS="8" RI="er">
+          <LT>Faz-m&#39; agora por ssy morrer</LT>
+
+          <LL>Faz-m&#39; agora por ssy morrer</LL>
+        </L>
+
+        <L AC="-----+-" ERI="coitado" N="2" NS="6" RI="ado">
+          <LT>e tras-me muy coitado</LT>
+
+          <LL>e tras-me muy coitado</LL>
+        </L>
+
+        <L AC="--+----+" ERI="parecer" N="3" NS="8" RI="er">
+          <LT>mha ssenhor do bom parecer</LT>
+
+          <LL>mha ssenhor do bom parecer</LL>
+        </L>
+
+        <L AC="-----+-" ERI="talhado" N="4" NS="6" RI="ado">
+          <LT>e do cos bem talhado;</LT>
+
+          <LL>e do cos bem talhado;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="prender" N="5" NS="8" RI="er">
+          <LT>a por que ey mor<SEG C="M" ID="1" N="SIN">te a</SEG> prender</LT>
+
+          <LL>a por que ey morte a prender</LL>
+        </L>
+
+        <L AC="-----+-" ERI="lançado" N="6" NS="6" RI="ado">
+          <LT>come çervo lançado,</LT>
+
+          <LL>come çervo lançado,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="perder" N="7" NS="8" RI="er">
+          <LT>que sse vay do mund&#39; a perder</LT>
+
+          <LL>que sse vay do mund&#39; a perder</LL>
+        </L>
+
+        <L AC="-----+-" ERI="cervas" N="8" NS="6" RI="ervas">
+          <LT>da companha das cervas.</LT>
+
+          <LL>da companha das cervas.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+" ERI="ensandecy" N="9" NS="9" RI="i">
+            <LT>E mal dia non ensandecy</LT>
+
+            <LL>E mal dia non ensandecy</LL>
+          </L>
+
+          <L AC="-----+-" ERI="hervas" N="10" NS="6" RI="ervas">
+            <LT>e pasesse das hervas</LT>
+
+            <LL>e pasesse das hervas</LL>
+          </L>
+
+          <L AC="--+----+" ERI="vi" N="11" NS="8" RI="i">
+            <LT>e non viss&#39; u primeyro <SEG C="R" ID="2" N="RD">vi</SEG>,</LT>
+
+            <LL>e non viss&#39; u primeyro vi,</LL>
+          </L>
+
+          <L AC="------+-" ERI="Elvas" N="12" NS="7" RI="elvas">
+            <LT>a muy fremosinha d&#39; Elvas.</LT>
+
+            <LL>a muy fremosinha d&#39; Elvas.</LL>
+
+            <TOPO CAT="TOPOME">Elvas</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+4">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-" ERI="-" N="1" NS="1" RI="-">
+          <LT>Que <SEG C="I" ID="3" N="AU">...</SEG></LT>
+
+          <LL>Que ...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="2" NS="0" RI="-">
+          <LT><SEG C="I" ID="4" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="5" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="-">
+          <LT><SEG C="I" ID="6" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT><SEG C="I" ID="7" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="8" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="7" NS="0" RI="-">
+          <LT><SEG C="I" ID="9" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="8" NS="0" RI="-">
+          <LT><SEG C="I" ID="10" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+" ERI="ensandecy" N="9" NS="9" RI="i">
+            <LT><SEG C="I" ID="11" N="RE">E mal dia non ensandecy</SEG></LT>
+
+            <LL>E mal dia non ensandecy</LL>
+          </L>
+
+          <L AC="-----+-" ERI="hervas" N="10" NS="6" RI="ervas">
+            <LT><SEG C="I" ID="11" N="RE">e pasesse das hervas</SEG></LT>
+
+            <LL>e pasesse das hervas</LL>
+          </L>
+
+          <L AC="--+----+" ERI="vi" N="11" NS="8" RI="i">
+            <LT><SEG C="I" ID="12" N="RE">e non viss&#39;, u primeyro <SEG
+C="R" ID="2" N="RD">vi</SEG></SEG>,</LT>
+
+            <LL>e non viss&#39;, u primeyro vi,</LL>
+          </L>
+
+          <L AC="------+-" ERI="Elvas" N="12" NS="7" RI="elvas">
+            <LT><SEG C="I" ID="11" N="RE">a muy fremosinha d&#39; Elvas</SEG>.</LT>
+
+            <LL>a muy fremosinha d&#39; Elvas.</LL>
+
+            <TOPO CAT="TOPOME">Elvas</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8+4">
+        <ESQRIM TIPO="abababacDCDC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 8 6&#39; 8 6&#39; 8 6&#39; 8 6&#39; 8 7&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 9 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>64:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="conven" N="1" NS="8" RI="en">
+          <LT>Oymais a morrer me conven,</LT>
+
+          <LL>Oymais a morrer me conven,</LL>
+        </L>
+
+        <L AC="-----+-" ERI="sejo" N="2" NS="6" RI="ejo">
+          <LT>ca tan coytado sejo</LT>
+
+          <LL>ca tan coytado sejo</LL>
+        </L>
+
+        <L AC="----+--+" ERI="sem" N="3" NS="8" RI="en">
+          <LT>pola mha ssenhor do bom sem,</LT>
+
+          <LL>pola mha ssenhor do bom sem,</LL>
+        </L>
+
+        <L AC="-----+-" ERI="desejo" N="4" NS="6" RI="ejo">
+          <LT>que am&#39; e que desejo,</LT>
+
+          <LL>que am&#39; e que desejo,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="ben" N="5" NS="8" RI="en">
+          <LT>e que me parec&#39; er tan ben</LT>
+
+          <LL>e que me parec&#39; er tan ben</LL>
+        </L>
+
+        <L AC="-----+-" ERI="vejo" N="6" NS="6" RI="ejo">
+          <LT>cada que a eu <SEG C="R" ID="2" N="RD">vejo</SEG>,</LT>
+
+          <LL>cada que a eu vejo,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="ven" N="7" NS="8" RI="en">
+          <LT>que semelha rrosa que ven,</LT>
+
+          <LL>que semelha rrosa que ven,</LL>
+        </L>
+
+        <L AC="-----+-" ERI="rrelvas" N="8" NS="6" RI="elvas">
+          <LT>quando sal d&#39; antr&#39; as rrelvas.</LT>
+
+          <LL>quando sal d&#39; antr&#39; as rrelvas.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+-----+" ERI="ensandecy" N="9" NS="9" RI="i">
+            <LT>E mal dia non ensandecy</LT>
+
+            <LL>E mal dia non ensandecy</LL>
+          </L>
+
+          <L AC="-----+-" ERI="hervas" N="10" NS="6" RI="ervas">
+            <LT><SEG C="I" ID="12" N="RE">e pasesse das hervas</SEG></LT>
+
+            <LL>e pasesse das hervas</LL>
+          </L>
+
+          <L AC="--+----+" ERI="vi" N="11" NS="8" RI="i">
+            <LT><SEG C="I" ID="12" N="RE">e non viss&#39;, u primeyro <SEG
+C="R" ID="2" N="RD">vi</SEG></SEG>,</LT>
+
+            <LL>e non viss&#39;, u primeyro vi,</LL>
+          </L>
+
+          <L AC="------+-" ERI="Elvas" N="12" NS="7" RI="elvas">
+            <LT><SEG C="I" ID="12" N="RE">a muy fremosinha d&#39; Elvas</SEG>.</LT>
+
+            <LL>a muy fremosinha d&#39; Elvas.</LL>
+
+            <TOPO CAT="TOPOME">Elvas</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="063015" NE="4" OL="NON" SG="NO" TC="REFR" XE="EA">
+      <INCIPIT>A por que perço o dormir</INCIPIT>
+
+      <NUCANT>63 15</NUCANT>
+
+      <RM BCA="B" EM="NO" F="205r" I.FI="lb205r" MU="NON" NM="960"></RM>
+
+      <RM BCA="V" EM="NO" F="86v" I.FI="lv086v" MU="NON" NM="547"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Joán Airas, 18</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Gassner 18</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 903</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 547</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 30-31</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 5</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Manual, 24</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 82</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 152</P>
+      </EDIANT>
+
+      <DATOAU NOME="Rodríguez" NUA="22"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>18/06/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a III = a IV)</P></FRI>
+
+      <TEMA CAT="PA"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6+2">
+        <ESQRIM TIPO="ababcdCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7&#39; 7 7&#39; 7 7&#39; 8 8&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso seis é hipérmetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>112:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="dormir" N="1" NS="7" RI="ir">
+          <LT>A por que per<SEG C="M" ID="1" N="SIN">ço o</SEG> dormir</LT>
+
+          <LL>A por que perço o dormir</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="namorado" N="2" NS="7" RI="ado">
+          <LT>e ando mui namorado,</LT>
+
+          <LL>e ando mui namorado,</LL>
+        </L>
+
+        <L AC="----+-+" ERI="partir" N="3" NS="7" RI="ir">
+          <LT>vejo-a d&#39; aqui partir</LT>
+
+          <LL>vejo-a d&#39; aqui partir</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="desemparado" N="4" NS="7" RI="ado">
+          <LT>e fiqu&#39; eu desemparado;</LT>
+
+          <LL>e fiqu&#39; eu desemparado;</LL>
+        </L>
+
+        <L AC="----+-+" ERI="vai" N="5" NS="7" RI="ai">
+          <LT>a mui gran prazer se vai</LT>
+
+          <LL>a mui gran prazer se vai</LL>
+        </L>
+
+        <L AC="---+---+-" ERI="baia" N="6" NS="8" RI="aia">
+          <LT>a que x&#39; én ten sua mua baia;</LT>
+
+          <LL>a que x&#39; én ten sua mua baia;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+--+" ERI="Cambrai" N="7" NS="8" RI="ai">
+            <LT>vestida d&#39; un pres de Cambrai,</LT>
+
+            <LL>vestida d&#39; un pres de Cambrai,</LL>
+
+            <TOPO CAT="CIUDAD">Cambrai</TOPO>
+          </L>
+
+          <L AC="----+--+-" ERI="saia" N="8" NS="8" RI="aia">
+            <LT>Deus, ¡que ben lh&#39; está man<SEG C="M" ID="2" N="SIN">to e</SEG>
+            saia!</LT>
+
+            <LL>Deus, ¡que ben lh&#39; está manto e saia!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6+2">
+        <ESQRIM TIPO="ababcdCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7&#39; 7 7&#39; 7 7&#39; 8 8&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>112:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+" ERI="én" N="1" NS="7" RI="en">
+          <LT>A morrer ouvi por én</LT>
+
+          <LL>A morrer ouvi por én</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="talhada" N="2" NS="7" RI="ada">
+          <LT>tanto a vi ben talhada,</LT>
+
+          <LL>tanto a vi ben talhada,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="ben" N="3" NS="7" RI="en">
+          <LT>que parecia mui ben</LT>
+
+          <LL>que parecia mui ben</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="dourada" N="4" NS="7" RI="ada">
+          <LT>en sua sela dourada;</LT>
+
+          <LL>en sua sela dourada;</LL>
+        </L>
+
+        <L AC="--+---+" ERI="ensai" N="5" NS="7" RI="ai">
+          <LT>as sueiras son d&#39; ensai</LT>
+
+          <LL>as sueiras son d&#39; ensai</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="faia" N="6" NS="7" RI="aia">
+          <LT>e os arçoes <SEG C="I" ID="3" N="RE">son</SEG> de faia;</LT>
+
+          <LL>e os arçoes son de faia;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+--+" ERI="Cambrai" N="7" NS="8" RI="ai">
+            <LT>vestida d&#39; un pres de Cambrai,</LT>
+
+            <LL>vestida d&#39; un pres de Cambrai,</LL>
+
+            <TOPO CAT="CIUDAD">Cambrai</TOPO>
+          </L>
+
+          <L AC="----+--+-" ERI="saia" N="8" NS="8" RI="aia">
+            <LT><SEG C="I" ID="4" N="RE">Deus, ¡que ben lh&#39; está man<SEG
+C="M" ID="5" N="SIN">to e</SEG> saia</SEG>!</LT>
+
+            <LL>Deus, ¡que ben lh&#39; está manto e saia!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6+2">
+        <ESQRIM TIPO="ababcdCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7&#39; 7 7&#39; 7 7&#39; 8 8&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>112:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+" ERI="filhar" N="1" NS="7" RI="ar">
+          <LT><SEG C="R" ID="6" N="CD">Se a podess&#39;</SEG> eu <SEG C="R"
+          ID="7" N="PV">filhar</SEG></LT>
+
+          <LL>Se a podess&#39; eu filhar</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="andante" N="2" NS="7" RI="ante">
+          <LT>terria-m&#39; én por ben-andante,</LT>
+
+          <LL>terria-m&#39; én por ben-andante,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="levar" N="3" NS="7" RI="ar">
+          <LT><SEG C="R" ID="8" N="CPL">e non braços a levar</SEG></LT>
+
+          <LL>e non braços a levar</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="deante" N="4" NS="7" RI="ante">
+          <LT>na coma do rocin, deante,</LT>
+
+          <LL>na coma do rocin, deante,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="Lampai" N="5" NS="7" RI="ai">
+          <LT>per caminho de Lampai</LT>
+
+          <LL>per caminho de Lampai</LL>
+
+          <TOPO CAT="ALDEA">Lampai</TOPO>
+        </L>
+
+        <L AC="--+---+-" ERI="Gaia" N="6" NS="7" RI="aia">
+          <LT>passar Mi<SEG C="M" ID="9" N="SIN">nh<SEG C="I" ID="10" N="RE">o</SEG></SEG><SEG
+          C="M" ID="9" N="SIN"> e</SEG> e Doir&#39; e Gaia;</LT>
+
+          <LL>passar Minho e e Doir&#39; e Gaia;</LL>
+
+          <TOPO CAT="HIDRON">Minho</TOPO>
+
+          <TOPO CAT="HIDRON">Doiro</TOPO>
+
+          <TOPO CAT="CIUDAD">Gaia</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="----+--+" ERI="Cambrai" N="7" NS="8" RI="ai">
+            <LT>vestida d&#39; un pres de Cambrai,</LT>
+
+            <LL>vestida d&#39; un pres de Cambrai,</LL>
+
+            <TOPO CAT="CIUDAD">Cambrai</TOPO>
+          </L>
+
+          <L AC="----+--+-" ERI="saia" N="8" NS="8" RI="aia">
+            <LT><SEG C="I" ID="4" N="RE">Deus, ¡que ben lh&#39; está man<SEG
+C="M" ID="12" N="SIN">to e</SEG> saia</SEG>!</LT>
+
+            <LL>Deus, ¡que ben lh&#39; está manto e saia!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6+2">
+        <ESQRIM TIPO="ababcdCD"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7&#39; 7 7&#39; 7 7&#39; 8 8&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso seis é hipérmetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>112:2</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="alongar" N="1" NS="7" RI="ar">
+          <LT><SEG C="R" ID="6" N="CD">Se a podess&#39;</SEG> alongar</LT>
+
+          <LL>Se a podess&#39; alongar</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="Crecente" N="2" NS="7" RI="ente">
+          <LT>quatro legoas de Crecente,</LT>
+
+          <LL>quatro legoas de Crecente,</LL>
+
+          <TOPO CAT="ALDEA">Crecente</TOPO>
+        </L>
+
+        <L AC="---+--+" ERI="filhar" N="3" NS="7" RI="ar">
+          <LT>e nos braçola <SEG C="R" ID="7" N="PV">filhar</SEG>,</LT>
+
+          <LL>e nos braçola filhar,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="fortemente" N="4" NS="7" RI="ente">
+          <LT><SEG C="R" ID="8" N="CPL">apertala fortemente</SEG>,</LT>
+
+          <LL>apertala fortemente,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ai" N="5" NS="7" RI="ai">
+          <LT>non lhi valria dizer &#34;¡ai!&#34;</LT>
+
+          <LL>non lhi valria dizer &#34;¡ai!&#34;</LL>
+        </L>
+
+        <L AC="---+---+-" ERI="Ovaia" N="6" NS="8" RI="aia">
+          <LT>nen chamar Deus nen San<SEG C="M" ID="13" N="SIN">ta O</SEG>vaia;</LT>
+
+          <LL>nen chamar Deus nen Santa Ovaia;</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+--+" ERI="Cambrai" N="7" NS="8" RI="ai">
+            <LT>vestida d&#39; un pres de <SEG C="I" ID="14" N="RE">Cambrai</SEG>,</LT>
+
+            <LL>vestida d&#39; un pres de Cambrai,</LL>
+
+            <TOPO CAT="CIUDAD">Cambrai</TOPO>
+          </L>
+
+          <L AC="----+--+-" ERI="saia" N="8" NS="8" RI="aia">
+            <LT><SEG C="I" ID="14" N="RE">Deus, ¡que ben lh&#39; está man<SEG
+C="M" ID="15" N="SIN">to e</SEG> saia</SEG>!</LT>
+
+            <LL>Deus, ¡que ben lh&#39; está manto e saia!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

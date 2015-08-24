@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "080001" TC = "MEST" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Ora faz ost' o senhor de Navarra</INCIPIT>
+<NUCANT>80 1</NUCANT>
+<RM BCA = "B" NM = "1330bis" F = "285r" MU = "NON" EM = "NO" I.FI = "lb285r">
+</RM>
+<RM BCA = "B" NM = "1330bis" F = "285v" MU = "NON" EM = "NO" I.FI = "lb285v">
+</RM>
+<RM BCA = "V" NM = "937" F = "148v" MU = "NON" EM = "NO" I.FI = "lv148v"></RM>
+<RM BCA = "V" NM = "937" F = "149r" MU = "NON" EM = "NO" I.FI = "lv149r"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, p. 566</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. XI, p. 207</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1280</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 937</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 1</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 24</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poes&iacute;a trovadoresca, pp. 372-373</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 96</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 38</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 215</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 1</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 14</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "242"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>9/05/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Aqui sse comeca as catigas d' escarn' e de mal dizer
+<COMRUBRI>
+<P>R&uacute;brica codicol&oacute;xica que precede &aacute;
+cantiga B 1330bis. Est&aacute; situada na columna b do folio
+285r, precedendo a r&uacute;brica explicativa que
+acompa&ntilde;a &aacute; cantiga. Enriba das letras eca de
+comeca, e de ca de catigas aparecen sinais de abreviaturas.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga e de mal dizer e feze a Johan  soarez de pavha al Rey don
+Sancho de Navarra &por; que lhi roubar veo ssa terra e non lhi deu el Rey ende
+dereyto
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute;
+cantiga B 1330bis. Est&aacute; situada na columna b do folio
+285r. A palabra terra aparece sen o e e cun sinal de abrevaitura indicando que
+falta.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Joham Soarez de pavha
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 937. Est&aacute;
+situada na columna b do folio 148v, precendo &aacute;s r&uacute;bricas
+codicol&oacute;xica e explicativa que acompa&ntilde;an &aacute; cantiga.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Aquy sse come&ccedil;a as catigas d' escarnh' e de mal dizer
+<COMRUBRI>
+<P>R&uacute;brica codicol&oacute;xica que precede &aacute;
+cantiga V 937. Est&aacute; situada na columna b do folio
+148v, precedendo &aacute; r&uacute;brica explicativa que
+acompa&ntilde;a &aacute; cantiga. Enriba das letras a de
+come&ccedil;a, e de ca de catigas aparecen sinais de abreviaturas.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Esta cantiga &eacute; de mal dizer e feze a Johan soarez de pavha al
+Rey don sancho de navarra &por; &que; lhi roubar veo ssa tera e no lhi deu
+el rey ende deyto
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute;
+cantiga V 937. Est&aacute; situada na columna b do folio
+285r. A palabra tera aparece cun r s&oacute; e cun sinal de abreviatura enriba
+do e indicando que falta o outro r. Enrina da palabra deyto aparecen as letras
+re que son as que lle faltan &aacute; palabra.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "ENG">
+<SUBTEMA CAT = "RE"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>84:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "arra" ERI = "Navarra" AC = "--+------+-">
+<LT>Ora faz ost' o senhor de Navarra,</LT>
+<LL>Ora faz ost' o senhor de Navarra,</LL>
+<TOPO CAT = "CIRCUNS">Navarra</TOPO>
+<ANTRO T = "REAL">Don Sancho de Navarra (senhor de Navarra)</ANTRO></L>
+<L N = "2" NS = "10" RI = "on" ERI = "Aragon" AC = "---+-----+">
+<LT>pois en Proen&ccedil;' est' el-Rei d' Aragon;</LT>
+<LL>pois en Proen&ccedil;' est' el-Rei d' Aragon;</LL>
+<TOPO CAT = "CIRCUNS">Aragon</TOPO>
+<ANTRO T = "REAL">Don Pedro II de Arag&oacute;n (Rei d' Aragon)</ANTRO></L>
+<L N = "3" NS = "10" RI = "arra" ERI = "marra" AC = "--+------+-">
+<LT>non lh' an medo de pico nen de marra</LT>
+<LL>non lh' an medo de pico nen de marra</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "son" AC = "--+------+">
+<LT>Tarra&ccedil;ona, pero vezinhos son;</LT>
+<LL>Tarra&ccedil;ona, pero vezinhos son;</LL>
+<TOPO CAT = "CIUDAD">Tarra&ccedil;ona</TOPO></L>
+<L N = "5" NS = "10" RI = "on" ERI = "bo&ccedil;on" AC = "--+------+">
+<LT>nen an medo de lhis poer bo&ccedil;on</LT>
+<LL>nen an medo de lhis poer bo&ccedil;on</LL>
+</L>
+<L N = "6" NS = "10" RI = "arra" ERI = "Darra" AC = "---+-----+-">
+<LT>e riir-s' an muit' Endurra e Darra;</LT>
+<LL>e riir-s' an muit' Endurra e Darra;</LL>
+<ANTRO T = "REAL">Endurra</ANTRO>
+<ANTRO T = "REAL">Darra</ANTRO></L>
+<L N = "7" NS = "10" RI = "on" ERI = "Mon&ccedil;on" AC = "--+------+">
+<LT>mais, se Deus traj' o senhor de Mon&ccedil;on</LT>
+<LL>mais, se Deus traj' o senhor de Mon&ccedil;on</LL>
+<ANTRO T = "REAL">Don Pedro II de Arag&oacute;n (senhor de
+Mon&ccedil;on)</ANTRO></L>
+<L N = "8" NS = "10" RI = "arra" ERI = "varra" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "1">ben</SEG> lhis cuid' eu que a cunca lhis <SEG C = "R" N = "CF" ID = "2">varra</SEG>.</LT>
+<LL>ben lhis cuid' eu que a cunca lhis varra.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>84:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ela" ERI = "escudela" AC = "---+-----+-">
+<LT>Se lh' o bon Rei <SEG C = "R" N = "CF" ID = "2">varr&ecirc;</SEG>-la escudela</LT>
+<LL>Se lh' o bon Rei varr&ecirc;-la escudela</LL>
+<ANTRO T = "REAL">Don Alfonso IX de Castela? (bon Rei)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ar" ERI = "nomear" AC = "---+-----+">
+<LT>que de Pamplo<SEG C = "M" N = "SIN" ID = "3">na o</SEG>&iacute;stes nomear,</LT>
+<LL>que de Pamplona o&iacute;stes nomear,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ela" ERI = "Todela" AC = "---+-----+-">
+<LT>mal ficar&aacute; aquest' outr' en Todela,</LT>
+<LL>mal ficar&aacute; aquest' outr' en Todela,</LL>
+<TOPO CAT = "CIUDAD">Todela</TOPO></L>
+<L N = "4" NS = "10" RI = "ar" ERI = "al&ccedil;ar" AC = "---+-----+">
+<LT>que al non &aacute; <SEG C = "I" N = "RE" ID = "4">a</SEG> que olhos al&ccedil;ar:</LT>
+<LL>que al non &aacute; a que olhos al&ccedil;ar:</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "sejornar" AC = "--+------+">
+<LT>ca verr&aacute; i o bon Rei sejornar</LT>
+<LL>ca verr&aacute; i o bon Rei sejornar</LL>
+<ANTRO T = "REAL">Don Alfonso IX de Castela? (bon Rei)</ANTRO></L>
+<L N = "6" NS = "10" RI = "ela" ERI = "Estela" AC = "---+-----+-">
+<LT>e destruir at&aacute; burgo d' Estela:</LT>
+<LL>e destruir at&aacute; burgo d' Estela:</LL>
+<TOPO CAT = "CIUDAD">Estela</TOPO></L>
+<L N = "7" NS = "10" RI = "ar" ERI = "lazerar" AC = "--+------+">
+<LT>e veredes Navarros <SEG C = "I" N = "RE" ID = "5">l</SEG>azerar</LT>
+<LL>e veredes Navarros lazerar</LL>
+</L>
+<L N = "8" NS = "10" RI = "ela" ERI = "caudela" AC = "---+-----+-">
+<LT>e o senhor que os todos caudela.</LT>
+<LL>e o senhor que os todos caudela.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "8">
+<ESQRIM TIPO = "ababbaba"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>84:1</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&etilde;a" ERI = "estr&etilde;a" AC = "--+------+-">
+<LT>Quand' el-Rei sal de Todela, estr&etilde;a</LT>
+<LL>Quand' el-Rei sal de Todela, estr&etilde;a</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "poder" AC = "---+-----+">
+<LT>ele sa ost' e todo seu poder;</LT>
+<LL>ele sa ost' e todo seu poder;</LL>
+</L>
+<L N = "3" NS = "10" RI = "&etilde;a" ERI = "p&etilde;a" AC = "-+-------+-">
+<LT><SEG C = "R" N = "CD" ID = "1">ben</SEG> sofren i de trabalh' e de p&etilde;a,</LT>
+<LL>ben sofren i de trabalh' e de p&etilde;a,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "correr" AC = "---+-----+">
+<LT>ca van a furt' e tornan-s' en correr;</LT>
+<LL>ca van a furt' e tornan-s' en correr;</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "saber" AC = "---+-----+">
+<LT>guarda-s' el Rei, come de bon saber,</LT>
+<LL>guarda-s' el Rei, come de bon saber,</LL>
+</L>
+<L N = "6" NS = "10" RI = "&etilde;a" ERI = "alh&etilde;a" AC = "--+------+-">
+<LT><SEG C = "M" N = "SIN" ID = "6">que o</SEG> non filhe luz en terra alh&etilde;a,</LT>
+<LL>que o non filhe luz en terra alh&etilde;a,</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "jazer" AC = "---+-----+">
+<LT>e onde sal, i s' ar torn' a jazer</LT>
+<LL>e onde sal, i s' ar torn' a jazer</LL>
+</L>
+<L N = "8" NS = "10" RI = "&etilde;a" ERI = "c&etilde;a" AC = "---+-----+-">
+<LT>ao jantar ou se non aa c&etilde;a.</LT>
+<LL>ao jantar ou se non aa c&etilde;a.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

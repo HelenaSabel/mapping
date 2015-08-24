@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "131005" TC = "REFR" NE = "3" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>O meu amig', amiga, que me gran ben fazia</INCIPIT>
+<NUCANT>131 5</NUCANT>
+<RM BCA = "B" NM = "383" F = "86r" MU = "NON" EM = "NO" I.FI = "lb086r"></RM>
+<EDIANT T = "CRITI">
+<P>CA 444</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 511</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 329</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 325</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 346</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 90</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 535</P></EDIANT>
+<DATOAU NOME = "Spina" NUA = "6"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>21/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 383 de B. Est&aacute; situada na parte
+superior da cantiga, na columna b do folio 86r dese manuscrito. Marca a
+existencia de refr&aacute;n na composici&oacute;n.</P></COMNOTC></NOTC>
+<RUBRICA>pero mafaldo
+<COMRUBRI>
+<P>R&uacute;brica atributiva referida &aacute; cantiga 383 de B. Est&aacute;
+situada na marxe dereita do folio 86r na columna b. Man de
+Colocci</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "FAL"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 13' 13' 13'</ESQMET></INFMET>
+<NUMESQ>16:6
+<NOTNESQ>
+<P>Outra posibilidade, 240:2, dispo&ntilde;endo a composici&oacute;n en versos
+curtos.</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ia" ERI = "fazia" AC = "---+-+-/---+-+-">
+<LT>O meu amig', amiga,<SEG C = "M" N = "CAE" ID = "1"></SEG> que me gran ben fazia,</LT>
+<LL>O meu amig', amiga, que me gran ben fazia,</LL>
+</L>
+<L N = "2" NS = "13" RI = "ia" ERI = "veria" AC = "--+--+-/-+---+-">
+<LT>fez-me preyt' e menage<SEG C = "M" N = "CAE" ID = "2"></SEG> que ante me <SEG C = "R" N = "RD" ID = "3">veria</SEG></LT>
+<LL>fez-me preyt' e menage que ante me veria</LL>
+</L>
+<L N = "3" NS = "13" RI = "ia" ERI = "via" AC = "--+-+--/--+--+-">
+<LT>que se fo<SEG C = "M" N = "SIN" ID = "4">sse; e</SEG> vay-s' ora<SEG C = "M" N = "CAE" ID = "5"></SEG> de carreyra sa via!</LT>
+<LL>que se fosse; e vay-s' ora de carreyra sa via!</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "13" RI = "onha" ERI = "vergonha" AC = "-+---+-/-+---+-">
+<LT>E sempre <SEG C = "M" N = "SIN" ID = "6">mi-a</SEG>ssi ment' e<SEG C = "M" N = "CAE" ID = "7"></SEG> non &aacute; de mi vergonha!</LT>
+<LL>E sempre mi-assi ment' e non &aacute; de mi vergonha!</LL>
+</L>
+<L N = "5" NS = "13" RI = "onha" ERI = "Catalonha" AC = "---+-+-/-+---+-">
+<LT>Non me <SEG C = "R" N = "CFR" ID = "8">viu</SEG> mays d' un dia<SEG C = "M" N = "CAE" ID = "9"></SEG> e vay-s' a Catalonha!</LT>
+<LL>Non me viu mays d' un dia e vay-s' a Catalonha!</LL>
+<TOPO CAT = "CIRCUNS">Catalu&ntilde;a (Catalonha)</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 13' 13' 13'</ESQMET></INFMET>
+<NUMESQ>16:6
+<NOTNESQ>
+<P>Outra posibilidade, 240:2, dispo&ntilde;endo a composici&oacute;n en versos
+curtos.</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "isse" ERI = "visse" AC = "--+--+-/---+-+-">
+<LT>Nunca <SEG C = "R" N = "CFR" ID = "8">vistes</SEG>, amiga,<SEG C = "M" N = "CAE" ID = "10"></SEG> quen tal amigo <SEG C = "R" N = "RD" ID = "3">visse</SEG>,</LT>
+<LL>Nunca vistes, amiga, quen tal amigo visse,</LL>
+</L>
+<L N = "2" NS = "13" RI = "isse" ERI = "partisse" AC = "---+-+-/---+-+-">
+<LT><SEG C = "R" N = "CP" ID = "11">ca me jurou que nunca<SEG C = "M" N = "CAE" ID = "12"></SEG> se j&aacute; de mi partisse</SEG>!</LT>
+<LL>ca me jurou que nunca se j&aacute; de mi partisse!</LL>
+</L>
+<L N = "3" NS = "13" RI = "isse" ERI = "disse" AC = "--+--+-/-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "13">E mays foron de cento<SEG C = "M" N = "CAE" ID = "14"></SEG> mentiras que m' el disse</SEG>!</LT>
+<LL>E mays foron de cento mentiras que m' el disse!</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "13" RI = "onha" ERI = "vergonha" AC = "-+---+-/-+---+-">
+<LT>E sempre <SEG C = "M" N = "SIN" ID = "15">mi-a</SEG>ssi ment' e<SEG C = "M" N = "CAE" ID = "16"></SEG> non &aacute; de mi <SEG C = "I" N = "RE" ID = "17">vergonha</SEG>!</LT>
+<LL>E sempre mi-assi ment' e non &aacute; de mi vergonha!</LL>
+</L>
+<L N = "5" NS = "13" RI = "onha" ERI = "Catalonha" AC = "---+-+-/-+---+-">
+<LT><SEG C = "I" N = "RE" ID = "17">Non me viu mays d' un dia<SEG C = "M" N = "CAE" ID = "18"></SEG> e vay-s' a Catalonha</SEG>!</LT>
+<LL>Non me viu mays d' un dia e vay-s' a Catalonha!</LL>
+<TOPO CAT = "CIRCUNS">Catalu&ntilde;a (Catalonha)</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaaBB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 13' 13' 13'</ESQMET></INFMET>
+<NUMESQ>16:6
+<NOTNESQ>
+<P>Outra posibilidade, 240:2, dispo&ntilde;endo a composici&oacute;n en versos
+curtos.</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ado" ERI = "jurado" AC = "--+--+-/--+--+-">
+<LT><SEG C = "R" N = "CP" ID = "11">Non sabedes, amiga,<SEG C = "M" N = "CAE" ID = "19"></SEG> como m' ouve <SEG C = "R" N = "RD" ID = "20">jurado</SEG></SEG></LT>
+<LL>Non sabedes, amiga, como m' ouve jurado</LL>
+</L>
+<L N = "2" NS = "13" RI = "ado" ERI = "mandado" AC = "-+---+-/-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "11">que nunca se partisse<SEG C = "M" N = "CAE" ID = "21"></SEG> de mi sen meu mandado</SEG>.</LT>
+<LL>que nunca se partisse de mi sen meu mandado.</LL>
+</L>
+<L N = "3" NS = "13" RI = "ado" ERI = "perjurado" AC = "--+--+-/-+---+-">
+<LT><SEG C = "R" N = "CP" ID = "13">E mentiu-me cen vezes,<SEG C = "M" N = "CAE" ID = "22"></SEG> e mays, o <SEG C = "R" N = "RD" ID = "20">perjurado</SEG></SEG>!</LT>
+<LL>E mentiu-me cen vezes, e mays, o perjurado!</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "13" RI = "onha" ERI = "vergonha" AC = "-+---+-/-+---+-">
+<LT>E sempre <SEG C = "I" N = "RE" ID = "23"><SEG C = "M" N = "SIN" ID = "24">mi-a</SEG>ssi ment'</SEG> e<SEG C = "M" N = "CAE" ID = "25"></SEG> non &aacute; de mi <SEG C = "I" N = "RE" ID = "23">vergonha</SEG>!</LT>
+<LL>E sempre mi-assi ment' e non &aacute; de mi vergonha!</LL>
+</L>
+<L N = "5" NS = "13" RI = "onha" ERI = "Catalonha" AC = "--+--+-/-+---+-">
+<LT><SEG C = "I" N = "RE" ID = "26">Non me viu mays d' un dia<SEG C = "M" N = "CAE" ID = "27"></SEG> e vay-s' a Catalonha</SEG>!</LT>
+<LL>Non me viu mays d' un dia e vay-s' a Catalonha!</LL>
+<TOPO CAT = "CIRCUNS">Catalu&ntilde;a (Catalonha)</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

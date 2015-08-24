@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "049002" TC = "MEST" NE = "4" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Contar-vos-ei costumes e feituras</INCIPIT>
+<NUCANT>49 2</NUCANT>
+<RM BCA = "B" NM = "1556" F = "324v" MU = "NON" EM = "NO" I.FI = "lb324v"></RM>
+<RM BCA = "B" NM = "1556" F = "325r" MU = "NON" EM = "NO" I.FI = "lb325r"></RM>
+<EDIANT T = "PALEO">
+<P>Molteni 429</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1468</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 107</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "144"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>26/05/97</DATE>
+</RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "RI"></SUBTEMA>
+<SUBTEMA CAT = "IN"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abababa"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>61:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "uras" ERI = "feituras" AC = "---+-+---+-">
+<LT>Contar-vos-ei costumes e <SEG C = "R" N = "PRI" ID = "1">feituras</SEG></LT>
+<LL>Contar-vos-ei costumes e feituras</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "infan&ccedil;on" AC = "--+--+---+">
+<LT>dun cavalo que traj' un infan&ccedil;on:</LT>
+<LL>dun cavalo que traj' un infan&ccedil;on:</LL>
+</L>
+<L N = "3" NS = "10" RI = "uras" ERI = "duras" AC = "+--+---+-+-">
+<LT><SEG C = "R" N = "CD" ID = "2">&aacute;</SEG> pees moles e as sedas<SEG C = "R" N = "PRI" ID = "3"><SEG C = "R" N = "RD" ID = "4"> duras</SEG></SEG></LT>
+<LL>&aacute; pees moles e as sedas duras</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "non" AC = "-+-+---+-+">
+<LT>e tem' o freo e esporas<SEG C = "R" N = "PRI" ID = "5"><SEG C = "R" N = "PV" ID = "6"> non</SEG></SEG>;</LT>
+<LL>e tem' o freo e esporas non;</LL>
+</L>
+<L N = "5" NS = "10" RI = "uras" ERI = "aguilhaduras" AC = "-+-+-----+-">
+<LT>&eacute; velh' e sesgo nas aguilhaduras;</LT>
+<LL>&eacute; velh' e sesgo nas aguilhaduras;</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "leiton" AC = "-+---+---+">
+<LT>e non encal&ccedil;aria un leiton,</LT>
+<LL>e non encal&ccedil;aria un leiton,</LL>
+</L>
+<L N = "7" NS = "10" RI = "uras" ERI = "ferraduras" AC = "----+-+--+-">
+<LT>e encal&ccedil;aria mil ferrad<SEG C = "R" N = "CC" ID = "7">uras</SEG>.</LT>
+<LL>e encal&ccedil;aria mil ferraduras.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abababa"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>61:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "uras" ERI = "escuras" AC = "-+-+-+---+-">
+<LT>De di<SEG C = "M" N = "SIN" ID = "8">a em</SEG>pe&ccedil;a ben: com' a esc<SEG C = "R" N = "CC" ID = "7">uras</SEG>,</LT>
+<LL>De dia empe&ccedil;a ben: com' a escuras,</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "bardon" AC = "---+--+--+">
+<LT>non s' alevant' ergo su o bardon;</LT>
+<LL>non s' alevant' ergo su o bardon;</LL>
+</L>
+<L N = "3" NS = "10" RI = "uras" ERI = "mataduras" AC = "-+--+----+-">
+<LT>non corre senon pelas mataduras,</LT>
+<LL>non corre senon pelas mataduras,</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "non" AC = "-+-+---+-+">
+<LT>nen traz caal, se enas unhas<SEG C = "R" N = "PRI" ID = "5"><SEG C = "R" N = "PV" ID = "6"> non</SEG></SEG>,</LT>
+<LL>nen traz caal, se enas unhas non,</LL>
+</L>
+<L N = "5" NS = "10" RI = "uras" ERI = "canterladuras" AC = "-+--+---+-">
+<LT>u trage mais de cen canterladuras;</LT>
+<LL>u trage mais de cen canterladuras;</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "son" AC = "---+-+---+">
+<LT>e as sas r&etilde;es sempre magra<SEG C = "I" N = "RE" ID = "9">s</SEG> son;</LT>
+<LL>e as sas r&etilde;es sempre magras son;</LL>
+</L>
+<L N = "7" NS = "10" RI = "uras" ERI = "grossuras" AC = "---+--+--+-">
+<LT>mais nas queixadas &aacute; fortes gross<SEG C = "R" N = "CC" ID = "10">uras</SEG>.</LT>
+<LL>mais nas queixadas &aacute; fortes grossuras.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abababa"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>61:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "uras" ERI = "armaduras" AC = "----+----+-">
+<LT>E quando lhi deitan as <SEG C = "R" N = "RD" ID = "4">armad<SEG C = "R" N = "CC" ID = "10">uras</SEG></SEG>,</LT>
+<LL>E quando lhi deitan as armaduras,</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "foron" AC = "--+--+---+">
+<LT>logu' el faz contenente de foron;</LT>
+<LL>logu' el faz contenente de foron;</LL>
+</L>
+<L N = "3" NS = "10" RI = "uras" ERI = "duras" AC = "--+-+----+-">
+<LT>e, se move, tremen-lh' as comas<SEG C = "R" N = "PRI" ID = "3"><SEG C = "R" N = "PV" ID = "4"> duras</SEG></SEG>,</LT>
+<LL>e, se move, tremen-lh' as comas duras,</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "sazon" AC = "---+--+--+">
+<LT>come doente de longa sazon.</LT>
+<LL>come doente de longa sazon.</LL>
+</L>
+<L N = "5" NS = "10" RI = "uras" ERI = "augaduras" AC = "+--+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "2">&Aacute;</SEG> muit' espessas as<SEG C = "M" N = "HIA" ID = "11"> au</SEG>gaduras,</LT>
+<LL>&Aacute; muit' espessas as augaduras,</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "non" AC = "---+---+-+">
+<LT>e usa mal, se nos geolhos <SEG C = "R" N = "PV" ID = "6">non</SEG>,</LT>
+<LL>e usa mal, se nos geolhos non,</LL>
+</L>
+<L N = "7" NS = "10" RI = "uras" ERI = "esfoladuras" AC = "--+-+----+-">
+<LT>en que trage grandes esfolad<SEG C = "R" N = "CC" ID = "12">uras</SEG>.</LT>
+<LL>en que trage grandes esfoladuras.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abababa"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10 10'</ESQMET></INFMET>
+<NUMESQ>61:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "uras" ERI = "feituras" AC = "----+-+--+-">
+<LT>Non vos contarei mais eu sas <SEG C = "R" N = "PRI" ID = "1">feit<SEG C = "R" N = "CC" ID = "12">uras</SEG></SEG>;</LT>
+<LL>Non vos contarei mais eu sas feituras;</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "cora&ccedil;on" AC = "---+--+--+">
+<LT>mais, com' eu creo no meu cora&ccedil;on,</LT>
+<LL>mais, com' eu creo no meu cora&ccedil;on,</LL>
+</L>
+<L N = "3" NS = "10" RI = "uras" ERI = "loucuras" AC = "---+--+--+-">
+<LT>quen x' en gran guerra andass' a loucuras,</LT>
+<LL>quen x' en gran guerra andass' a loucuras,</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "cavalon" AC = "--+--+---+">
+<LT>en fe&uacute;za daqueste cavalon,</LT>
+<LL>en fe&uacute;za daqueste cavalon,</LL>
+</L>
+<L N = "5" NS = "10" RI = "uras" ERI = "queixaduras" AC = "---+-+---+-">
+<LT>falecer-lh'-ia el nas queixaduras;</LT>
+<LL>falecer-lh'-ia el nas queixaduras;</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "cochon" AC = "---+-+-+-+">
+<LT>e, ena paz, non ar sei eu cochon</LT>
+<LL>e, ena paz, non ar sei eu cochon</LL>
+</L>
+<L N = "7" NS = "10" RI = "uras" ERI = "Esturas" AC = "---+--+--+-">
+<LT>que o quisesse trager nas Esturas.</LT>
+<LL>que o quisesse trager nas Esturas.</LL>
+<TOPO CAT = "CIRCUNS">Esturas</TOPO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

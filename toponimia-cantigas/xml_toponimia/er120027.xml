@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="120027" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EP MPR">
+      <INCIPIT>Mort' é Don Martin Marcos, ¡ai, Deus! ¿se é verdade?</INCIPIT>
+
+      <NUCANT>120 27</NUCANT>
+
+      <RM BCA="B" EM="NO" F="353v" I.FI="lb353v" MU="NON" NM="1655"></RM>
+
+      <RM BCA="V" EM="NO" F="196v" I.FI="lv196v" MU="NON" NM="1189"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Panunzio, pp. 203-204</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Juárez, p. 295</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Pero da Ponte, 51</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1559</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1189</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 43</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Fonseca, Escárnio, 19</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 34</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 47-48</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 231</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 370</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 322</P>
+      </EDIANT>
+
+      <DATOAU NOME="Arias, Antoloxía," NUA="186"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>20/12/04</DATE>
+      </RESP>
+
+      <RUBRICA>Esta cantiga fez Pero da Ponte ao infante Don Manuel, que se
+      começa E mort' é Don Martin Marcos, e na cobra segunda o poden entender
+      <COMRUBRI>
+          <P>Rúbrica explicativa situada despois dos sete primeiros versos da
+          seguinte cantiga, a 1656. Está situada na columna b do folio 353v e
+          na columna a do folio 354r de B. Man do copista.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="FAL"><SUBTEMA CAT="NB"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aaaa"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13' 13' 13' 13'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>2:1 <NOTNESQ>
+            <P>Outra posibilidade, 6:1.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+--+---+-" ERI="verdade" N="1" NS="13" RI="ade">
+          <LT>Mort' é Don Martin Marcos, ¡ai, Deus! ¿se é <SEG C="R" ID="1"
+          N="PV">verdade</SEG>?</LT>
+
+          <LL>Mort' é Don Martin Marcos, ¡ai, Deus! ¿se é verdade?</LL>
+
+          <ANTRO T="REAL">Don Martin Marcos</ANTRO>
+        </L>
+
+        <L AC="-----+------+-" ERI="torpidade" N="2" NS="13" RI="ade">
+          <LT>Sei ca se el é morto, morta é torpidade,</LT>
+
+          <LL>Sei ca se el é morto, morta é torpidade,</LL>
+        </L>
+
+        <L AC="-----+------+-" ERI="neiciidade" N="3" NS="13" RI="ade">
+          <LT>morta é bavequia e morta neiciidade,</LT>
+
+          <LL>morta é bavequia e morta neiciidade,</LL>
+        </L>
+
+        <L AC="-----+------+-" ERI="maldade" N="4" NS="13" RI="ade">
+          <LT>morta é covardia e morta é maldade.</LT>
+
+          <LL>morta é covardia e morta é maldade.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aaaa"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13' 13' 13' 13'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>2:1 <NOTNESQ>
+            <P>Outra posibilidade, 6:1.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--------+-" ERI="bondade" N="1" NS="13" RI="ade">
+          <LT>Se Don Martinh' é morto, sen prez e sen bondade,</LT>
+
+          <LL>Se Don Martinh' é morto, sen prez e sen bondade,</LL>
+
+          <ANTRO T="REAL">Don Martin Marcos(Don Martinho)</ANTRO>
+        </L>
+
+        <L AC="-+---+------+-" ERI="catade" N="2" NS="13" RI="ade">
+          <LT>oimais, maos costumes, outro senhor catade,</LT>
+
+          <LL>oimais, maos costumes, outro senhor catade,</LL>
+        </L>
+
+        <L AC="----+--+----+-" ERI="cidade" N="3" NS="13" RI="ade">
+          <LT>mais non<SEG C="M" ID="2" N="SIN"> o a</SEG>charedes de Roma
+          at'á cidade;</LT>
+
+          <LL>mais non o acharedes de Roma at'á cidade;</LL>
+
+          <TOPO CAT="CIUDAD">Roma</TOPO>
+        </L>
+
+        <L AC="-----+------+-" ERI="demandade" N="4" NS="13" RI="ade">
+          <LT>se tal senhor queredes, alhu-lo demandade.</LT>
+
+          <LL>se tal senhor queredes, alhu-lo demandade.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4">
+        <ESQRIM TIPO="aaaa"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13' 13' 13' 13'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>2:1 <NOTNESQ>
+            <P>Outra posibilidade, 6:1.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-------+---+-" ERI="caridade" N="1" NS="13" RI="ade">
+          <LT>Pero un cavaleiro sei eu, par caridade,</LT>
+
+          <LL>Pero un cavaleiro sei eu, par caridade,</LL>
+        </L>
+
+        <L AC="-----+------+-" ERI="soidade" N="2" NS="13" RI="ade">
+          <LT>que vos ajudari' a tolher d' el soidade;</LT>
+
+          <LL>que vos ajudari' a tolher d' el soidade;</LL>
+        </L>
+
+        <L AC="--+---+-----+-" ERI="verdade" N="3" NS="13" RI="ade">
+          <LT>¿mais <SEG C="R" ID="3" N="RE">queredes</SEG> que vos diga ende
+          ben <SEG C="R" ID="1" N="PV">verdade</SEG>?:</LT>
+
+          <LL>¿mais queredes que vos diga ende ben verdade?:</LL>
+        </L>
+
+        <L AC="--+---------+-" ERI="podestade" N="4" NS="13" RI="ade">
+          <LT>non est rei nen conde, mais é-x' outra podestade,</LT>
+
+          <LL>non est rei nen conde, mais é-x' outra podestade,</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="1">
+        <ESQRIM TIPO="B"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>2:1 <NOTNESQ>
+            <P>Outra posibilidade, 6:1.</P>
+          </NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+---+" ERI="direi" N="1" NS="11" RI="ei">
+          <LT>que non direi, que direi, que non direi <SEG C="I" ID="4"
+          N="AU">...</SEG></LT>
+
+          <LL>que non direi, que direi, que non direi ...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

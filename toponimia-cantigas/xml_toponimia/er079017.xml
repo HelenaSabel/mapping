@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="079017" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Don Estêvan fezo sa partiçon</INCIPIT>
+
+      <NUCANT>79 17</NUCANT>
+
+      <RM BCA="V" EM="NO" F="163r" I.FI="lv163r" MU="NON" NM="1014"></RM>
+
+      <RM BCA="V" EM="NO" F="163v" I.FI="lv163v" MU="NON" NM="1014"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1661</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1014</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 194-195</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="231"><COMAU><P>Modificamos o sétimo verso da
+      primeira cobra, o cuarto da segunda e o primeiro da terceira por Lopes
+      194-195, pero mantemos a grafía de Lapa.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>15/12/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = a II)</P></FRI>
+
+      <TEMA CAT="DF"></TEMA>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="CA"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"><NOTRIM><P>O verso tres non existe. O profesor
+        Tavani no esquema marca para este verso unha reconstrucción de rima
+        &#34;a&#34; e número de sílabas &#34;10&#34;.</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10&#39; 10&#39; 10</ESQMET>
+
+          <NOTMET>
+            <P>Vid. a NOTRIM</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>101:22</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+----+" ERI="partiçon" N="1" NS="10" RI="on">
+          <LT>Don Estêvan fez<SEG C="I" ID="1" N="RE">o</SEG> sa partiçon</LT>
+
+          <LL>Don Estêvan fezo sa partiçon</LL>
+
+          <ANTRO T="REAL">Don Estêvan</ANTRO>
+        </L>
+
+        <L AC="---+---+-+" ERI="ben" N="2" NS="10" RI="en">
+          <LT>con seus irmãos e caeu mui <SEG C="R" ID="2" N="PV">ben</SEG></LT>
+
+          <LL>con seus irmãos e caeu mui ben</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="3" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="Santaren" N="4" NS="10" RI="en">
+          <LT>en Lisboa e mal en Santaren,</LT>
+
+          <LL>en Lisboa e mal en Santaren,</LL>
+
+          <TOPO CAT="CIUDAD">Lisboa</TOPO>
+
+          <TOPO CAT="CIUDAD">Santaren</TOPO>
+        </L>
+
+        <L AC="---+--+--+-" ERI="provado" N="5" NS="10" RI="ado">
+          <LT>mais en Coimbra, caeu ben provado;</LT>
+
+          <LL>mais en Coimbra, caeu ben provado;</LL>
+
+          <TOPO CAT="CIUDAD">Coimbra</TOPO>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="Arnado" N="6" NS="10" RI="ado">
+          <LT>caeu en Runa atá e<SEG C="M" ID="4" N="SIN">no Ar</SEG>nado,</LT>
+
+          <LL>caeu en Runa atá eno Arnado,</LL>
+
+          <TOPO CAT="CIUDAD">Runa</TOPO>
+
+          <TOPO CAT="CIUDAD">Arnado</TOPO>
+        </L>
+
+        <L AC="-+---+---+" ERI="ten" N="7" NS="10" RI="en">
+          <LT>en tôd<SEG C="I" ID="4a" N="RE">ol</SEG>os três portos que i t<SEG
+          C="R" ID="5" N="CC">en</SEG>.</LT>
+
+          <LL>en tôdolos três portos que i ten.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:24</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+---+-+" ERI="ben" N="1" NS="10" RI="en">
+          <LT><SEG C="R" ID="6" N="CD">Quen</SEG> diz d&#39; Estêvan que non
+          vee <SEG C="R" ID="2" N="PV">b<SEG C="R" ID="5" N="CC">en</SEG></SEG></LT>
+
+          <LL>Quen diz d&#39; Estêvan que non vee ben</LL>
+
+          <ANTRO T="REAL">Estevan</ANTRO>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="falha" N="2" NS="10" RI="alha">
+          <LT>digu&#39; eu que mente, ca diz mui gran falha;</LT>
+
+          <LL>digu&#39; eu que mente, ca diz mui gran falha;</LL>
+        </L>
+
+        <L AC="----+--+-+" ERI="ren" N="3" NS="10" RI="en">
+          <LT>e <SEG C="I" ID="7" N="RE">ar</SEG> mostrar-lh&#39;-ei que non
+          disse ren</LT>
+
+          <LL>e ar mostrar-lh&#39;-ei que non disse ren</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="valha" N="4" NS="10" RI="alha">
+          <LT>nen á recado que nulha ren valha;</LT>
+
+          <LL>nen á recado que nulha ren valha;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="seer" N="5" NS="10" RI="er">
+          <LT>pero mostrado devia seer</LT>
+
+          <LL>pero mostrado devia seer</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="veer" N="6" NS="10" RI="er">
+          <LT>ca non pode per nulha ren veer</LT>
+
+          <LL>ca non pode per nulha ren veer</LL>
+        </L>
+
+        <L AC="-+---+---+-" ERI="nemigalha" N="7" NS="10" RI="alha">
+          <LT>mal ome que non vee nemigalha.</LT>
+
+          <LL>mal ome que non vee nemigalha.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10&#39; 10&#39; 10&#39; 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:33</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+-+-" ERI="diria" N="1" NS="10" RI="ia">
+          <LT>E se lho diz, sei que lhe non diria</LT>
+
+          <LL>E se lho diz, sei que lhe non diria</LL>
+        </L>
+
+        <L AC="-+-+-+---+-" ERI="ante" N="2" NS="10" RI="ante">
+          <LT>ca vee mal, se migo falass&#39; <SEG C="R" ID="8" N="RD">ante</SEG>,</LT>
+
+          <LL>ca vee mal, se migo falass&#39; ante,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="via" N="3" NS="10" RI="ia">
+          <LT>ou se o vi<SEG C="M" ID="9" N="SIN">sse an</SEG>dar fora da via,</LT>
+
+          <LL>ou se o visse andar fora da via,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="Amarante" N="4" NS="10" RI="an">
+          <LT>como<SEG C="M" ID="10" N="SIN">o eu</SEG> vi en junt&#39; a
+          Amarante,</LT>
+
+          <LL>comoo eu vi en junt&#39; a Amarante,</LL>
+
+          <TOPO CAT="CIUDAD">Amarante</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="tojal" N="5" NS="10" RI="al">
+          <LT>que non sabia sair dun tojal;</LT>
+
+          <LL>que non sabia sair dun tojal;</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="mal" N="6" NS="10" RI="al">
+          <LT>poren vos digo que non vee mal</LT>
+
+          <LL>poren vos digo que non vee mal</LL>
+        </L>
+
+        <L AC="-+--+--+-+-" ERI="deante" N="7" NS="10" RI="ante">
+          <LT><SEG C="R" ID="6" N="CD">quen</SEG> vee de redo quant&#39; é
+          <SEG C="R" ID="8" N="RD">deante.</SEG></LT>
+
+          <LL>quen vee de redo quant&#39; é deante.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

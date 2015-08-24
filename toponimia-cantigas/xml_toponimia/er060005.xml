@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "060005" TC = "MEST" NE = "3+2F" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Maestre, todo' lus vossos cantares</INCIPIT>
+<NUCANT>60 5</NUCANT>
+<RM BCA = "V" NM = "1007" F = "161v" MU = "NON" EM = "NO" I.FI = "lv161v"></RM>
+<RM BCA = "V" NM = "1007" F = "162r" MU = "NON" EM = "NO" I.FI = "lv162r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 175</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>D'Heur, Gon&ccedil;al' Eanes, pp. 186-187</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1654</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1007</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 135</P></EDIANT>
+<DATOAU NOME = "V&iacute;&ntilde;ez" NUA = "16"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>5/06/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "MT"></SUBTEMA>
+</TEMA>
+<TEMA CAT = "BT"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 9' 9' 10'</ESQMET></INFMET>
+<NUMESQ>161:213</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ares" ERI = "cantares" AC = "-+-+--+--+-">
+<LT>Maestre, todo' lus vossos cantares</LT>
+<LL>Maestre, todo' lus vossos cantares</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "razon" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CD" ID = "1">ja que</SEG> filham sempre d' unha <SEG C = "R" N = "RD" ID = "2">razon</SEG></LT>
+<LL>ja que filham sempre d' unha razon</LL>
+</L>
+<L N = "3" NS = "10" RI = "on" ERI = "son" AC = "---+-+---+">
+<LT>e outrossy ar filhan a mi <SEG C = "R" N = "RD" ID = "3">son</SEG>,</LT>
+<LL>e outrossy ar filhan a mi son,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ares" ERI = "milhares" AC = "---+-+--+-">
+<LT>e non seguydes outros milhares</LT>
+<LL>e non seguydes outros milhares</LL>
+</L>
+<L N = "5" NS = "9" RI = "alha" ERI = "Cornoalha" AC = "---+----+-">
+<LT>senon aquestes de Cornoalha,</LT>
+<LL>senon aquestes de Cornoalha,</LL>
+
+<TOPO CAT = "CIRCUNS">Cornoalha</TOPO></L>
+<L N = "6" NS = "9" RI = "alha" ERI = "falha" AC = "-+--+-+-+-">
+<LT>mays este<SEG C = "I" N = "RE" ID = "4">s</SEG> seguydes ben, sen falha;</LT>
+<LL>mays estes seguydes ben, sen falha;</LL>
+</L>
+<L N = "7" NS = "10" RI = "ares" ERI = "logares" AC = "--+--+----+-">
+<LT>e non vi trobador per tantos logares.</LT>
+<LL>e non vi trobador per tantos logares.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 9' 9' 10' 10 10 10'</ESQMET>
+<NOTMET>
+<P>O v. 6 &eacute; hip&oacute;rmetro.</P></NOTMET>
+</INFMET>
+<NUMESQ>161:216</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&otilde;es" ERI = "raz&otilde;es" AC = "-+--+----+-">
+<LT>D' amor e d' escarnh' en todas <SEG C = "R" N = "RD" ID = "2">raz&otilde;es</SEG></LT>
+<LL>D' amor e d' escarnh' en todas raz&otilde;es</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "provado" AC = "--+---+-+-">
+<LT>os seguides sempre, ben provado</LT>
+<LL>os seguides sempre, ben provado</LL>
+</L>
+<L N = "3" NS = "9" RI = "ado" ERI = "filhado" AC = "--+--+--+-">
+<LT>eu o sey que avedes <SEG C = "R" N = "RD" ID = "5">filhado</SEG>,</LT>
+<LL>eu o sey que avedes filhado,</LL>
+</L>
+<L N = "4" NS = "10" RI = "&otilde;es" ERI = "s&otilde;es" AC = "--+--+---+-">
+<LT>ca se ar seguissedes outos <SEG C = "R" N = "RD" ID = "3">s&otilde;es</SEG></LT>
+<LL>ca se ar seguissedes outos s&otilde;es</LL>
+</L>
+<L N = "5" NS = "10" RI = "en" ERI = "&eacute;n" AC = "---+---+-+">
+<LT>non troba<SEG C = "M" N = "HIA" ID = "6">ria</SEG>des peyor por &eacute;n,</LT>
+<LL>non trobariades peyor por &eacute;n,</LL>
+</L>
+<L N = "6" NS = "11" RI = "en" ERI = "ben" AC = "---+-+-+--+">
+<LT>pero seguydes v&oacute;s os nossus mui ben</LT>
+<LL>pero seguydes v&oacute;s os nossus mui ben</LL>
+</L>
+<L N = "7" NS = "10" RI = "&otilde;es" ERI = "tens&otilde;es" AC = "---+-+-+--+">
+<LT>e ja ogan' y fezestes tens&otilde;es,</LT>
+<LL>e ja ogan' y fezestes tens&otilde;es,</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 9' 9' 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:216</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "astes" ERI = "filhastes" AC = "--+--+---+-">
+<LT>en razon d' un escarnho que <SEG C = "R" N = "RD" ID = "5">filhastes</SEG></LT>
+<LL>en razon d' un escarnho que filhastes</LL>
+</L>
+<L N = "2" NS = "9" RI = "udo" ERI = "ascondudo" AC = "----+---+-">
+<LT>e non<SEG C = "I" N = "RE" ID = "7">o</SEG> metestes ascondudo,</LT>
+<LL>e nono metestes ascondudo,</LL>
+</L>
+<L N = "3" NS = "9" RI = "udo" ERI = "Agudo" AC = "---+--+-+-">
+<LT>ca ja que era de Pedr' Agudo</LT>
+<LL>ca ja que era de Pedr' Agudo</LL>
+
+<ANTRO T = "REAL">Pedr' Agudo</ANTRO></L>
+<L N = "4" NS = "10" RI = "astes" ERI = "trobastes" AC = "---+--+--+-">
+<LT>essa razon en que v&oacute;s hy trobastes;</LT>
+<LL>essa razon en que v&oacute;s hy trobastes;</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "deitar" AC = "--+--+---+">
+<LT>mays assy a soubestes v&oacute;s <SEG C = "R" N = "RD" ID = "8">deitar</SEG></LT>
+<LL>mays assy a soubestes v&oacute;s deitar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "entravincar" AC = "---+-----+">
+<LT>antr' unhas rimas e entravincar,</LT>
+<LL>antr' unhas rimas e entravincar,</LL>
+</L>
+<L N = "7" NS = "10" RI = "astes" ERI = "tornastes" AC = "-+----+--+-">
+<LT>que toda vo' la na vossa tornastes.</LT>
+<LL>que toda vo' la na vossa tornastes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "dda">
+<NOTRIM>
+<P>Sobre III.</P></NOTRIM>
+</ESQRIM>
+<INFMET>
+<ESQMET>10 10 10'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "saber" AC = "---+--+--+">
+<LT>Por maestria soubestes saber</LT>
+<LL>Por maestria soubestes saber</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "fazer" AC = "--+-+----+">
+<LT>da razon alh&etilde;a vossa fazer</LT>
+<LL>da razon alh&etilde;a vossa fazer</LL>
+</L>
+<L N = "3" NS = "10" RI = "astes" ERI = "deitastes" AC = "---+---+-+-">
+<LT>e seguir s&otilde;es a que v&oacute;s <SEG C = "R" N = "RD" ID = "8">deitastes</SEG>.</LT>
+<LL>e seguir s&otilde;es a que v&oacute;s deitastes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "2">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "eea">
+<NOTRIM>
+<P>Sobre III.</P></NOTRIM>
+</ESQRIM>
+<INFMET>
+<ESQMET>10 10 10'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "an" ERI = "pran" AC = "---+--+--+">
+<LT>E gran careza fezestes de pran,</LT>
+<LL>E gran careza fezestes de pran,</LL>
+</L>
+<L N = "2" NS = "10" RI = "an" ERI = "an" AC = "----+--+-+">
+<LT>mays lus trobadores travar-vos-an</LT>
+<LL>mays lus trobadores travar-vos-an</LL>
+</L>
+<L N = "3" NS = "10" RI = "astes" ERI = "guardastes" AC = "---+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">ja que</SEG> nos tempus, que ben non guardastes.</LT>
+<LL>ja que nos tempus, que ben non guardastes.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+

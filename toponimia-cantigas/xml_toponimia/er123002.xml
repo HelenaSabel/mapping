@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "123002" TC = "REFR" NE = "2" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>A Santa Maria fiz ir meu amigo</INCIPIT>
+<NUCANT>123 2</NUCANT>
+<RM BCA = "B" NM = "1130" F = "242r" MU = "NON" EM = "NO" I.FI = "lb242r"></RM>
+<RM BCA = "V" NM = "722" F = "115v" MU = "NON" EM = "NO" I.FI = "lv115v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1063</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 722</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 54</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 357</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "352"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>9/02/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Pero de veer
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada en V no fol. 115 v, enriba  da cantiga
+722. A r&uacute;brica est&aacute; subli&ntilde;ada. Man de
+Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 10' 5 7</ESQMET></INFMET>
+<NUMESQ>37:38
+<NOTNESQ>
+<P>Tavani apunta como outras posibilidades os esquemas 26:63 e
+227:3.</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">A Santa Maria fiz ir meu amigo</SEG></LT>
+<LL>A Santa Maria fiz ir meu amigo</LL>
+<TOPO CAT = "LCULTO">Santa Maria</TOPO></L>
+<L N = "2" NS = "10" RI = "igo" ERI = "comigo" AC = "----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">e non</SEG> lh' atendi o que p&ocirc;s comigo</SEG>:</LT>
+<LL>e non lh' atendi o que p&ocirc;s comigo:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "i" ERI = "perdi" AC = "----+">
+<LT>con el me perdi,</LT>
+<LL>con el me perdi,</LL>
+</L>
+<L N = "4" NS = "5" RI = "i" ERI = "menti" AC = "----+">
+<LT>por que lhi menti.</LT>
+<LL>por que lhi menti.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+2">
+<ESQRIM TIPO = "aaBB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 10' 5 7</ESQMET></INFMET>
+<NUMESQ>37:38
+<NOTNESQ>
+<P>Tavani apunta como outras posibilidades os esquemas 26:63 e
+227:3.</P></NOTNESQ></NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ia" ERI = "Maria" AC = "----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Fiz ir meu amigo a Santa Maria</SEG></LT>
+<LL>Fiz ir meu amigo a Santa Maria</LL>
+<TOPO CAT = "LCULTO">Santa Maria</TOPO></L>
+<L N = "2" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "CD" ID = "3">e non</SEG> foi eu i con el aquel dia</SEG>:</LT>
+<LL>e non foi eu i con el aquel dia:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "i" ERI = "perdi" AC = "----+">
+<LT>con el me perdi,</LT>
+<LL>con el me perdi,</LL>
+</L>
+<L N = "4" NS = "5" RI = "i" ERI = "menti" AC = "----+">
+<LT>por que lhi menti.</LT>
+<LL>por que lhi menti.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="014010" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>O meu señor, o bispo, na Redondela ũu dia</INCIPIT>
+
+      <NUCANT>14 10</NUCANT>
+
+      <RM BCA="B" EM="NO" F="187r" I.FI="lb187r" MU="NON" NM="885"></RM>
+
+      <RM BCA="V" EM="NO" F="74r" I.FI="lv074r" MU="NON" NM="468"></RM>
+
+      <RM BCA="V" EM="NO" F="74v" I.FI="Iv074v" MU="NON" NM="468"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 71</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Ayras Núñez, 15</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Machado 824</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Monaci 468</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 468</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 412</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tavani, Airas Nunez" NUA="13"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>9/12/96</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima b unis.)</P></FRI>
+
+      <TEMA CAT="ENG"><SUBTEMA CAT="CL"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabbb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 13&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani ofrece o mesmo esquema rítmico pero considera os versos
+            dodecasílabos graves. Deste xeito o número de esquema que lle
+            corresponde é o 19:5.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+----+-+" ERI="dia" N="1" NS="13" RI="ia">
+          <LT>O meu señor, o bispo, na Redonde<SEG C="M" ID="1" N="SIN">la ũu</SEG>
+          dia,</LT>
+
+          <LL>O meu señor, o bispo, na Redondela ũu dia,</LL>
+
+          <TOPO CAT="ALDEA">Redondela</TOPO>
+        </L>
+
+        <L AC="-----+---+--+" ERI="fogia" N="2" NS="13" RI="ia">
+          <LT>de noit&#39; e con gran medo, de desonra fogia.</LT>
+
+          <LL>de noit&#39; e con gran medo, de desonra fogia.</LL>
+        </L>
+
+        <L AC="-----+----+-+" ERI="via" N="3" NS="13" RI="ia">
+          <LT>Eu indo <SEG C="M" ID="2" N="SIN">mi·a</SEG>guisando por ir con
+          el mia via</LT>
+
+          <LL>Eu indo mi·aguisando por ir con el mia via</LL>
+        </L>
+
+        <L AC="-----+--+---+" ERI="crua" N="4" NS="13" RI="ua">
+          <LT>achei ũa compaña assaz brava e crua</LT>
+
+          <LL>achei ũa compaña assaz brava e crua</LL>
+        </L>
+
+        <L AC="-----+--+---+" ERI="mua" N="5" NS="13" RI="ua">
+          <LT>que me deceron logo de cima da mia mua</LT>
+
+          <LL>que me deceron logo de cima da mia mua</LL>
+        </L>
+
+        <L AC="-+------+---+" ERI="sua" N="6" NS="13" RI="ua">
+          <LT>azémela e ca m&#39; a levavan ja por sua.</LT>
+
+          <LL>azémela e ca m&#39; a levavan ja por sua.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabcb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 13&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani ofrece o mesmo esquema rítmico pero considera os versos
+            dodecasílabos graves. Deste xeito o número de esquema que lle
+            corresponde é o 22:1. Os versos 2 e 6 son hipómetros.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+--+" ERI="lide" N="1" NS="13" RI="ide">
+          <LT>E des <SEG C="M" ID="3" N="SIN">que eu</SEG> nacera nunca
+          entrara en lide,</LT>
+
+          <LL>E des que eu nacera nunca entrara en lide,</LL>
+        </L>
+
+        <L AC="----+------+" ERI="Valedolide" N="2" NS="12" RI="ide">
+          <LT>pero que ja fora cabo Valedolide</LT>
+
+          <LL>pero que ja fora cabo Valedolide</LL>
+
+          <TOPO CAT="CIUDAD">Valedolide</TOPO>
+        </L>
+
+        <L AC="--------+---+" ERI="Molide" N="3" NS="13" RI="ide">
+          <LT>estojar doas muitas fezeron en Molide;</LT>
+
+          <LL>estojar doas muitas fezeron en Molide;</LL>
+
+          <TOPO CAT="ALDEA">Molide</TOPO>
+        </L>
+
+        <L AC="-----+------+" ERI="falcatrua" N="4" NS="13" RI="ua">
+          <LT><SEG C="R" ID="4" N="CD">e ali me</SEG> lançaron a min a
+          falcatrua:</LT>
+
+          <LL>e ali me lançaron a min a falcatrua:</LL>
+        </L>
+
+        <L AC="-----+------+" ERI="Churruchão" N="5" NS="13" RI="ão">
+          <LT>¡a maes scudeirus gage o Churruchão,</LT>
+
+          <LL>¡a maes scudeirus gage o Churruchão,</LL>
+
+          <ANTRO T="REAL">Churruchão</ANTRO>
+        </L>
+
+        <L AC="----+---+--+" ERI="befua" N="6" NS="12" RI="ua">
+          <LT>a taes sergen<SEG C="I" ID="5" N="RE">t</SEG>os, ca non gente
+          befua!</LT>
+
+          <LL>a taes sergentos, ca non gente befua!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="aaabcb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13&#39; 13&#39; 13&#39; 13&#39; 13&#39; 13&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Tavani ofrece o mesmo esquema rítmico pero considera os versos
+            dodecasílabos graves. Deste xeito o número de esquema que lle
+            corresponde é o 22:1. Os versos 2 e 4 son hipérmetros e o verso 3
+            é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+--+" ERI="panus" N="1" NS="13" RI="anus">
+          <LT><SEG C="R" ID="4" N="CD">Ali me</SEG> desbullaron do tabar<SEG
+          C="M" ID="6" N="SIN">do e</SEG> dos panus</LT>
+
+          <LL>Ali me desbullaron do tabardo e dos panus</LL>
+        </L>
+
+        <L AC="---+-----+---+" ERI="canus" N="2" NS="14" RI="anus">
+          <LT>e non ouveran vergoña dos meus cabelus canus</LT>
+
+          <LL>e non ouveran vergoña dos meus cabelus canus</LL>
+        </L>
+
+        <L AC="--+----+---+" ERI="adianus" N="3" NS="12" RI="anus">
+          <LT>nen me deron por ende grãs nen adianus.</LT>
+
+          <LL>nen me deron por ende grãs nen adianus.</LL>
+        </L>
+
+        <L AC="-----+---+---+" ERI="rua" N="4" NS="14" RI="ua">
+          <LT>Leixaron-me qual fui nado no meio de la rua</LT>
+
+          <LL>Leixaron-me qual fui nado no meio de la rua</LL>
+        </L>
+
+        <L AC="---+------+-+" ERI="estava" N="5" NS="13" RI="ava">
+          <LT>e ũu rapaz tiñoso que a de part&#39; estava</LT>
+
+          <LL>e ũu rapaz tiñoso que a de part&#39; estava</LL>
+        </L>
+
+        <L AC="-----+------+" ERI="fududancua" N="6" NS="13" RI="ua">
+          <LT>chamava miña mua &#34;velha fududancua&#34;.</LT>
+
+          <LL>chamava miña mua &#34;velha fududancua&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

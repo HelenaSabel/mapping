@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "100001" TC = "MEST" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Pero Coelho &eacute; deitado</INCIPIT>
+<NUCANT>100 1</NUCANT>
+<ATRIB NOME = "Johan Fernandez d' Ardeleiro">
+<NUCANT>68 3</NUCANT>
+<P>Esta cantiga, xunto coa 100 2, aparecen atribu&iacute;das en V a Johan
+Fernandez d' Ardeleiro.</P></ATRIB>
+<RM BCA = "B" NM = "1329" F = "284v" MU = "NON" EM = "NO" I.FI = "lb284v"></RM>
+<RM BCA = "B" NM = "1329" F = "285r" MU = "NON" EM = "NO" I.FI = "lb285r"></RM>
+<RM BCA = "V" NM = "935" F = "148v" MU = "NON" EM = "NO" I.FI = "lv148v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1278</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 935</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 467</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "201"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>16/09/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Esra cantiga foi feita a un escudeiro y datnato e avia... (s&oacute;
+en B)
+<COMRUBRI>
+<P>R&uacute;brica explicativa situada en B na parte inferior do folio
+284v</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "COV"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>189:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ado" ERI = "deitado" AC = "---+--+-">
+<LT>Pero Coe<SEG C = "M" N = "SIN" ID = "1">lho &eacute;</SEG> deitado</LT>
+<LL>Pero Coelho &eacute; deitado</LL>
+
+<ANTRO T = "REAL">Pero Coelho</ANTRO></L>
+<L N = "2" NS = "7" RI = "inhos" ERI = "meirinhos" AC = "-+----+-">
+<LT>da terra pelos meirinhos,</LT>
+<LL>da terra pelos meirinhos,</LL>
+</L>
+<L N = "3" NS = "7" RI = "inhos" ERI = "caminhos" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">por que</SEG> britou os caminhos;</LT>
+<LL>por que britou os caminhos;</LL>
+</L>
+<L N = "4" NS = "7" RI = "oo" ERI = "doo" AC = "--+---+-">
+<LT>mais de seu padr' ei gran doo:</LT>
+<LL>mais de seu padr' ei gran doo:</LL>
+</L>
+<L N = "5" NS = "7" RI = "oo" ERI = "soo" AC = "-+----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">non</SEG> &aacute; mais dun filho soo</LT>
+<LL>non &aacute; mais dun filho soo</LL>
+</L>
+<L N = "6" NS = "7" RI = "ado" ERI = "lan&ccedil;ado" AC = "--+---+-">
+<LT><SEG C = "R" N = "CF" ID = "4">e</SEG> ficou dele lan&ccedil;ado.</LT>
+<LL>e ficou dele lan&ccedil;ado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>189:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "an&ccedil;a" ERI = "Fran&ccedil;a" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "5"><SEG C = "R" N = "CF" ID = "4">E</SEG> foi-s' el morar a Fran&ccedil;a</SEG></LT>
+<LL>E foi-s' el morar a Fran&ccedil;a</LL>
+
+<TOPO CAT = "CIRCUNS">Fran&ccedil;a</TOPO></L>
+<L N = "2" NS = "7" RI = "erra" ERI = "terra" AC = "----+-+-">
+<LT>e desemparou sa terra,</LT>
+<LL>e desemparou sa terra,</LL>
+</L>
+<L N = "3" NS = "7" RI = "erra" ERI = "guerra" AC = "--+---+-">
+<LT>ca <SEG C = "R" N = "CD" ID = "3">non</SEG> quis con el-Rei guerra;</LT>
+<LL>ca non quis con el-Rei guerra;</LL>
+</L>
+<L N = "4" NS = "7" RI = "adre" ERI = "madre" AC = "--+---+-">
+<LT>mais &aacute; coita de sa madre;</LT>
+<LL>mais &aacute; coita de sa madre;</LL>
+</L>
+<L N = "5" NS = "7" RI = "adre" ERI = "padre" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">por que</SEG> ficou a seu padre</LT>
+<LL>por que ficou a seu padre</LL>
+</L>
+<L N = "6" NS = "7" RI = "an&ccedil;a" ERI = "lan&ccedil;a" AC = "----+-+-">
+<LT>d' <SEG C = "R" N = "CF" ID = "6">el</SEG> non cora&ccedil;on a lan&ccedil;a.</LT>
+<LL>d' el non cora&ccedil;on a lan&ccedil;a.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>189:37</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "oira" ERI = "Coira" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "5">E foi-s' <SEG C = "R" N = "CF" ID = "6">el</SEG> morar a Coira</SEG>,</LT>
+<LL>E foi-s' el morar a Coira,</LL>
+
+<TOPO CAT = "CIRCUNS">Coira</TOPO></L>
+<L N = "2" NS = "7" RI = "iva" ERI = "esquiva" AC = "--+---+-">
+<LT>que &eacute; terra muit' esquiva,</LT>
+<LL>que &eacute; terra muit' esquiva,</LL>
+</L>
+<L N = "3" NS = "7" RI = "iva" ERI = "viva" AC = "--+---+-">
+<LT>u coidamos que non viva;</LT>
+<LL>u coidamos que non viva;</LL>
+</L>
+<L N = "4" NS = "7" RI = "age" ERI = "linhage" AC = "--+---+-">
+<LT>e seu pa<SEG C = "M" N = "SIN" ID = "7">dre e</SEG> seu linhage</LT>
+<LL>e seu padre e seu linhage</LL>
+</L>
+<L N = "5" NS = "7" RI = "age" ERI = "trage" AC = "-+----+-">
+<LT>da lan&ccedil;a que del<SEG C = "I" N = "RE" ID = "8">e</SEG> trage</LT>
+<LL>da lan&ccedil;a que dele trage</LL>
+</L>
+<L N = "6" NS = "7" RI = "oira" ERI = "moira" AC = "---+--+-">
+<LT>todos cuidamos que moira.</LT>
+<LL>todos cuidamos que moira.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "6">
+<ESQRIM TIPO = "abbcca"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>189:37</NUMESQ></CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ente" ERI = "certamente" AC = "---+--+-">
+<LT>E el se foi certamente,</LT>
+<LL>E el se foi certamente,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ia" ERI = "podia" AC = "---+--+-">
+<LT><SEG C = "R" N = "CD" ID = "2">por que</SEG> <SEG C = "I" N = "RE" ID = "9">de pran</SEG> non podia</LT>
+<LL>por que de pran non podia</LL>
+</L>
+<L N = "3" NS = "7" RI = "ia" ERI = "dia" AC = "----+-+-">
+<LT>na terra guarir un dia;</LT>
+<LL>na terra guarir un dia;</LL>
+</L>
+<L N = "4" NS = "7" RI = "ilho" ERI = "ouvi-lho" AC = "----+-+-">
+<LT>ca eu a seu pa<SEG C = "M" N = "SIN" ID = "10">dre ou</SEG>vi-lho:</LT>
+<LL>ca eu a seu padre ouvi-lho:</LL>
+</L>
+<L N = "5" NS = "7" RI = "ilho" ERI = "filho" AC = "--+---+-">
+<LT>que a lan&ccedil;a de seu filho</LT>
+<LL>que a lan&ccedil;a de seu filho</LL>
+</L>
+<L N = "6" NS = "7" RI = "ente" ERI = "sente" AC = "----+-+-">
+<LT>eno cora&ccedil;on a sente.</LT>
+<LL>eno cora&ccedil;on a sente.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

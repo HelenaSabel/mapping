@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "093007" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Se vos prouguer, madr', oj' este dia</INCIPIT>
+<NUCANT>93 7</NUCANT>
+<RM BCA = "B" NM = "1271" F = "268v" MU = "NON" EM = "NO" I.FI = "lb268v"></RM>
+<RM BCA = "V" NM = "877" F = "138v" MU = "NON" EM = "NO" I.FI = "lv138v"></RM>
+<EDIANT T = "CRITI">
+<P>Lopes, Ginzo, 2</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 213-214</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1220</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 877</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 52</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 506</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "484"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>6/05/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1271.
+Est&aacute; situada na columna a do folio 268v.</P></COMNOTC></NOTC>
+<TEMA CAT = "OR"></TEMA>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 9' 9'</ESQMET>
+<NOTMET>
+<P>O verso 2 &eacute; hip&oacute;metro.</P></NOTMET></INFMET>
+<NUMESQ>99:43</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ia" ERI = "dia" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">Se</SEG> vos prouguer, madr', oj' este dia</SEG>,</LT>
+<LL>Se vos prouguer, madr', oj' este dia,</LL>
+</L>
+<L N = "2" NS = "9" RI = "on" ERI = "ora&ccedil;on" AC = "---+----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">irei</SEG> oj' eu fazer ora&ccedil;on</SEG></LT>
+<LL>irei oj' eu fazer ora&ccedil;on</LL>
+</L>
+<L N = "3" NS = "9" RI = "ilia" ERI = "Cecilia" AC = "---+----+-">
+<LT>e chorar muit' en Santa Cecilia</LT>
+<LL>e chorar muit' en Santa Cecilia</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<L N = "4" NS = "10" RI = "on" ERI = "cora&ccedil;on" AC = "---+-----+">
+<LT>d' estes meus olhos e de cora&ccedil;on,</LT>
+<LL>d' estes meus olhos e de cora&ccedil;on,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT>ca moir' eu, madre, por meu amigo</LT>
+<LL>ca moir' eu, madre, por meu amigo</LL>
+</L>
+<L N = "6" NS = "9" RI = "igo" ERI = "comigo" AC = "--+-----+-">
+<LT>e el morre por falar comigo.</LT>
+<LL>e el morre por falar comigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 9' 9'</ESQMET></INFMET>
+<NUMESQ>99:43</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "isa" ERI = "guisa" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">Se</SEG> vos prouguer, madr', d' esta guisa</SEG></LT>
+<LL>Se vos prouguer, madr', d' esta guisa</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "queimar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">irei</SEG> al&aacute; mias candeas queimar</SEG>,</LT>
+<LL>irei al&aacute; mias candeas queimar,</LL>
+</L>
+<L N = "3" NS = "9" RI = "isa" ERI = "camisa" AC = "---+----+-">
+<LT>eno meu mant' e na mia camisa,</LT>
+<LL>eno meu mant' e na mia camisa,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "altar" AC = "----+----+">
+<LT>a Santa Ce<SEG C = "M" N = "SIN" ID = "4">cilia an</SEG>t' o seu altar,</LT>
+<LL>a Santa Cecilia ant' o seu altar,</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT>ca moir' eu, madre, por meu amigo</LT>
+<LL>ca moir' eu, madre, por meu amigo</LL>
+</L>
+<L N = "6" NS = "9" RI = "igo" ERI = "comigo" AC = "--+-----+-">
+<LT>e el morre por falar comigo.</LT>
+<LL>e el morre por falar comigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 9' 9'</ESQMET></INFMET>
+<NUMESQ>99:36</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "ir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "2">Se</SEG> me leixardes, mia madr', al&aacute; ir</LT>
+<LL>Se me leixardes, mia madr', al&aacute; ir</LL>
+</L>
+<L N = "2" NS = "10" RI = "ei" ERI = "farei" AC = "---+-----+">
+<LT>direi-vos ora o que vos farei:</LT>
+<LL>direi-vos ora o que vos farei:</LL>
+</L>
+<L N = "3" NS = "10" RI = "ir" ERI = "servir" AC = "---+-----+">
+<LT>punharei sempre j&aacute; de vos servir</LT>
+<LL>punharei sempre j&aacute; de vos servir</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "verrei" AC = "---+-----+">
+<LT>e d' esta ida mui leda verrei,</LT>
+<LL>e d' esta ida mui leda verrei,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "9" RI = "igo" ERI = "amigo" AC = "---+----+-">
+<LT>ca moir' eu, madre, por meu amigo</LT>
+<LL>ca moir' eu, madre, por meu amigo</LL>
+</L>
+<L N = "6" NS = "9" RI = "igo" ERI = "comigo" AC = "--+-----+-">
+<LT>e el morre por falar comigo.</LT>
+<LL>e el morre por falar comigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="002019" NE="1" OL="NON" SG="NO" TC="NA" XE="EP">
+      <INCIPIT>Pero da Ponte, ou eu non vejo ben</INCIPIT>
+
+      <NUCANT>2 19</NUCANT>
+
+      <ATRIB NOME="Fernan Rodriguez Redondo">
+        <NUCANT>48 2</NUCANT>
+
+        <P>Os problemas atributivos veñen causados pola disposición nos
+        manuscritos, pois tanto B 1615 como C asígnana a Fernan Rodriguez
+        Redondo (48,2). A referencia cronolóxica á conquista de Xaé en 1246
+        fixo que C. Michaëlis (CA, II, p. 387) pensara que o autor era
+        Rodrigu&#39; Eanes Redondo (141,4), pai do anterior, mentres que
+        D&#39;Heur (Recherches, p. 34) e Resende (p. 344) considerar que este
+        escarnio contra Pero da Ponte debe ser obra de Afons&#39; Eanes do
+        Coton.</P>
+      </ATRIB>
+
+      <ATRIB NOME="Rodrigu&#39; Eanes Redondo">
+        <NUCANT>141 4</NUCANT>
+
+        <P>Os problemas atributivos veñen causados pola disposición nos
+        manuscritos, pois tanto B 1615 como C asígnana a Fernan Rodriguez
+        Redondo (48,2). A referencia cronolóxica á conquista de Xaé en 1246
+        fixo que C. Michaëlis (CA, II, p. 387) pensara que o autor era
+        Rodrigu&#39; Eanes Redondo (141,4), pai do anterior, mentres que
+        D&#39;Heur (Recherches, p. 34) e Resende (p. 344) considerar que este
+        escarnio contra Pero da Ponte debe ser obra de Afons&#39; Eanes do
+        Coton.</P>
+      </ATRIB>
+
+      <RM BCA="B" EM="NO" F="342r" I.FI="lb342r" MU="NON" NM="1615"></RM>
+
+      <RM BCA="V" EM="NO" F="189r" I.FI="lv189r" MU="NON" NM="1148"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Gaspar 21</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1518</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1148</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 70</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="50"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>17/02/97</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <TEMA CAT="DF"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="ben" N="1" NS="10" RI="en">
+          <LT>Pero da Ponte, <SEG C="M" ID="1" N="SIN">ou eu</SEG> non vejo
+          ben,</LT>
+
+          <LL>Pero da Ponte, ou eu non vejo ben,</LL>
+
+          <ANTRO T="REAL">Pero da Ponte</ANTRO>
+        </L>
+
+        <L AC="--+---+--+" ERI="é" N="2" NS="10" RI="e">
+          <LT>ou <SEG C="I" ID="2" N="RE">de</SEG> pran essa cabeça non é</LT>
+
+          <LL>ou de pran essa cabeça non é</LL>
+        </L>
+
+        <L AC="--+------+" ERI="fé" N="3" NS="10" RI="e">
+          <LT>a que vós antano, per boa fé,</LT>
+
+          <LL>a que vós antano, per boa fé,</LL>
+        </L>
+
+        <L AC="-+-------+" ERI="Geen" N="4" NS="10" RI="en">
+          <LT>levastes, quando fomos a Geen;</LT>
+
+          <LL>levastes, quando fomos a Geen;</LL>
+
+          <TOPO CAT="CIUDAD">Geen</TOPO>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT>e cuido-m&#39; eu adormecestes <SEG C="I" ID="3" N="AU">...</SEG></LT>
+
+          <LL>e cuido-m&#39; eu adormecestes ...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

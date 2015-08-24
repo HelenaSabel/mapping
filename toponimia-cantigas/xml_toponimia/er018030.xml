@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018030" TC = "RINT" NE = "4" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>O que foi passar a serra</INCIPIT>
+<NUCANT>18 30</NUCANT>
+<RM BCA = "B" NM = "494" F = "110r" MU = "NON" EM = "NO" I.FI = "lb110r"></RM>
+<RM BCA = "B" NM = "494" F = "110v" MU = "NON" EM = "NO" I.FI = "lb110v"></RM>
+<RM BCA = "V" NM = "77" F = "6v" MU = "NON" EM = "NO" I.FI = "lv006v"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. VI, p. 292</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 439</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 77</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Oliveira/Machado, pp. 133-134</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Auswahl 24</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 52</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 38</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, p. 54</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 49</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 52</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena. Lit. Galega, II, 117</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Paredes N&uacute;&ntilde;ez, La guerra de Granada, pp. 38-39</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, Ap&eacute;ndice I, 37</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 161-162</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 44-45, 429-430</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 24</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 53</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "40"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>25/10/04</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>El rey Dom affonso de Castella he de Leom
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na marxe superior do folio
+6v de V, que indica que &eacute; a producci&oacute;n deste
+trobador.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "COV">
+<SUBTEMA CAT = "RI"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 4' 8' 4'</ESQMET></INFMET>
+<NUMESQ>13:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "erra" ERI = "serra" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> foi passar a serra</SEG></LT>
+<LL>O que foi passar a serra</LL>
+</L>
+<L N = "2" NS = "7" RI = "erra" ERI = "terra" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">e non</SEG> quis servir a terra</SEG>,</LT>
+<LL>e non quis servir a terra,</LL>
+</L>
+<L N = "3" NS = "7" RI = "erra" ERI = "guerra" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "4">e</SEG> ora, entrant' a guerra</SEG>,</LT>
+<LL>e ora, entrant' a guerra,</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "4" RI = "eja" ERI = "faroneja" AC = "---+-">
+<LT>que faroneja?</LT>
+<LL>que faroneja?</LL>
+</L></REFRAN>
+<L N = "5" NS = "8" RI = "erra" ERI = "erra" AC = "---+---+-">
+<LT><SEG C = "R" N = "CD" ID = "5">Pois</SEG> el agora tan mui<SEG C = "M" N = "SIN" ID = "6">to e</SEG>rra,</LT>
+<LL>Pois el agora tan muito erra,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "4" RI = "eja" ERI = "seja" AC = "-+-+-">
+<LT>maldito seja!</LT>
+<LL>maldito seja!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 4' 8' 4'</ESQMET></INFMET>
+<NUMESQ>13:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "eiros" ERI = "dinheiros" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> levou os dinheiros</SEG></LT>
+<LL>O que levou os dinheiros</LL>
+</L>
+<L N = "2" NS = "7" RI = "eiros" ERI = "cavaleiros" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">e non</SEG> troux' os <SEG C = "R" N = "RD" ID = "7">cavaleiros</SEG></SEG>,</LT>
+<LL>e non troux' os cavaleiros,</LL>
+</L>
+<L N = "3" NS = "7" RI = "eiros" ERI = "primeiros" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "4">e</SEG> por non ir nos primeiros</SEG></LT>
+<LL>e por non ir nos primeiros</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "4" RI = "eja" ERI = "faroneja" AC = "---+-">
+<LT>que faroneja?</LT>
+<LL>que faroneja?</LL>
+</L></REFRAN>
+<L N = "5" NS = "8" RI = "eiros" ERI = "prostumeiros" AC = "---+---+-">
+<LT><SEG C = "R" N = "CD" ID = "5">Pois</SEG> que ven conos prostumeiros,</LT>
+<LL>Pois que ven conos prostumeiros,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "4" RI = "eja" ERI = "seja" AC = "-+-+-">
+<LT>maldito seja!</LT>
+<LL>maldito seja!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 4' 8' 4'</ESQMET></INFMET>
+<NUMESQ>13:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ada" ERI = "soldada" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> filhou gran soldada</SEG></LT>
+<LL>O que filhou gran soldada</LL>
+</L>
+<L N = "2" NS = "7" RI = "ada" ERI = "cavalgada" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1">e nunca fez <SEG C = "R" N = "RD" ID = "7">cavalgada</SEG></SEG>,</LT>
+<LL>e nunca fez cavalgada,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ada" ERI = "Graada" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "4">e</SEG> por non ir a Graada</SEG></LT>
+<LL>e por non ir a Graada</LL>
+
+<TOPO CAT = "CIUDAD">Graada</TOPO></L>
+<REFRAN>
+<L N = "4" NS = "4" RI = "eja" ERI = "faroneja" AC = "---+-">
+<LT>que faroneja?</LT>
+<LL>que faroneja?</LL>
+</L></REFRAN>
+<L N = "5" NS = "8" RI = "ada" ERI = "mesnada" AC = "--+----+-">
+<LT><SEG C = "M" N = "SIN" ID = "8">Se &eacute;</SEG> ric' omen ou &aacute; mesnada,</LT>
+<LL>Se &eacute; ric' omen ou &aacute; mesnada,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "4" RI = "eja" ERI = "seja" AC = "-+-+-">
+<LT>maldito seja!</LT>
+<LL>maldito seja!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 4' 8' 4'</ESQMET></INFMET>
+<NUMESQ>13:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "eiga" ERI = "taleiga" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">O que</SEG> meteu na taleiga</SEG></LT>
+<LL>O que meteu na taleiga</LL>
+</L>
+<L N = "2" NS = "7" RI = "eiga" ERI = "meiga" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">pouc' aver e muita meiga</SEG>,</LT>
+<LL>pouc' aver e muita meiga,</LL>
+</L>
+<L N = "3" NS = "7" RI = "eiga" ERI = "Veiga" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "4">e</SEG> por non entrar na Veiga</SEG></LT>
+<LL>e por non entrar na Veiga</LL>
+
+<TOPO CAT = "ALDEA">Veiga</TOPO></L>
+<REFRAN>
+<L N = "4" NS = "4" RI = "eja" ERI = "faroneja" AC = "---+-">
+<LT>que faroneja?</LT>
+<LL>que faroneja?</LL>
+</L></REFRAN>
+<L N = "5" NS = "8" RI = "eiga" ERI = "manteiga" AC = "--+----+-">
+<LT><SEG C = "R" N = "CD" ID = "5">Pois</SEG> <SEG C = "I" N = "RE" ID = "9">el</SEG> chus mol &eacute; que manteiga,</LT>
+<LL>Pois el chus mol &eacute; que manteiga,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "4" RI = "eja" ERI = "seja" AC = "-+-+-">
+<LT>maldito seja!</LT>
+<LL>maldito seja!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

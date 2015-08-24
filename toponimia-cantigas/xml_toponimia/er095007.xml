@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="095007" NE="3" OL="NON" SG="NO" TC="MEST" XE="M">
+      <INCIPIT>Gran sazon á, meu amigo</INCIPIT>
+
+      <NUCANT>95 7</NUCANT>
+
+      <RM BCA="B" EM="NO" F="263r" I.FI="lb263r" MU="NON" NM="1239"></RM>
+
+      <RM BCA="V" EM="NO" F="133v" I.FI="lv133v" MU="NON" NM="844"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1187</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 844</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 72</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 474</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="452"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>24/05/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = c II, III)</P></FRI>
+
+      <TEMA CAT="PA"></TEMA>
+
+      <TEMA CAT="CS"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:295</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="amigo" N="1" NS="7" RI="igo">
+          <LT>Gran sazon á, meu <SEG C="R" ID="1" N="DO"><SEG C="R" ID="2"
+N="RD">amigo</SEG></SEG>,</LT>
+
+          <LL>Gran sazon á, meu amigo,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="partistes" N="2" NS="7" RI="istes">
+          <LT>que vos vós de mi partistes</LT>
+
+          <LL>que vos vós de mi partistes</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="vistes" N="3" NS="7" RI="istes">
+          <LT>en Valongu&#39; e non m&#39; ar vistes,</LT>
+
+          <LL>en Valongu&#39; e non m&#39; ar vistes,</LL>
+
+          <TOPO CAT="ALDEA">Valongo (Valongu&#39;)</TOPO>
+        </L>
+
+        <L AC="--+---+-" ERI="migo" N="4" NS="7" RI="igo">
+          <LT>nen ar ouv&#39; eu depois <SEG C="R" ID="3" N="PV">migo</SEG></LT>
+
+          <LL>nen ar ouv&#39; eu depois migo</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="gasalhado" N="5" NS="7" RI="ado">
+          <LT>de nulha ren gasalhado,</LT>
+
+          <LL>de nulha ren gasalhado,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="desejado" N="6" NS="7" RI="ado">
+          <LT><SEG C="R" ID="4" N="CP">mais nunca tan desejado</SEG></LT>
+
+          <LL>mais nunca tan desejado</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="amigo" N="7" NS="7" RI="igo">
+          <LT><SEG C="R" ID="4" N="CP">d&#39; amiga fostes, <SEG C="R" ID="1"
+N="DO"><SEG C="R" ID="2" N="RD">amigo</SEG></SEG></SEG>.</LT>
+
+          <LL>d&#39; amiga fostes, amigo.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 7&#39; 7&#39; 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:282</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="molher" N="1" NS="8" RI="er">
+          <LT>Nen vos dirá nunca <SEG C="R" ID="1" N="DO">molher</SEG></LT>
+
+          <LL>Nen vos dirá nunca molher</LL>
+        </L>
+
+        <L AC="--+----+" ERI="dizer" N="2" NS="8" RI="er">
+          <LT>que verdade queira dizer,</LT>
+
+          <LL>que verdade queira dizer,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="saber" N="3" NS="8" RI="er">
+          <LT>nen vós non podedes saber</LT>
+
+          <LL>nen vós non podedes saber</LL>
+        </L>
+
+        <L AC="---+---+" ERI="quer" N="4" NS="8" RI="er">
+          <LT>nunca per outrem, se Deus quer</LT>
+
+          <LL>nunca per outrem, se Deus quer</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="migo" N="5" NS="7" RI="igo">
+          <LT>ou se eu verdad&#39; ei <SEG C="R" ID="3" N="PV">migo</SEG>,</LT>
+
+          <LL>ou se eu verdad&#39; ei migo,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="amigo" N="6" NS="7" RI="igo">
+          <LT><SEG C="R" ID="5" N="CPL"><SEG C="R" ID="4" N="CP">que nunca vistes <SEG
+C="R" ID="6" N="PRI"><SEG C="R" ID="2" N="RD">amigo</SEG></SEG></SEG></SEG></LT>
+
+          <LL>que nunca vistes amigo</LL>
+        </L>
+
+        <L AC="---+---+" ERI="molher" N="7" NS="8" RI="er">
+          <LT><SEG C="R" ID="7" N="CPL"><SEG C="R" ID="4" N="CP">tan desejado de <SEG
+C="R" ID="1" N="DO">molher</SEG></SEG></SEG>.</LT>
+
+          <LL>tan desejado de molher.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 8 8 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:285</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="amiga" N="1" NS="7" RI="iga">
+          <LT>Pero ouvestes <SEG C="R" ID="1" N="DO"><SEG C="R" ID="2" N="RD">amiga</SEG></SEG></LT>
+
+          <LL>Pero ouvestes amiga</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ben" N="2" NS="8" RI="en">
+          <LT>a que quisestes mui gran ben,</LT>
+
+          <LL>a que quisestes mui gran ben,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="en" N="3" NS="8" RI="en">
+          <LT>a min vos tornade por en,</LT>
+
+          <LL>a min vos tornade por en,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="diga" N="4" NS="7" RI="iga">
+          <LT>se achardes quen vos <SEG C="R" ID="7" N="RD">diga</SEG>,</LT>
+
+          <LL>se achardes quen vos diga,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="digo" N="5" NS="7" RI="igo">
+          <LT>se non assi com&#39; eu <SEG C="R" ID="7" N="RD">digo</SEG>,</LT>
+
+          <LL>se non assi com&#39; eu digo,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="amigo" N="6" NS="7" RI="igo">
+          <LT><SEG C="R" ID="5" N="CPL"><SEG C="R" ID="4" N="CP">que nunca vissem <SEG
+C="R" ID="6" N="PRI"><SEG C="R" ID="2" N="RD">amigo</SEG></SEG></SEG></SEG></LT>
+
+          <LL>que nunca vissem amigo</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="amiga" N="7" NS="7" RI="iga">
+          <LT><SEG C="R" ID="7" N="CPL"><SEG C="R" ID="4" N="CP">tan desejado d&#39; <SEG
+C="R" ID="1" N="DO"><SEG C="R" ID="2" N="RD">amiga</SEG></SEG></SEG></SEG>.</LT>
+
+          <LL>tan desejado d&#39; amiga.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

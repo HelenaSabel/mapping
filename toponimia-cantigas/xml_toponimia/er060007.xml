@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="060007" NE="4" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>Non levava nen dinheyro</INCIPIT>
+
+      <NUCANT>60 7</NUCANT>
+
+      <RM BCA="V" EM="NO" F="160v" I.FI="lv160v" MU="NON" NM="1002"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 170</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. III, p. 159</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1649</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1002</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 534-535</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 130</P>
+      </EDIANT>
+
+      <DATOAU NOME="Víñez" NUA="11"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>9/06/97</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <TEMA CAT="INH"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7 7 7' 7 7 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:289</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="dinheyro" N="1" NS="7" RI="eyro">
+          <LT><SEG C="R" ID="1" N="CD">Non</SEG> levava nen dinheyro</LT>
+
+          <LL>Non levava nen dinheyro</LL>
+        </L>
+
+        <L AC="-+-+--+" ERI="passar" N="2" NS="7" RI="ar">
+          <LT>oga<SEG C="M" ID="2" N="SIN">no hu</SEG> o<SEG C="I" ID="3"
+          N="RE">u</SEG>vi passar</LT>
+
+          <LL>ogano hu ouvi passar</LL>
+        </L>
+
+        <L AC="-+--+-+" ERI="pousar" N="3" NS="7" RI="ar">
+          <LT>per Campus, e quix pousar</LT>
+
+          <LL>per Campus, e quix pousar</LL>
+
+          <TOPO CAT="ALDEA">Campus</TOPO>
+        </L>
+
+        <L AC="-+----+-" ERI="cavaleyro" N="4" NS="7" RI="eyro">
+          <LT>en casa d' un cavaleyro</LT>
+
+          <LL>en casa d' un cavaleyro</LL>
+        </L>
+
+        <L AC="--+---+" ERI="infançon" N="5" NS="7" RI="on">
+          <LT>que sse ten por infa<SEG C="I" ID="4" N="RE">n</SEG>çon,</LT>
+
+          <LL>que sse ten por infançon,</LL>
+        </L>
+
+        <L AC="--+-+-+" ERI="enton" N="6" NS="7" RI="on">
+          <LT>e soltou<SEG C="M" ID="5" N="SIN">-mh-um</SEG> can enton</LT>
+
+          <LL>e soltou-mh-um can enton</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="seendeyro" N="7" NS="7" RI="eyro">
+          <LT>e mordeu<SEG C="M" ID="6" N="SIN">-mh-o</SEG> <SEG C="R" ID="7"
+          N="PR">seend<SEG C="R" ID="8" N="CC">eyro</SEG></SEG>.</LT>
+
+          <LL>e mordeu-mh-o seendeyro.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7 7 7' 7 7 7'</ESQMET>
+
+          <NOTMET>
+            <P>O v. 2 é hipórmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:289</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="senlheyro" N="1" NS="7" RI="eyro">
+          <LT>Por meu mal enton, senlh<SEG C="R" ID="8" N="CC">eyro</SEG>,</LT>
+
+          <LL>Por meu mal enton, senlheyro,</LL>
+        </L>
+
+        <L AC="--+--+" ERI="chegar" N="2" NS="6" RI="ar">
+          <LT>ouv' aly a <SEG C="R" ID="9" N="RD">chegar</SEG>,</LT>
+
+          <LL>ouv' aly a chegar,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="logar" N="3" NS="7" RI="ar">
+          <LT>¡que non chegass' a logar</LT>
+
+          <LL>¡que non chegass' a logar</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="fareleyro" N="4" NS="7" RI="eyro">
+          <LT>hu <SEG C="I" ID="10" N="RE">á</SEG> atal fareleyro!,</LT>
+
+          <LL>hu á atal fareleyro!,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="çancon" N="5" NS="7" RI="on">
+          <LT>ca el se fosse çancon,</LT>
+
+          <LL>ca el se fosse çancon,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="vergalhon" N="6" NS="7" RI="on">
+          <LT>non fora ao vergalhon</LT>
+
+          <LL>non fora ao vergalhon</LL>
+        </L>
+
+        <L AC="+-----+-" ERI="seendeyro" N="7" NS="7" RI="eyro">
+          <LT>roxo do meu <SEG C="R" ID="7" N="PR">seendeyro</SEG>.</LT>
+
+          <LL>roxo do meu seendeyro.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7 7 7' 7 7 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:289</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="parado" N="1" NS="7" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Non</SEG> vistes peyor parado</LT>
+
+          <LL>Non vistes peyor parado</LL>
+        </L>
+
+        <L AC="-+----+" ERI="achey" N="2" NS="7" RI="ey">
+          <LT>albergue do que achey</LT>
+
+          <LL>albergue do que achey</LL>
+        </L>
+
+        <L AC="-+-+--+" ERI="cheguey" N="3" NS="7" RI="ey">
+          <LT>enton, quand'<SEG C="M" ID="11" N="SIN"> a e</SEG>le <SEG C="R"
+          ID="9" N="RD">cheguey</SEG>,</LT>
+
+          <LL>enton, quand' a ele cheguey,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="estirado" N="4" NS="7" RI="ado">
+          <LT>nen vistes mays estirado</LT>
+
+          <LL>nen vistes mays estirado</LL>
+        </L>
+
+        <L AC="+--+--+" ERI="mastin" N="5" NS="7" RI="in">
+          <LT>home ca fuy d' un mastin,</LT>
+
+          <LL>home ca fuy d' un mastin,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="rocin" N="6" NS="7" RI="in">
+          <LT>e fez-mi tal <SEG C="I" ID="12" N="RE">n</SEG>o rocin</LT>
+
+          <LL>e fez-mi tal no rocin</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="lobado" N="7" NS="7" RI="ado">
+          <LT>que semelhava <SEG C="R" ID="7" N="PR">lobado</SEG>.</LT>
+
+          <LL>que semelhava lobado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7 7 7' 7 7 7'</ESQMET>
+
+          <NOTMET>
+            <P>O v. 6 é hipórmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>161:289</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="acordado" N="1" NS="7" RI="ado">
+          <LT><SEG C="R" ID="1" N="CD">Non</SEG> fui eu ben acordado,</LT>
+
+          <LL>Non fui eu ben acordado,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="catey" N="2" NS="7" RI="ey">
+          <LT>poy' lo da porta catey</LT>
+
+          <LL>poy' lo da porta catey</LL>
+        </L>
+
+        <L AC="+-----+" ERI="chamey" N="3" NS="7" RI="ey">
+          <LT>dentro; porque o chamey</LT>
+
+          <LL>dentro; porque o chamey</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="enrriçado" N="4" NS="7" RI="ado">
+          <LT>pos<SEG C="M" ID="13" N="SIN">-mh-o</SEG> gram can
+          enrriçado,</LT>
+
+          <LL>pos-mh-o gram can enrriçado,</LL>
+        </L>
+
+        <L AC="-+--+-+" ERI="fin" N="5" NS="7" RI="in">
+          <LT>que nunc' a <SEG C="I" ID="13" N="RE">morder</SEG> fez fin,</LT>
+
+          <LL>que nunc' a morder fez fin,</LL>
+        </L>
+
+        <L AC="---+-+" ERI="min" N="6" NS="6" RI="in">
+          <LT>ata que fez en min</LT>
+
+          <LL>ata que fez en min</LL>
+        </L>
+
+        <L AC="-+--+-+-" ERI="lobado" N="7" NS="7" RI="ado">
+          <LT>qual fez no rocin <SEG C="R" ID="7" N="PR">lobado</SEG>.</LT>
+
+          <LL>qual fez no rocin lobado.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

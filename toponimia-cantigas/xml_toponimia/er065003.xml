@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="065003" NE="3" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Fui eu, madr&#39;, a San Momed&#39;, u me cuidei</INCIPIT>
+
+      <NUCANT>65 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="268r" I.FI="lb268r" MU="NON" NM="1268"></RM>
+
+      <RM BCA="V" EM="NO" F="138r" I.FI="lv138r" MU="NON" NM="874"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1217</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 847</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 188</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 481</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 90</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 503</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Johan de Cangas" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>02/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(b I = a II; C = B)</P></FRI>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11 11 8 11</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+-+---+---+" ERI="cuidei" N="1" NS="11" RI="ei">
+          <LT><SEG C="R" ID="1" N="CP">Fui eu, madr&#39;, a San Momed&#39;, u me cuidei</SEG></LT>
+
+          <LL>Fui eu, madr&#39;, a San Momed&#39;, u me cuidei</LL>
+
+          <TOPO CAT="LCULTO">San Mamede</TOPO>
+        </L>
+
+        <L AC="--+---+---+" ERI="i" N="2" NS="11" RI="i">
+          <LT><SEG C="R" ID="1" N="CP">que veess&#39; o meu amigu&#39;, e non foi i</SEG>;</LT>
+
+          <LL>que veess&#39; o meu amigu&#39;, e non foi i;</LL>
+        </L>
+
+        <L AC="---+--+---+" ERI="parti" N="3" NS="11" RI="i">
+          <LT><SEG C="R" ID="2" N="CP">por mui fremosa, que triste m&#39; en parti</SEG>!,</LT>
+
+          <LL>por mui fremosa, que triste m&#39; en parti!,</LL>
+        </L>
+
+        <L AC="--+----+--+" ERI="direi" N="4" NS="11" RI="ei">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="R" ID="4" N="CD">e dix&#39; <SEG
+C="R" ID="5" N="CF">eu</SEG></SEG> como vos agora direi</SEG>:</LT>
+
+          <LL>e dix&#39; eu como vos agora direi:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--++--+" ERI="ren" N="5" NS="8" RI="en">
+            <LT>pois i non ven, sei unha ren:</LT>
+
+            <LL>pois i non ven, sei unha ren:</LL>
+          </L>
+
+          <L AC="-+--+-+---+" ERI="ben" N="6" NS="11" RI="en">
+            <LT>por mi se perdeu que nunca lhi fiz <SEG C="R" ID="6" N="PV">ben</SEG>.</LT>
+
+            <LL>por mi se perdeu que nunca lhi fiz ben.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11 11 8 11</ESQMET>
+        </INFMET>
+
+        <NUMESQ>160:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-+--+" ERI="vi" N="1" NS="11" RI="i">
+          <LT><SEG C="R" ID="1" N="CP">Quand&#39; <SEG C="R" ID="5" N="CF">eu</SEG> a San Momede fui, e non vi</SEG></LT>
+
+          <LL>Quand&#39; eu a San Momede fui, e non vi</LL>
+        </L>
+
+        <L AC="--+----+--+" ERI="falar" N="2" NS="11" RI="ar">
+          <LT><SEG C="R" ID="1" N="CP">meu amigo, con que quisera falar</SEG></LT>
+
+          <LL>meu amigo, con que quisera falar</LL>
+        </L>
+
+        <L AC="--+-+--+--+" ERI="mar" N="3" NS="11" RI="ar">
+          <LT>a mui gran sabor nas ribeiras do mar,</LT>
+
+          <LL>a mui gran sabor nas ribeiras do mar,</LL>
+        </L>
+
+        <L AC="--+---+-+-+" ERI="assi" N="4" NS="11" RI="i">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="R" ID="2" N="CP">sospirei no coraçon e dix&#39; assi</SEG></SEG>:</LT>
+
+          <LL>sospirei no coraçon e dix&#39; assi:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--++--+" ERI="ren" N="5" NS="8" RI="en">
+            <LT>pois i non ven, sei unha ren:</LT>
+
+            <LL>pois i non ven, sei unha ren:</LL>
+          </L>
+
+          <L AC="-+--+-+---+" ERI="ben" N="6" NS="11" RI="en">
+            <LT>por mi se perdeu que nunca lhi <SEG C="R" ID="7" N="CFR">fiz</SEG>
+            <SEG C="R" ID="6" N="PV">ben</SEG>.</LT>
+
+            <LL>por mi se perdeu que nunca lhi fiz ben.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 11 11 8 11</ESQMET>
+        </INFMET>
+
+        <NUMESQ>151:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+---+" ERI="oraçon" N="1" NS="11" RI="on">
+          <LT><SEG C="R" ID="1" N="CP">Depois que <SEG C="R" ID="7" N="CFR">fiz</SEG> na ermida oraçon</SEG>,</LT>
+
+          <LL>Depois que fiz na ermida oraçon,</LL>
+        </L>
+
+        <L AC="--+----+--+" ERI="ben" N="2" NS="11" RI="en">
+          <LT><SEG C="R" ID="1" N="CP">e non vi o que mi queria gran <SEG
+C="R" ID="6" N="PV">ben</SEG></SEG>,</LT>
+
+          <LL>e non vi o que mi queria gran ben,</LL>
+        </L>
+
+        <L AC="---+-+----+" ERI="tristen" N="3" NS="11" RI="en">
+          <LT><SEG C="R" ID="2" N="CP">con gran pesar filhouxime gran tristen</SEG>,</LT>
+
+          <LL>con gran pesar filhouxime gran tristen,</LL>
+        </L>
+
+        <L AC="-+-+--+---+" ERI="razon" N="4" NS="11" RI="on">
+          <LT><SEG C="R" ID="3" N="CPL"><SEG C="R" ID="4" N="CD">e dix&#39; eu</SEG> log&#39; assi esta razon</SEG>:</LT>
+
+          <LL>e dix&#39; eu log&#39; assi esta razon:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+--++--+" ERI="ren" N="5" NS="8" RI="en">
+            <LT>pois i non ven, sei unha ren:</LT>
+
+            <LL>pois i non ven, sei unha ren:</LL>
+          </L>
+
+          <L AC="-+--+-+---+" ERI="ben" N="6" NS="11" RI="en">
+            <LT>por mi se perdeu que nunca lhi fiz <SEG C="R" ID="6" N="PV">ben</SEG>.</LT>
+
+            <LL>por mi se perdeu que nunca lhi fiz ben.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

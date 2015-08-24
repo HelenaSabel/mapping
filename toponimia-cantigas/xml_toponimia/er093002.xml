@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "093002" TC = "REFR" NE = "2" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Ai vertudes de Santa Cecilia</INCIPIT>
+<NUCANT>93 2</NUCANT>
+<RM BCA = "B" NM = "1274" F = "269r" MU = "NON" EM = "NO" I.FI = "lb269r"></RM>
+<RM BCA = "V" NM = "880" F = "139r" MU = "NON" EM = "NO" I.FI = "lv139r"></RM>
+<EDIANT T = "CRITI">
+<P>Lopes, Ginzo, 5</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1223</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 880</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 115</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 509</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "487">
+<COMAU>
+<P>Apart&aacute;monos da edici&oacute;n de Nunes, que non considera
+refr&aacute;n o v. 3.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>3/05/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1274.
+Est&aacute; situada na columna a do folio 269r.</P></COMNOTC></NOTC>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "SNH"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>42:13</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ilia" ERI = "Cecilia" AC = "--+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CP" ID = "2">Ai vertudes de Santa Cecilia</SEG></SEG>,</LT>
+<LL>Ai vertudes de Santa Cecilia,</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<L N = "2" NS = "9" RI = "ia" ERI = "dia" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "2">que sanhudo que se foi un dia</SEG></LT>
+<LL>que sanhudo que se foi un dia</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "orto" ERI = "morto" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "RR" ID = "3">o meu amigu' e ten-se por morto</SEG></SEG></LT>
+<LL>o meu amigu' e ten-se por morto</LL>
+</L>
+<L N = "4" NS = "9" RI = "orto" ERI = "torto" AC = "---+----+-">
+<LT>e, se s' assanha, non faz i torto</LT>
+<LL>e, se s' assanha, non faz i torto</LL>
+</L>
+<L N = "5" NS = "9" RI = "orto" ERI = "morto" AC = "---+----+-">
+<LT><SEG C = "R" N = "RR" ID = "3">o meu amigu' e ten-se por morto</SEG>.</LT>
+<LL>o meu amigu' e ten-se por morto.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+3">
+<ESQRIM TIPO = "aaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>42:13</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ida" ERI = "ermida" AC = "--+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1"><SEG C = "R" N = "CP" ID = "2">Ai vertudes de santa ermida</SEG></SEG>,</LT>
+<LL>Ai vertudes de santa ermida,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ida" ERI = "ida" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "2">con gran pesar fez aquesta ida</SEG></LT>
+<LL>con gran pesar fez aquesta ida</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "orto" ERI = "morto" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "2"><SEG C = "R" N = "RR" ID = "3">o meu amigu' e ten-se por morto</SEG></SEG></LT>
+<LL>o meu amigu' e ten-se por morto</LL>
+</L>
+<L N = "4" NS = "9" RI = "orto" ERI = "torto" AC = "---+----+-">
+<LT>e, se s' assanha, non faz i torto</LT>
+<LL>e, se s' assanha, non faz i torto</LL>
+</L>
+<L N = "5" NS = "9" RI = "orto" ERI = "morto" AC = "---+----+-">
+<LT><SEG C = "R" N = "RR" ID = "3">o meu amigu' e ten-se por morto</SEG>.</LT>
+<LL>o meu amigu' e ten-se por morto.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

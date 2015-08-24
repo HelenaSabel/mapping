@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063014" TC = "REFR" NE = "3" SG = "NO" XE = "A" OL = "NON">
+<INCIPIT>Andei, senhor, Leon e Castela</INCIPIT>
+<NUCANT>63 14</NUCANT>
+<RM BCA = "B" NM = "948" F = "202v" MU = "NON" EM = "NO" I.FI = "lb202v"></RM>
+<RM BCA = "B" NM = "948" F = "203r" MU = "NON" EM = "NO" I.FI = "lb203r"></RM>
+<RM BCA = "V" NM = "536" F = "85r" MU = "NON" EM = "NO" I.FI = "lv085r"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 18</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Gassner 7</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amor 178</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 892</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 536</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "47"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>17/06/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 10 10</ESQMET></INFMET>
+<NUMESQ>99:40</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ela" ERI = "Castela" AC = "---+----+-">
+<LT>Andei, senhor, Leon e Castela</LT>
+<LL>Andei, senhor, Leon e Castela</LL>
+<TOPO CAT = "CIRCUNS">Leon</TOPO>
+<TOPO CAT = "CIRCUNS">Castela</TOPO></L>
+<L N = "2" NS = "10" RI = "ei" ERI = "quitei" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">despois que m' eu d' esta terra quitei</SEG>,</LT>
+<LL>despois que m' eu d' esta terra quitei,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ela" ERI = "donzela" AC = "---+----+-">
+<LT>e non foi i dona nen donzela</LT>
+<LL>e non foi i dona nen donzela</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "direi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">que eu non viss', e m&aacute;is vos &eacute;n <SEG C = "R" N = "RD" ID = "3">direi</SEG></SEG>:</LT>
+<LL>que eu non viss', e m&aacute;is vos &eacute;n direi:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "4">quantas</SEG> m&aacute;is donas, senhor, ala <SEG C = "R" N = "RD" ID = "5">vi</SEG>,</LT>
+<LL>quantas m&aacute;is donas, senhor, ala vi,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT>tanto vos <SEG C = "R" N = "CFR" ID = "6">eu</SEG> mui m&aacute;is precei des i.</LT>
+<LL>tanto vos eu mui m&aacute;is precei des i.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 10 10</ESQMET></INFMET>
+<NUMESQ>99:40</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ando" ERI = "quando" AC = "---+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CP" ID = "7"><SEG C = "R" N = "CD" ID = "4"><SEG C = "I" N = "RE" ID = "8">E</SEG> quantas</SEG> donas <SEG C = "R" N = "CFR" ID = "6">eu</SEG> vi, des quando</SEG></SEG></LT>
+<LL>E quantas donas eu vi, des quando</LL>
+</L>
+<L N = "2" NS = "10" RI = "ir" ERI = "cousir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CP" ID = "7">me foi d' aqui, punhei de as cousir</SEG></SEG>,</LT>
+<LL>me foi d' aqui, punhei de as cousir,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ando" ERI = "cuidando" AC = "---+----+-">
+<LT>e poilas vi, estive cuidando</LT>
+<LL>e poilas vi, estive cuidando</LL>
+</L>
+<L N = "4" NS = "10" RI = "ir" ERI = "mentir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">en v&oacute;s, senhor, e por vos non mentir</SEG>,</LT>
+<LL>en v&oacute;s, senhor, e por vos non mentir,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "4">quantas</SEG> m&aacute;is donas, senhor, ala <SEG C = "R" N = "RD" ID = "5">vi</SEG>,</LT>
+<LL>quantas m&aacute;is donas, senhor, ala vi,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT><SEG C = "I" N = "RE" ID = "9">tanto vos eu mui m&aacute;is <SEG C = "R" N = "CFR" ID = "10">precei</SEG> des i</SEG>.</LT>
+<LL>tanto vos eu mui m&aacute;is precei des i.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>9' 10 9' 10 10 10</ESQMET></INFMET>
+<NUMESQ>99:40</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ian" ERI = "avian" AC = "----+----+-">
+<LT><SEG C = "R" N = "CP" ID = "7">E as que ala maior <SEG C = "R" N = "CFR" ID = "10">prez</SEG> avian</SEG></LT>
+<LL>E as que ala maior prez avian</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "veer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "7">en todo ben, todalas fui <SEG C = "R" N = "RD" ID = "5">veer</SEG></SEG>,</LT>
+<LL>en todo ben, todalas fui veer,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ian" ERI = "parecian" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "7">e cousi-as, e ben parecian</SEG>,</LT>
+<LL>e cousi-as, e ben parecian,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "dizer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "2">pero, senhor, quero-vos al <SEG C = "R" N = "RD" ID = "3">dizer</SEG></SEG>:</LT>
+<LL>pero, senhor, quero-vos al dizer:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "4">quantas</SEG> m&aacute;is do<SEG C = "I" N = "RE" ID = "11">nas, senhor, ala <SEG C = "R" N = "RD" ID = "5">vi</SEG></SEG>,</LT>
+<LL>quantas m&aacute;is donas, senhor, ala vi,</LL>
+</L>
+<L N = "6" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT><SEG C = "I" N = "RE" ID = "11">tanto vos eu mui m&aacute;is precei des i</SEG>.</LT>
+<LL>tanto vos eu mui m&aacute;is precei des i.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

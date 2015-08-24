@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="070003" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="M">
+      <INCIPIT>Ai amigas, perdud&#39; an conhocer</INCIPIT>
+
+      <NUCANT>70 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="168r" I.FI="lb168r" MU="NON" NM="786"></RM>
+
+      <RM BCA="V" EM="NO" F="59r" I.FI="lv059r" MU="NON" NM="370"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 195</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Domingues, Guilhade, 36</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 731</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 370</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 108</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 309</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 162-163, 490-491</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Nobiling 35</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 179</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="250p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>17/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = a III; b I = d; c I = a II)</P></FRI>
+
+      <TEMA CAT="BT"></TEMA>
+
+      <TEMA CAT="ST"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:44</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+" ERI="conhocer" N="1" NS="10" RI="er">
+          <LT>Ai amigas, perdud&#39; an conhocer</LT>
+
+          <LL>Ai amigas, perdud&#39; an conhocer</LL>
+        </L>
+
+        <L AC="----+--+-+" ERI="son" N="2" NS="10" RI="on">
+          <LT>quantos trobadores no reino <SEG C="R" ID="1" N="PV">son</SEG></LT>
+
+          <LL>quantos trobadores no reino son</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="coraçon" N="3" NS="10" RI="on">
+          <LT>de Portugal, ja non an coraçon</LT>
+
+          <LL>de Portugal, ja non an coraçon</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="---+--+--+" ERI="dizer" N="4" NS="10" RI="er">
+          <LT>de dizer ben que soían <SEG C="R" ID="2" N="RD">dizer</SEG></LT>
+
+          <LL>de dizer ben que soían dizer</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="amor" N="5" NS="10" RI="or">
+          <LT><SEG C="I" ID="3" N="RE">de vós</SEG>, e sol non falan en <SEG
+          C="R" ID="4" N="RD">amor</SEG></LT>
+
+          <LL>de vós, e sol non falan en amor</LL>
+        </L>
+
+        <L AC="--+----+-+" ERI="peor" N="6" NS="10" RI="or">
+          <LT>e al fazen de que m&#39; ar é peor:</LT>
+
+          <LL>e al fazen de que m&#39; ar é peor:</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="parecer" N="7" NS="10" RI="er">
+          <LT>non queren ja loar bon parecer</LT>
+
+          <LL>non queren ja loar bon parecer</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:44</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+--+--+" ERI="sabor" N="1" NS="10" RI="or">
+          <LT>Eles, amigas, perderon sabor</LT>
+
+          <LL>Eles, amigas, perderon sabor</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="al" N="2" NS="10" RI="al">
+          <LT><SEG C="R" ID="5" N="CD">de vos</SEG> veeren; ar direi vos al:</LT>
+
+          <LL>de vos veeren; ar direi vos al:</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="mal" N="3" NS="10" RI="al">
+          <LT>os trobadores ja van pera mal;</LT>
+
+          <LL>os trobadores ja van pera mal;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="senhor" N="4" NS="10" RI="or">
+          <LT>non á i tal que ja servha senhor</LT>
+
+          <LL>non á i tal que ja servha senhor</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="molher" N="5" NS="10" RI="er">
+          <LT>nen sol <SEG C="I" ID="6" N="RE">que</SEG> trobe por ũa molher;</LT>
+
+          <LL>nen sol que trobe por ũa molher;</LL>
+        </L>
+
+        <L AC="---+---+--+" ERI="disser" N="6" NS="10" RI="er">
+          <LT>maldita sej&#39; a que nunca <SEG C="R" ID="2" N="RD">disser</SEG></LT>
+
+          <LL>maldita sej&#39; a que nunca disser</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="trobador" N="7" NS="10" RI="or">
+          <LT>a quen non troba que é trobador</LT>
+
+          <LL>a quen non troba que é trobador</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:44</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+---+" ERI="aver" N="1" NS="10" RI="er">
+          <LT>Mais, amigas, conselho á d&#39; aver</LT>
+
+          <LL>Mais, amigas, conselho á d&#39; aver</LL>
+        </L>
+
+        <L AC="+--+---+-+" ERI="amar" N="2" NS="10" RI="ar">
+          <LT>dona que prez e parecer <SEG C="R" ID="4" N="RD">amar</SEG>:</LT>
+
+          <LL>dona que prez e parecer amar:</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="queixar" N="3" NS="10" RI="ar">
+          <LT>atender temp<SEG C="I" ID="7" N="RE">o</SEG> e non se queixar</LT>
+
+          <LL>atender tempo e non se queixar</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="perder" N="4" NS="10" RI="er">
+          <LT>e leixar <SEG C="M" ID="8" N="SIN">ja a</SEG>vol tempo perder,</LT>
+
+          <LL>e leixar ja avol tempo perder,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="alguen" N="5" NS="10" RI="en">
+          <LT>ca ben cuid&#39; eu que cedo ve<SEG C="M" ID="9" N="SIN">rrá al</SEG>guen</LT>
+
+          <LL>ca ben cuid&#39; eu que cedo verrá alguen</LL>
+        </L>
+
+        <L AC="--+----+-+" ERI="ben" N="6" NS="10" RI="en">
+          <LT>que se paga da que parece ben</LT>
+
+          <LL>que se paga da que parece ben</LL>
+        </L>
+
+        <L AC="---+-+-+-+" ERI="valer" N="7" NS="10" RI="er">
+          <LT>e veeredes ced&#39; amor valer</LT>
+
+          <LL>e veeredes ced&#39; amor valer</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="dda"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10</ESQMET>
+
+          <NOTMET>
+            <P>Sobre III.</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-+" ERI="son" N="1" NS="10" RI="on">
+          <LT>E os que ja desemparados <SEG C="R" ID="1" N="PV">son</SEG></LT>
+
+          <LL>E os que ja desemparados son</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="son" N="2" NS="10" RI="on">
+          <LT><SEG C="R" ID="5" N="CD">de vos</SEG> servir, sabud&#39; é quaes
+          <SEG C="R" ID="1" N="PV">son</SEG>:</LT>
+
+          <LL>de vos servir, sabud&#39; é quaes son:</LL>
+        </L>
+
+        <L AC="+--+--+--+" ERI="prender" N="3" NS="10" RI="er">
+          <LT>leixe os Deus maa morte prender</LT>
+
+          <LL>leixe os Deus maa morte prender</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

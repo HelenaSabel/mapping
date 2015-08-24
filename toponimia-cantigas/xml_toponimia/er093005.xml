@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "093005" TC = "REFR" NE = "6" SG = "NO" XE = "M MR" OL = "NON">
+<INCIPIT>Non poss' eu, madre, ir a Santa Cecilia</INCIPIT>
+<NUCANT>93 5</NUCANT>
+<RM BCA = "B" NM = "1273" F = "268v" MU = "NON" EM = "NO" I.FI = "lb268v">
+<NOTMAN N = "1">En B falta a cobra V.</NOTMAN></RM>
+<RM BCA = "B" NM = "1273" F = "269r" MU = "NON" EM = "NO" I.FI = "lb269r">
+<NOTMAN N = "1">En B falta a cobra V.</NOTMAN></RM>
+<RM BCA = "V" NM = "879" F = "138v" MU = "NON" EM = "NO" I.FI = "lv138v"></RM>
+<RM BCA = "V" NM = "879" F = "139r" MU = "NON" EM = "NO" I.FI = "lv139r"></RM>
+<EDIANT T = "CRITI">
+<P>Lopes, Ginzo, 4</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 256</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1222</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 879</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 24</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 296</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 115-116</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Piccolo 53</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 508</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "486"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>3/05/99</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1273.
+Est&aacute; situada na columna b do folio 268v.</P></COMNOTC></NOTC>
+<NOTC>E sse quiserdes
+<COMNOTC>
+<P>Reclamo situado na marxe inferior que indica que no seguinte folio segue
+cantiga B 1273.
+Man do copista.</P></COMNOTC></NOTC>
+<RUBRICA>Martim d Grizo
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na marxe superior enriba da
+columna a do folio 129r.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "OR"></TEMA>
+<TEMA CAT = "MA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ilia" ERI = "Cecilia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Non poss' eu, ma<SEG C = "M" N = "SIN" ID = "2">dre, ir</SEG> a Santa Cecilia</SEG></LT>
+<LL>Non poss' eu, madre, ir a Santa Cecilia</LL>
+<TOPO CAT = "LCULTO">Santa Cecilia</TOPO></L>
+<L N = "2" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">ca me guardades a noit' e o dia</SEG></SEG></LT>
+<LL>ca me guardades a noit' e o dia</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET>
+<NOTMET>
+<P>o verso 1 &eacute; hip&oacute;metro.</P></NOTMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "ado" ERI = "gasalhado" AC = "---+----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Non poss' eu, madr', aver gasalhado</SEG>,</LT>
+<LL>Non poss' eu, madr', aver gasalhado,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ado" ERI = "mandado" AC = "----+----+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">ca me non leixades fazer mandado</SEG></SEG></LT>
+<LL>ca me non leixades fazer mandado</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "dia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Ca me guardades a noit' e o dia</SEG>;</LT>
+<LL>Ca me guardades a noit' e o dia;</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "perfia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "5"><SEG C = "R" N = "LP" ID = "4">morrer-vos ei con aquesta perfia</SEG></SEG></LT>
+<LL>morrer-vos ei con aquesta perfia</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "mandado" AC = "----+----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Ca me non leixades fazer mandado</SEG>;</LT>
+<LL>Ca me non leixades fazer mandado;</LL>
+</L>
+<L N = "2" NS = "10" RI = "ado" ERI = "cuidado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "5"><SEG C = "R" N = "LP" ID = "4">morrer-vos ei con aqueste cuidado</SEG></SEG></LT>
+<LL>morrer-vos ei con aqueste cuidado</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "perfia" AC = "---+-----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Morrer-vos ei con aquesta perfia</SEG>,</LT>
+<LL>Morrer-vos ei con aquesta perfia,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ia" ERI = "guarria" AC = "----+----+-">
+<LT><SEG C = "R" N = "PL" ID = "6"><SEG C = "R" N = "LP" ID = "4">e, se me leixassedes ir, guarria</SEG></SEG></LT>
+<LL>e, se me leixassedes ir, guarria</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 4'</ESQMET></INFMET>
+<NUMESQ>26:89</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "cuidado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Morrer-vos ei con aqueste cuidado</SEG>,</LT>
+<LL>Morrer-vos ei con aqueste cuidado,</LL>
+</L>
+<L N = "2" NS = "10" RI = "ado" ERI = "grado" AC = "---+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "6"><SEG C = "R" N = "LP" ID = "4">e, se quiserdes, irei mui de grado</SEG></SEG></LT>
+<LL>e, se quiserdes, irei mui de grado</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "4" RI = "igo" ERI = "amigo" AC = "-+-+-">
+<LT>do meu amigo.</LT>
+<LL>do meu amigo.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

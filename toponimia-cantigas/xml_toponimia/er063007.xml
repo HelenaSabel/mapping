@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063007" TC = "REFR" NE = "3" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>A meu amigo mandad' enviei</INCIPIT>
+<NUCANT>63 7</NUCANT>
+<RM BCA = "B" NM = "1022" F = "218v" MU = "NON" EM = "NO" I.FI = "lb218v"></RM>
+<RM BCA = "V" NM = "612" F = "97v" MU = "NON" EM = "NO" I.FI = "lv097v"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 43 </P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 298</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 957</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 612</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Cidade, Poesia medieval, p. 52</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 555</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "42"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>13/06/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:76</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "enviei" AC = "---+-----+">
+<LT>A meu amigo mandad' enviei</LT>
+<LL>A meu amigo mandad' enviei</LL>
+</L>
+<L N = "2" NS = "10" RI = "e" ERI = "fe" AC = "----+----+">
+<LT>A Toled', amiga, per boa fe,</LT>
+<LL>A Toled', amiga, per boa fe,</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L>
+<L N = "3" NS = "10" RI = "e" ERI = "&eacute;" AC = "---+-----+">
+<LT>e mui ben creo que ja co el &eacute;;</LT>
+<LL>e mui ben creo que ja co el &eacute;;</LL>
+</L>
+<L N = "4" NS = "10" RI = "ei" ERI = "ei" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">preguntad', e gradecer-volo-ei</SEG>,</LT>
+<LL>preguntad', e gradecer-volo-ei,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "chegar" AC = "---+-----+">
+<LT>en quantos dias poder&aacute; chegar</LT>
+<LL>en quantos dias poder&aacute; chegar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "andar" AC = "----+----+">
+<LT>aqui, de Toledo, quen <SEG C = "R" N = "CFR" ID = "2">ben</SEG> andar.</LT>
+<LL>aqui, de Toledo, quen ben andar.</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:76</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "ben" AC = "----+----+">
+<LT>Ca do mandadeiro sei eu mui <SEG C = "R" N = "CFR" ID = "2">ben</SEG></LT>
+<LL>Ca do mandadeiro sei eu mui ben</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "disser" AC = "--+------+">
+<LT>que, depois que lh' o mandado disser,</LT>
+<LL>que, depois que lh' o mandado disser,</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "poder" AC = "---+-----+">
+<LT>que se verra m&aacute;is cedo que poder;</LT>
+<LL>que se verra m&aacute;is cedo que poder;</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "alguen" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">e, amiga, sabede v&oacute;s d' alguen</SEG></LT>
+<LL>e, amiga, sabede v&oacute;s d' alguen</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "chegar" AC = "---+-----+">
+<LT>en quantos <SEG C = "I" N = "RE" ID = "3">dias poder&aacute; chegar</SEG></LT>
+<LL>en quantos dias poder&aacute; chegar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "andar" AC = "----+----+">
+<LT><SEG C = "I" N = "RE" ID = "3">aqui, de Toledo, quen ben andar</SEG>.</LT>
+<LL>aqui, de Toledo, quen ben andar.</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:76</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eus" ERI = "meus" AC = "---+-----+">
+<LT>E sempre catan estes olhos meus</LT>
+<LL>E sempre catan estes olhos meus</LL>
+</L>
+<L N = "2" NS = "10" RI = "ir" ERI = "viir" AC = "---+-----+">
+<LT>per u eu cuido que &aacute; de viir</LT>
+<LL>per u eu cuido que &aacute; de viir</LL>
+</L>
+<L N = "3" NS = "10" RI = "ir" ERI = "oir" AC = "---+-----+">
+<LT>o mandadeir', e moiro por oir</LT>
+<LL>o mandadeir', e moiro por oir</LL>
+</L>
+<L N = "4" NS = "10" RI = "eus" ERI = "Deus" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "1">novas d' el, e preguntade, por Deus</SEG>,</LT>
+<LL>novas d' el, e preguntade, por Deus,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "ar" ERI = "chegar" AC = "---+-----+">
+<LT>en quantos dias poder&aacute; <SEG C = "I" N = "RE" ID = "4">chegar</SEG></LT>
+<LL>en quantos dias poder&aacute; chegar</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "andar" AC = "----+----+">
+<LT><SEG C = "I" N = "RE" ID = "4">aqui, de Toledo, quen ben andar</SEG>.</LT>
+<LL>aqui, de Toledo, quen ben andar.</LL>
+<TOPO CAT = "CIUDAD">Toledo</TOPO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "094010" TC = "MEST" NE = "4" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Maestr' Acen&ccedil;o, dereyto faria</INCIPIT>
+<NUCANT>94 10</NUCANT>
+<RM BCA = "B" NM = "916" F = "197r" MU = "NON" EM = "NO" I.FI = "lb197r"></RM>
+<RM BCA = "V" NM = "503" F = "80r" MU = "NON" EM = "NO" I.FI = "lv080r"></RM>
+<RM BCA = "V" NM = "503" F = "80v" MU = "NON" EM = "NO" I.FI = "lv080v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 282</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>CA II, pp. 472-473</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>MAchado 859</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 503</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 150</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 244</P></EDIANT>
+<DATOAU NOME = "Stegagno" NUA = "19"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>14/06/99</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "MT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10' 10' 10'</ESQMET></INFMET>
+<NUMESQ>161:209</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ia" ERI = "faria" AC = "-+-+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Maestr' Acen&ccedil;o</SEG>, dereyto <SEG C = "R" N = "RD" ID = "2">faria</SEG></LT>
+<LL>Maestr' Acen&ccedil;o, dereyto faria</LL>
+
+<ANTRO T = "REAL">Maestr' Acen&ccedil;o</ANTRO></L>
+<L N = "2" NS = "10" RI = "ada" ERI = "soldada" AC = "-+--+-+--+-">
+<LT>el-rrey de vus dar muy boa soldada,</LT>
+<LL>el-rrey de vus dar muy boa soldada,</LL>
+
+<ANTRO T = "REAL">Alfonso X o Sabio? (el rrey)</ANTRO></L>
+<L N = "3" NS = "10" RI = "ada" ERI = "cavalgada" AC = "---+-+---+-">
+<LT><SEG C = "R" N = "CD" ID = "3">porque</SEG> fezestes h&utilde;a cavalgada,</LT>
+<LL>porque fezestes h&utilde;a cavalgada,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ia" ERI = "dya" AC = "---+-+---+-">
+<LT>sem seu mandad', a Roda, n' outro dya;</LT>
+<LL>sem seu mandad', a Roda, n' outro dya;</LL>
+
+<TOPO CAT = "CIRCUNS">Roda</TOPO></L>
+<L N = "5" NS = "10" RI = "eiro" ERI = "dinheiro" AC = "---+---+-+-">
+<LT>sem sa ajuda e sem seu <SEG C = "R" N = "RD" ID = "4">dinheiro</SEG>,</LT>
+<LL>sem sa ajuda e sem seu dinheiro,</LL>
+</L>
+<L N = "6" NS = "10" RI = "eiro" ERI = "cavaleyro" AC = "+--+-+---+-">
+<LT>fostes al&aacute; matar hun <SEG C = "R" N = "RD" ID = "5">cavaleyro</SEG></LT>
+<LL>fostes al&aacute; matar hun cavaleyro</LL>
+</L>
+<L N = "7" NS = "10" RI = "ia" ERI = "desservya" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">porque</SEG> soubestes que o desservya.</LT>
+<LL>porque soubestes que o desservya.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10' 10' 10'</ESQMET></INFMET>
+<NUMESQ>161:209</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ado" ERI = "consselhado" AC = "----+-+--+-">
+<LT>E sse el-rey fos<SEG C = "I" N = "RE" ID = "6">s</SEG>e ben consselhado,</LT>
+<LL>E sse el-rey fosse ben consselhado,</LL>
+
+<ANTRO T = "REAL">Alfonso X o Sabio? (el rey)</ANTRO></L>
+<L N = "2" NS = "10" RI = "eiros" ERI = "dinheiros" AC = "-+-+--+--+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Maestr' Acen&ccedil;o</SEG>, d' aquestes <SEG C = "R" N = "RD" ID = "4">dinheiros</SEG></LT>
+<LL>Maestr' Acen&ccedil;o, d' aquestes dinheiros</LL>
+
+<ANTRO T = "REAL">Maestr' Acen&ccedil;o</ANTRO></L>
+<L N = "3" NS = "10" RI = "eiros" ERI = "cavaleiros" AC = "--+------+-">
+<LT>que lh' o demo leva nos <SEG C = "R" N = "RD" ID = "5">cavaleiros</SEG>,</LT>
+<LL>que lh' o demo leva nos cavaleiros,</LL>
+</L>
+<L N = "4" NS = "10" RI = "ado" ERI = "grado" AC = "---+-----+-">
+<LT>parti-los-hya vosco, per meu grado;</LT>
+<LL>parti-los-hya vosco, per meu grado;</LL>
+</L>
+<L N = "5" NS = "10" RI = "asse" ERI = "entrasse" AC = "---+-----+-">
+<LT>ca non foy tal, que a Roda entrasse,</LT>
+<LL>ca non foy tal, que a Roda entrasse,</LL>
+
+<TOPO CAT = "CIRCUNS">Roda</TOPO></L>
+<L N = "6" NS = "10" RI = "asse" ERI = "matasse" AC = "---+-----+-">
+<LT>que cavaleiro da vila matasse</LT>
+<LL>que cavaleiro da vila matasse</LL>
+</L>
+<L N = "7" NS = "10" RI = "ado" ERI = "desarmado" AC = "--+------+-">
+<LT>se non v&oacute;s, que hyades desarmado.</LT>
+<LL>se non v&oacute;s, que hyades desarmado.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10' 10' 10'</ESQMET></INFMET>
+<NUMESQ>161:209</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eito" ERI = "feito" AC = "---+-----+-">
+<LT>E do servi&ccedil;o que lh' avedes <SEG C = "R" N = "PV" ID = "7"><SEG C = "R" N = "RD" ID = "2">feito</SEG></SEG>,</LT>
+<LL>E do servi&ccedil;o que lh' avedes feito,</LL>
+</L>
+<L N = "2" NS = "10" RI = "edes" ERI = "enfadedes" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Maestr' Acen&ccedil;o</SEG>, non vos enfadedes:</LT>
+<LL>Maestr' Acen&ccedil;o, non vos enfadedes:</LL>
+
+<ANTRO T = "REAL">Maestr' Acen&ccedil;o</ANTRO></L>
+<L N = "3" NS = "10" RI = "edes" ERI = "barataredes" AC = "---+-----+-">
+<LT>tornad' al&aacute; e ben barataredes,</LT>
+<LL>tornad' al&aacute; e ben barataredes,</LL>
+</L>
+<L N = "4" NS = "10" RI = "eito" ERI = "geyto" AC = "---+-----+-">
+<LT>e matad' outro, quando virdes geyto;</LT>
+<LL>e matad' outro, quando virdes geyto;</LL>
+</L>
+<L N = "5" NS = "10" RI = "anda" ERI = "demanda" AC = "---+-----+-">
+<LT>ca, sse el-rrey sabe vossa demanda</LT>
+<LL>ca, sse el-rrey sabe vossa demanda</LL>
+
+<ANTRO T = "REAL">Alfonso X o Sabio? (el rey)</ANTRO></L>
+<L N = "6" NS = "10" RI = "anda" ERI = "anda" AC = "---+-----+-">
+<LT>e ouver paz d' es<SEG C = "M" N = "SIN" ID = "8">te e</SEG>xeco en<SEG C = "M" N = "SIN" ID = "9"> que an</SEG>da,</LT>
+<LL>e ouver paz d' este execo en que anda,</LL>
+</L>
+<L N = "7" NS = "10" RI = "eito" ERI = "feito" AC = "---+-----+-">
+<LT>arce<SEG C = "M" N = "HIA" ID = "10">d&iuml;a</SEG>gon sodes logo <SEG C = "R" N = "PV" ID = "7"><SEG C = "R" N = "RD" ID = "2">feito</SEG></SEG>.</LT>
+<LL>arced&iuml;agon sodes logo feito.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10' 10' 10' 10' 10' 10'</ESQMET></INFMET>
+<NUMESQ>161:209</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ando" ERI = "estando" AC = "---+-----+-">
+<LT>E diss' el-rrey n' outro dia, estando</LT>
+<LL>E diss' el-rrey n' outro dia, estando</LL>
+
+<ANTRO T = "REAL">Alfonso X o Sabio? (el rey)</ANTRO></L>
+<L N = "2" NS = "10" RI = "enda" ERI = "fazenda" AC = "---+-----+-">
+<LT>hu lhe falaron en vossa <SEG C = "R" N = "RD" ID = "2">fazenda</SEG>,</LT>
+<LL>hu lhe falaron en vossa fazenda,</LL>
+</L>
+<L N = "3" NS = "10" RI = "enda" ERI = "encomenda" AC = "---+-----+-">
+<LT>que vos quere dar Ardom en encomenda</LT>
+<LL>que vos quere dar Ardom en encomenda</LL>
+
+<TOPO CAT = "TOPOME">Ardom</TOPO></L>
+<L N = "4" NS = "10" RI = "ando" ERI = "bando" AC = "--+------+-">
+<LT><SEG C = "R" N = "CD" ID = "3">porque</SEG> dizem que sodes do sseu bando;</LT>
+<LL>porque dizem que sodes do sseu bando;</LL>
+</L>
+<L N = "5" NS = "10" RI = "aco" ERI = "fraco" AC = "----+----+-">
+<LT>mays, se hy jouver alg&utilde;u homen fraco,</LT>
+<LL>mays, se hy jouver alg&utilde;u homen fraco,</LL>
+</L>
+<L N = "6" NS = "10" RI = "aco" ERI = "ssaco" AC = "----+----+-">
+<LT>dos vossus poos levad' un gran ssaco</LT>
+<LL>dos vossus poos levad' un gran ssaco</LL>
+</L>
+<L N = "7" NS = "10" RI = "ando" ERI = "livrando" AC = "--+------+-">
+<LT>e hyr-s' i-lh' &aacute; o castelo livrando.</LT>
+<LL>e hyr-s' i-lh' &aacute; o castelo livrando.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

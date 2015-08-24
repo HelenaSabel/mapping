@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="006003" NE="3" OL="NON" SG="NO" TC="MEST" XE="E">
+      <INCIPIT>En Arouca űa casa faria,</INCIPIT>
+
+      <NUCANT>6 3</NUCANT>
+
+      <RM BCA="B" EM="NO" F="308r" I.FI="lb308r" MU="NON" NM="1471"></RM>
+
+      <RM BCA="V" EM="NO" F="176v" I.FI="lv176v" MU="NON" NM="1081"></RM>
+
+      <EDIANT T="PALEO">
+        <P>1381</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1081</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 134</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Poesía obscena, 38</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena. Lit. Galega, II, 110</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 59</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 45</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 77</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lorenzo Gradín, Madeira nova 890p</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lorenzo Gradín" NUA="9"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>David González Couso</NOME>
+
+        <DATE>19/11/08</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima c sing.)</P></FRI>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="CL"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10' 10 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:19</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+-+--+-" ERI="faria" N="1" NS="10" RI="ia">
+          <LT><SEG C="R" ID="1" N="PV"><SEG C="R" ID="2" N="RD">En Arouca űa casa faria,</SEG></SEG>,</LT>
+
+          <LL>En Arouca űa casa faria,</LL>
+
+          <TOPO CAT="ALDEA">Arouca</TOPO>
+        </L>
+
+        <L AC="--++-+---+" ERI="fazer" N="2" NS="10" RI="er">
+          <LT>atant' ei gran sabor de a <SEG C="R" ID="3" N="PV"><SEG C="R"
+                ID="2" N="RD">fazer</SEG></SEG></LT>
+
+          <LL>atant' ei gran sabor de a fazer</LL>
+        </L>
+
+        <L AC="---+-----+-" ERI="recearia" N="3" NS="10" RI="ia">
+          <LT>que ja mais custa non recearia,</LT>
+
+          <LL>que ja mais custa non recearia,</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="aver" N="4" NS="10" RI="er">
+          <LT>nen ar daria ren por meu <SEG C="R" ID="4" N="PV">aver</SEG>,</LT>
+
+          <LL>nen ar daria ren por meu aver,</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="cal" N="5" NS="10" RI="al">
+          <LT>ca ei <SEG C="R" ID="5" N="MDI">pedreiros</SEG> e <SEG C="R"
+          ID="5" N="MDI">pedra</SEG> e cal,</LT>
+
+          <LL>ca ei pedreiros e pedra e cal,</LL>
+        </L>
+
+        <L AC="-+-+---+-+" ERI="al" N="6" NS="10" RI="al">
+          <LT>e desta casa non mi mingua al</LT>
+
+          <LL>e desta casa non mi mingua al</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="queria" N="7" NS="10" RI="ia">
+          <LT>senon madeira nova que quer<SEG C="R" ID="6" N="CC">ia</SEG>.</LT>
+
+          <LL>senon madeira nova que queria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10 10' 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:119</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+-" ERI="serviria" N="1" NS="19" RI="ia">
+          <LT>E quen <SEG C="M" ID="7" N="SIN">mi a</SEG> desse sempr' o
+          servir<SEG C="R" ID="6" N="CC">ia</SEG>,</LT>
+
+          <LL>E quen mi a desse sempr' o serviria,</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="prazer" N="2" NS="10" RI="er">
+          <LT>ca mi faria i mui gran prazer</LT>
+
+          <LL>ca mi faria i mui gran prazer</LL>
+        </L>
+
+        <L AC="---+-+-+-+" ERI="aver" N="3" NS="10" RI="er">
+          <LT>de mi fazer madeira no<SEG C="M" ID="8" N="SIN">va <SEG C="R"
+                ID="4" N="PV">a</SEG></SEG><SEG C="R" ID="4" N="PV">ver</SEG>,</LT>
+
+          <LL>de mi fazer madeira nova aver,</LL>
+        </L>
+
+        <L AC="---+--+--+-" ERI="dia" N="4" NS="10" RI="ia">
+          <LT>en que lavrass' ũa peça do <SEG C="R" ID="9" N="PV">dia</SEG>;</LT>
+
+          <LL>en que lavrass' ũa peça do dia;</LL>
+        </L>
+
+        <L AC="--++-+---+" ERI="madeirar" N="5" NS="10" RI="ar">
+          <LT>e pois ir lo<SEG C="M" ID="10" N="SIN">go a</SEG> casa
+          madeirar</LT>
+
+          <LL>e pois ir logo a casa madeirar</LL>
+        </L>
+
+        <L AC="--+------+" ERI="telhar" N="6" NS="10" RI="ar">
+          <LT>e <SEG C="R" ID="5" N="MDI">telha</SEG>la, e, pois que a <SEG
+          C="R" ID="5" N="MDI">telhar</SEG>,</LT>
+
+          <LL>e telhala, e, pois que a telhar,</LL>
+        </L>
+
+        <L AC="-+-+--+--+-" ERI="dia" N="7" NS="10" RI="ia">
+          <LT>dormir en ela de noit' e de <SEG C="R" ID="9" N="PV">d<SEG C="R"
+                ID="11" N="CC">ia</SEG></SEG>.</LT>
+
+          <LL>dormir en ela de noit' e de dia.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10' 10 10 10' 10 10 10'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:119</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-+--+--+-" ERI="Maria" N="1" NS="10" RI="ia">
+          <LT>E, meus amigos, par Santa Mar<SEG C="R" ID="11" N="CC">ia</SEG>,</LT>
+
+          <LL>E, meus amigos, par Santa Maria,</LL>
+        </L>
+
+        <L AC="--+-+--+-+" ERI="aver" N="2" NS="10" RI="er">
+          <LT>se madeira nova podess' <SEG C="R" ID="4" N="PV">aver</SEG>,</LT>
+
+          <LL>se madeira nova podess' aver,</LL>
+        </L>
+
+        <L AC="-+-+--+--+" ERI="fazer" N="3" NS="10" RI="er">
+          <LT>logu' esta casa iria <SEG C="R" ID="3" N="PV"><SEG C="R" ID="2"
+                N="RD">fazer</SEG></SEG>,</LT>
+
+          <LL>logu' esta casa iria fazer,</LL>
+        </L>
+
+        <L AC="--+----+-+-" ERI="ía" N="4" NS="10" RI="ia">
+          <LT>e <SEG C="R" ID="5" N="MDI">cobri</SEG>la e <SEG C="R" ID="5"
+          N="MDI">descobri</SEG>la-ía,</LT>
+
+          <LL>e cobrila e descobrila-ía,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="mester" N="5" NS="10" RI="er">
+          <LT>e revolvela, se fosse mester;</LT>
+
+          <LL>e revolvela, se fosse mester;</LL>
+        </L>
+
+        <L AC="---+---+-+" ERI="der" N="6" NS="10" RI="er">
+          <LT>e, se <SEG C="M" ID="12" N="SIN">mi a</SEG> mi a abadessa
+          der</LT>
+
+          <LL>e, se mi a mi a abadessa der</LL>
+        </L>
+
+        <L AC="-+-+-+---+-" ERI="faria" N="7" NS="10" RI="ia">
+          <LT>madeira nova, esto lhi <SEG C="R" ID="1" N="PV"><SEG C="R"
+                ID="2" N="RD">faria</SEG></SEG>.</LT>
+
+          <LL>madeira nova, esto lhi faria.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "065001" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Amigo, se mi gran ben queredes</INCIPIT>
+<NUCANT>65 1</NUCANT>
+<RM BCA = "B" NM = "1269" F = "268r" MU = "NON" EM = "NO" I.FI = "lb268r"></RM>
+<RM BCA = "V" NM = "875" F = "138r" MU = "NON" EM = "NO" I.FI = "lv138r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 219</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1218</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 875</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirnho, 29</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 188</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 90</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 482</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 91</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 504</P></EDIANT>
+<DATOAU NOME = "Cantigas, Johan de Cangas" NUA = "3"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>02/11/04</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>9' 9' 9'</ESQMET></INFMET>
+<NUMESQ>26:91</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "9" RI = "edes" ERI = "queredes" AC = "-+----+-+-">
+<LT>Amigo, se mi gran ben queredes,</LT>
+<LL>Amigo, se mi gran ben queredes,</LL>
+</L>
+<L N = "2" NS = "9" RI = "edes" ERI = "edes" AC = "+---+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">id'</SEG> a San Momed' e veerm' edes</SEG>.</LT>
+<LL>id' a San Momed' e veerm' edes.</LL>
+<TOPO CAT = "LCULTO">San Mamede</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "igo" ERI = "amigo" AC = "+----+--+-">
+<LT>Oje non mi men&ccedil;ades, amigo.</LT>
+<LL>Oje non mi men&ccedil;ades, amigo.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 9'</ESQMET></INFMET>
+<NUMESQ>26:73</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "dizer" AC = "---+--+--+">
+<LT>Pois<SEG C = "M" N = "SIN" ID = "3"> mi a</SEG>qui ren non podedes dizer,</LT>
+<LL>Pois mi aqui ren non podedes dizer,</LL>
+</L>
+<L N = "2" NS = "10" RI = "er" ERI = "lezer" AC = "+--+--+--+">
+<LT><SEG C = "R" N = "CD" ID = "2">id'</SEG> u ajades comigo lezer.</LT>
+<LL>id' u ajades comigo lezer.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "igo" ERI = "amigo" AC = "+----+--+-">
+<LT>Oje non mi men&ccedil;ades, amigo.</LT>
+<LL>Oje non mi men&ccedil;ades, amigo.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 9'</ESQMET></INFMET>
+<NUMESQ>26:73</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "Mar" AC = "--+---+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Serei vosqu' en San Momede do Mar</SEG>,</LT>
+<LL>Serei vosqu' en San Momede do Mar,</LL>
+<TOPO CAT = "LCULTO">San Mamede do Mar</TOPO></L>
+<L N = "2" NS = "10" RI = "ar" ERI = "aguisar" AC = "--+---+--+">
+<LT>na ermida, se mio Deus aguisar.</LT>
+<LL>na ermida, se mio Deus aguisar.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "9" RI = "igo" ERI = "amigo" AC = "+----+--+-">
+<LT>Oje non mi men&ccedil;ades, amigo.</LT>
+<LL>Oje non mi men&ccedil;ades, amigo.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

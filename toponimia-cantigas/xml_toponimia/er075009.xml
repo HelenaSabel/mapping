@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "075009" TC = "MEST" NE = "3" SG = "NO" XE = "T EL" OL = "NON">
+<INCIPIT>Joan So&aacute;rez, non poss' eu estar</INCIPIT>
+<NUCANT>75 9</NUCANT>
+<TENSO NOME = "Johan Soarez Coelho">
+<NUCANT>79 31</NUCANT></TENSO>
+<RM BCA = "V" NM = "1011" F = "162v" MU = "NON" EM = "NO" I.FI = "lv162v"></RM>
+<RM BCA = "V" NM = "1011" F = "163r" MU = "NON" EM = "NO" I.FI = "lv163r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1658</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1011</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 185</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "223"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>3/09/97</DATE>
+</RESP>
+<FRI>c. doblas</FRI>
+<TEMA CAT = "BT">
+<SUBTEMA CAT = "XT"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>101:13</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "estar" AC = "-+-+--+--+">
+<LT><SEG C = "R" N = "CD" ID = "1">- Joan So&aacute;rez</SEG>, non poss' eu estar</LT>
+<LL>- Joan So&aacute;rez, non poss' eu estar</LL>
+
+<ANTRO T = "REAL">Johan Soarez Coelho (Joan So&aacute;rez)</ANTRO></L>
+<L N = "2" NS = "10" RI = "i" ERI = "aqui" AC = "---+---+-+">
+<LT>que vos non diga o que vej' aqui:</LT>
+<LL>que vos non diga o que vej' aqui:</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "travar" AC = "+--+--+--+">
+<LT>vejo Louren&ccedil;o con muitos travar,</LT>
+<LL>vejo Louren&ccedil;o con muitos travar,</LL>
+
+<ANTRO T = "REAL">Loren&ccedil;o jogral</ANTRO></L>
+<L N = "4" NS = "10" RI = "i" ERI = "mi" AC = "----+--+-+">
+<LT>pero nono vejo travar <SEG C = "R" N = "DO" ID = "2">en mi</SEG>;</LT>
+<LL>pero nono vejo travar en mi;</LL>
+</L>
+<L N = "5" NS = "10" RI = "az" ERI = "faz" AC = "---+-+---+">
+<LT>e ben sei eu por que aquesto <SEG C = "R" N = "PV" ID = "3">faz</SEG>:</LT>
+<LL>e ben sei eu por que aquesto faz:</LL>
+</L>
+<L N = "6" NS = "10" RI = "az" ERI = "jaz" AC = "---+-+---+">
+<LT>por que sab' el que, quant' en trobar jaz,</LT>
+<LL>por que sab' el que, quant' en trobar jaz,</LL>
+</L>
+<L N = "7" NS = "10" RI = "i" ERI = "mi" AC = "---+---+-+">
+<LT>que<SEG C = "M" N = "SIN" ID = "4"> mi o</SEG> sei to<SEG C = "M" N = "SIN" ID = "45">do e</SEG> que x' &eacute; tod' <SEG C = "R" N = "DO" ID = "2">en mi</SEG>.</LT>
+<LL>que mi o sei todo e que x' &eacute; tod' en mi.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET>
+<NOTMET>
+<P>Para que o v. 1 sexa decas&iacute;labo debemos contar Joan e loar como
+monos&iacute;labos.</P></NOTMET>
+</INFMET>
+<NUMESQ>101:13</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ar" ERI = "loar" AC = "+--+-+---+">
+<LT>- Joan d' Avo&iacute;n, o&iacute;-vos ora loar</LT>
+<LL>- Joan d' Avo&iacute;n, o&iacute;-vos ora loar</LL>
+
+<ANTRO T = "REAL">Johan Perez d' Aboin (Joan d' Avo&iacute;n)</ANTRO></L>
+<L N = "2" NS = "10" RI = "i" ERI = "rii" AC = "---+-+---+">
+<LT>vosso trobar e muito m' en rii,</LT>
+<LL>vosso trobar e muito m' en rii,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "boiar" AC = "--+---+--+">
+<LT>er dizede que sabedes boiar,</LT>
+<LL>er dizede que sabedes boiar,</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "assi" AC = "----+--+-+">
+<LT>ca beno podedes dizer <SEG C = "R" N = "DO" ID = "2">assi</SEG>;</LT>
+<LL>ca beno podedes dizer assi;</LL>
+</L>
+<L N = "5" NS = "10" RI = "az" ERI = "Orgaz" AC = "---+--+--+">
+<LT>e que x' &eacute; vosso Toled' e Orgaz,</LT>
+<LL>e que x' &eacute; vosso Toled' e Orgaz,</LL>
+
+<TOPO CAT = "CIUDAD">Toledo</TOPO>
+<TOPO CAT = "CIUDAD">Orgaz</TOPO></L>
+<L N = "6" NS = "10" RI = "az" ERI = "faz" AC = "---+---+-+">
+<LT>e todo quanto se no mundo <SEG C = "R" N = "PV" ID = "3">faz</SEG></LT>
+<LL>e todo quanto se no mundo faz</LL>
+</L>
+<L N = "7" NS = "10" RI = "i" ERI = "assi" AC = "--++--+--+">
+<LT>ca por v&oacute;s x' este, -<SEG C = "R" N = "CF" ID = "6">dized<SEG C = "M" N = "SIN" ID = "7"><SEG C = "I" N = "RE" ID = "8">e</SEG></SEG></SEG><SEG C = "M" N = "SIN" ID = "7"><SEG C = "I" N = "RE" ID = "9">-o</SEG></SEG> <SEG C = "R" N = "DO" ID = "2">assi</SEG>.</LT>
+<LL>ca por v&oacute;s x' este, -dizede-o assi.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET>
+<NOTMET>
+<P>O v. 4 &eacute;hip&oacute;metro.</P></NOTMET>
+</INFMET>
+<NUMESQ>101:13</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ei" ERI = "direi" AC = "-+-+---+-+">
+<LT><SEG C = "R" N = "CD" ID = "1">- Joan So&aacute;rez</SEG>, nunca eu <SEG C = "R" N = "CF" ID = "6">direi</SEG></LT>
+<LL>- Joan So&aacute;rez, nunca eu direi</LL>
+
+<ANTRO T = "REAL">Johan Soarez Coelho (Joan So&aacute;rez)</ANTRO></L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "---+--+--+">
+<LT>senon aquelo que eu souber ben;</LT>
+<LL>senon aquelo que eu souber ben;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ei" ERI = "sei" AC = "---+--+--+">
+<LT>e do que se pelo mundo faz, sei</LT>
+<LL>e do que se pelo mundo faz, sei</LL>
+</L>
+<L N = "4" NS = "9" RI = "en" ERI = "alguen" AC = "--+-+---+">
+<LT>que se faz por mi ou por <SEG C = "R" N = "DO" ID = "2">alguen</SEG>;</LT>
+<LL>que se faz por mi ou por alguen;</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "eu" AC = "--+---+--+">
+<LT>mais Toledo nen Orgaz non poss' eu</LT>
+<LL>mais Toledo nen Orgaz non poss' eu</LL>
+</L>
+<L N = "6" NS = "10" RI = "eu" ERI = "deu" AC = "-+---+---+">
+<LT>aver; mais en trobar, que mi Deus deu,</LT>
+<LL>aver; mais en trobar, que mi Deus deu,</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "alguen" AC = "-+---+---+">
+<LT>conhosco <SEG C = "I" N = "RE" ID = "7">ben</SEG> se troba mal <SEG C = "R" N = "DO" ID = "2">alguen</SEG>.</LT>
+<LL>conhosco ben se troba mal alguen.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

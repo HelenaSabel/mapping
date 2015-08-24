@@ -1,0 +1,4712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Coimbra</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estêvan fezo sa partiçon</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Runa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estêvan fezo sa partiçon</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arnado</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estêvan fezo sa partiçon</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amarante</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estêvan fezo sa partiçon</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Coelho</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muimenta</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ogan', en Muimenta</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Somesso</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sil</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ogan', en Muimenta</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Soarez Somesso</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Hun dia vi mha senhor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Trist' and' eu, velida, e ben vo-lo digo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Se meu amig' a San Servando for</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Quand' eu a San Servando fui un dia daqui</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ora van a San Servando donas fazer romaria</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O meu amigo, que me faz viver</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Mia madre velida, e non me guardedes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ir-se quer o meu amigo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Foi-s' agora meu amigu' e por en</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Fui eu a San Servando por veer meu amigo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Servando</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Filha, o que queredes ben</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em> sa sela muito dura</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toledo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Domingo Caorinha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Servando</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Loavan un dia, en Lugo, Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Romeu de Lugo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toledo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Sorez, non poss' eu estar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Perez d' Aboim</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orgaz</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Sorez, non poss' eu estar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Perez d' Aboim</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barcelos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Se m' ora Deus gran ben fazer quisesse</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Se m' ora Deus gran ben fazer quisesse</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juncal ?</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Lourenço, pois te quitas de rascar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santarén</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Elvira López, aqui, noutro dia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Cuydou-s' amor que logo me faria</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Segobha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Cuydou-s' amor que logo me faria</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ai amigas, perdud' an conhocer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Garcia de Guilhade</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pavia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O que seja no pavio</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Fernandez d' Ardeleiro</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A mi dizen quantos amigos ey</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Fernandez d' Ardeleiro</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro (Faro)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois vs, filha, queredes mui gran ben</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro (Faro)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Fui eu, madr', en romaria a Faro con meu amigo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro (Faro)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Atender quer' eu mandado, que m' enviou meu amigo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Atender quer' eu mandado, que m' enviou meu amigo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro (Faro)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Amiga, quen oj' ouvesse</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Faro (Faro)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A Far' un dia irei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Requeixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Mamede</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Fui eu, madr', a San Momed', u me cuidei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Cangas</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Mamede</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>En San Momed', u sabedes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Cangas</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Mamede</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Amigo, se mi gran ben queredes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Cangas</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Mamede do Mar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Amigo, se mi gran ben queredes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan de Cangas</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jordan</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero d' Anbroa prometeu de pram</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Baveca</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monpilier</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero d' Anbroa prometeu de pram</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Baveca</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roçavales</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero d' Anbroa prometeu de pram</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Baveca</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Rui Martĩiz, pois que est' é assi</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/menores.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crecente</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pelo souto de Crecente</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pelo souto de Crecente</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O voss' amigo, que s' a cas d' el-rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Meu senhor Rei de Castela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mompiler</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Dizen que ora chegou don Beeito</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambrai</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lampai</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minho</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crecente</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A por que perço o dormir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Andei, senhor, Leon e Castela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Andei, senhor, Leon e Castela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toledo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A meu amigo mandad' enviei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ai Justia, mal fazedes que non</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan Airas, burgués de Santiago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os namorados que troban d' amor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan, jograr morador en León</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/menores.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aragom</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os namorados que troban d' amor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Johan, jograr morador en León</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/menores.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero Fernandiz, home de barnage</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gonçal' Eanes do Vinhal</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campus</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Non levava nen dinheyro</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gonçal' Eanes do Vinhal</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cornoalha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Maestre, todo' lus vossos cantares</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gonçal' Eanes do Vinhal</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mouron</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Amigas, eu oy dizer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gonçal' Eanes do Vinhal</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Treeçon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Mal faç' eu velida, que ora non vou</em></li>
+                    <li>
+                        <strong>Autor: </strong>Golparro</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monte-mayor</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Tu, que ora vẽes de Monte-mayor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Sanchez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Quen me podia defender</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Jograr, tres cousas avedes mester</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodoma</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Já eu non ei por quen trobar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gomorra</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Já eu non ei por quen trobar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campou</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ben sabedes, senhor Rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olmedo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ben sabedes, senhor Rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Badalhou</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ben sabedes, senhor Rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toledo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ben sabedes, senhor Rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Gil Perez Conde</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romai</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Lop' Anaia non se vaia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambrai</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Lop' Anaia non se vaia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sevilha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Lop' Anaia non se vaia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oscos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Lop' Anaia non se vaia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estorga</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Guilhelm' e Don Adan e Don Migueel Carrio</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Esturas</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Contar-vos-ei costumes e feituras</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leone</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ai, amor, amore de Pero Cantone</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Soarez de Quinhones</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aragon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Pedro este cunhado del-Rei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Rodriguez Redondo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dorma</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Quand' eu passei per Dorma</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Paez de Talamancos (Tamalancos)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burgos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Esta ama cuj'  Joham Coelho</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Garcia Esgaravunha</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carrhon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Esta ama cuj'  Joham Coelho</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Garcia Esgaravunha</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Esta ama cuj'  Joham Coelho</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan Garcia Esgaravunha</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Lago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>D' ir a Santa Maria do Lagu' ei gram sabor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan do Lago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria do Lago (Santa Maria)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>D' ir a Santa Maria do Lagu' ei gram sabor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernan do Lago</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Que adubastes, amigo, al en Lug' u andastes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernand' Esquio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Que adubastes, amigo, al en Lug' u andastes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernand' Esquio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estev' Eanes, por Deus mandade</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan Fernandiz Barreto (Barreiro)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tridade</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estev' Eanes, por Deus mandade</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan Fernandiz Barreto (Barreiro)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gafaria</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estev' Eanes, por Deus mandade</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan Fernandiz Barreto (Barreiro)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santaren</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estev' Eanes, por Deus mandade</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan Fernandiz Barreto (Barreiro)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alhariz</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Vós, Don Josep, venho eu preguntar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valada</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Dũa gran vinha que ten en Valada</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lisboa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leira</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stremadura</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minho</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse-m' oj' assi un ome</em></li>
+                    <li>
+                        <strong>Autor: </strong>Estevan da Guarda</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sousa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Meu senhor arcebispo, and' eu escomungado</em></li>
+                    <li>
+                        <strong>Autor: </strong>Diego Pezelho</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aragon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os d' Aragon, que soen donear</em></li>
+                    <li>
+                        <strong>Autor: </strong>Caldeiron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cadalonha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os d' Aragon, que soen donear</em></li>
+                    <li>
+                        <strong>Autor: </strong>Caldeiron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os d' Aragon, que soen donear</em></li>
+                    <li>
+                        <strong>Autor: </strong>Caldeiron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galiza</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os d' Aragon, que soen donear</em></li>
+                    <li>
+                        <strong>Autor: </strong>Caldeiron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fariza</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Os d' Aragon, que soen donear</em></li>
+                    <li>
+                        <strong>Autor: </strong>Caldeiron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Se veess' o meu amigo a Bonaval e me visse</em></li>
+                    <li>
+                        <strong>Autor: </strong>Bernal de Bonaval</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Rogar vos quer' eu, mha madre e mha senhor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Bernal de Bonaval</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois mi dizedes, amigo, ca mi queredes vós melhor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Bernal de Bonaval</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Diss' a fremosa en Bonaval assy</em></li>
+                    <li>
+                        <strong>Autor: </strong>Bernal de Bonaval</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A Bonaval quer' eu, mha senhor, hir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Bernal de Bonaval</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ultramar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Sinner, us vein quer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Arnaldo (Arnaut Catalan?)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/menores.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Exarafe</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Tanto sei de vs, ricomen: pois fordes na alcaria</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jelusalen</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Senhor, justia viimos pedir</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roma</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Se me graça fezesse este Papa de Roma!</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vila Real</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero da Ponte, paro-vos sinal</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Graada</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O que foi passar a serra</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veiga</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O que foi passar a serra</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burgos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O que da guerra levou cavaleiros</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auguadalquivir</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O genete</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>riba Sil</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Mester avia Don Gil</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dea</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Med' ei ao pertigueiro que ten Dea</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Rodriguiz foi esmar a Balteira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Rodriguiz foi esmar a Balteira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lombardia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Rodriguiz foi esmar a Balteira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alamanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Rodriguiz foi esmar a Balteira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Rodrigo moordomo que ben pos al Rei a mesa</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Val de Canhas</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Rodrigo moordomo que ben pos al Rei a mesa</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Souto Maior</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Meendo, Don Meendo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sevilha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Gonalo, pois queredes ir daqui pera Sevilha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Libira</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Gonalo, pois queredes ir daqui pera Sevilha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alcal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Gonalo, pois queredes ir daqui pera Sevilha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Gonalo, pois queredes ir daqui pera Sevilha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talaveira</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Foan, quand' ogano aqui chegou</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lora</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Foan, quand' ogano aqui chegou</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ourense (Ourens), referido con toda seguridade 
+vio do Ribeiro.</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Com' eu en dia de Pascoa queria ben comer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clez</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ao daian de Clez eu achei</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilanansur de Ferreiros</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escobar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cizneiros</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lavradores</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carvoeiros</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estepar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Azevedo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fouce</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabreiros</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilar de Paes</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ansur Moniz, muit' ouve gran pesar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>guarda</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ai eu coitada como vivo en gran cuidado</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alfonso X o Sabio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santarn</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Sorez, pero vs teedes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Joan Nicolás soube guarecer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estorga</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Fernan Daz  aqui, como vistes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Fagundo</name>
+      <description><![CDATA[
+                <ul>
+                    <li><strong>Topónimo actual: <strong>Sahagún</li>
+                    <li>
+                        <strong>Cantiga: </strong><em>Fernan Daz  aqui, como vistes</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-5.0273, 42.3712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Fagundo</name>
+      <description><![CDATA[
+                <ul>
+                    <li><strong>Topónimo actual: <strong>Sahagún</li>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Fernando, vejo-vos andar ledo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-5.0273, 42.3712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Esturas</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Fernando, vejo-vos andar ledo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ovedo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Fernando, vejo-vos andar ledo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santaren</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estvo diz que desamor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Potugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Estvo diz que desamor</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beira</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monsanto</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marialva</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leirea</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santaren</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trancoso</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sintra</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Celorico</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Á lealdade da Bezerra que pela Beira muito anda</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Perez Vuitoron</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria de Reça</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Quer' ir a Santa Maria de Reça, e, irmana, treides migo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Paez, jograr</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria de Reça</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Por vee-lo namorado que muit'  que eu non vi</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Paez, jograr</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Porque no mundo mengou a verdade</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redondela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O meu señor, o bispo, na Redondela ũu dia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valedolide</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O meu señor, o bispo, na Redondela ũu dia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Molide</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O meu señor, o bispo, na Redondela ũu dia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tudela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castela</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Navarra</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arangon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lombardia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Desfiar enviaron ora de Tudela</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A Santiagu' en romaria ven</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Nunez</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Por fazer romaria, pug' en meu coraon</em></li>
+                    <li>
+                        <strong>Autor: </strong>Airas Carpancho (Corpancho)</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leirea</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O arraiz de Ro Garcia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Mendez de Besteiros</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santaren</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O arraiz de Ro Garcia</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Mendez de Besteiros</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>J lhi nunca pediran</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Mendez de Besteiros</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>J lhi nunca pediran</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Mendez de Besteiros</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portugal</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Don Foo, que eu sei que  preo de livo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Mendez de Besteiros</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mosteiro de Longos (Longos)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Seiaxi Don Belpelho en ũa sa maison,</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Basto</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Seiaxi Don Belpelho en ũa sa maison,</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beira</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Seiaxi Don Belpelho en ũa sa maison,</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria das Leiras</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ir quer' oj' eu, fremosa, de coraçon,</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arouca</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>En Arouca űa casa faria,</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Maria das Leiras</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Dis[s]eronmi ũas novas de que m' é mui gran ben</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afonso Lopez de Baian</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amigo.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leon</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Veeron-m' agora dizer</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Geen</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pero da Ponte, ou eu non vejo ben</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Josafs</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alcor</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ultramar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mormoion</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blandiz</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belen</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamariz</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Paai Rengel e outros dous romeus</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ultramar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Meestre Nicolás, a meu cuidar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mompisler</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Meestre Nicolás, a meu cuidar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toledo</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>A a velha quis ora trobar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castro</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>As mias jornadas vedes quaes son</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burgos</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>As mias jornadas vedes quaes son</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palença</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>As mias jornadas vedes quaes son</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carrion</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>As mias jornadas vedes quaes son</em></li>
+                    <li>
+                        <strong>Autor: </strong>Afons' Eanes do Coton</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Vaia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Porto</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaia</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sanhoane</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Pois non ei de Dona Elvira</em></li>
+                    <li>
+                        <strong>Autor: </strong>Anónimo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ensar</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>O que me d' Ensar corrudo</em></li>
+                    <li>
+                        <strong>Autor: </strong>Pero Larouco</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bretanha</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Disse hum infante ante sa companha</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernand' Esquio</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/escarnho.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toroño (Torona)</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ala u jaz la Torona</em></li>
+                    <li>
+                        <strong>Autor: </strong>Garcia Mendiz d' Eixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sousa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Ala u jaz la Torona</em></li>
+                    <li>
+                        <strong>Autor: </strong>Garcia Mendiz d' Eixo</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Porto</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Do Port' ando e vou mudar</em></li>
+                    <li>
+                        <strong>Autor: </strong>Fernand' Eanes</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/amor.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lisboa</name>
+      <description><![CDATA[
+                <ul>
+                    <li>
+                        <strong>Cantiga: </strong><em>Luis Vaasquez, depois que parti</em></li>
+                    <li>
+                        <strong>Autor: </strong>Alvaro Afonso</li>
+                </ul>
+            ]]></description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://www.obdurodon.org/~heb43/menores.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

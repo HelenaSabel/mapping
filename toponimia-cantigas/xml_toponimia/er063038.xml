@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="063038" NE="3+F" OL="NON" SG="NO" TC="MEST" XE="EA">
+      <INCIPIT>Meu senhor Rei de Castela</INCIPIT>
+
+      <NUCANT>63 38</NUCANT>
+
+      <RM BCA="B" EM="NO" F="209r" I.FI="lb209r" MU="NON" NM="966"></RM>
+
+      <RM BCA="V" EM="NO" F="87v" I.FI="lv087v" MU="NON" NM="553"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Fdez. Pousa, Joán Airas, 23</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 177</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA II, p. 664</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 553</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Varnhagen, Cancioneirinho, 7</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 29</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 83</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 138</P>
+      </EDIANT>
+
+      <DATOAU NOME="Rodríguez" NUA="70"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>15/07/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rimas a, c sing.)</P></FRI>
+
+      <TEMA CAT="OR"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababbcb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>90:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="Castela" N="1" NS="7" RI="ela">
+          <LT><SEG C="R" ID="1" N="CD">Meu senhor</SEG> Rei de Castela,</LT>
+
+          <LL>Meu senhor Rei de Castela,</LL>
+
+          <ANTRO T="REAL">Alfonso X, o Sabio? (Rei de Castela)</ANTRO>
+        </L>
+
+        <L AC="---+--+" ERI="querelar" N="2" NS="7" RI="ar">
+          <LT><SEG C="R" ID="2" N="CD">venho</SEG>-me vos querelar,</LT>
+
+          <LL>venho-me vos querelar,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="donzela" N="3" NS="7" RI="ela">
+          <LT>eu amei ũa donzela</LT>
+
+          <LL>eu amei ũa donzela</LL>
+        </L>
+
+        <L AC="---+--+" ERI="trobar" N="4" NS="7" RI="ar">
+          <LT>por que m&#39; ouvistes trobar,</LT>
+
+          <LL>por que m&#39; ouvistes trobar,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="casar" N="5" NS="7" RI="ar">
+          <LT>e con quen se foi casar,</LT>
+
+          <LL>e con quen se foi casar,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="dixi" N="6" NS="7" RI="ixi">
+          <LT><SEG C="R" ID="3" N="PP">por quanto d&#39; ela ben <SEG C="R"
+ID="4" N="RD">dixi</SEG></SEG>,</LT>
+
+          <LL>por quanto d&#39; ela ben dixi,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="matar" N="7" NS="7" RI="ar">
+          <LT>quer-m&#39; ora por én matar.</LT>
+
+          <LL>quer-m&#39; ora por én matar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababbcb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>90:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="dereito" N="1" NS="7" RI="eito">
+          <LT>Fiador pera dereito</LT>
+
+          <LL>Fiador pera dereito</LL>
+        </L>
+
+        <L AC="---+--+" ERI="dar" N="2" NS="7" RI="ar">
+          <LT>lhi quix perante vós dar,</LT>
+
+          <LL>lhi quix perante vós dar,</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="despeito" N="3" NS="7" RI="eito">
+          <LT>el ouve de min despeito</LT>
+
+          <LL>el ouve de min despeito</LL>
+        </L>
+
+        <L AC="--+---+" ERI="desafiar" N="4" NS="7" RI="ar">
+          <LT>e mandou-me desafiar;</LT>
+
+          <LL>e mandou-me desafiar;</LL>
+        </L>
+
+        <L AC="--+---+" ERI="morar" N="5" NS="7" RI="ar">
+          <LT>non lh&#39; ousei ala morar,</LT>
+
+          <LL>non lh&#39; ousei ala morar,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="emparedes" N="6" NS="7" RI="edes">
+          <LT><SEG C="R" ID="3" N="PP"><SEG C="R" ID="2" N="CD">venh&#39;</SEG> a vós que m&#39; <SEG
+C="R" ID="5" N="RD">emparedes</SEG></SEG></LT>
+
+          <LL>venh&#39; a vós que m&#39; emparedes</LL>
+        </L>
+
+        <L AC="--+---+" ERI="emparar" N="7" NS="7" RI="ar">
+          <LT>ca non ei quen m&#39; <SEG C="R" ID="5" N="RD">emparar</SEG>.</LT>
+
+          <LL>ca non ei quen m&#39; emparar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababbcb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7 7&#39; 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>90:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="Maria" N="1" NS="7" RI="ia">
+          <LT><SEG C="R" ID="1" N="CD">Senhor</SEG>, por Santa Maria,</LT>
+
+          <LL>Senhor, por Santa Maria,</LL>
+        </L>
+
+        <L AC="----+-+" ERI="chamar" N="2" NS="7" RI="ar">
+          <LT>mandad&#39; ante vós chamar</LT>
+
+          <LL>mandad&#39; ante vós chamar</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="dia" N="3" NS="7" RI="ia">
+          <LT>ela e min algun dia,</LT>
+
+          <LL>ela e min algun dia,</LL>
+        </L>
+
+        <L AC="-+----+" ERI="razõar" N="4" NS="7" RI="ar">
+          <LT>mandade-nos razõar;</LT>
+
+          <LL>mandade-nos razõar;</LL>
+        </L>
+
+        <L AC="----+-+" ERI="queixar" N="5" NS="7" RI="ar">
+          <LT>se s&#39; ela de min queixar</LT>
+
+          <LL>se s&#39; ela de min queixar</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="dissesse" N="6" NS="7" RI="esse">
+          <LT><SEG C="R" ID="3" N="PP">de nulha ren que <SEG C="R" ID="4"
+N="RD">dissesse</SEG></SEG>,</LT>
+
+          <LL>de nulha ren que dissesse,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="entrar" N="7" NS="7" RI="ar">
+          <LT>en sa prison quer&#39; entrar.</LT>
+
+          <LL>en sa prison quer&#39; entrar.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="ded"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7 7&#39; 7</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+" ERI="val" N="1" NS="7" RI="al">
+          <LT>Se mi Justiça non val</LT>
+
+          <LL>Se mi Justiça non val</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="justiceiro" N="2" NS="7" RI="eiro">
+          <LT>ante Rei tan justiceiro,</LT>
+
+          <LL>ante Rei tan justiceiro,</LL>
+
+          <ANTRO T="REAL">Alfonso X, O Sabio? (Rei)</ANTRO>
+        </L>
+
+        <L AC="-+----+" ERI="Portugal" N="3" NS="7" RI="al">
+          <LT>ir-m&#39; ei ao de Portugal.</LT>
+
+          <LL>ir-m&#39; ei ao de Portugal.</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

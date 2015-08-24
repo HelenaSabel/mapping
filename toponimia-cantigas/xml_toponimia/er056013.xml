@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="056013" NE="4+2F" OL="NON" SG="NO" TC="MEST" XE="ES">
+      <INCIPIT>Quen me podia defender</INCIPIT>
+
+      <NUCANT>56 13</NUCANT>
+
+      <RM BCA="B" EM="NO" F="319r" I.FI="lb319r" MU="NON" NM="1526"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Randgl. VI, pp. 309-310</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 399</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1438</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 199-200</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 122</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="162"><COMAU><P>Lapa comenta en nota: &#34;Rimam
+      entre si os últimos versos de cada estrofe, artifício conhecido na
+      poesia occitânica sob o nome de bordons estramps&#34;. Baseándonos
+      nisto, preferimos distinguir, igual qur Tavani, dúas fiindas de tres
+      versos, en lugar de unha de seis.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>5/06/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(rima d unis.)</P></FRI>
+
+      <TEMA CAT="VIN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abbacacd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 6&#39; 8 7&#39; 6&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Seguímo-las anotacións que fai Lapa ó esquema métrico cando di:
+            &#34;A versificação da cantiga é requintada: versos agudos de 8
+            sílabas, graves de 7 e graves de seis&#34;. Tavani pola súa parte
+            ofrece o esquema: 158:2, a8 b8 b8 a8 c6&#39; a8 c6&#39; d6&#39;</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="defender" N="1" NS="8" RI="er">
+          <LT>Quen me podia defender</LT>
+
+          <LL>Quen me podia defender</LL>
+        </L>
+
+        <L AC="--+----+" ERI="pelejador" N="2" NS="8" RI="or">
+          <LT>senon Deus dun pelejador,</LT>
+
+          <LL>senon Deus dun pelejador,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="departidor" N="3" NS="8" RI="or">
+          <LT><SEG C="R" ID="1" N="CD">por que</SEG> me faz <SEG C="R" ID="2"
+          N="RD">departidor</SEG></LT>
+
+          <LL>por que me faz departidor</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="dizer" N="4" NS="8" RI="er">
+          <LT>e diz-mi ao que ei dizer:</LT>
+
+          <LL>e diz-mi ao que ei dizer:</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="neciidade" N="5" NS="6" RI="ade">
+          <LT>- Dizedes neciidade.</LT>
+
+          <LL>- Dizedes neciidade.</LL>
+        </L>
+
+        <L AC="---+---+" ERI="sofrer" N="6" NS="8" RI="er">
+          <LT>Tod&#39; esto lh&#39; ei eu a <SEG C="R" ID="3" N="RD">sofrer</SEG>,</LT>
+
+          <LL>Tod&#39; esto lh&#39; ei eu a sofrer,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="guardade" N="7" NS="7" RI="ade">
+          <LT>e ai, Deus, d&#39; el me <SEG C="R" ID="4" N="RD">guardade</SEG></LT>
+
+          <LL>e ai, Deus, d&#39; el me guardade</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="pousada" N="8" NS="6" RI="ada">
+          <LT><SEG C="R" ID="5" N="PP">aqui ena pousada</SEG>.</LT>
+
+          <LL>aqui ena pousada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abbacacd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 6&#39; 8 7&#39; 6&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Seguímo-las anotacións que fai Lapa ó esquema métrico cando di:
+            &#34;A versificação da cantiga é requintada: versos agudos de 8
+            sílabas, graves de 7 e graves de seis&#34;. Tavani pola súa parte
+            ofrece o esquema: 158:2, a8 b8 b8 a8 c6&#39; a8 c6&#39; d6&#39;</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="ei" N="1" NS="8" RI="ei">
+          <LT>É tan louco, que tal med&#39; ei:</LT>
+
+          <LL>É tan louco, que tal med&#39; ei:</LL>
+        </L>
+
+        <L AC="----+--+" ERI="sen" N="2" NS="8" RI="en">
+          <LT>que me sacará de meu sen</LT>
+
+          <LL>que me sacará de meu sen</LL>
+        </L>
+
+        <L AC="---+---+" ERI="en" N="3" NS="8" RI="en">
+          <LT>e que verremos a mais en;</LT>
+
+          <LL>e que verremos a mais en;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="calarei" N="4" NS="8" RI="ei">
+          <LT>ante <SEG C="I" ID="6" N="RE">já</SEG> me lhi calarei,</LT>
+
+          <LL>ante já me lhi calarei,</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="contecesse" N="5" NS="6" RI="esse">
+          <LT>ca, se mal contecesse,</LT>
+
+          <LL>ca, se mal contecesse,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="guardarei" N="6" NS="8" RI="ei">
+          <LT>(de que lh&#39; eu ben <SEG C="R" ID="4" N="RD">guardarei</SEG>)</LT>
+
+          <LL>(de que lh&#39; eu ben guardarei)</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="sofresse" N="7" NS="7" RI="esse">
+          <LT>que lh&#39; eu esto non <SEG C="R" ID="3" N="RD">sofresse</SEG>,</LT>
+
+          <LL>que lh&#39; eu esto non sofresse,</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="punhada" N="8" NS="6" RI="ada">
+          <LT><SEG C="R" ID="5" N="PP">dar-m&#39;-ia gran punhada</SEG>.</LT>
+
+          <LL>dar-m&#39;-ia gran punhada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abbacacd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 6&#39; 8 7&#39; 6&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Seguímo-las anotacións que fai Lapa ó esquema métrico cando di:
+            &#34;A versificação da cantiga é requintada: versos agudos de 8
+            sílabas, graves de 7 e graves de seis&#34;. Tavani pola súa parte
+            ofrece o esquema: 158:2, a8 b8 b8 a8 c6&#39; a8 c6&#39; d6&#39;</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ferrá" N="1" NS="8" RI="a">
+          <LT>Quand&#39; ora diz que me <SEG C="R" ID="7" N="RD">ferrá</SEG>,</LT>
+
+          <LL>Quand&#39; ora diz que me ferrá,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Portugal" N="2" NS="8" RI="al">
+          <LT><SEG C="R" ID="1" N="CD">por que</SEG> falei en Portugal,</LT>
+
+          <LL>por que falei en Portugal,</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="natural" N="3" NS="8" RI="al">
+          <LT>onde mi sõo natural,</LT>
+
+          <LL>onde mi sõo natural,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ferirá" N="4" NS="8" RI="a">
+          <LT>se me por esto <SEG C="R" ID="7" N="RD">ferirá</SEG>,</LT>
+
+          <LL>se me por esto ferirá,</LL>
+        </L>
+
+        <L AC="---+-+-" ERI="ferido" N="5" NS="8" RI="ido">
+          <LT>oje foss&#39; eu <SEG C="R" ID="7" N="RD">ferido</SEG>,</LT>
+
+          <LL>oje foss&#39; eu ferido,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="já" N="6" NS="8" RI="a">
+          <LT><SEG C="R" ID="1" N="CD">por que</SEG> perdesse medo já;</LT>
+
+          <LL>por que perdesse medo já;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="partido" N="7" NS="7" RI="ido">
+          <LT>que <SEG C="I" ID="8" N="RE">me</SEG> fosse d&#39; el <SEG C="R"
+          ID="2" N="RD">partido</SEG></LT>
+
+          <LL>que me fosse d&#39; el partido</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="andada" N="8" NS="6" RI="ada">
+          <LT><SEG C="R" ID="5" N="PP"><SEG C="I" ID="9" N="RE">e de</SEG> to<SEG
+C="M" ID="10" N="SIN">da es</SEG>ta andada</SEG>.</LT>
+
+          <LL>e de toda esta andada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="abbacacd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 6&#39; 8 7&#39; 6&#39;</ESQMET>
+
+          <NOTMET>
+            <P>Seguímo-las anotacións que fai Lapa ó esquema métrico cando di:
+            &#34;A versificação da cantiga é requintada: versos agudos de 8
+            sílabas, graves de 7 e graves de seis&#34;. Tavani pola súa parte
+            ofrece o esquema: 158:2, a8 b8 b8 a8 c6&#39; a8 c6&#39; d6&#39;</P>
+          </NOTMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ajudar" N="1" NS="8" RI="ar">
+          <LT>Morto será quen m&#39; ajudar,</LT>
+
+          <LL>Morto será quen m&#39; ajudar,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="é" N="2" NS="8" RI="e">
+          <LT>ca el de tal coraçon <SEG C="R" ID="11" N="RD">é</SEG>,</LT>
+
+          <LL>ca el de tal coraçon é,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="pé" N="3" NS="8" RI="e">
+          <LT>quer de cavalo quer de pé,</LT>
+
+          <LL>quer de cavalo quer de pé,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="matar" N="4" NS="8" RI="ar">
+          <LT>ca se querrá migo<SEG C="R" ID="12" N="PV"><SEG C="R" ID="13"
+N="RD"> matar</SEG></SEG>;</LT>
+
+          <LL>ca se querrá migo matar;</LL>
+        </L>
+
+        <L AC="-+---+-" ERI="fogiria" N="5" NS="6" RI="ia">
+          <LT>e<SEG C="M" ID="14" N="SIN"> já eu</SEG> lhi fogiria,</LT>
+
+          <LL>e já eu lhi fogiria,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="acalçar" N="6" NS="8" RI="ar">
+          <LT>mais ei medo de m&#39; <SEG C="R" ID="15" N="RD">acalçar</SEG>;</LT>
+
+          <LL>mais ei medo de m&#39; acalçar;</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="ia" N="7" NS="7" RI="ia">
+          <LT>e <SEG C="I" ID="16" N="RE">ben</SEG> <SEG C="R" ID="15" N="RD">acalçar-se-m&#39;-ia</SEG>:</LT>
+
+          <LL>e ben acalçar-se-m&#39;-ia:</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="cansada" N="8" NS="6" RI="ada">
+          <LT><SEG C="R" ID="5" N="PP">trag&#39; a besta cansada</SEG>.</LT>
+
+          <LL>trag&#39; a besta cansada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="1" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="acd"><NOTRIM><P>Rima sobre IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 6&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+--+" ERI="emparar" N="1" NS="8" RI="ar">
+          <LT>Se melhor quiser emparar</LT>
+
+          <LL>Se melhor quiser emparar</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="terria" N="2" NS="6" RI="ia">
+          <LT>mia fazend&#39;, a terria</LT>
+
+          <LL>mia fazend&#39;, a terria</LL>
+        </L>
+
+        <L AC="---+-+-" ERI="parada" N="3" NS="6" RI="ada">
+          <LT>per i peior parada:</LT>
+
+          <LL>per i peior parada:</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="FIINDA">
+      <CABGRU NUTOTVER="3">
+        <ESQRIM TIPO="acd"><NOTRIM><P>Rima sobre IV</P></NOTRIM></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 6&#39; 6&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="matar" N="1" NS="8" RI="ar">
+          <LT>se o mat&#39; ou se me<SEG C="R" ID="12" N="PV"><SEG C="R"
+ID="13" N="RD"> matar</SEG></SEG>...</LT>
+
+          <LL>se o mat&#39; ou se me matar...</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="seria" N="2" NS="6" RI="ia">
+          <LT>de qual <SEG C="I" ID="17" N="RE">xe</SEG> quer, <SEG C="R"
+          ID="11" N="RD">seria</SEG></LT>
+
+          <LL>de qual xe quer, seria</LL>
+        </L>
+
+        <L AC="--+--+-" ERI="minguada" N="3" NS="6" RI="ada">
+          <LT>de ventura minguada.</LT>
+
+          <LL>de ventura minguada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

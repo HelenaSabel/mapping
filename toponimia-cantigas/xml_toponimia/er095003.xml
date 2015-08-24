@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "095003" TC = "REFR" NE = "3+F" SG = "NO" XE = "M D" OL = "NON">
+<INCIPIT>Amig', avia queixume</INCIPIT>
+<NUCANT>95 3</NUCANT>
+<RM BCA = "B" NM = "1240" F = "263r" MU = "NON" EM = "NO" I.FI = "lb263r"></RM>
+<RM BCA = "B" NM = "1240" F = "263v" MU = "NON" EM = "NO" I.FI = "lb263v"></RM>
+<RM BCA = "V" NM = "845" F = "133v" MU = "NON" EM = "NO" I.FI = "lv133v"></RM>
+<RM BCA = "V" NM = "845" F = "134r" MU = "NON" EM = "NO" I.FI = "lv134r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1188</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 475</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "453"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>12/05/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1240.
+Est&aacute; situada na columna b do folio 263r. A s&iacute;laba
+inicial con- pres&eacute;ntase mediante a abreviatura 9. Falta o
+o final.</P></COMNOTC></NOTC>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1240.
+Est&aacute; situada na columna b do folio 263r.</P></COMNOTC></NOTC>
+<TEMA CAT = "PER"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 8 8 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:428</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ume" ERI = "queixume" AC = "---+--+-">
+<LT>- <SEG C = "R" N = "CD" ID = "1">Amig'</SEG>, avia <SEG C = "R" N = "RD" ID = "2">queixume</SEG></LT>
+<LL>- Amig', avia queixume</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "perder" AC = "---+---+">
+<LT><SEG C = "R" N = "CP" ID = "3">de v&oacute;s e quero<SEG C = "M" N = "SIN" ID = "4">-mi-o</SEG> perder,</SEG></LT>
+<LL>de v&oacute;s e quero-mi-o perder,</LL>
+</L>
+<L N = "3" NS = "8" RI = "er" ERI = "poder" AC = "--+----+">
+<LT><SEG C = "R" N = "CP" ID = "5">pois veestes a meu poder</SEG>.</LT>
+<LL>pois veestes a meu poder.</LL>
+</L>
+<L N = "4" NS = "7" RI = "ume" ERI = "lume" AC = "---+--+-">
+<LT>- <SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CD" ID = "7">Ai mia senhor</SEG> e meu lume</SEG>,</LT>
+<LL>- Ai mia senhor e meu lume,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "edes" ERI = "avedes" AC = "--+---+-">
+<LT>se de mi queixum' avedes,</LT>
+<LL>se de mi queixum' avedes,</LL>
+</L>
+<L N = "6" NS = "7" RI = "edes" ERI = "melhoredes" AC = "-+----+-">
+<LT>por Deus que o melhoredes.</LT>
+<LL>por Deus que o melhoredes.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 8 8 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:428</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "osa" ERI = "queixosa" AC = "-+----+-">
+<LT>- Tant' era vossa <SEG C = "R" N = "RD" ID = "2">queixosa</SEG></LT>
+<LL>- Tant' era vossa queixosa</LL>
+</L>
+<L N = "2" NS = "8" RI = "or" ERI = "Salvador" AC = "--+----+">
+<LT>que jurei en San Salvador</LT>
+<LL>que jurei en San Salvador</LL>
+<TOPO CAT = "LCULTO">San Salvador de Mao? (San Salvador)</TOPO></L>
+<L N = "3" NS = "8" RI = "or" ERI = "amor" AC = "-+-----+">
+<LT>que nunca vos fezess' amor.</LT>
+<LL>que nunca vos fezess' amor.</LL>
+</L>
+<L N = "4" NS = "7" RI = "osa" ERI = "fremosa" AC = "---+--+-">
+<LT>- <SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CD" ID = "7">Ai mia senhor</SEG> mui fremosa</SEG>,</LT>
+<LL>- Ai mia senhor mui fremosa,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "edes" ERI = "avedes" AC = "--+---+-">
+<LT>se de mi queixum' avedes,</LT>
+<LL>se de mi queixum' avedes,</LL>
+</L>
+<L N = "6" NS = "7" RI = "edes" ERI = "melhoredes" AC = "-+----+-">
+<LT>por Deus que o melhoredes.</LT>
+<LL>por Deus que o melhoredes.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:402</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "eu" ERI = "meu" AC = "----+--+">
+<LT>- <SEG C = "R" N = "CP" ID = "5"><SEG C = "R" N = "CD" ID = "1">Amigu'</SEG>, en poder sodes meu</SEG>,</LT>
+<LL>- Amigu', en poder sodes meu,</LL>
+</L>
+<L N = "2" NS = "8" RI = "ar" ERI = "vingar" AC = "---+---+">
+<LT>se m' eu de v&oacute;s quiser vingar,</LT>
+<LL>se m' eu de v&oacute;s quiser vingar,</LL>
+</L>
+<L N = "3" NS = "8" RI = "ar" ERI = "perdoar" AC = "-+-----+">
+<LT><SEG C = "R" N = "CP" ID = "3">mais quero-mi vos perdoar</SEG>.</LT>
+<LL>mais quero-mi vos perdoar.</LL>
+</L>
+<L N = "4" NS = "8" RI = "eu" ERI = "eu" AC = "--+----+">
+<LT>- <SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CD" ID = "7">Ai senhor</SEG>, por al vos rogu' eu</SEG>,</LT>
+<LL>- Ai senhor, por al vos rogu' eu,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "edes" ERI = "avedes" AC = "--+---+-">
+<LT>se de mi queixum' avedes,</LT>
+<LL>se de mi queixum' avedes,</LL>
+</L>
+<L N = "6" NS = "7" RI = "edes" ERI = "melhoredes" AC = "-+----+-">
+<LT>por Deus que o melhoredes.</LT>
+<LL>por Deus que o melhoredes.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "dd"></ESQRIM>
+<INFMET>
+<ESQMET>8 8</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "naci" AC = "-+-----+">
+<LT>De min, que mal dia naci,</LT>
+<LL>De min, que mal dia naci,</LL>
+</L>
+<L N = "2" NS = "8" RI = "i" ERI = "mereci" AC = "-+-----+">
+<LT><SEG C = "R" N = "CD" ID = "7">senhor</SEG>, se vo-lo mereci.</LT>
+<LL>senhor, se vo-lo mereci.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077011" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>&Eacute; sa sela muito dura</INCIPIT>
+<NUCANT>77 11</NUCANT>
+<RM BCA = "V" NM = "1028" F = "166r" MU = "NON" EM = "NO" I.FI = "lv166r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 20</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1675</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1028</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 188</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "225"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>8/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Joham Seruando
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V
+1028. Est&aacute; situada na columna b do folio 166r.
+Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "POB">
+<SUBTEMA CAT = "CA"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7'</ESQMET></INFMET>
+<NUMESQ>48:8</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ura" ERI = "dura" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">&Eacute; sa sela muito dura</SEG></LT>
+<LL>&Eacute; sa sela muito dura</LL>
+</L>
+<L N = "2" NS = "7" RI = "ura" ERI = "pregadura" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1">e dana sa pregadura</SEG>,</LT>
+<LL>e dana sa pregadura,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ela" ERI = "Castela" AC = "---+--+-">
+<LT>mais non a for de Castela.</LT>
+<LL>mais non a for de Castela.</LL>
+<TOPO CAT = "CIRCUNS">Castela</TOPO></L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "ol" ERI = "prol" AC = "--+---+">
+<LT>Ai, novel, non vos &aacute; prol</LT>
+<LL>Ai, novel, non vos &aacute; prol</LL>
+</L>
+<L N = "5" NS = "7" RI = "ela" ERI = "sela" AC = "--+---+-">
+<LT>de tragerdes mais a <SEG C = "R" N = "CFR" ID = "2">sela</SEG>!</LT>
+<LL>de tragerdes mais a sela!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabCB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7' 7 7'</ESQMET></INFMET>
+<NUMESQ>48:7</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "al" ERI = "mal" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">J&aacute; a <SEG C = "R" N = "CFR" ID = "2">sela</SEG></SEG> dana mal</SEG></LT>
+<LL>J&aacute; a sela dana mal</LL>
+</L>
+<L N = "2" NS = "7" RI = "al" ERI = "peitoral" AC = "-+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">e quebra o peitoral</SEG></LT>
+<LL>e quebra o peitoral</LL>
+</L>
+<L N = "3" NS = "7" RI = "ela" ERI = "fivela" AC = "---+--+-">
+<LT>per u se ten a fivela.</LT>
+<LL>per u se ten a fivela.</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "ol" ERI = "prol" AC = "--+---+">
+<LT>Ai, novel, non vos &aacute; prol</LT>
+<LL>Ai, novel, non vos &aacute; prol</LL>
+</L>
+<L N = "5" NS = "7" RI = "ela" ERI = "sela" AC = "--+---+-">
+<LT>de tragerdes mais a <SEG C = "R" N = "CFR" ID = "4">sela</SEG>!</LT>
+<LL>de tragerdes mais a sela!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aabCB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7 7'</ESQMET></INFMET>
+<NUMESQ>48:8</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ando" ERI = "usando" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "3">J&aacute; s' a <SEG C = "R" N = "CFR" ID = "4">sela</SEG></SEG> vai usando,</LT>
+<LL>J&aacute; s' a sela vai usando,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ando" ERI = "Servando" AC = "-+---+-">
+<LT>e dixo Joan Servando,</LT>
+<LL>e dixo Joan Servando,</LL>
+<ANTRO T = "REAL">Joan Servando</ANTRO></L>
+<L N = "3" NS = "7" RI = "ela" ERI = "revela" AC = "---+--+-">
+<LT>que muito vosco revela:</LT>
+<LL>que muito vosco revela:</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "ol" ERI = "prol" AC = "--+---+">
+<LT>Ai, novel, non vos &aacute; prol</LT>
+<LL>Ai, novel, non vos &aacute; prol</LL>
+</L>
+<L N = "5" NS = "7" RI = "ela" ERI = "sela" AC = "--+---+-">
+<LT>de tragerdes mais a sela!</LT>
+<LL>de tragerdes mais a sela!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

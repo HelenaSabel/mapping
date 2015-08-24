@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "060003" TC = "REFR" NE = "2" SG = "NO" XE = "EM" OL = "NON">
+<INCIPIT>Amigas, eu oy dizer</INCIPIT>
+<NUCANT>60 3</NUCANT>
+<RM BCA = "B" NM = "1390" F = "297r" MU = "NON" EM = "NO" I.FI = "lb297r"></RM>
+<RM BCA = "V" NM = "999" F = "160r" MU = "NON" EM = "NO" I.FI = "lv160r"></RM>
+<EDIANT T = "CRITI">
+<P>Amigo 145</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. XIII, p. 157</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1342</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 999</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 136-137</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 76</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 136</P></EDIANT>
+<DATOAU NOME = "V&iacute;&ntilde;ez" NUA = "8"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>15/12/04</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Esta cantiga fez Don Gon&ccedil;al' Eanes Dovinhal a don Anrique en
+nome da reina dona Johana sa madrasta, porque dizian que era seu entendedor
+quando lidou en Mouron con don Nuno e con don Rodrigo Affonso que tragia o
+poder d' el-rey
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada despois da cantiga V 999. Est&aacute; no
+folio 160r, columna b.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<RUBRICA>Don Goncal' eanes do vinhal
+<COMRUBRI>
+<P>R&uacute;brica atributiva que precede &aacute; cantiga V 999. Est&aacute;
+situada no folio 160r, columna a.
+Man de Colocci.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "TRI"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:399</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "dizer" AC = "-+---+-+">
+<LT>Amigas, eu oy <SEG C = "R" N = "RD" ID = "1">dizer</SEG></LT>
+<LL>Amigas, eu oy dizer</LL>
+</L>
+<L N = "2" NS = "8" RI = "on" ERI = "Mouron" AC = "--+----+">
+<LT>que lidaron os de Mouron</LT>
+<LL>que lidaron os de Mouron</LL>
+
+<TOPO CAT = "CIUDAD">Mouron</TOPO></L>
+<L N = "3" NS = "8" RI = "on" ERI = "non" AC = "--+--+-+">
+<LT>con aquestes d' el-rei, e non</LT>
+<LL>con aquestes d' el-rei, e non</LL>
+</L>
+<L N = "4" NS = "8" RI = "er" ERI = "saber" AC = "+---+--+">
+<LT>poss' end' a verdade saber:</LT>
+<LL>poss' end' a verdade saber:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>se he viv' o meu amigo,</LT>
+<LL>se he viv' o meu amigo,</LL>
+</L>
+<L N = "6" NS = "7" RI = "igo" ERI = "sigo" AC = "-+--+-+-">
+<LT>que troux' a mha touca sigo.</LT>
+<LL>que troux' a mha touca sigo.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>160:449</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "esse" ERI = "estevesse" AC = "--+---+-">
+<LT>Se me mal non estevesse</LT>
+<LL>Se me mal non estevesse</LL>
+</L>
+<L N = "2" NS = "7" RI = "inta" ERI = "enfinta" AC = "--+---+-">
+<LT>ou non fosse por enfinta,</LT>
+<LL>ou non fosse por enfinta,</LL>
+</L>
+<L N = "3" NS = "7" RI = "inta" ERI = "cinta" AC = "-+----+-">
+<LT>daria esta mha cinta</LT>
+<LL>daria esta mha cinta</LL>
+</L>
+<L N = "4" NS = "7" RI = "esse" ERI = "dissesse" AC = "---+--+-">
+<LT>a quen m' as novas <SEG C = "R" N = "RD" ID = "1">dissesse</SEG>:</LT>
+<LL>a quen m' as novas dissesse:</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "igo" ERI = "amigo" AC = "--+---+-">
+<LT>se he viv' o meu amigo,</LT>
+<LL>se he viv' o meu amigo,</LL>
+</L>
+<L N = "6" NS = "7" RI = "igo" ERI = "sigo" AC = "-+--+-+-">
+<LT>que troux' a mha touca sigo.</LT>
+<LL>que troux' a mha touca sigo.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

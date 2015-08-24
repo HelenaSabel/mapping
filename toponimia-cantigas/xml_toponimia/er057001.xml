@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="057001" NE="2" OL="NON" SG="NO" TC="REFR" XE="A">
+      <INCIPIT>Tu, que ora vẽes de Monte-mayor</INCIPIT>
+
+      <NUCANT>57 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="16r" I.FI="lb016r" MU="NON" NM="48"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p, 153</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Auswahl 19</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 22</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 22</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 2</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Vasconcelos, Textos arcaicos, pp. 18-19</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Antol. lit., p. 23</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Ferreira, Poesia e prosa, pp. 45-46</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca. pp. 423-424</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Tavares, Textos medievais. pp. 10-11</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 1</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 258-259</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 4</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Jensen, Medieval, pp. 132-133, 475-476</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 15</P>
+      </EDIANT>
+
+      <DATOAU NOME="CA" NUA="332"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>2/06/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Don Gil Sanchez <COMRUBRI><P>Rúbrica atributiva que precede á
+      cantiga B 48. Está situada na marxe superior do folio 16r, columna a.
+      Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="COI"></TEMA>
+
+      <TEMA CAT="COR"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+8">
+        <ESQRIM TIPO="aaaaBBBBBBBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 6&#39; 6&#39; 6&#39; 6 6&#39; 6&#39; 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>10:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+--+--+" ERI="mayor" N="1" NS="10" RI="or">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="2" N="RL">Tu, <SEG C="M"
+ID="3" N="SIN">que o</SEG>ra vẽes de Monte-mayor</SEG></SEG>,</LT>
+
+          <LL>Tu, que ora vẽes de Monte-mayor,</LL>
+
+          <TOPO CAT="CIUDAD">Monte-mayor</TOPO>
+        </L>
+
+        <L AC="+--+--+--+" ERI="mayor" N="2" NS="10" RI="or">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="2" N="RL">Tu,<SEG C="M"
+ID="4" N="SIN">que o</SEG>ra vẽes de Monte-mayor</SEG></SEG>,</LT>
+
+          <LL>Tu,que ora vẽes de Monte-mayor,</LL>
+
+          <TOPO CAT="CIUDAD">Monte-mayor</TOPO>
+        </L>
+
+        <L AC="+---+--+-+" ERI="senhor" N="3" NS="10" RI="or">
+          <LT><SEG C="R" ID="5" N="PL"><SEG C="R" ID="6" N="RL">digas-me mandado de mia senhor</SEG></SEG>;</LT>
+
+          <LL>digas-me mandado de mia senhor;</LL>
+        </L>
+
+        <L AC="+---+--+-+" ERI="senhor" N="4" NS="10" RI="or">
+          <LT><SEG C="R" ID="5" N="PL"><SEG C="R" ID="6" N="RL">digas-me mandado de mia senhor</SEG></SEG>,</LT>
+
+          <LL>digas-me mandado de mia senhor,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="mandado" N="5" NS="6" RI="ado">
+            <LT>ca se eu seu mandado</LT>
+
+            <LL>ca se eu seu mandado</LL>
+          </L>
+
+          <L AC="-++--+-" ERI="coitado" N="6" NS="6" RI="ado">
+            <LT>non vir&#39;, trist&#39; e coitado</LT>
+
+            <LL>non vir&#39;, trist&#39; e coitado</LL>
+          </L>
+
+          <L AC="-+-+-+-" ERI="pecado" N="7" NS="6" RI="ado">
+            <LT>serei; e gran <SEG C="R" ID="7" N="PV">pecado</SEG></LT>
+
+            <LL>serei; e gran pecado</LL>
+          </L>
+
+          <L AC="-+---+" ERI="val" N="8" NS="6" RI="al">
+            <LT>fará, se me non val.</LT>
+
+            <LL>fará, se me non val.</LL>
+          </L>
+
+          <L AC="---+-+-" ERI="nado" N="9" NS="6" RI="ado">
+            <LT>Ca en tal ora nado</LT>
+
+            <LL>Ca en tal ora nado</LL>
+          </L>
+
+          <L AC="+-+--+-" ERI="pecado" N="10" NS="6" RI="ado">
+            <LT>foi que ¡mao-<SEG C="R" ID="7" N="PV">pecado</SEG>!</LT>
+
+            <LL>foi que ¡mao-pecado!</LL>
+          </L>
+
+          <L AC="+----+-" ERI="endõado" N="11" NS="6" RI="ado">
+            <LT>amo-a endõado,</LT>
+
+            <LL>amo-a endõado,</LL>
+          </L>
+
+          <L AC="-+--+-+" ERI="al" N="12" NS="6" RI="al">
+            <LT>e nunca end&#39; òuvi al!</LT>
+
+            <LL>e nunca end&#39; òuvi al!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+8">
+        <ESQRIM TIPO="aaaaBBBBBBBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 6&#39; 6&#39; 6&#39; 6 6&#39; 6&#39; 6&#39; 6</ESQMET>
+        </INFMET>
+
+        <NUMESQ>10:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+---+--+-+" ERI="seus" N="1" NS="10" RI="eus">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="8" N="RL">Tu, que ora viste os olhos seus</SEG></SEG>,</LT>
+
+          <LL>Tu, que ora viste os olhos seus,</LL>
+        </L>
+
+        <L AC="+---+--+-+" ERI="seus" N="2" NS="10" RI="eus">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="8" N="RL">Tu, que ora viste os olhos seus</SEG></SEG>,</LT>
+
+          <LL>Tu, que ora viste os olhos seus,</LL>
+        </L>
+
+        <L AC="+---+-+--+" ERI="Deus" N="3" NS="10" RI="eus">
+          <LT><SEG C="R" ID="5" N="PL"><SEG C="R" ID="9" N="RL">digas-me mandado d&#39; ela, por Deus</SEG></SEG>;</LT>
+
+          <LL>digas-me mandado d&#39; ela, por Deus;</LL>
+        </L>
+
+        <L AC="+---+-+--+" ERI="Deus" N="4" NS="10" RI="eus">
+          <LT><SEG C="R" ID="5" N="PL"><SEG C="R" ID="9" N="RL">digas-me mandado d&#39; ela, por Deus</SEG></SEG>,</LT>
+
+          <LL>digas-me mandado d&#39; ela, por Deus,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+--+-" ERI="mandado" N="5" NS="6" RI="ado">
+            <LT>ca se eu seu mandado</LT>
+
+            <LL>ca se eu seu mandado</LL>
+          </L>
+
+          <L AC="-++--+-" ERI="coitado" N="6" NS="6" RI="ado">
+            <LT>non vir&#39;, trist&#39; e coitado</LT>
+
+            <LL>non vir&#39;, trist&#39; e coitado</LL>
+          </L>
+
+          <L AC="-+-+-+-" ERI="pecado" N="7" NS="6" RI="ado">
+            <LT>serei; e gran <SEG C="R" ID="7" N="PV">pecado</SEG></LT>
+
+            <LL>serei; e gran pecado</LL>
+          </L>
+
+          <L AC="-+---+" ERI="val" N="8" NS="6" RI="al">
+            <LT>fará, se me non val.</LT>
+
+            <LL>fará, se me non val.</LL>
+          </L>
+
+          <L AC="---+-+-" ERI="nado" N="9" NS="6" RI="ado">
+            <LT>Ca en tal ora nado</LT>
+
+            <LL>Ca en tal ora nado</LL>
+          </L>
+
+          <L AC="+-+--+-" ERI="pecado" N="10" NS="6" RI="ado">
+            <LT>foi que ¡mao-<SEG C="R" ID="7" N="PV">pecado</SEG>!</LT>
+
+            <LL>foi que ¡mao-pecado!</LL>
+          </L>
+
+          <L AC="+----+-" ERI="endõado" N="11" NS="6" RI="ado">
+            <LT>amo-a endõado,</LT>
+
+            <LL>amo-a endõado,</LL>
+          </L>
+
+          <L AC="-+--+-+" ERI="al" N="12" NS="6" RI="al">
+            <LT>e nunca end&#39; òuvi al!</LT>
+
+            <LL>e nunca end&#39; òuvi al!</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

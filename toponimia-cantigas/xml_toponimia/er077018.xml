@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077018" TC = "REFR" NE = "3+F" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>O meu amigo, que me faz viver</INCIPIT>
+<NUCANT>77 18</NUCANT>
+<RM BCA = "B" NM = "1145a" F = "245v" MU = "NON" EM = "NO" I.FI = "lb245v">
+</RM>
+<RM BCA = "B" NM = "1145a" F = "246r" MU = "NON" EM = "NO" I.FI = "lb246r">
+</RM>
+<RM BCA = "V" NM = "748" F = "118v" MU = "NON" EM = "NO" I.FI = "lv118v"></RM>
+<RM BCA = "V" NM = "748" F = "119r" MU = "NON" EM = "NO" I.FI = "lv119r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 17</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1090</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 748</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 383</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "378"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>19/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>9ged
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1145a.
+Est&aacute;s ituada na columna b do folio 245v. A s&iacute;laba
+inicial con pres&eacute;ntase coa abreviatura 9. Falta o o
+final.</P></COMNOTC></NOTC>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1145a.
+Est&aacute;s ituada na columna b do folio 245v.</P></COMNOTC></NOTC>
+<TEMA CAT = "IND"></TEMA>
+<TEMA CAT = "MA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:136</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "viver" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">O meu amigo, que me faz</SEG> viver</SEG></LT>
+<LL>O meu amigo, que me faz viver</LL>
+</L>
+<L N = "2" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">trist' e coitada, des que o eu <SEG C = "R" N = "RD" ID = "3">vi</SEG></SEG>,</LT>
+<LL>trist' e coitada, des que o eu vi,</LL>
+</L>
+<L N = "3" NS = "10" RI = "i" ERI = "mi" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">esto sei ben, que morrer&aacute; <SEG C = "R" N = "PV" ID = "4">por mi</SEG></SEG>,</LT>
+<LL>esto sei ben, que morrer&aacute; por mi,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "morrer" AC = "---+-----+">
+<LT><SEG C = "R" N = "PL" ID = "5">e, pois eu logo por el ar <SEG C = "R" N = "RD" ID = "6">morrer</SEG></SEG>,</LT>
+<LL>e, pois eu logo por el ar morrer,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "in" ERI = "fin" AC = "----+----+">
+<LT>maravilhar-s' am todos d' atal fin,</LT>
+<LL>maravilhar-s' am todos d' atal fin,</LL>
+</L>
+<L N = "6" NS = "10" RI = "in" ERI = "min" AC = "---+-----+">
+<LT>quand' eu morrer por el e el <SEG C = "R" N = "PV" ID = "4">por min</SEG>.</LT>
+<LL>quand' eu morrer por el e el por min.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:136</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "or" ERI = "Senhor" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Vivo coitada, par nostro Senhor</SEG>,</LT>
+<LL>Vivo coitada, par nostro Senhor,</LL>
+</L>
+<L N = "2" NS = "10" RI = "a" ERI = "j&aacute;" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">por meu amigo, que me non quer j&aacute;</SEG>,</LT>
+<LL>por meu amigo, que me non quer j&aacute;,</LL>
+</L>
+<L N = "3" NS = "10" RI = "a" ERI = "morrer&aacute;" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">valer, e sei <SEG C = "I" N = "RE" ID = "7">mui ben</SEG> que <SEG C = "R" N = "RD" ID = "6">morrer&aacute;</SEG></SEG>,</LT>
+<LL>valer, e sei mui ben que morrer&aacute;,</LL>
+</L>
+<L N = "4" NS = "10" RI = "or" ERI = "f&ocirc;r" AC = "---+-----+">
+<LT><SEG C = "R" N = "PL" ID = "5">mais, pois eu logo por el morta f&ocirc;r</SEG>,</LT>
+<LL>mais, pois eu logo por el morta f&ocirc;r,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "in" ERI = "fin" AC = "----+----+">
+<LT>maravilhar-s' am todos d' atal fin,</LT>
+<LL>maravilhar-s' am todos d' atal fin,</LL>
+</L>
+<L N = "6" NS = "10" RI = "in" ERI = "min" AC = "---+-----+">
+<LT>quand' eu morrer por el e el <SEG C = "R" N = "PV" ID = "4">por min</SEG>.</LT>
+<LL>quand' eu morrer por el e el por min.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "abbaCC"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>160:136</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "guarir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">Sabe mui ben que non &aacute; de guarir</SEG></LT>
+<LL>Sabe mui ben que non &aacute; de guarir</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "pesar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">o meu amigo, que mi faz</SEG> pesar</SEG>;</LT>
+<LL>o meu amigo, que mi faz pesar;</LL>
+</L>
+<L N = "3" NS = "10" RI = "ar" ERI = "cuidar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">ca morrer&aacute; non o met' en cuidar</SEG></LT>
+<LL>ca morrer&aacute; non o met' en cuidar</LL>
+</L>
+<L N = "4" NS = "10" RI = "ir" ERI = "vir" AC = "----+----+">
+<LT><SEG C = "R" N = "PL" ID = "5">por mi e, pois m' eu por el morrer <SEG C = "R" N = "RD" ID = "3">vir</SEG></SEG>,</LT>
+<LL>por mi e, pois m' eu por el morrer vir,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "10" RI = "in" ERI = "fin" AC = "----+----+">
+<LT>maravilhar-s' am todos d' atal fin,</LT>
+<LL>maravilhar-s' am todos d' atal fin,</LL>
+</L>
+<L N = "6" NS = "10" RI = "in" ERI = "min" AC = "---+-----+">
+<LT>quand' <SEG C = "R" N = "CFR" ID = "8">eu</SEG> morrer por e el <SEG C = "R" N = "PV" ID = "4">por m<SEG C = "R" N = "CCR" ID = "9">in</SEG></SEG>.</LT>
+<LL>quand' eu morrer por e el por min.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "cc"></ESQRIM>
+<INFMET>
+<ESQMET>10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "in" ERI = "vin" AC = "---+-----+">
+<LT>Por San Servando, que <SEG C = "R" N = "CFR" ID = "8">eu</SEG> rogar v<SEG C = "R" N = "CCR" ID = "9">in</SEG>,</LT>
+<LL>Por San Servando, que eu rogar vin,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "2" NS = "10" RI = "in" ERI = "min" AC = "---+-----+">
+<LT>non morrer&aacute; meu amigo <SEG C = "R" N = "PV" ID = "4">por min</SEG>.</LT>
+<LL>non morrer&aacute; meu amigo por min.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

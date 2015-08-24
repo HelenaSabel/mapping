@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "091003" TC = "REFR" NE = "6" SG = "NO" XE = "M" OL = "NON">
+<INCIPIT>Eno sagrado en Vigo</INCIPIT>
+<NUCANT>91 3</NUCANT>
+<RM BCA = "B" NM = "1283" F = "270r" MU = "NON" EM = "NO" I.FI = "lb270r"></RM>
+<RM BCA = "B" NM = "1283" F = "270v" MU = "NON" EM = "NO" I.FI = "lb270v"></RM>
+<RM BCA = "V" NM = "889" F = "140r" MU = "NON" EM = "NO" I.FI = "lv140r"></RM>
+<RM BCA = "K" NM = "889" F = "198v" MU = "NON" EM = "NO" I.FI = "lk198v"></RM>
+<RM BCA = "N" NM = "6" F = "1r" MU = "SI" EM = "NO" I.FI = "ln001r">
+<NOTMAN N = "1">A primeira estrofa da cantiga foi copiada na columna c, mentres
+que o resto da composici&oacute;n aparece na columna d do
+Pergami&ntilde;o.</NOTMAN></RM>
+<EDIANT T = "CRITI">
+<P>Cunha, Codax, 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Oviedo y Arce 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Nunes, Martim Codax, 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Bell, Mart&iacute;n Codax, 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 496</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 261</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1232</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 889</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 69</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cant., 32</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Poesia e prosa, pp. 75-76</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Ferreira, Antol. lit., pp. 88-89</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 157</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 103-104</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 208-209, 512-513</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 144</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 518</P></EDIANT>
+<DATOAU NOME = "Cantigas, Codax" NUA = "6"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>03/11/04</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana situada na columna b do folio 270r, enriba da cantiga B
+1283, &aacute; dereita. Fai referencia &aacute; presencia de refr&aacute;n na
+cantiga.</P></COMNOTC></NOTC>
+<TEMA CAT = "LED"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>6' 7' 3</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, ao
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "igo" ERI = "Vigo" AC = "-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Eno sagra<SEG C = "M" N = "SIN" ID = "2">do en</SEG> Vigo</SEG>,</LT>
+<LL>Eno sagrado en Vigo,</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<L N = "2" NS = "7" RI = "ido" ERI = "velido" AC = "------+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">bailava corpo velido</SEG></SEG>.</LT>
+<LL>bailava corpo velido.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor ei!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>6' 7' 3</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, &oacute;
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "ado" ERI = "sagrado" AC = "-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">En Vigo, no sagrado</SEG>,</LT>
+<LL>En Vigo, no sagrado,</LL>
+<TOPO CAT = "CIUDAD"></TOPO></L>
+<L N = "2" NS = "7" RI = "ado" ERI = "delgado" AC = "------+-">
+<LT><SEG C = "R" N = "PL" ID = "3"><SEG C = "R" N = "LP" ID = "4">bailava corpo delgado</SEG></SEG>.</LT>
+<LL>bailava corpo delgado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor ei!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>6' 7' 3</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, &oacute;
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ido" ERI = "velido" AC = "------+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Bailava corpo velido</SEG>.</LT>
+<LL>Bailava corpo velido.</LL>
+</L>
+<L N = "2" NS = "6" RI = "igo" ERI = "amigo" AC = "-----+-">
+<LT><SEG C = "R" N = "PL" ID = "5"><SEG C = "R" N = "LP" ID = "4">que nunc' ouver' <SEG C = "R" N = "RD" ID = "6">amigo</SEG></SEG></SEG>.</LT>
+<LL>que nunc' ouver' amigo.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor ei!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 6' 3</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, &oacute;
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ado" ERI = "delgado" AC = "------+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Bailava corpo delgado</SEG>.</LT>
+<LL>Bailava corpo delgado.</LL>
+</L>
+<L N = "2" NS = "6" RI = "ado" ERI = "amado" AC = "-----+-">
+<LT><SEG C = "R" N = "PL" ID = "5"><SEG C = "R" N = "LP" ID = "4">que nunc' ouver' <SEG C = "R" N = "RD" ID = "6">amado</SEG></SEG></SEG>.</LT>
+<LL>que nunc' ouver' amado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor <SEG C = "R" N = "CFR" ID = "7">ei</SEG>!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "5">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>6' 7' 3</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, &oacute;
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "igo" ERI = "amigo" AC = "-----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Que nunc' <SEG C = "R" N = "CFR" ID = "7">ouver</SEG> <SEG C = "R" N = "RD" ID = "6">amigo</SEG></SEG>,</LT>
+<LL>Que nunc' ouver amigo,</LL>
+</L>
+<L N = "2" NS = "7" RI = "igo" ERI = "Vigo" AC = "------+-">
+<LT><SEG C = "R" N = "PL" ID = "8">ergas no sagrad' en Vigo</SEG>.</LT>
+<LL>ergas no sagrad' en Vigo.</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor <SEG C = "R" N = "CFR" ID = "9">ei</SEG>!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "6">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>6' 7' 3</ESQMET>
+<NOTMET>
+<P>O verso segundo desta cobra &eacute;
+hip&eacute;rmetro.</P></NOTMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para toda a composici&oacute;n o esquema 26:119, &oacute;
+regularizalo como a7' a7' B3, que non responde &aacute; realidade
+textual.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "6" RI = "ado" ERI = "amado" AC = "-----+-">
+<LT><SEG C = "R" N = "LP" ID = "4">Que nunc' <SEG C = "R" N = "CFR" ID = "9">ouver'</SEG> <SEG C = "R" N = "RD" ID = "6">amado</SEG></SEG>,</LT>
+<LL>Que nunc' ouver' amado,</LL>
+</L>
+<L N = "2" NS = "8" RI = "ado" ERI = "sagrado" AC = "-------+-">
+<LT><SEG C = "R" N = "PL" ID = "8">ergas en Vigo no sagrado</SEG>.</LT>
+<LL>ergas en Vigo no sagrado.</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ei" ERI = "ei" AC = "--+">
+<LT>Amor ei!</LT>
+<LL>Amor ei!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

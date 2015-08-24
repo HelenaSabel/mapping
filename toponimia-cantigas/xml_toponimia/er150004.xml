@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="150004" NE="3" OL="NON" SG="NO" TC="REFR" XE="M MR">
+      <INCIPIT>En outro dia en San Salvador</INCIPIT>
+
+      <NUCANT>150 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="201v" I.FI="lb201v" MU="NON" NM="940"></RM>
+
+      <RM BCA="V" EM="NO" F="84r" I.FI="lv084r" MU="NON" NM="528"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 884</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 528</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 278</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Arias, Antoloxía, 226</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="340p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>30/11/04</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana que precede á cantiga B 940.
+      Está situada na columna a do folio 201v. Enriba do o aparece un sinal de
+      abreviatura que indica que falta o r.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="EN"></TEMA>
+
+      <TEMA CAT="COI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbcAC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>183:9</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="Salvador" N="1" NS="10" RI="or">
+          <LT>En outro dia en San Salvador</LT>
+
+          <LL>En outro dia en San Salvador</LL>
+
+          <TOPO CAT="LCULTO">San Salvador</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="quer" N="2" NS="10" RI="er">
+          <LT><SEG C="R" ID="1" N="CD">vi meu amigo</SEG>, que mi gran ben
+          <SEG C="R" ID="2" N="PV">quer</SEG>,</LT>
+
+          <LL>vi meu amigo, que mi gran ben quer,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="molher" N="3" NS="10" RI="er">
+          <LT>e nunca mais coitada foi molher</LT>
+
+          <LL>e nunca mais coitada foi molher</LL>
+        </L>
+
+        <L AC="----+----+" ERI="sen" N="4" NS="10" RI="en">
+          <LT>do que eu i <SEG C="R" ID="3" N="CF">fui</SEG>, segundo meu sen,</LT>
+
+          <LL>do que eu i fui, segundo meu sen,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="melhor" N="5" NS="10" RI="or">
+            <LT>cuidand&#39;, amiga, qual era melhor:</LT>
+
+            <LL>cuidand&#39;, amiga, qual era melhor:</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT>de o matar ou de lhi fazer ben</LT>
+
+            <LL>de o matar ou de lhi fazer ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbcAC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>183:9</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="amor" N="1" NS="10" RI="or">
+          <LT>El <SEG C="R" ID="3" N="CF">é</SEG> por mi tan coitado d&#39;
+          amor</LT>
+
+          <LL>El é por mi tan coitado d&#39; amor</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ouver" N="2" NS="10" RI="er">
+          <LT>que morrerá, se meu ben non ouver,</LT>
+
+          <LL>que morrerá, se meu ben non ouver,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="quer" N="3" NS="10" RI="er">
+          <LT><SEG C="R" ID="1" N="CD">e vi o</SEG> eu ali e, como <SEG C="R"
+          ID="2" N="PV">quer</SEG></LT>
+
+          <LL>e vi o eu ali e, como quer</LL>
+        </L>
+
+        <L AC="--+------+" ERI="en" N="4" NS="10" RI="en">
+          <LT>que vos diga, ou<SEG C="M" ID="4" N="SIN">vi a</SEG> morrer por
+          en,</LT>
+
+          <LL>que vos diga, ouvi a morrer por en,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="melhor" N="5" NS="10" RI="or">
+            <LT>cuidand&#39;, amiga, qual era melhor:</LT>
+
+            <LL>cuidand&#39;, amiga, qual era melhor:</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="I" ID="5" N="RE">de o matar ou de lhi fazer ben</SEG></LT>
+
+            <LL>de o matar ou de lhi fazer ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="abbcAC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>183:9</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+----+" ERI="senhor" N="1" NS="10" RI="or">
+          <LT>Meu é o poder, que sõo senhor,</LT>
+
+          <LL>Meu é o poder, que sõo senhor,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="prouguer" N="2" NS="10" RI="er">
+          <LT>de fazer del o que m&#39; a mi prouguer,</LT>
+
+          <LL>de fazer del o que m&#39; a mi prouguer,</LL>
+        </L>
+
+        <L AC="-----+---+" ERI="mester" N="3" NS="10" RI="er">
+          <LT>mais foi i tan coitado que mester</LT>
+
+          <LL>mais foi i tan coitado que mester</LL>
+        </L>
+
+        <L AC="--+------+" ERI="ren" N="4" NS="10" RI="en">
+          <LT>non m&#39; én fora, pois que o vi, per ren,</LT>
+
+          <LL>non m&#39; én fora, pois que o vi, per ren,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+-----+" ERI="melhor" N="5" NS="10" RI="or">
+            <LT>cuidand&#39;, amiga, qual era <SEG C="I" ID="6" N="RE">melhor</SEG>:</LT>
+
+            <LL>cuidand&#39;, amiga, qual era melhor:</LL>
+          </L>
+
+          <L AC="---+-----+" ERI="ben" N="6" NS="10" RI="en">
+            <LT><SEG C="I" ID="6" N="RE">de o matar ou de lhi fazer ben</SEG></LT>
+
+            <LL>de o matar ou de lhi fazer ben</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

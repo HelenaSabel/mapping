@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="030014" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Dũa gran vinha que ten en Valada</INCIPIT>
+
+      <NUCANT>30 14</NUCANT>
+
+      <RM BCA="B" EM="NO" F="273r" I.FI="lb273r" MU="NON" NM="1300bis"></RM>
+
+      <RM BCA="B" EM="NO" F="273v" I.FI="lb273v" MU="NON" NM="1300bis"></RM>
+
+      <RM BCA="V" EM="NO" F="142r" I.FI="lv142r" MU="NON" NM="905"></RM>
+
+      <RM BCA="V" EM="NO" F="142v" I.FI="lv142v" MU="NON" NM="905"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Pagani 9</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1249</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 905</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 427</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="100"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>18/03/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima b sing.)</P></FRI>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-----+-" ERI="Valada" N="1" NS="10" RI="ada">
+          <LT>Dũa gran vinha que ten en Valada</LT>
+
+          <LL>Dũa gran vinha que ten en Valada</LL>
+
+          <TOPO CAT="ALDEA">Valada</TOPO>
+        </L>
+
+        <L AC="---+-----+" ERI="prol" N="2" NS="10" RI="ol">
+          <LT>Álvar Rodríguiz non pod&#39; aver prol,</LT>
+
+          <LL>Álvar Rodríguiz non pod&#39; aver prol,</LL>
+
+          <ANTRO T="REAL">Álvar Rodríguiz</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="sol" N="3" NS="10" RI="ol">
+          <LT>vedes por que: ca el non cura sol</LT>
+
+          <LL>vedes por que: ca el non cura sol</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="cavar" N="4" NS="10" RI="ar">
+          <LT>de a querer per seu tempo cavar;</LT>
+
+          <LL>de a querer per seu tempo cavar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="adubar" N="5" NS="10" RI="ar">
+          <LT>e a mais dela jaz por <SEG C="R" ID="1" N="RD">adubar</SEG>,</LT>
+
+          <LL>e a mais dela jaz por adubar,</LL>
+        </L>
+
+        <L AC="-----+--+-" ERI="podada" N="6" NS="10" RI="ada">
+          <LT>pero que <SEG C="R" ID="2" N="CF">ten</SEG> a mourisca <SEG
+          C="R" ID="3" N="RD">pod<SEG C="R" ID="4" N="CC">ada</SEG></SEG>.</LT>
+
+          <LL>pero que ten a mourisca podada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-----+-" ERI="adubada" N="1" NS="10" RI="ada">
+          <LT>El entende que a <SEG C="R" ID="2" N="CF">ten</SEG> <SEG C="R"
+          ID="1" N="RD">adub<SEG C="R" ID="4" N="CC">ada</SEG></SEG>,</LT>
+
+          <LL>El entende que a ten adubada,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="razon" N="2" NS="10" RI="on">
+          <LT>pois lha podaron, e ten sen razon:</LT>
+
+          <LL>pois lha podaron, e ten sen razon:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="torçom" N="3" NS="10" RI="on">
+          <LT>ca tan menguado ficou o torçom</LT>
+
+          <LL>ca tan menguado ficou o torçom</LL>
+        </L>
+
+        <L AC="--+------+" ERI="deitar" N="4" NS="10" RI="ar">
+          <LT>que a cepa non pode ben deitar,</LT>
+
+          <LL>que a cepa non pode ben deitar,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="podar" N="5" NS="10" RI="ar">
+          <LT>ca en tal tempo a mandou <SEG C="R" ID="3" N="RD">podar</SEG></LT>
+
+          <LL>ca en tal tempo a mandou podar</LL>
+        </L>
+
+        <L AC="--+------+-" ERI="decepada" N="6" NS="10" RI="ada">
+          <LT>que sempr&#39; e<SEG C="M" ID="5" N="RE">la</SEG> lhe ficou
+          decep<SEG C="R" ID="6" N="CC">ada</SEG>.</LT>
+
+          <LL>que sempr&#39; ela lhe ficou decepada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="6">
+        <ESQRIM TIPO="abbcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10&#39; 10 10 10 10 10&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>189:17</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+-" ERI="rechantada" N="1" NS="10" RI="ada">
+          <LT><SEG C="M" ID="7" N="SIN">Se en</SEG>ton de cabo non for rechant<SEG
+          C="R" ID="6" N="CC">ada</SEG>,</LT>
+
+          <LL>Se enton de cabo non for rechantada,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aver" N="2" NS="10" RI="er">
+          <LT>nen un proveito non pod&#39; end&#39; aver,</LT>
+
+          <LL>nen un proveito non pod&#39; end&#39; aver,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="reer" N="3" NS="10" RI="er">
+          <LT>ca per ali per u a fez reer,</LT>
+
+          <LL>ca per ali per u a fez reer,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="secar" N="4" NS="10" RI="ar">
+          <LT>já end&#39; o nembr&#39; está pera secar;</LT>
+
+          <LL>já end&#39; o nembr&#39; está pera secar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="queimar" N="5" NS="10" RI="ar">
+          <LT>e mais valria já pera queimar</LT>
+
+          <LL>e mais valria já pera queimar</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="parada" N="6" NS="10" RI="ada">
+          <LT>que de jazer, como jaz, mal parada.</LT>
+
+          <LL>que de jazer, como jaz, mal parada.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

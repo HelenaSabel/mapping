@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "046006" TC = "REFR" NE = "2" SG = "NO" XE = "ES" OL = "NON">
+<INCIPIT>Quand' eu passei per Dorm&atilde;a</INCIPIT>
+<NUCANT>46 6</NUCANT>
+<RM BCA = "B" NM = "1337" F = "286v" MU = "NON" EM = "NO" I.FI = "lb286v"></RM>
+<RM BCA = "V" NM = "944" F = "150r" MU = "NON" EM = "NO" I.FI = "lv150r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 136</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1287</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 944</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 7</P></EDIANT>
+<DATOAU NOME = "Mart&iacute;nez Pereiro" NUA = "6"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>12/05/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Outrossi fez estas cantigas a &utilde;a abadessa, sa coirm&atilde;a,
+en que entendia; e passou per aquel moesteiro un cavaleiro e levava &utilde;a
+cinta e deu lha porque era pera ela; e por &eacute;n trobou lhi estes cantares.
+Esta r&uacute;brica tam&eacute;n se refire &aacute; cantiga 46,5.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute; cantiga B
+1336. Est&aacute; situada na columna a do folio 286v.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Outrossi fez estas cantigas a &utilde;a abadessa, sa coirm&atilde;a,
+en que entendia; e passou per aquel moesteiro un cavaleiro e levava &utilde;a
+cinta e deu lha porque era pera ela; e por &eacute;n trobou lhi estes cantares.
+Esta r&uacute;brica tam&eacute;n se refire &aacute; cantiga 46,5.
+<COMRUBRI>
+<P>R&uacute;brica explicativa que precede &aacute; cantiga V
+943. Est&aacute; situada na columna b do folio 149v.
+Man do copista.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "CL"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>19:38</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "&atilde;a" ERI = "Dorm&atilde;a" AC = "---+--+-">
+<LT>Quand' eu passei per Dorm&atilde;a</LT>
+<LL>Quand' eu passei per Dorm&atilde;a</LL>
+<TOPO CAT = "LCULTO">Dorm&atilde;a</TOPO></L>
+<L N = "2" NS = "7" RI = "&atilde;a" ERI = "coirm&atilde;a" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">preguntei</SEG> por mia coirm&atilde;a,</LT>
+<LL>preguntei por mia coirm&atilde;a,</LL>
+</L>
+<L N = "3" NS = "7" RI = "&atilde;a" ERI = "paa&ccedil;&atilde;a" AC = "-+----+-">
+<LT>a salva e pa<SEG C = "I" N = "RE" ID = "2">a</SEG>&ccedil;&atilde;a.</LT>
+<LL>a salva e paa&ccedil;&atilde;a.</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "essa" ERI = "essa" AC = "----+--+-">
+<LT>Disseron: &quot;Non &eacute; aqui essa,</LT>
+<LL>Disseron: &quot;Non &eacute; aqui essa,</LL>
+</L>
+<L N = "5" NS = "7" RI = "essa" ERI = "essa" AC = "---+--+-">
+<LT>alhur buscade v&oacute;s essa;</LT>
+<LL>alhur buscade v&oacute;s essa;</LL>
+</L>
+<L N = "6" NS = "7" RI = "essa" ERI = "abadessa" AC = "---+---+-">
+<LT>mais &eacute; aqui a abadessa&quot;.</LT>
+<LL>mais &eacute; aqui a abadessa&quot;.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+3">
+<ESQRIM TIPO = "aaaBBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>19:38</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ade" ERI = "caridade" AC = "--+---+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Preguntei</SEG>: &quot;Por caridade,</LT>
+<LL>Preguntei: &quot;Por caridade,</LL>
+</L>
+<L N = "2" NS = "7" RI = "ade" ERI = "salvidade" AC = "---+--+-">
+<LT>u &eacute; d' aqui salvidade,</LT>
+<LL>u &eacute; d' aqui salvidade,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ade" ERI = "castidade" AC = "---+--+-">
+<LT>que sempr' amou castidade?&quot;</LT>
+<LL>que sempr' amou castidade?&quot;</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "7" RI = "essa" ERI = "essa" AC = "----+--+-">
+<LT>Disseron: &quot;Non &eacute; aqui essa,</LT>
+<LL>Disseron: &quot;Non &eacute; aqui essa,</LL>
+</L>
+<L N = "5" NS = "7" RI = "essa" ERI = "essa" AC = "---+--+-">
+<LT><SEG C = "I" N = "RE" ID = "3">alhur buscade v&oacute;s essa;</SEG></LT>
+<LL>alhur buscade v&oacute;s essa;</LL>
+</L>
+<L N = "6" NS = "7" RI = "essa" ERI = "abadessa" AC = "---+---+-">
+<LT><SEG C = "I" N = "RE" ID = "3">mais &eacute; aqui a abadessa&quot;.</SEG></LT>
+<LL>mais &eacute; aqui a abadessa&quot;.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

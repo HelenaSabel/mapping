@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "067002" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Amiga, quen oj' ouvesse</INCIPIT>
+<NUCANT>67 2</NUCANT>
+<RM BCA = "B" NM = "1293" F = "271v" MU = "NON" EM = "NO" I.FI = "lb271v"></RM>
+<RM BCA = "V" NM = "898" F = "141r" MU = "NON" EM = "NO" I.FI = "lv141r"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 222</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1241</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Brga 898</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 147</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 527</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "503"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>3/07/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>99:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "esse" ERI = "ouvesse" AC = "-+--+-+-">
+<LT><SEG C = "R" N = "CD" ID = "1">Amiga</SEG>, quen oj' ouvesse</LT>
+<LL>Amiga, quen oj' ouvesse</LL>
+</L>
+<L N = "2" NS = "7" RI = "igo" ERI = "amigo" AC = "-+----+-">
+<LT>mandado do meu amigo</LT>
+<LL>mandado do meu amigo</LL>
+</L>
+<L N = "3" NS = "7" RI = "esse" ERI = "podesse" AC = "--+-+-+-">
+<LT>e lhi ben dizer <SEG C = "R" N = "RD" ID = "2">podesse</SEG></LT>
+<LL>e lhi ben dizer podesse</LL>
+</L>
+<L N = "4" NS = "7" RI = "igo" ERI = "migo" AC = "--+---+-">
+<LT>que veesse falar migo</LT>
+<LL>que veesse falar migo</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>ali u sempre queria</LT>
+<LL>ali u sempre queria</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "podia" AC = "--+---+-">
+<LT>falar migu' e non <SEG C = "R" N = "RD" ID = "2">podia</SEG>.</LT>
+<LL>falar migu' e non podia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>99:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ado" ERI = "mandado" AC = "--+-+-+-">
+<LT>Se de mi ouver mandado,</LT>
+<LL>Se de mi ouver mandado,</LL>
+</L>
+<L N = "2" NS = "7" RI = "enha" ERI = "detenha" AC = "--+---+-">
+<LT>non sei ren que o detenha,</LT>
+<LL>non sei ren que o detenha,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ado" ERI = "grado" AC = "-+----+-">
+<LT><SEG C = "R" N = "CD" ID = "1">amiga</SEG>, pelo seu grado,</LT>
+<LL>amiga, pelo seu grado,</LL>
+</L>
+<L N = "4" NS = "7" RI = "enha" ERI = "venha" AC = "-+-+--+-">
+<LT>que el mui &ccedil;edo non venha</LT>
+<LL>que el mui &ccedil;edo non venha</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>ali u sempre queria</LT>
+<LL>ali u sempre queria</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "podia" AC = "--+---+-">
+<LT>falar <SEG C = "R" N = "CFR" ID = "3">migu'</SEG> e non <SEG C = "R" N = "RD" ID = "2">podia</SEG>.</LT>
+<LL>falar migu' e non podia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "ababCC"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 7' 7' 7' 7'</ESQMET></INFMET>
+<NUMESQ>99:72</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ada" ERI = "vegada" AC = "-+-+--+-">
+<LT>U foi <SEG C = "R" N = "CFR" ID = "3">mig'</SEG> outra vegada</LT>
+<LL>U foi mig' outra vegada</LL>
+</L>
+<L N = "2" NS = "7" RI = "ida" ERI = "velida" AC = "--+-+-+-">
+<LT>atende-lo-ei, velida,</LT>
+<LL>atende-lo-ei, velida,</LL>
+</L>
+<L N = "3" NS = "7" RI = "ada" ERI = "talhada" AC = "-+--+-+-">
+<LT>fremosa e ben talhada,</LT>
+<LL>fremosa e ben talhada,</LL>
+</L>
+<L N = "4" NS = "7" RI = "ida" ERI = "ermida" AC = "-+----+-">
+<LT>en Faro, ena ermida,</LT>
+<LL>en Faro, ena ermida,</LL>
+<TOPO CAT = "LCULTO">Santa Maria do Faro (Faro)</TOPO></L>
+<REFRAN>
+<L N = "5" NS = "7" RI = "ia" ERI = "queria" AC = "-+-+--+-">
+<LT>ali u sempre queria</LT>
+<LL>ali u sempre queria</LL>
+</L>
+<L N = "6" NS = "7" RI = "ia" ERI = "podia" AC = "--+---+-">
+<LT>falar migu' e non <SEG C = "R" N = "RD" ID = "2">podia</SEG>.</LT>
+<LL>falar migu' e non podia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

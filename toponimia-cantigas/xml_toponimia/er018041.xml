@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018041" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Senhor, justi&ccedil;a viimos pedir</INCIPIT>
+<NUCANT>18 41</NUCANT>
+<RM BCA = "B" NM = "483" F = "107v" MU = "NON" EM = "NO" I.FI = "lb107v"></RM>
+<RM BCA = "B" NM = "483" F = "108r" MU = "NON" EM = "NO" I.FI = "lb108r"></RM>
+<RM BCA = "V" NM = "66" F = "4r" MU = "NON" EM = "NO" I.FI = "lv004r"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 428</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 66</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, pp. 39-40</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 13</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 42</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "29"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>28/10/04</DATE></RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "ENG"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:15</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "pedir" AC = "---+-----+">
+<LT>Senhor, justi&ccedil;a viimos pedir</LT>
+<LL>Senhor, justi&ccedil;a viimos pedir</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "---+-----+">
+<LT>que nos fa&ccedil;ades, e faredes ben:</LT>
+<LL>que nos fa&ccedil;ades, e faredes ben:</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "poren" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">a Gris furtaran tanto, que poren</SEG></LT>
+<LL>a Gris furtaran tanto, que poren</LL>
+
+<ANTRO T = "ALTER">Gris</ANTRO></L>
+<L N = "4" NS = "10" RI = "ir" ERI = "cobrir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">non lhi leixaron que possa <SEG C = "R" N = "PR" ID = "2">cobrir</SEG></SEG>;</LT>
+<LL>non lhi leixaron que possa cobrir;</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "judeu" AC = "------+--+">
+<LT>pero atant' aprendi dun judeu:</LT>
+<LL>pero atant' aprendi dun judeu:</LL>
+</L>
+<L N = "6" NS = "10" RI = "eu" ERI = "romeu" AC = "---+-----+">
+<LT>que este furto fez &utilde;u romeu,</LT>
+<LL>que este furto fez &utilde;u romeu,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ir" ERI = "escarnir" AC = "----+----+">
+<LT>que foi <SEG C = "I" N = "RE" ID = "3">ante</SEG> ja outros escarn<SEG C = "R" N = "CC" ID = "4">ir</SEG>.</LT>
+<LL>que foi ante ja outros escarnir.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:15</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "mentir" AC = "----+----+">
+<LT>E tenho que vos non veo ment<SEG C = "R" N = "CC" ID = "4">ir</SEG>,</LT>
+<LL>E tenho que vos non veo mentir,</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "en" AC = "---+-----+">
+<LT>pelos sinaes que nos el diss' e<SEG C = "I" N = "RE" ID = "5">n</SEG></LT>
+<LL>pelos sinaes que nos el diss' en</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">ca eno rostro trage, e <SEG C = "R" N = "PRI" ID = "6">non ten</SEG></SEG></LT>
+<LL>ca eno rostro trage, e non ten</LL>
+</L>
+<L N = "4" NS = "10" RI = "ir" ERI = "encobrir" AC = "-----+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">por dereito de s' end' el <SEG C = "R" N = "PR" ID = "2">encobrir</SEG></SEG>;</LT>
+<LL>por dereito de s' end' el encobrir;</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "lheu" AC = "------+--+">
+<LT>e se aquesto sofredes ben lheu</LT>
+<LL>e se aquesto sofredes ben lheu</LL>
+</L>
+<L N = "6" NS = "10" RI = "eu" ERI = "seu" AC = "---+-----+">
+<LT>querran a outr' assi furt&aacute;-lo seu,</LT>
+<LL>querran a outr' assi furt&aacute;-lo seu,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ir" ERI = "v&itilde;ir" AC = "--+------+">
+<LT>de que pode mui gran dano v&itilde;<SEG C = "R" N = "CC" ID = "7">ir</SEG>.</LT>
+<LL>de que pode mui gran dano v&itilde;ir.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET>
+<NOTMET>
+<P>O verso seis &eacute; hip&eacute;rmetro</P></NOTMET></INFMET>
+<NUMESQ>161:15</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ir" ERI = "servir" AC = "----+----+">
+<LT>E romeu que Deus assi quer serv<SEG C = "R" N = "CC" ID = "7">ir</SEG></LT>
+<LL>E romeu que Deus assi quer servir</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "Jelusalen" AC = "----+----+">
+<LT>por levar tal furt' a Jelusalen,</LT>
+<LL>por levar tal furt' a Jelusalen,</LL>
+
+<TOPO CAT = "CIUDAD">Jelusalen</TOPO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">e sol non cata como Gris <SEG C = "R" N = "PRI" ID = "6">non ten</SEG></SEG></LT>
+<LL>e sol non cata como Gris non ten</LL>
+
+<ANTRO T = "ALTER">Gris</ANTRO></L>
+<L N = "4" NS = "10" RI = "ir" ERI = "cobrir" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "1">nunca cousa de que s' e<SEG C = "I" N = "RE" ID = "8">le</SEG> <SEG C = "R" N = "PR" ID = "2">cobrir</SEG></SEG>,</LT>
+<LL>nunca cousa de que s' ele cobrir,</LL>
+</L>
+<L N = "5" NS = "10" RI = "eu" ERI = "despendeu" AC = "---+----+">
+<LT>ca todo quanto el<SEG C = "I" N = "RE" ID = "9">e</SEG> despendeu</LT>
+<LL>ca todo quanto ele despendeu</LL>
+</L>
+<L N = "6" NS = "11" RI = "eu" ERI = "eu" AC = "----+-----+">
+<LT>e deu, dali foi; tod' aquesto sei eu</LT>
+<LL>e deu, dali foi; tod' aquesto sei eu</LL>
+</L>
+<L N = "7" NS = "10" RI = "ir" ERI = "vistir" AC = "-----+---+">
+<LT>e quant' el<SEG C = "I" N = "RE" ID = "10">e</SEG> foi levar e vistir.</LT>
+<LL>e quant' ele foi levar e vistir.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

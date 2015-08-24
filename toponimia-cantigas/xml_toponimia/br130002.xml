@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="130002bis" NE="1" OL="NON" SG="NO" TC="NA" XE="EA">
+      <INCIPIT>O que me d&#39; Ensar corrudo</INCIPIT>
+
+      <NUCANT>130 2bis</NUCANT>
+
+      <RM BCA="B" EM="NO" F="135r" I.FI="lb135r" MU="NON" NM="614"><NOTMAN
+      N="1">Para Tavani esta cantiga xunto coa 613 de B formaría unha única
+      composición. Sen embargo a distinta numeración que presentan en B fai
+      pensar que se trate de dúas composicións diferentes, tal e como pensa
+      Resende.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="30v" I.FI="lv030v" MU="NON" NM="215"><NOTMAN
+      N="1">Esta referencia corresponderíase coa segunda estrofa da única
+      estrofa que edita Lapa e que aparece coa mesma numeración en V.</NOTMAN></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 577</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 215 (estr. II)</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 366</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="398"><COMAU><P>A estrofa II.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Marta López Macías</NOME>
+
+        <DATE>11/06/07</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <NOTC>Drudo <COMNOTC><P>Nota de Colocci á cantiga 614 de B. Está situada
+      na parte inferior do folio 135r de B. Repite unha forma subliñada no
+      texto.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+-" ERI="corrudo" N="1" NS="7" RI="udo">
+          <LT>O que me d&#39; Ensar corrudo</LT>
+
+          <LL>O que me d&#39; Ensar corrudo</LL>
+
+          <TOPO CAT="CIRCUNS">Ensar</TOPO>
+        </L>
+
+        <L AC="---+--+-" ERI="ameaça" N="2" NS="7" RI="aça">
+          <LT>á, e de mais m&#39; ameaça,</LT>
+
+          <LL>á, e de mais m&#39; ameaça,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="cornudo" N="3" NS="7" RI="udo">
+          <LT>ain<SEG C="M" ID="1" N="SIN">da en</SEG> fi de cornudo</LT>
+
+          <LL>ainda en fi de cornudo</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="faça" N="4" NS="7" RI="aça">
+          <LT>seja, por feito que faça;</LT>
+
+          <LL>seja, por feito que faça;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="drudo" N="5" NS="7" RI="udo">
+          <LT>é el padre do meu drudo</LT>
+
+          <LL>é el padre do meu drudo</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="2" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

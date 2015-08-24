@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="122001" NE="4" OL="NON" SG="NO" TC="REFR" XE="M MR">
+      <INCIPIT>Assanhou s&#39; o meu amigo</INCIPIT>
+
+      <NUCANT>122 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="240r" I.FI="lb240r" MU="NON" NM="1120bis"></RM>
+
+      <RM BCA="B" EM="NO" F="240v" I.FI="lb240v" MU="NON" NM="1120bis"></RM>
+
+      <RM BCA="V" EM="NO" F="114r" I.FI="lv114r" MU="NON" NM="712"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1054</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 712</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 183-184</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 347</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="352p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>25/11/04</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1120bis e
+      situada no fol. 240r, columna b, enriba da cantiga, á dereita. Fai
+      referencia á presencia de refrán no texto. Enriba do &#34;o&#34; hai
+      unha especie de til agudo que está abreviando un &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="SNH"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababcCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="amigo" N="1" NS="7" RI="igo">
+          <LT>Assanhou s&#39; o meu amigo</LT>
+
+          <LL>Assanhou s&#39; o meu amigo</LL>
+        </L>
+
+        <L AC="-+----+" ERI="guisei" N="2" NS="7" RI="ei">
+          <LT>a mi, por que non <SEG C="R" ID="1" N="RD">guisei</SEG></LT>
+
+          <LL>a mi, por que non guisei</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="comigo" N="3" NS="7" RI="igo">
+          <LT>como falasse comigo,</LT>
+
+          <LL>como falasse comigo,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="ousei" N="4" NS="7" RI="ei">
+          <LT>Deus lo sabe, non ousei,</LT>
+
+          <LL>Deus lo sabe, non ousei,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="ande" N="5" NS="7" RI="ande">
+          <LT>e por en, se <SEG C="R" ID="2" N="CF">quiser</SEG>, <SEG C="R"
+          ID="3" N="PR"><SEG C="R" ID="4" N="PV">ande</SEG></SEG></LT>
+
+          <LL>e por en, se quiser, ande</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+-" ERI="demande" N="6" NS="7" RI="ande">
+            <LT><SEG C="R" ID="5" N="RR">sanhud&#39; e non<SEG C="M" ID="6"
+N="SIN"> mho</SEG> demande</SEG>;</LT>
+
+            <LL>sanhud&#39; e non mho demande;</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="ande" N="7" NS="7" RI="ande">
+            <LT>quant&#39; el quiser, atant&#39; <SEG C="R" ID="4" N="PV">ande</SEG></LT>
+
+            <LL>quant&#39; el quiser, atant&#39; ande</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="demande" N="8" NS="7" RI="ande">
+            <LT><SEG C="R" ID="5" N="RR">sanhud&#39; e non<SEG C="M" ID="7"
+N="SIN"> mho</SEG> demande</SEG></LT>
+
+            <LL>sanhud&#39; e non mho demande</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababcCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:4</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="velida" N="1" NS="7" RI="ida">
+          <LT>Enviar <SEG C="R" ID="2" N="CF">quer&#39;</SEG> eu velida,</LT>
+
+          <LL>Enviar quer&#39; eu velida,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="seja" N="2" NS="7" RI="eja">
+          <LT>a meu amigo que seja</LT>
+
+          <LL>a meu amigo que seja</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="ermida" N="3" NS="7" RI="ida">
+          <LT>en Santa Marta<SEG C="M" ID="8" N="SIN"> na er</SEG>mida</LT>
+
+          <LL>en Santa Marta na ermida</LL>
+
+          <TOPO CAT="LCULTO">Santa Marta</TOPO>
+        </L>
+
+        <L AC="--+---+-" ERI="veja" N="4" NS="7" RI="eja">
+          <LT>migo led&#39; e i me veja,</LT>
+
+          <LL>migo led&#39; e i me veja,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="ande" N="5" NS="7" RI="ande">
+          <LT>se quiser, e se non, <SEG C="R" ID="3" N="PR"><SEG C="R" ID="4"
+N="PV">ande</SEG></SEG></LT>
+
+          <LL>se quiser, e se non, ande</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+-" ERI="demande" N="6" NS="7" RI="ande">
+            <LT><SEG C="R" ID="5" N="RR">sanhud&#39; e <SEG C="I" ID="9"
+N="RE">non <SEG C="M" ID="10" N="SIN">mho</SEG> demande</SEG></SEG>;</LT>
+
+            <LL>sanhud&#39; e non mho demande;</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="ande" N="7" NS="7" RI="ande">
+            <LT><SEG C="I" ID="9" N="RE">quant&#39; el quiser, atant&#39; <SEG
+C="R" ID="4" N="PV">ande</SEG></SEG></LT>
+
+            <LL>quant&#39; el quiser, atant&#39; ande</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="demande" N="8" NS="7" RI="ande">
+            <LT><SEG C="I" ID="9" N="RE"><SEG C="R" ID="5" N="RR">sanhud&#39; e non<SEG
+C="M" ID="11" N="SIN">mho</SEG> demande</SEG></SEG></LT>
+
+            <LL>sanhud&#39; e nonmho demande</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababcCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:4</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="guisado" N="1" NS="7" RI="ado">
+          <LT>Depoilo tiv&#39; eu <SEG C="R" ID="1" N="RD">guisado</SEG></LT>
+
+          <LL>Depoilo tiv&#39; eu guisado</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="sanhudo" N="2" NS="7" RI="udo">
+          <LT>que s&#39; el foi daqui <SEG C="R" ID="12" N="RD">sanhudo</SEG>,</LT>
+
+          <LL>que s&#39; el foi daqui sanhudo,</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="mandado" N="3" NS="7" RI="ado">
+          <LT>e atendi seu mandado</LT>
+
+          <LL>e atendi seu mandado</LL>
+        </L>
+
+        <L AC="---+--+-" ERI="perdudo" N="4" NS="7" RI="udo">
+          <LT>e non o vi, e perdudo</LT>
+
+          <LL>e non o vi, e perdudo</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="ande" N="5" NS="7" RI="ande">
+          <LT>é comigo, e alá x&#39; <SEG C="R" ID="3" N="PR"><SEG C="R"
+ID="4" N="PV">ande</SEG></SEG></LT>
+
+          <LL>é comigo, e alá x&#39; ande</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+-" ERI="demande" N="6" NS="7" RI="ande">
+            <LT><SEG C="R" ID="5" N="RR">sanhud&#39; e <SEG C="I" ID="13"
+N="RE">non<SEG C="M" ID="14" N="SIN"> mho</SEG> demande</SEG></SEG>;</LT>
+
+            <LL>sanhud&#39; e non mho demande;</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="ande" N="7" NS="7" RI="ande">
+            <LT><SEG C="I" ID="13" N="RE">quant&#39; el quiser, atant&#39; <SEG
+C="R" ID="4" N="PV">ande</SEG></SEG></LT>
+
+            <LL>quant&#39; el quiser, atant&#39; ande</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="demande" N="8" NS="7" RI="ande">
+            <LT><SEG C="I" ID="13" N="RE"><SEG C="R" ID="5" N="RR">sanhud&#39; e non <SEG
+C="M" ID="15" N="SIN">mho</SEG> demande</SEG></SEG></LT>
+
+            <LL>sanhud&#39; e non mho demande</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+3">
+        <ESQRIM TIPO="ababcCCC"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7&#39; 7 7&#39; 7 7&#39; 7&#39; 7&#39; 7&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>105:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+-" ERI="manha" N="1" NS="7" RI="anha">
+          <LT>Sei que non sab&#39; a mha manha,</LT>
+
+          <LL>Sei que non sab&#39; a mha manha,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="quer" N="2" NS="7" RI="er">
+          <LT>pois que m&#39; enviar non <SEG C="R" ID="16" N="RD">quer</SEG></LT>
+
+          <LL>pois que m&#39; enviar non quer</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="assanha" N="3" NS="7" RI="anha">
+          <LT>mandadeir&#39; e xi m&#39; <SEG C="R" ID="12" N="RD">assanha</SEG>,</LT>
+
+          <LL>mandadeir&#39; e xi m&#39; assanha,</LL>
+        </L>
+
+        <L AC="--+---+" ERI="quiser" N="4" NS="7" RI="er">
+          <LT>ca verrá, se m&#39; eu <SEG C="R" ID="16" N="RD">quiser</SEG>,</LT>
+
+          <LL>ca verrá, se m&#39; eu quiser,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="ande" N="5" NS="7" RI="ande">
+          <LT>mais non quer&#39; eu, e el <SEG C="R" ID="3" N="PR"><SEG C="R"
+ID="4" N="PV">ande</SEG></SEG></LT>
+
+          <LL>mais non quer&#39; eu, e el ande</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+----+-" ERI="demande" N="6" NS="7" RI="ande">
+            <LT><SEG C="R" ID="5" N="RR">sanhud&#39; e non<SEG C="M" ID="17"
+N="SIN"> mho</SEG> demande</SEG>;</LT>
+
+            <LL>sanhud&#39; e non mho demande;</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="ande" N="7" NS="7" RI="ande">
+            <LT><SEG C="I" ID="18" N="RE">quant&#39; el quiser, atant&#39; <SEG
+C="R" ID="4" N="PV">ande</SEG></SEG></LT>
+
+            <LL>quant&#39; el quiser, atant&#39; ande</LL>
+          </L>
+
+          <L AC="-+----+-" ERI="demande" N="8" NS="7" RI="ande">
+            <LT><SEG C="I" ID="18" N="RE"><SEG C="R" ID="5" N="RR">sanhud&#39; e non <SEG
+C="M" ID="19" N="SIN">mho</SEG> demande</SEG></SEG></LT>
+
+            <LL>sanhud&#39; e non mho demande</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

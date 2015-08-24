@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="021001" NE="4" OL="SI" SG="NO" TC="MEST" XE="T">
+      <INCIPIT>Sinner, us vein quer</INCIPIT>
+
+      <NUCANT>21 1</NUCANT>
+
+      <TENSO NOME="Alfonso X o Sabio"><NUCANT>18 42</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="105v" I.FI="lb105v" MU="NON" NM="477"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Pellegrini, Catalan?, pp. 190-193</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 371</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 422</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Paredes Núñez, 39</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, pp. 186-187</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 430</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 98</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="23"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>25/01/05</DATE>
+      </RESP>
+
+      <FRI>c. doblas<P>(rima c I, II sing.)</P></FRI>
+
+      <TEMA CAT="DF"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcdcd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>112:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+----+-+" ERI="quer" N="1" NS="8" RI="er">
+          <LT>- <SEG C="L" ID="1" N="OL">Sinner,<SEG C="I" ID="2" N="AU"> ...</SEG> us vein quer</SEG></LT>
+
+          <LL>- Sinner, ... us vein quer</LL>
+        </L>
+
+        <L AC="-+---+--+" ERI="play" N="2" NS="8" RI="ai">
+          <LT><SEG C="L" ID="3" N="OL">un don que&#39; m donez, si vos play</SEG>:</LT>
+
+          <LL>un don que&#39; m donez, si vos play:</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="seer" N="3" NS="8" RI="er">
+          <LT><SEG C="L" ID="4" N="OL">que vul vostr&#39; almiral <SEG C="R"
+ID="5" N="PRI"><SEG C="R" ID="6" N="RD">seer</SEG></SEG></SEG></LT>
+
+          <LL>que vul vostr&#39; almiral seer</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="lay" N="4" NS="8" RI="ai">
+          <LT><SEG C="L" ID="7" N="OL">en cela vostra mar da lay</SEG>;</LT>
+
+          <LL>en cela vostra mar da lay;</LL>
+        </L>
+
+        <L AC="---+-+-+" ERI="fe" N="5" NS="8" RI="e">
+          <LT><SEG C="L" ID="8" N="OL">e sy o faz, en bona fe</SEG></LT>
+
+          <LL>e sy o faz, en bona fe</LL>
+        </L>
+
+        <L AC="-+--+--+" ERI="son" N="6" NS="8" RI="on">
+          <LT><SEG C="L" ID="9" N="OL">c&#39; a tota<SEG C="I" ID="10" N="RE">s</SEG> las na<SEG
+C="I" ID="11" N="RE">u</SEG>s que la <SEG C="R" ID="6" N="RD">son</SEG></SEG></LT>
+
+          <LL>c&#39; a totas las naus que la son</LL>
+        </L>
+
+        <L AC="---+-+-+" ERI="me" N="7" NS="8" RI="e">
+          <LT><SEG C="L" ID="12" N="OL">eu les faray tal vent de me</SEG>,</LT>
+
+          <LL>eu les faray tal vent de me,</LL>
+        </L>
+
+        <L AC="--++---+" ERI="-on" N="8" NS="8" RI="on">
+          <LT><SEG C="L" ID="13" N="OL">or <SEG C="I" ID="14" N="AU">...</SEG> totas <SEG
+C="I" ID="15" N="AU"> ... -on</SEG></SEG>.</LT>
+
+          <LL>or ... totas ... -on.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcdcd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>112:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="poder" N="1" NS="8" RI="er">
+          <LT>- <SEG C="R" ID="16" N="CD">Don Arnaldo</SEG>, pois tal poder</LT>
+
+          <LL>- Don Arnaldo, pois tal poder</LL>
+
+          <ANTRO T="REAL">Arnault Catalan (Don Arnaldo)</ANTRO>
+        </L>
+
+        <L AC="-+-+---+" ERI="vai" N="2" NS="8" RI="ai">
+          <LT>de vent&#39; avedes, ben vos vai,</LT>
+
+          <LL>de vent&#39; avedes, ben vos vai,</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="seer" N="3" NS="8" RI="er">
+          <LT>e dad&#39; a vós devia <SEG C="R" ID="5" N="PRI"><SEG C="R"
+ID="6" N="RD">seer</SEG></SEG></LT>
+
+          <LL>e dad&#39; a vós devia seer</LL>
+        </L>
+
+        <L AC="---+-+-+" ERI="ai" N="4" NS="8" RI="ai">
+          <LT>aqueste don. Mais digu&#39; eu: ai,</LT>
+
+          <LL>aqueste don. Mais digu&#39; eu: ai,</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="Rei" N="5" NS="8" RI="ei">
+          <LT>por que nunca tal don deu Rei?</LT>
+
+          <LL>por que nunca tal don deu Rei?</LL>
+        </L>
+
+        <L AC="---+---+" ERI="galardon" N="6" NS="8" RI="on">
+          <LT>Pero non quer&#39; eu galardon;</LT>
+
+          <LL>Pero non quer&#39; eu galardon;</LL>
+        </L>
+
+        <L AC="----+--+" ERI="outroguei" N="7" NS="8" RI="ei">
+          <LT>mais, pois vo-lo ja outroguei,</LT>
+
+          <LL>mais, pois vo-lo ja outroguei,</LL>
+        </L>
+
+        <L AC="+----+-+" ERI="Sison" N="8" NS="8" RI="on">
+          <LT>chamen-vos &#34;Almiral Sison&#34;.</LT>
+
+          <LL>chamen-vos &#34;Almiral Sison&#34;.</LL>
+
+          <ANTRO T="ALTER">Almiral Sison</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcdcd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+
+          <NOTMET>
+            <P>O verso 8 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>112:12</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="merceiar" N="1" NS="8" RI="ar">
+          <LT>- <SEG C="L" ID="17" N="OL">Lo don vos dei molt merceiar</SEG></LT>
+
+          <LL>- Lo don vos dei molt merceiar</LL>
+        </L>
+
+        <L AC="--+---++" ERI="mes" N="2" NS="8" RI="es">
+          <LT><SEG C="L" ID="18" N="OL">e l&#39; ondrat nom que m&#39; avez mes</SEG>,</LT>
+
+          <LL>e l&#39; ondrat nom que m&#39; avez mes,</LL>
+        </L>
+
+        <L AC="--+-+--+" ERI="segurar" N="3" NS="8" RI="ar">
+          <LT><SEG C="L" ID="19" N="OL">e d&#39; aitan vos vul segurar</SEG></LT>
+
+          <LL>e d&#39; aitan vos vul segurar</LL>
+        </L>
+
+        <L AC="--+-+--+" ERI="cortes" N="4" NS="8" RI="es">
+          <LT><SEG C="L" ID="20" N="OL">qu&#39; an faray un ven tan cortes</SEG>:</LT>
+
+          <LL>qu&#39; an faray un ven tan cortes:</LL>
+        </L>
+
+        <L AC="--+-+--+" ERI="melhor" N="5" NS="8" RI="or">
+          <LT><SEG C="L" ID="21" N="OL">que mia dona, qu&#39; es la melhor</SEG></LT>
+
+          <LL>que mia dona, qu&#39; es la melhor</LL>
+        </L>
+
+        <L AC="-+--+--+" ERI="avinent" N="6" NS="8" RI="ent">
+          <LT><SEG C="L" ID="22" N="OL">del mond&#39; e la plus a<SEG C="I"
+ID="23" N="RE">vi</SEG>nent</SEG>,</LT>
+
+          <LL>del mond&#39; e la plus avinent,</LL>
+        </L>
+
+        <L AC="-+-+---+" ERI="dolçor" N="7" NS="8" RI="or">
+          <LT><SEG C="L" ID="24" N="OL">faray passar a la dolçor</SEG></LT>
+
+          <LL>faray passar a la dolçor</LL>
+        </L>
+
+        <L AC="-+--+---+" ERI="cent" N="8" NS="9" RI="ent">
+          <LT><SEG C="L" ID="25" N="OL">del temps</SEG>, <SEG C="L" ID="26"
+          N="OL">cum filias alteras cent</SEG>.</LT>
+
+          <LL>del temps, cum filias alteras cent.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="ababcdcd"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>112:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+-+--+" ERI="errar" N="1" NS="8" RI="ar">
+          <LT>- <SEG C="R" ID="16" N="CD">Don Arnaldo</SEG>, fostes errar,</LT>
+
+          <LL>- Don Arnaldo, fostes errar,</LL>
+
+          <ANTRO T="REAL">Arnault Catalan (Don Arnaldo)</ANTRO>
+        </L>
+
+        <L AC="--+----+" ERI="batarês" N="2" NS="8" RI="es">
+          <LT>por passardes con batarês</LT>
+
+          <LL>por passardes con batarês</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Ultramar" N="3" NS="8" RI="ar">
+          <LT>vossa senhor a Ultramar,</LT>
+
+          <LL>vossa senhor a Ultramar,</LL>
+
+          <TOPO CAT="CIRCUNS">Ultramar</TOPO>
+        </L>
+
+        <L AC="--+--+-+" ERI="três" N="4" NS="8" RI="es">
+          <LT>que non cuid&#39; eu que i á três</LT>
+
+          <LL>que non cuid&#39; eu que i á três</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="valor" N="5" NS="8" RI="or">
+          <LT>no mundo de tan gran valor;</LT>
+
+          <LL>no mundo de tan gran valor;</LL>
+        </L>
+
+        <L AC="-+---+-+-" ERI="Vicente" N="6" NS="8" RI="ente">
+          <LT>e <SEG C="I" ID="27" N="RE">j</SEG>uro vos, par San Vicent<SEG
+          C="I" ID="28" N="RE">e</SEG>,</LT>
+
+          <LL>e juro vos, par San Vicente,</LL>
+
+          <ANTRO T="ALTER">San Vicente</ANTRO>
+        </L>
+
+        <L AC="--++---+" ERI="doneador" N="7" NS="8" RI="or">
+          <LT>que non é bon doneador</LT>
+
+          <LL>que non é bon doneador</LL>
+        </L>
+
+        <L AC="-+--+--+-" ERI="ciente" N="8" NS="8" RI="ente">
+          <LT>quen esto fezer a ciente.</LT>
+
+          <LL>quen esto fezer a ciente.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

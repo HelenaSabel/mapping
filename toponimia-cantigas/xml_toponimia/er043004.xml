@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "043004" TC = "MEST" NE = "4" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Esta ama cuj' &eacute; Joham Coelho</INCIPIT>
+<NUCANT>43 4</NUCANT>
+<RM BCA = "B" NM = "1511" F = "316r" MU = "NON" EM = "NO" I.FI = "lb316r"></RM>
+<RM BCA = "B" NM = "1511" F = "316v" MU = "NON" EM = "NO" I.FI = "lb316v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 130</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. I, pp. 150-151</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 384</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1423</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 139</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 26</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 35</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, pp. 275-276</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Dobarro et alii, Literatura, 42</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 192-193</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 108-109, 462-463</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 7</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 103</P></EDIANT>
+<DATOAU NOME = "Spampinato" NUA = "20"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>21/4/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "AMA">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10' 10</ESQMET></INFMET>
+<NUMESQ>101:31</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "elho" ERI = "Coelho" AC = "--+------+-">
+<LT>Esta ama cuj' &eacute; Joham Coelho,</LT>
+<LL>Esta ama cuj' &eacute; Joham Coelho,</LL>
+<ANTRO T = "REAL">Joham Coelho</ANTRO></L>
+<L N = "2" NS = "10" RI = "er" ERI = "aprender" AC = "---+-----+">
+<LT>per b&otilde;as manhas que soub' aprender,</LT>
+<LL>per b&otilde;as manhas que soub' aprender,</LL>
+</L>
+<L N = "3" NS = "10" RI = "elho" ERI = "conselho" AC = "--+-----+-">
+<LT>cada hu for achar&aacute; bon conselho,</LT>
+<LL>cada hu for achar&aacute; bon conselho,</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "tecer" AC = "-----+---+">
+<LT>que sabe ben fiar e bem tecer,</LT>
+<LL>que sabe ben fiar e bem tecer,</LL>
+</L>
+<L N = "5" NS = "10" RI = "isa" ERI = "camisa" AC = "---+-----+-">
+<LT>e talha mui ben bragas e camisa</LT>
+<LL>e talha mui ben bragas e camisa</LL>
+</L>
+<L N = "6" NS = "10" RI = "isa" ERI = "guysa" AC = "---+-----+-">
+<LT>e nunca vistes molher de sa guysa</LT>
+<LL>e nunca vistes molher de sa guysa</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "fazer" AC = "--+------+">
+<LT>que mays limpha vida sabha <SEG C = "R" N = "RD" ID = "1">fazer</SEG>.</LT>
+<LL>que mays limpha vida sabha fazer.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10' 10</ESQMET></INFMET>
+<NUMESQ>101:31</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "adas" ERI = "pre&ccedil;adas" AC = "--+------+-">
+<LT>Ant' &eacute; oje das molheres pre&ccedil;adas</LT>
+<LL>Ant' &eacute; oje das molheres pre&ccedil;adas</LL>
+</L>
+<L N = "2" NS = "10" RI = "ar" ERI = "logar" AC = "---+-----+">
+<LT>que nos sabemos en nosso logar,</LT>
+<LL>que nos sabemos en nosso logar,</LL>
+</L>
+<L N = "3" NS = "10" RI = "adas" ERI = "quejadas" AC = "---+-----+-">
+<LT>ca lava ben e faz boas quejadas</LT>
+<LL>ca lava ben e faz boas quejadas</LL>
+</L>
+<L N = "4" NS = "10" RI = "ar" ERI = "amassar" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "2">e sabe</SEG> ben moer e amassar</LT>
+<LL>e sabe ben moer e amassar</LL>
+</L>
+<L N = "5" NS = "10" RI = "eira" ERI = "leiteyra" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "2">e sabe</SEG> muyto de b&otilde;a leiteyra.</LT>
+<LL>e sabe muyto de b&otilde;a leiteyra.</LL>
+</L>
+<L N = "6" NS = "10" RI = "eira" ERI = "queira" AC = "----+----+-">
+<LT>Esto non digu' eu por ben que lhi queira,</LT>
+<LL>Esto non digu' eu por ben que lhi queira,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ar" ERI = "cuydar" AC = "-----+---+">
+<LT>mays porque est assy, a meu cuydar.</LT>
+<LL>mays porque est assy, a meu cuydar.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10' 10</ESQMET></INFMET>
+<NUMESQ>101:31</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "&otilde;es" ERI = "verr&otilde;es" AC = "---+-----+">
+<LT>E sseu marido de crastar verr&otilde;es</LT>
+<LL>E sseu marido de crastar verr&otilde;es</LL>
+</L>
+<L N = "2" NS = "10" RI = "on" ERI = "Carrhon" AC = "-----+---+">
+<LT><SEG C = "R" N = "CD" ID = "3">non</SEG> lh' achan par de Burgos a Carrhon,</LT>
+<LL>non lh' achan par de Burgos a Carrhon,</LL>
+<TOPO CAT = "CIUDAD">Burgos</TOPO>
+<TOPO CAT = "CIUDAD">Carrhon</TOPO></L>
+<L N = "3" NS = "10" RI = "es" ERI = "gali&otilde;es" AC = "--+------+">
+<LT>nen <SEG C = "I" N = "RE" ID = "4">a</SEG> ela de capar gali&otilde;es</LT>
+<LL>nen a ela de capar gali&otilde;es</LL>
+</L>
+<L N = "4" NS = "10" RI = "on" ERI = "pardon" AC = "---+-----+">
+<LT>fremosament', assi Deus mi pardon!</LT>
+<LL>fremosament', assi Deus mi pardon!</LL>
+</L>
+<L N = "5" NS = "10" RI = "eiro" ERI = "argueyro" AC = "---+-----+-">
+<LT>Tod' esto faz, e cata ben argueyro</LT>
+<LL>Tod' esto faz, e cata ben argueyro</LL>
+</L>
+<L N = "6" NS = "10" RI = "eiro" ERI = "calheyro" AC = "---+-----+-">
+<LT><SEG C = "M" N = "SIN" ID = "5">e es</SEG>canta ben per olh' e per calheyro</LT>
+<LL>e escanta ben per olh' e per calheyro</LL>
+</L>
+<L N = "7" NS = "10" RI = "on" ERI = "escanta&ccedil;on" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "2">e ssabe</SEG> muyta b&otilde;<SEG C = "M" N = "SIN" ID = "6">a es</SEG>canta&ccedil;on.</LT>
+<LL>e ssabe muyta b&otilde;a escanta&ccedil;on.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "ababccb"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10' 10 10' 10' 10</ESQMET></INFMET>
+<NUMESQ>101:31</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ela" ERI = "Castela" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">Non</SEG> acharedes en toda Castela,</LT>
+<LL>Non acharedes en toda Castela,</LL>
+<TOPO CAT = "CIRCUNS">Castela</TOPO></L>
+<L N = "2" NS = "10" RI = "az" ERI = "praz" AC = "---+-----+">
+<LT>gra&ccedil;as a Deus, de que <SEG C = "M" N = "SIN" ID = "7">mh-a</SEG>gora praz,</LT>
+<LL>gra&ccedil;as a Deus, de que mh-agora praz,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ela" ERI = "morcela" AC = "---+-----+-">
+<LT>melhor ventrulho nen melhor morcela</LT>
+<LL>melhor ventrulho nen melhor morcela</LL>
+</L>
+<L N = "4" NS = "10" RI = "az" ERI = "faz" AC = "---+-----+">
+<LT>do que a ama com ssa m&atilde;o <SEG C = "R" N = "RD" ID = "1">faz</SEG>.</LT>
+<LL>do que a ama com ssa m&atilde;o faz.</LL>
+</L>
+<L N = "5" NS = "10" RI = "ido" ERI = "marido" AC = "---+-----+-">
+<LT>E al faz ben, como diz seu marido:</LT>
+<LL>E al faz ben, como diz seu marido:</LL>
+</L>
+<L N = "6" NS = "10" RI = "ido" ERI = "transsido" AC = "---+-----+-">
+<LT>faz bon souri&ccedil;' e lava ben transsido,</LT>
+<LL>faz bon souri&ccedil;' e lava ben transsido,</LL>
+</L>
+<L N = "7" NS = "10" RI = "az" ERI = "assaz" AC = "---+-----+">
+<LT>e deyta ben galinha cho<SEG C = "M" N = "SIN" ID = "8">ca a</SEG>ssaz!</LT>
+<LL>e deyta ben galinha choca assaz!</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

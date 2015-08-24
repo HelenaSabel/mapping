@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="053001" NE="3" OL="SI" SG="NO" TC="MEST" XE="CA">
+      <INCIPIT>Ala u jaz la Torona</INCIPIT>
+
+      <NUCANT>53 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="99r" I.FI="lb099r" MU="NON" NM="454"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 346</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Machado 396</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tavani, Tra Galizia," NUA="57-58pp"><COMAU><P>O profesor
+      Tavani indica que se trata dunha proposta de edición susceptible de
+      revisión.</P></COMAU></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>05/01/05</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima b sing.; c I = b III)</P><P>fragm.</P></FRI>
+
+      <NOTC>Asembrar <COMNOTC><P>Nota de Colocci á cantiga 454 de B. Está
+      situada na na columna b, na parte supeirior do folio 99r dese
+      manuscrito. Chama a atención sobre esa forma verbal que se recolle no
+      verso 2 da III estrofa.</P></COMNOTC></NOTC>
+
+      <RUBRICA>Don Gcia Meediz deixo <COMRUBRI><P>Rúbrica atributiva que
+      precede á cantiga 454 de B, na columna a do folio 99r dese manuscrito.
+      Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Esta cantiga foy feita a Roy de Spanha em Monfalcóseu condado
+      <COMRUBRI><P>Rúbrica explicativa que aparece na columna a, na parte
+      inferior do folio 99r dese manuscrito. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="LED"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8&#39; 7 8&#39; 7 8 8 8&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:58</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-" ERI="Torona" N="1" NS="8" RI="ona">
+          <LT>Ala u jaz la <SEG C="R" ID="1" N="PV">Torona</SEG></LT>
+
+          <LL>Ala u jaz la Torona</LL>
+
+          <TOPO CAT="CIRCUNS">Toroño (Torona)</TOPO>
+        </L>
+
+        <L AC="---+--+" ERI="tans" N="2" NS="7" RI="ans">
+          <LT>e sos parents, que son tans,</LT>
+
+          <LL>e sos parents, que son tans,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="bona" N="3" NS="8" RI="ona">
+          <LT>e la terra <SEG C="R" ID="2" N="PV">es trop bona</SEG></LT>
+
+          <LL>e la terra es trop bona</LL>
+        </L>
+
+        <L AC="--+---+" ERI="chans" N="4" NS="7" RI="ans">
+          <LT>e ja quites son los chans,</LT>
+
+          <LL>e ja quites son los chans,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="tornar" N="5" NS="7" RI="ar">
+          <LT>aora-m volh <SEG C="I" ID="3" N="RE">lai</SEG> tornar</LT>
+
+          <LL>aora-m volh lai tornar</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="logar" N="6" NS="8" RI="ar">
+          <LT>a Sousa, a lo mon logar</LT>
+
+          <LL>a Sousa, a lo mon logar</LL>
+
+          <TOPO CAT="CIRCUNS">Sousa</TOPO>
+        </L>
+
+        <L AC="--+----+-" ERI="saudona" N="7" NS="8" RI="ona">
+          <LT>que<SEG C="M" ID="4" N="SIN"> m&#39; a</SEG>douça e-m saud<SEG
+          C="R" ID="5" N="CC">ona</SEG>.</LT>
+
+          <LL>que m&#39; adouça e-m saudona.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababcca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8&#39; 7 8&#39; 7 8 8 8&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>100:58</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-" ERI="resona" N="1" NS="7" RI="ona">
+          <LT>La sang que ten me <SEG C="I" ID="6" N="RE">re</SEG>sona<SEG
+          C="R" ID="5" N="CC"></SEG></LT>
+
+          <LL>La sang que ten me resona</LL>
+        </L>
+
+        <L AC="-+----+" ERI="Natal" N="2" NS="7" RI="al">
+          <LT>que torne per un Natal</LT>
+
+          <LL>que torne per un Natal</LL>
+        </L>
+
+        <L AC="--+----+-" ERI="verdona" N="3" NS="8" RI="ona">
+          <LT>en la folha assi verdona</LT>
+
+          <LL>en la folha assi verdona</LL>
+        </L>
+
+        <L AC="--+---+" ERI="mal" N="4" NS="7" RI="al">
+          <LT>que nulh temps non lhi fai mal,</LT>
+
+          <LL>que nulh temps non lhi fai mal,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="pagar" N="5" NS="8" RI="ar">
+          <LT>toda-n se dev&#39; apagar:</LT>
+
+          <LL>toda-n se dev&#39; apagar:</LL>
+        </L>
+
+        <L AC="--+----+" ERI="achatar" N="6" NS="8" RI="ar">
+          <LT>que nulh&#39; om non lhi a <SEG C="I" ID="6a" N="RE">a</SEG>chatar</LT>
+
+          <LL>que nulh&#39; om non lhi a achatar</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="dona" N="7" NS="8" RI="ona">
+          <LT>de l&#39;odor que de si d<SEG C="R" ID="7" N="CC">ona</SEG>:</LT>
+
+          <LL>de l&#39;odor que de si dona:</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="bona" N="1" NS="8" RI="ona">
+          <LT>Acho-nten <SEG C="I" ID="8" N="RE">qu</SEG>e<SEG C="R" ID="2"
+          N="PV"> es tro<SEG C="I" ID="9" N="RE">p</SEG> b<SEG C="R" ID="7"
+N="CC">ona</SEG></SEG>,</LT>
+
+          <LL>Acho-nten que es trop bona,</LL>
+        </L>
+
+        <L AC="---+--+" ERI="asembrar" N="2" NS="7" RI="ar">
+          <LT>que mal es so d&#39;asembrar</LT>
+
+          <LL>que mal es so d&#39;asembrar</LL>
+        </L>
+
+        <L AC="---+---+-" ERI="Torona" N="3" NS="8" RI="ona">
+          <LT>las faisons de la <SEG C="R" ID="1" N="PV">Torona</SEG></LT>
+
+          <LL>las faisons de la Torona</LL>
+        </L>
+
+        <L AC="---+--+" ERI="gazalhar" N="4" NS="7" RI="ar">
+          <LT>a qui no-n pot gazalhar.</LT>
+
+          <LL>a qui no-n pot gazalhar.</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT><SEG C="I" ID="11" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

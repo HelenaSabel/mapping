@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "091005" TC = "REFR" NE = "4" SG = "NO" XE = "M MAR" OL = "NON">
+<INCIPIT>Mia irmana fremosa, treides comigo</INCIPIT>
+<NUCANT>91 5</NUCANT>
+<RM BCA = "B" NM = "1280" F = "269v" MU = "NON" EM = "NO" I.FI = "lb269v"></RM>
+<RM BCA = "V" NM = "886" F = "139v" MU = "NON" EM = "NO" I.FI = "lv139v"></RM>
+<RM BCA = "K" NM = "886" F = "198r" MU = "NON" EM = "NO" I.FI = "lk198r"></RM>
+<RM BCA = "N" NM = "3" F = "1r" MU = "SI" EM = "NO" I.FI = "ln001r">
+<NOTMAN N = "1">O texto foi copiado na columna b do
+Pergami&ntilde;o.</NOTMAN></RM>
+<EDIANT T = "CRITI">
+<P>Cunha, Codax, 3</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Oviedo y Arce 3</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Nunes, Martim Codas, 3</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Bell, Mart&iacute;n Codax, 3</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Amigo 493</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 260</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1229</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 886</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 70</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 154</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 23</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Spina, L&iacute;rica, p. 342</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, 155</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Reckert/Macedo, Cinquenta cant., 29</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Beltr&aacute;n, O cervo, 38</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 159</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Lit. Galega, II, 69</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Pena, Manual, 12</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, p. 104</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 210-211, 513</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 515</P></EDIANT>
+<DATOAU NOME = "Cantigas, Codax" NUA = "3"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>03/11/04</DATE></RESP>
+<FRI>c. alt.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana situada na columna b do folio 269v, enriba da cantiga B
+1280. Fai referencia &aacute; presencia de refr&aacute;n no
+texto.</P></COMNOTC></NOTC>
+<NOTC>syll
+<COMNOTC>
+<P>Nota colocciana situada na columna b do folio 269v, enriba da cantiga B
+1280. Fai referencia &oacute; n&uacute;mero de s&iacute;labas que Colocci conta
+na cantiga.</P></COMNOTC></NOTC>
+<TEMA CAT = "EN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 13' 7'</ESQMET></INFMET>
+<NUMESQ>26:43
+<NOTNESQ>
+<P>Tavani ofrece este esquema, a&iacute;nda que regulariza o esquema
+m&eacute;trico do seguinte xeito: 12' 12' 7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "igo" ERI = "comigo" AC = "-----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Mia irmana fremosa, treides comigo</SEG></LT>
+<LL>Mia irmana fremosa, treides comigo</LL>
+</L>
+<L N = "2" NS = "13" RI = "ido" ERI = "salido" AC = "-----+------+-">
+<LT><SEG C = "R" N = "PL" ID = "2"><SEG C = "R" N = "LP" ID = "3">a<SEG C = "M" N = "SIN" ID = "4"> la i</SEG>greja de Vigo, u &eacute; o mar salido</SEG></SEG>.</LT>
+<LL>a la igreja de Vigo, u &eacute; o mar salido.</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ondas" ERI = "ondas" AC = "------+-">
+<LT>E miraremos las ondas!</LT>
+<LL>E miraremos las ondas!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>12' 13' 7'</ESQMET></INFMET>
+<NUMESQ>26:43
+<NOTNESQ>
+<P>Tavani ofrece este esquema, a&iacute;nda que regulariza o esquema
+m&eacute;trico do seguinte xeito: 12' 12' 7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "ado" ERI = "grado" AC = "-----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "1">Mia irmana fremosa, treides de grado</SEG></LT>
+<LL>Mia irmana fremosa, treides de grado</LL>
+</L>
+<L N = "2" NS = "13" RI = "ado" ERI = "levado" AC = "-----+------+-">
+<LT><SEG C = "R" N = "PL" ID = "2"><SEG C = "R" N = "LP" ID = "3">a<SEG C = "M" N = "SIN" ID = "5"> la i</SEG>greja de Vigo, u &eacute; o mar levado</SEG></SEG>.</LT>
+<LL>a la igreja de Vigo, u &eacute; o mar levado.</LL>
+<TOPO CAT = "CIUDAD">Vigo</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ondas" ERI = "ondas" AC = "------+-">
+<LT>E miraremos las ondas!</LT>
+<LL>E miraremos las ondas!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 12' 7'</ESQMET></INFMET>
+<NUMESQ>26:47
+<NOTNESQ>
+<P>Tavani ofrece este esquema, a&iacute;nda que regulariza o esquema
+m&eacute;trico do seguinte xeito: 12' 11' 7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ido" ERI = "salido" AC = "-----+------+-">
+<LT><SEG C = "R" N = "LP" ID = "3">A la igreja de Vig', u &eacute; o mar salido</SEG>,</LT>
+<LL>A la igreja de Vig', u &eacute; o mar salido,</LL>
+<TOPO CAT = "CIUDAD">Vigo (Vig')</TOPO></L>
+<L N = "2" NS = "12" RI = "igo" ERI = "amigo" AC = "-----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "6">e verra i mia madr' e o meu <SEG C = "R" N = "RD" ID = "7">amigo</SEG></SEG>.</LT>
+<LL>e verra i mia madr' e o meu amigo.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ondas" ERI = "ondas" AC = "------+-">
+<LT>E miraremos las ondas!</LT>
+<LL>E miraremos las ondas!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 12' 7'</ESQMET></INFMET>
+<NUMESQ>26:47
+<NOTNESQ>
+<P>Tavani ofrece este esquema, a&iacute;nda que regulariza o esquema
+m&eacute;trico do seguinte xeito: 12' 11' 7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ado" ERI = "levado" AC = "-----+------+-">
+<LT><SEG C = "R" N = "LP" ID = "3">A la igreja de Vig', u &eacute; o mar levado</SEG>,</LT>
+<LL>A la igreja de Vig', u &eacute; o mar levado,</LL>
+<TOPO CAT = "CIUDAD">Vigo (Vig')</TOPO></L>
+<L N = "2" NS = "12" RI = "ado" ERI = "amado" AC = "-----+-----+-">
+<LT><SEG C = "R" N = "PL" ID = "6">e verra i mia madr' e o meu <SEG C = "R" N = "RD" ID = "7">amado</SEG></SEG>.</LT>
+<LL>e verra i mia madr' e o meu amado.</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "7" RI = "ondas" ERI = "ondas" AC = "------+-">
+<LT>E miraremos las ondas!</LT>
+<LL>E miraremos las ondas!</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

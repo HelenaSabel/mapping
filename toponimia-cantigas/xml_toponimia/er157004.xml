@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "157004" TC = "REFR" NE = "3+F" SG = "NO" XE = "A" OL = "NON">
+<INCIPIT>Amigos, des que me parti</INCIPIT>
+<NUCANT>157 4</NUCANT>
+<RM BCA = "A" NM = "280" F = "78v" MU = "NON" EM = "YES" I.FI = "la078v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 1623</P></EDIANT>
+<DATOAU NOME = "CA" NUA = "280">
+<COMAU>
+<P>Apart&aacute;monos da edici&oacute;n seguida &oacute; non dispo&ntilde;er
+tipograficamente como refr&aacute;n o v. 5.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>18/04/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "COI"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>13:55</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "parti" AC = "-+-----+">
+<LT>Amigos, des que me parti</LT>
+<LL>Amigos, des que me parti</LL>
+</L>
+<L N = "2" NS = "8" RI = "i" ERI = "vi" AC = "---+---+">
+<LT>de mia senhor e a non vi,</LT>
+<LL>de mia senhor e a non vi,</LL>
+</L>
+<L N = "3" NS = "8" RI = "i" ERI = "dormi" AC = "---+---+">
+<LT>nunca fui ledo, nen dormi,</LT>
+<LL>nunca fui ledo, nen dormi,</LL>
+</L>
+<L N = "4" NS = "8" RI = "en" ERI = "ren" AC = "---+---+">
+<LT>nen me paguei de nulha ren.</LT>
+<LL>nen me paguei de nulha ren.</LL>
+</L>
+<L N = "5" NS = "8" RI = "i" ERI = "soffri" AC = "---+---+">
+<LT><SEG C = "R" N = "CPL" ID = "1">Tod' este mal soffr' e <SEG C = "R" N = "RD" ID = "2">soffri</SEG></SEG></LT>
+<LL>Tod' este mal soffr' e soffri</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "8" RI = "en" ERI = "Santaren" AC = "---+---+">
+<LT>des que me vin de Santaren.</LT>
+<LL>des que me vin de Santaren.</LL>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>13:55</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "or" ERI = "Amor" AC = "---+---+">
+<LT>Assi me ten for&ccedil;ad' Amor,</LT>
+<LL>Assi me ten for&ccedil;ad' Amor,</LL>
+</L>
+<L N = "2" NS = "8" RI = "or" ERI = "sabor" AC = "---+---+">
+<LT>par Deus, por ela, que sabor</LT>
+<LL>par Deus, por ela, que sabor</LL>
+</L>
+<L N = "3" NS = "8" RI = "or" ERI = "for'" AC = "---+---+">
+<LT>non ei de min; e se non for'</LT>
+<LL>non ei de min; e se non for'</LL>
+</L>
+<L N = "4" NS = "8" RI = "en" ERI = "sen" AC = "----+--+">
+<LT>ve&ecirc;'-la, perdud' ei o <SEG C = "R" N = "PV" ID = "3">sen</SEG>.</LT>
+<LL>ve&ecirc;'-la, perdud' ei o sen.</LL>
+</L>
+<L N = "5" NS = "8" RI = "or" ERI = "mayor" AC = "---+---+">
+<LT><SEG C = "R" N = "CPL" ID = "1">Tod' este mal soffr', e mayor,</SEG></LT>
+<LL>Tod' este mal soffr', e mayor,</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "8" RI = "en" ERI = "Santaren" AC = "---+---+">
+<LT>des que me vin de Santaren.</LT>
+<LL>des que me vin de Santaren.</LL>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "5+1">
+<ESQRIM TIPO = "aaabaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>13:55</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "parecer" AC = "---+---+">
+<LT>O seu fremoso parecer</LT>
+<LL>O seu fremoso parecer</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "viver" AC = "---+---+">
+<LT>me faz en tal cuita viver</LT>
+<LL>me faz en tal cuita viver</LL>
+</L>
+<L N = "3" NS = "8" RI = "er" ERI = "dizer" AC = "--+----+">
+<LT>qual non posso nen sei dizer;</LT>
+<LL>qual non posso nen sei dizer;</LL>
+</L>
+<L N = "4" NS = "8" RI = "en" ERI = "ben" AC = "----+--+">
+<LT>e moiro, querendo-lhe <SEG C = "R" N = "PV" ID = "4">ben</SEG>.</LT>
+<LL>e moiro, querendo-lhe ben.</LL>
+</L>
+<L N = "5" NS = "8" RI = "er" ERI = "soffrer" AC = "---+---+">
+<LT><SEG C = "R" N = "CPL" ID = "1">Esto me faz Amor <SEG C = "R" N = "RD" ID = "2">soffrer</SEG></SEG></LT>
+<LL>Esto me faz Amor soffrer</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "8" RI = "en" ERI = "Santaren" AC = "---+---+">
+<LT>des que me vin de Santar<SEG C = "R" N = "CCR" ID = "5">en</SEG>.</LT>
+<LL>des que me vin de Santaren.</LL>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "2">
+<ESQRIM TIPO = "bb"></ESQRIM>
+<INFMET>
+<ESQMET>8 8</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "en" ERI = "ben" AC = "--+----+">
+<LT>E <SEG C = "I" N = "RE" ID = "6">a</SEG> ela e o seu <SEG C = "R" N = "PV" ID = "4">b<SEG C = "R" N = "CCR" ID = "5">en</SEG></SEG></LT>
+<LL>E a ela e o seu ben</LL>
+</L>
+<L N = "2" NS = "8" RI = "en" ERI = "sen" AC = "--+----+">
+<LT>desejando, per&ccedil;o meu <SEG C = "R" N = "PV" ID = "3">sen</SEG>.</LT>
+<LL>desejando, per&ccedil;o meu sen.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+

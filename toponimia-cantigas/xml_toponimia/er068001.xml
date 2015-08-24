@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="068001" NE="2" OL="NON" SG="NO" TC="MEST" XE="A">
+      <INCIPIT>A mi dizen quantos amigos ey</INCIPIT>
+
+      <NUCANT>68 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="284v" I.FI="lb284v" MU="NON" NM="1328"></RM>
+
+      <RM BCA="V" EM="NO" F="148r" I.FI="lv148r" MU="NON" NM="934"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1277</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 934</P>
+      </EDIANT>
+
+      <DATOAU NOME="Rodríguez Castaño, Una cantiga" NUA="1327-1328pp"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>3/07/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.<P>(rima c sing.)</P><P>fragm.</P></FRI>
+
+      <TEMA CAT="COI"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abcacdb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>213:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+-+" ERI="ey" N="1" NS="10" RI="ei">
+          <LT>A mi dizen quantos amigos <SEG C="R" ID="1" N="PR">ey</SEG></LT>
+
+          <LL>A mi dizen quantos amigos ey</LL>
+        </L>
+
+        <L AC="--+--+---+" ERI="Portugal" N="2" NS="10" RI="al">
+          <LT>por que vivo tan muyt&#39; en Portugal,</LT>
+
+          <LL>por que vivo tan muyt&#39; en Portugal,</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="--+---+--+" ERI="prol" N="3" NS="10" RI="ol">
+          <LT><SEG C="R" ID="2" N="CD">ca</SEG> muyt&#39; ha ja que non
+          fig&#39; hy mha prol.</LT>
+
+          <LL>ca muyt&#39; ha ja que non fig&#39; hy mha prol.</LL>
+        </L>
+
+        <L AC="+--+---+-+" ERI="direy" N="4" NS="10" RI="ei">
+          <LT>Digo-lhis eu como <SEG C="I" ID="3" N="SU">e</SEG> vos eu direy:</LT>
+
+          <LL>Digo-lhis eu como e vos eu direy:</LL>
+        </L>
+
+        <L AC="--+----+-+" ERI="sol" N="5" NS="6" RI="ol">
+          <LT>&#34;<SEG C="R" ID="4" N="CP">Meus amigos, non<SEG C="M" ID="5"
+N="SIN"> mh-o</SEG> digades sol</SEG>,</LT>
+
+          <LL>&#34;Meus amigos, non mh-o digades sol,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="vir" N="6" NS="10" RI="ir">
+          <LT><SEG C="R" ID="6" N="PP"><SEG C="R" ID="2" N="CD">ca</SEG> mha prol é de viver eu hu vir</SEG>,</LT>
+
+          <LL>ca mha prol é de viver eu hu vir,</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="mal" N="7" NS="10" RI="al">
+          <LT>vel ũa vez, a que vi por meu mal</LT>
+
+          <LL>vel ũa vez, a que vi por meu mal</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abcacdb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>213:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+-+" ERI="ey" N="1" NS="10" RI="ei">
+          <LT>e a <SEG C="I" ID="7" N="SU">est&#39;</SEG> est&#39; oje quanto
+          ben eu <SEG C="R" ID="1" N="PR">ey</SEG>;</LT>
+
+          <LL>e a est&#39; est&#39; oje quanto ben eu ey;</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="al" N="2" NS="10" RI="al">
+          <LT><SEG C="R" ID="4" N="CP">nen me digades, amigos, hy al</SEG>,</LT>
+
+          <LL>nen me digades, amigos, hy al,</LL>
+        </L>
+
+        <L AC="---+-+-+-+" ERI="seus" N="3" NS="10" RI="eus">
+          <LT><SEG C="R" ID="2" N="CD">ca</SEG> en quant&#39; eu poder veer os
+          seus</LT>
+
+          <LL>ca en quant&#39; eu poder veer os seus</LL>
+        </L>
+
+        <L AC="+--+--+--+" ERI="farey" N="4" NS="10" RI="ei">
+          <LT>olhos, meu dano ja nunca farey,</LT>
+
+          <LL>olhos, meu dano ja nunca farey,</LL>
+        </L>
+
+        <L AC="---++--+-+" ERI="Deus" N="5" NS="10" RI="eus">
+          <LT>mays mha gran prol. ¿Vedes por que, por Deus?</LT>
+
+          <LL>mays mha gran prol. ¿Vedes por que, por Deus?</LL>
+        </L>
+
+        <L AC="---+-+---+" ERI="partir" N="6" NS="10" RI="ir">
+          <LT><SEG C="R" ID="6" N="PP"><SEG C="R" ID="2" N="CD">Ca</SEG> me querra matar, se m&#39; en partir</SEG>,</LT>
+
+          <LL>Ca me querra matar, se m&#39; en partir,</LL>
+        </L>
+
+        <L AC="+--+---+-+" ERI="fal" N="7" NS="10" RI="al">
+          <LT>esta gran coyta que me nunca fal&#34;.</LT>
+
+          <LL>esta gran coyta que me nunca fal&#34;.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "086010" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Por Deus vos rogo, madre, que mi digades</INCIPIT>
+<NUCANT>86 10</NUCANT>
+<RM BCA = "B" NM = "1253" F = "265r" MU = "NON" EM = "NO" I.FI = "lb265r"></RM>
+<RM BCA = "B" NM = "1253" F = "265v" MU = "NON" EM = "NO" I.FI = "lb265v"></RM>
+<RM BCA = "V" NM = "858" F = "135v" MU = "NON" EM = "NO" I.FI = "lv135v"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, p. 193</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1201</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 858</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 487</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "465"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>15/04/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 1253.
+Est&aacute; situada na columna b do folio 265r.</P></COMNOTC></NOTC>
+<TEMA CAT = "OR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 11'</ESQMET></INFMET>
+<NUMESQ>26:55</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "ades" ERI = "digades" AC = "---+------+-">
+<LT>Por Deus vos rogo, madre, que mi digades</LT>
+<LL>Por Deus vos rogo, madre, que mi digades</LL>
+</L>
+<L N = "2" NS = "11" RI = "ades" ERI = "guardades" AC = "----+-----+-">
+<LT>que vos mere&ccedil;i que mi tanto guardades</LT>
+<LL>que vos mere&ccedil;i que mi tanto guardades</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT>d' ir a San Leuter falar con me<SEG C = "I" N = "RE" ID = "1">u</SEG> amigo.</LT>
+<LL>d' ir a San Leuter falar con meu amigo.</LL>
+<TOPO CAT = "LCULTO">San Leuter</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>11' 11' 11'</ESQMET></INFMET>
+<NUMESQ>26:55</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "11" RI = "erdes" ERI = "poderdes" AC = "----+-----+-">
+<LT>Fazede-mi ora quanto mal <SEG C = "R" N = "RD" ID = "2">poderdes</SEG>,</LT>
+<LL>Fazede-mi ora quanto mal poderdes,</LL>
+</L>
+<L N = "2" NS = "11" RI = "erdes" ERI = "quiserdes" AC = "-----+----+-">
+<LT>ca non me guardaredes, pero quiserdes,</LT>
+<LL>ca non me guardaredes, pero quiserdes,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT>d' ir a San Leuter falar con me<SEG C = "I" N = "RE" ID = "3">u</SEG> amigo.</LT>
+<LL>d' ir a San Leuter falar con meu amigo.</LL>
+<TOPO CAT = "LCULTO">San Leuter</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>12 12 11'</ESQMET></INFMET>
+<NUMESQ>26:40</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "12" RI = "er" ERI = "fazer" AC = "---+-------+">
+<LT>Nunca vos fiz ren que non devess' a fazer</LT>
+<LL>Nunca vos fiz ren que non devess' a fazer</LL>
+</L>
+<L N = "2" NS = "12" RI = "er" ERI = "poder" AC = "--+--------+">
+<LT>e guardades-me tanto que non ei <SEG C = "R" N = "RD" ID = "2">poder</SEG></LT>
+<LL>e guardades-me tanto que non ei poder</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "11" RI = "igo" ERI = "amigo" AC = "----+-----+-">
+<LT>d' ir a San Leuter falar con me<SEG C = "I" N = "RE" ID = "4">u</SEG> amigo.</LT>
+<LL>d' ir a San Leuter falar con meu amigo.</LL>
+<TOPO CAT = "LCULTO">San Leuter</TOPO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

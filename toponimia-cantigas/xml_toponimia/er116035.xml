@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "116035" TC = "MEST" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Hun bispo diz aqui, por sy</INCIPIT>
+<NUCANT>116 35</NUCANT>
+<RM BCA = "B" NM = "1659" F = "354v" MU = "NON" EM = "NO" I.FI = "lb354v"></RM>
+<RM BCA = "V" NM = "1193" F = "197v" MU = "NON" EM = "NO" I.FI = "lv197v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 311</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1563</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1193</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 278</P></EDIANT>
+<DATOAU NOME = "Marroni" NUA = "24"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>24/01/00</DATE></RESP>
+<FRI>c. doblas</FRI>
+<NOTC>ad 2
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 1659 de B. Est&aacute; situada na parte
+superior da cantiga na columna a do folio 354v dese manuscrito. Fai referencia
+&oacute; esquema de cobras doblas empregado.</P></COMNOTC></NOTC>
+<TEMA CAT = "FAL">
+<SUBTEMA CAT = "CL"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>161:268</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "sy" AC = "---+---+">
+<LT>Hun bispo diz aqui, por sy,</LT>
+<LL>Hun bispo diz aqui, por sy,</LL>
+</L>
+<L N = "2" NS = "8" RI = "ei" ERI = "sey" AC = "---+---+">
+<LT>que &eacute; de <SEG C = "R" N = "AE" ID = "1">Conca</SEG>, mays ben <SEG C = "R" N = "RD" ID = "2">sey</SEG>,</LT>
+<LL>que &eacute; de Conca, mays ben sey,</LL>
+<TOPO CAT = "CIUDAD">Conca</TOPO></L>
+<L N = "3" NS = "8" RI = "ei" ERI = "achey" AC = "---+---+">
+<LT>de mi, que bispo non achey</LT>
+<LL>de mi, que bispo non achey</LL>
+</L>
+<L N = "4" NS = "8" RI = "i" ERI = "naci" AC = "-+-----+">
+<LT>de <SEG C = "R" N = "AE" ID = "1">Conca</SEG>, des que eu naci,</LT>
+<LL>de Conca, des que eu naci,</LL>
+<TOPO CAT = "CIUDAD">Conca</TOPO></L>
+<L N = "5" NS = "8" RI = "al" ERI = "natural" AC = "---+---+">
+<LT>que d' al&aacute; fosse natural;</LT>
+<LL>que d' al&aacute; fosse natural;</LL>
+</L>
+<L N = "6" NS = "8" RI = "al" ERI = "mal" AC = "--+----+">
+<LT>mays d' aqueste mi venha mal</LT>
+<LL>mays d' aqueste mi venha mal</LL>
+</L>
+<L N = "7" NS = "8" RI = "i" ERI = "vi" AC = "-+-----+">
+<LT>se <SEG C = "R" N = "CF" ID = "3">nunca</SEG> tan sen <SEG C = "R" N = "AE" ID = "1">conca</SEG> v<SEG C = "R" N = "CC" ID = "4">i</SEG>.</LT>
+<LL>se nunca tan sen conca vi.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>161:268</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "oy" AC = "-----+-+">
+<LT>E <SEG C = "R" N = "CF" ID = "3">nunca</SEG> tal menti<SEG C = "M" N = "SIN" ID = "5">ra o</SEG><SEG C = "R" N = "CC" ID = "5">y</SEG>,</LT>
+<LL>E nunca tal mentira oy,</LL>
+</L>
+<L N = "2" NS = "8" RI = "ei" ERI = "Rey" AC = "----+--+">
+<LT>qual el diss' aqui, ant' el-Rey,</LT>
+<LL>qual el diss' aqui, ant' el-Rey,</LL>
+</L>
+<L N = "3" NS = "8" RI = "ei" ERI = "direy" AC = "---+---+">
+<LT>ca sse meteu por qual direy:</LT>
+<LL>ca sse meteu por qual direy:</LL>
+</L>
+<L N = "4" NS = "8" RI = "i" ERI = "i" AC = "-+-----+">
+<LT>por bispo de <SEG C = "R" N = "AE" ID = "1">Conca</SEG> logu' i.</LT>
+<LL>por bispo de Conca logu' i.</LL>
+<TOPO CAT = "CIUDAD">Conca</TOPO></L>
+<L N = "5" NS = "8" RI = "al" ERI = "al" AC = "---+---+">
+<LT>E dixi-lh' eu logu' enton al:</LT>
+<LL>E dixi-lh' eu logu' enton al:</LL>
+</L>
+<L N = "6" NS = "8" RI = "al" ERI = "bispal" AC = "----+--+">
+<LT>&quot;Hu est' essa <SEG C = "R" N = "AE" ID = "1">conca</SEG> bispal</LT>
+<LL>&quot;Hu est' essa conca bispal</LL>
+</L>
+<L N = "7" NS = "8" RI = "i" ERI = "assy" AC = "--+----+">
+<LT>de que v&oacute;s falades assy?</LT>
+<LL>de que v&oacute;s falades assy?</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>161:268</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "or" ERI = "sabor" AC = "---+---+">
+<LT>E po-lo bis<SEG C = "M" N = "SIN" ID = "6">po a</SEG>ver sabor</LT>
+<LL>E po-lo bispo aver sabor</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "aver" AC = "---+---+">
+<LT>grande de <SEG C = "R" N = "AE" ID = "1">Con<SEG C = "M" N = "SIN" ID = "7">ca</SEG></SEG><SEG C = "M" N = "SIN" ID = "7"> <SEG C = "I" N = "RE" ID = "8">e</SEG></SEG> non<SEG C = "M" N = "SIN" ID = "9"> <SEG C = "I" N = "RE" ID = "10">a</SEG> a</SEG>ver,</LT>
+<LL>grande de Conca e non a aver,</LL>
+</L>
+<L N = "3" NS = "8" RI = "er" ERI = "saber" AC = "---+---+">
+<LT>non lh' o queremus n&oacute;s <SEG C = "R" N = "PRI" ID = "11"><SEG C = "R" N = "RD" ID = "2">saber</SEG></SEG>,</LT>
+<LL>non lh' o queremus n&oacute;s saber,</LL>
+</L>
+<L N = "4" NS = "8" RI = "or" ERI = "vesitador" AC = "-+-----+">
+<LT>ca diss<SEG C = "I" N = "RE" ID = "12">e</SEG> o vesitador:</LT>
+<LL>ca disse o vesitador:</LL>
+</L>
+<L N = "5" NS = "8" RI = "ar" ERI = "logar" AC = "-+-----+">
+<LT>que bispo per nenhun logar</LT>
+<LL>que bispo per nenhun logar</LL>
+</L>
+<L N = "6" NS = "8" RI = "ar" ERI = "andar" AC = "-+-----+">
+<LT>non pode por de <SEG C = "R" N = "AE" ID = "1">Con<SEG C = "M" N = "SIN" ID = "13">ca</SEG></SEG> <SEG C = "M" N = "SIN" ID = "13">an</SEG>dar</LT>
+<LL>non pode por de Conca andar</LL>
+</L>
+<L N = "7" NS = "8" RI = "or" ERI = "for" AC = "----+--+">
+<LT><SEG C = "R" N = "CF" ID = "14">bispo</SEG> que de <SEG C = "R" N = "AE" ID = "1">Conca</SEG> non f<SEG C = "R" N = "CC" ID = "15">or</SEG>.</LT>
+<LL>bispo que de Conca non for.</LL>
+<TOPO CAT = "CIUDAD">Conca</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>161:268</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "or" ERI = "senhor" AC = "---+---+">
+<LT>Vedes que <SEG C = "R" N = "CF" ID = "14">bisp'</SEG> e que senh<SEG C = "R" N = "CC" ID = "15">or</SEG>,</LT>
+<LL>Vedes que bisp' e que senhor,</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "creer" AC = "--+----+">
+<LT>que vus cuy<SEG C = "M" N = "SIN" ID = "16">da a</SEG> fazer creer</LT>
+<LL>que vus cuyda a fazer creer</LL>
+</L>
+<L N = "3" NS = "8" RI = "er" ERI = "saber" AC = "---+---+">
+<LT>que &eacute; de <SEG C = "R" N = "AE" ID = "1">Conca</SEG>, mays <SEG C = "R" N = "PRI" ID = "11"><SEG C = "R" N = "RD" ID = "2">saber</SEG></SEG></LT>
+<LL>que &eacute; de Conca, mays saber</LL>
+<TOPO CAT = "CIUDAD">Conca</TOPO></L>
+<L N = "4" NS = "8" RI = "or" ERI = "chufador" AC = "----+--+">
+<LT>podedes que &eacute; chufador</LT>
+<LL>podedes que &eacute; chufador</LL>
+</L>
+<L N = "5" NS = "8" RI = "ar" ERI = "asseytar" AC = "-+-----+">
+<LT>per min, que o fuy asseytar</LT>
+<LL>per min, que o fuy asseytar</LL>
+</L>
+<L N = "6" NS = "8" RI = "ar" ERI = "dar" AC = "---+---+">
+<LT>per hun telhad' e non vi dar</LT>
+<LL>per hun telhad' e non vi dar</LL>
+</L>
+<L N = "7" NS = "8" RI = "or" ERI = "talhador" AC = "--+----+">
+<LT>ant' el <SEG C = "R" N = "AE" ID = "1">conca</SEG> nen talhador.</LT>
+<LL>ant' el conca nen talhador.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

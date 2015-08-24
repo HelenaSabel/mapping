@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018025" TC = "MEST" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Mester avia Don Gil</INCIPIT>
+<NUCANT>18 25</NUCANT>
+<RM BCA = "B" NM = "457" F = "101r" MU = "NON" EM = "NO" I.FI = "lb101r"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. XIV, p. 425</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 349</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 399</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, p. 58</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 27</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 20</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "2"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>25/10/04</DATE>
+</RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "FAL">
+<SUBTEMA CAT = "NB"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4">
+<ESQRIM TIPO = "aabb"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 4' 7'</ESQMET></INFMET>
+<NUMESQ>37:58</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "il" ERI = "Gil" AC = "---+--+">
+<LT>Mester avia Don Gil</LT>
+<LL>Mester avia Don Gil</LL>
+
+<ANTRO T = "REAL">Don Gil</ANTRO></L>
+<L N = "2" NS = "7" RI = "il" ERI = "bornil" AC = "---+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">un falconcinho bornil</SEG>,</LT>
+<LL>un falconcinho bornil,</LL>
+</L>
+<L N = "3" NS = "4" RI = "ass' e" ERI = "voass' e" AC = "---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">que non voass' e</SEG></LT>
+<LL>que non voass' e</LL>
+</L>
+<L N = "4" NS = "7" RI = "asse" ERI = "filhasse" AC = "--+---+-">
+<LT>nemigalha nen <SEG C = "R" N = "PV" ID = "2">filhasse</SEG>.</LT>
+<LL>nemigalha nen filhasse.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4">
+<ESQRIM TIPO = "aabb"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 4' 7'</ESQMET></INFMET>
+<NUMESQ>37:58</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "il" ERI = "vil" AC = "----+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">U&utilde; galguilinho vil</SEG>,</LT>
+<LL>U&utilde; galguilinho vil,</LL>
+</L>
+<L N = "2" NS = "7" RI = "il" ERI = "mil" AC = "----+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">que &utilde;a l&eacute;bor, de mil</SEG>,</LT>
+<LL>que &utilde;a l&eacute;bor, de mil,</LL>
+</L>
+<L N = "3" NS = "4" RI = "asse" ERI = "filhasse" AC = "---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">non<SEG C = "I" N = "RE" ID = "3">a</SEG> <SEG C = "R" N = "PV" ID = "2">filhasse</SEG></SEG>,</LT>
+<LL>nona filhasse,</LL>
+</L>
+<L N = "4" NS = "7" RI = "asse" ERI = "ladrasse" AC = "---+--+-">
+<LT>mais rabeja<SEG C = "M" N = "SIN" ID = "4">sse e</SEG> ladrasse.</LT>
+<LL>mais rabejasse e ladrasse.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4">
+<ESQRIM TIPO = "aabb"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 4' 7'</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para esta cobra o esquema 33:20 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a7 a7 b4' a3 b7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "il" ERI = "Sil" AC = "-+--+-+">
+<LT><SEG C = "R" N = "CP" ID = "1">Podengo de riba de Sil</SEG>,</LT>
+<LL>Podengo de riba de Sil,</LL>
+
+<TOPO CAT = "CIRCUNS">riba Sil</TOPO></L>
+<L N = "2" NS = "7" RI = "il" ERI = "muril" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">que enfiasse un <SEG C = "I" N = "RE" ID = "5">a</SEG>...il</SEG>,</LT>
+<LL>que enfiasse un a...il,</LL>
+</L>
+<L N = "3" NS = "4" RI = "asse" ERI = "mejasse" AC = "---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">que lhi mejasse</SEG></LT>
+<LL>que lhi mejasse</LL>
+</L>
+<L N = "4" NS = "7" RI = "asse" ERI = "achasse" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "6">quando l&eacute;bor i achasse</SEG>.</LT>
+<LL>quando l&eacute;bor i achasse.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4">
+<ESQRIM TIPO = "aabab"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 4' 7'</ESQMET></INFMET>
+<NUMESQ>NA
+<NOTNESQ>
+<P>Tavani ofrece para esta cobra o esquema 33:20 coa seguinte estrutura
+m&eacute;trica e r&iacute;tmica: a7 a7 b4' a3 b7'.</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "il" ERI = "javaril" AC = "--+---+">
+<LT><SEG C = "R" N = "CP" ID = "1">Osas d&utilde;&utilde; javaril</SEG>,</LT>
+<LL>Osas d&utilde;&utilde; javaril,</LL>
+</L>
+<L N = "2" NS = "7" RI = "il" ERI = "quadril" AC = "-+----+">
+<LT><SEG C = "R" N = "CP" ID = "1">que dessen per seu quadril</SEG>,</LT>
+<LL>que dessen per seu quadril,</LL>
+</L>
+<L N = "3" NS = "4" RI = "asse" ERI = "-asse" AC = "---+-">
+<LT><SEG C = "I" N = "RE" ID = "7">... -asse</SEG></LT>
+<LL>... -asse</LL>
+</L>
+<L N = "4" NS = "7" RI = "asse" ERI = "levantasse" AC = "--+---+-">
+<LT><SEG C = "R" N = "CPL" ID = "6">quando l&eacute;bor levantasse</SEG>.</LT>
+<LL>quando l&eacute;bor levantasse.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "015003" TC = "REFR" NE = "3" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Por vee-lo namorado que muit' &aacute; que eu non vi</INCIPIT>
+<NUCANT>15 3</NUCANT>
+<RM BCA = "B" NM = "1286" F = "270v" MU = "NON" EM = "NO" I.FI = "lb270v">
+<NOTMAN N = "1">Esta cantiga aparece rexistrada nos manuscritos con d&uacute;as
+numeraci&oacute;ns B 1286-1287.</NOTMAN>
+</RM>
+<RM BCA = "B" NM = "1287" F = "270v" MU = "NON" EM = "NO" I.FI = "lb270v">
+<NOTMAN N = "1">Esta cantiga aparece rexistrada nos manuscritos con d&uacute;as
+numeraci&oacute;ns B 1286-1287.</NOTMAN>
+</RM>
+<RM BCA = "V" NM = "892" F = "140v" MU = "NON" EM = "NO" I.FI = "lv140v"></RM>
+<EDIANT T = "DIVUL">
+<P>Crestomatia, pp. 214-215</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Machado 1235</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 892</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 204</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 521</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "343">
+<COMAU>
+<P>Dispo&ntilde;&eacute;mo-la composici&oacute;n en vv. longos, segundo a
+proposta de Lapa, O texto, pp. 182-183.</P></COMAU>
+</DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>18/12/96</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Fernan do Lago
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada entre as numeraci&oacute;ns B 1286 e B
+1287, que forman unha &uacute;nica cantiga. Esta r&uacute;brica est&aacute; mal
+situada, pois, deber&iacute;a preceder &aacute; cantiga B 1288, que pertence
+&oacute; citado trobador.
+Man do copista.</P></COMRUBRI>
+</RUBRICA>
+<TEMA CAT = "LED"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 8'</ESQMET></INFMET>
+<NUMESQ>26:18
+<NOTNESQ>
+<P>Outra posibilidade, 230:4</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "i" ERI = "vi" AC = "------+-------+">
+<LT><SEG C = "R" N = "CP" ID = "1">Por vee-lo namorado<SEG C = "M" N = "CAE" ID = "2"></SEG> que muit' &aacute; que eu non vi</SEG>, </LT>
+<LL>Por vee-lo namorado que muit' &aacute; que eu non vi, </LL>
+</L>
+<L N = "2" NS = "15" RI = "i" ERI = "i" AC = "------+-------+">
+<LT><SEG C = "R" N = "PL" ID = "3">irm&atilde;a, tre&iacute;des comigo,<SEG C = "M" N = "CAE" ID = "4"></SEG> ca me dizen que <SEG C = "R" N = "CF" ID = "5">ven i</SEG></SEG>,</LT>
+<LL>irm&atilde;a, tre&iacute;des comigo, ca me dizen que ven i,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "e&ccedil;a" ERI = "Re&ccedil;a" AC = "----+--+">
+<LT>a Santa Maria de Re&ccedil;a.</LT>
+<LL>a Santa Maria de Re&ccedil;a.</LL>
+<TOPO CAT = "LCULTO">Santa Maria de Re&ccedil;a</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15' 15' 8'</ESQMET>
+<NOTMET>
+<P>O verso 1 &eacute; hip&oacute;metro.</P></NOTMET>
+</INFMET>
+<NUMESQ>26:19
+<NOTNESQ>
+<P>Outra posibilidade, 230:3</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "14" RI = "ado" ERI = "cuitado" AC = "------+------+">
+<LT>Por que sei ca mi quer ben<SEG C = "M" N = "CAE" ID = "6"></SEG> e por que <SEG C = "R" N = "CF" ID = "5">ven i</SEG> cuitado,</LT>
+<LL>Por que sei ca mi quer ben e por que ven i cuitado,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ado" ERI = "grado" AC = "------+-------+">
+<LT><SEG C = "R" N = "PL" ID = "3">irm&atilde;a, treides comigo,<SEG C = "M" N = "CAE" ID = "7"></SEG> ca sei que ven i de grado</SEG>,</LT>
+<LL>irm&atilde;a, treides comigo, ca sei que ven i de grado,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "e&ccedil;a" ERI = "Re&ccedil;a" AC = "----+--+">
+<LT>a Santa Maria de Re&ccedil;a.</LT>
+<LL>a Santa Maria de Re&ccedil;a.</LL>
+<TOPO CAT = "LCULTO">Santa Maria de Re&ccedil;a</TOPO></L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>15 15 8'</ESQMET></INFMET>
+<NUMESQ>26:18
+<NOTNESQ>
+<P>Outra posibilidade, 230:4</P></NOTNESQ>
+</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "15" RI = "ou" ERI = "levou" AC = "------+-------+">
+<LT><SEG C = "R" N = "CP" ID = "1">Por vee-lo namorado,<SEG C = "M" N = "CAE" ID = "8"></SEG> que por mi gram mal levou</SEG>,</LT>
+<LL>Por vee-lo namorado, que por mi gram mal levou,</LL>
+</L>
+<L N = "2" NS = "15" RI = "ou" ERI = "chegou" AC = "-------+------+">
+<LT><SEG C = "R" N = "PL" ID = "3">treides comig', ai irm&atilde;a,<SEG C = "M" N = "CAE" ID = "9"></SEG> ca mi dizen que chegou</SEG></LT>
+<LL>treides comig', ai irm&atilde;a, ca mi dizen que chegou</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "e&ccedil;a" ERI = "Re&ccedil;a" AC = "----+--+">
+<LT>a Santa Maria de Re&ccedil;a.</LT>
+<LL>a Santa Maria de Re&ccedil;a.</LL>
+<TOPO CAT = "LCULTO">Santa Maria de Re&ccedil;a</TOPO></L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

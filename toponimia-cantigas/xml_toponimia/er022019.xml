@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="022019" NE="3" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Se veess&#39; o meu amigo a Bonaval e me visse</INCIPIT>
+
+      <NUCANT>22 19</NUCANT>
+
+      <RM BCA="B" EM="NO" F="243r" I.FI="lb243r" MU="NON" NM="1139"></RM>
+
+      <RM BCA="V" EM="NO" F="116v" I.FI="lv116v" MU="NON" NM="730"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 360</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Auswal 41</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1072</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 730</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 35</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 19</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 61</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Indini 16</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="365p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>24/01/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15&#39; 15&#39; 15&#39; 15&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:8 <NOTNESQ><P>Outras posibilidades, 43:1; 250:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+----+--+-" ERI="visse" N="1" NS="15" RI="isse">
+          <LT>Se veess&#39; o meu amigo<SEG C="M" ID="1" N="CAE"></SEG> a
+          Bonaval e me visse,</LT>
+
+          <LL>Se veess&#39; o meu amigo a Bonaval e me visse,</LL>
+
+          <TOPO CAT="LCULTO">Bonaval</TOPO>
+        </L>
+
+        <L AC="--+---+----+--+-" ERI="partisse" N="2" NS="15" RI="isse">
+          <LT>vedes como lh&#39; eu diria,<SEG C="M" ID="2" N="CAE"></SEG>
+          ante que m&#39; eu d&#39; el partisse:</LT>
+
+          <LL>vedes como lh&#39; eu diria, ante que m&#39; eu d&#39; el
+          partisse:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+--+----+-" ERI="soedes" N="3" NS="15" RI="edes">
+            <LT>&#34;Se vos fordes, non tardedes <SEG C="M" ID="3" N="CAE"></SEG>tan
+            muito <SEG C="R" ID="4" N="PV">como soedes</SEG>;&#34;</LT>
+
+            <LL>&#34;Se vos fordes, non tardedes tan muito como soedes;&#34;</LL>
+          </L>
+
+          <L AC="---+--+--+----+-" ERI="soedes" N="4" NS="15" RI="edes">
+            <LT><SEG C="R" ID="5" N="CD">diria lh&#39; eu</SEG>: &#34;Non
+            tardedes,<SEG C="M" ID="6" N="CAE"></SEG> <SEG C="R" ID="7"
+            N="CFR">amigo</SEG>, <SEG C="R" ID="4" N="PV">como soedes</SEG>&#34;</LT>
+
+            <LL>diria lh&#39; eu: &#34;Non tardedes, amigo, como soedes&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15&#39; 15&#39; 15&#39; 15&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:8 <NOTNESQ><P>Outras posibilidades, 43:1; 250:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+--+--+----+-" ERI="amades" N="1" NS="15" RI="ades">
+          <LT><SEG C="R" ID="5" N="CD">Diria lh&#39; eu</SEG>: &#34;Meu <SEG
+          C="R" ID="7" N="CFR">amigo</SEG>,<SEG C="M" ID="8" N="CAE"></SEG> se
+          vós a min muit&#39; <SEG C="R" ID="9" N="RD">amades</SEG>,</LT>
+
+          <LL>Diria lh&#39; eu: &#34;Meu amigo, se vós a min muit&#39; amades,</LL>
+        </L>
+
+        <L AC="----+-+--+--+-+-" ERI="ajades" N="2" NS="15" RI="ades">
+          <LT>fazede por mi atanto,<SEG C="M" ID="10" N="CAE"></SEG> que bõa
+          ventu<SEG C="M" ID="11" N="SIN">ra a</SEG>jades:</LT>
+
+          <LL>fazede por mi atanto, que bõa ventura ajades:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+--+----+-" ERI="soedes" N="3" NS="15" RI="edes">
+            <LT>se vos fordes, non tardedes<SEG C="M" ID="12" N="CAE"></SEG>
+            tan muito <SEG C="R" ID="4" N="PV">como soedes</SEG>;&#34;</LT>
+
+            <LL>se vos fordes, non tardedes tan muito como soedes;&#34;</LL>
+          </L>
+
+          <L AC="---+--+--+----+-" ERI="soedes" N="4" NS="15" RI="edes">
+            <LT><SEG C="R" ID="5" N="CD">diria lh&#39; <SEG C="R" ID="13"
+N="CFR">eu</SEG></SEG>: &#34;Non tardedes,<SEG C="M" ID="14" N="CAE"></SEG>
+            <SEG C="I" ID="15" N="RE">amigo, <SEG C="R" ID="4" N="PV">como soedes</SEG></SEG>&#34;</LT>
+
+            <LL>diria lh&#39; eu: &#34;Non tardedes, amigo, como soedes&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+2">
+        <ESQRIM TIPO="aaBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>15&#39; 15&#39; 15&#39; 15&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>37:8 <NOTNESQ><P>Outras posibilidades, 43:1; 250:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-+---+---+-" ERI="migo" N="1" NS="15" RI="igo">
+          <LT>Que leda que <SEG C="R" ID="13" N="CFR">eu</SEG> seria,<SEG
+          C="M" ID="16" N="CAE"></SEG> se veess&#39; el falar migo,</LT>
+
+          <LL>Que leda que eu seria, se veess&#39; el falar migo,</LL>
+        </L>
+
+        <L AC="----+-+--+-+--+-" ERI="amigo" N="2" NS="15" RI="igo">
+          <LT>e, ao partir da fala, <SEG C="M" ID="17" N="CAE"></SEG>diria
+          lh&#39; eu: &#34;Meu <SEG C="R" ID="9" N="RD">amigo</SEG>,</LT>
+
+          <LL>e, ao partir da fala, diria lh&#39; eu: &#34;Meu amigo,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+--+----+-" ERI="soedes" N="3" NS="15" RI="edes">
+            <LT>se vos fordes, non tardedes<SEG C="M" ID="18" N="CAE"></SEG>
+            tan muito <SEG C="R" ID="4" N="PV">como soedes</SEG>;&#34;</LT>
+
+            <LL>se vos fordes, non tardedes tan muito como soedes;&#34;</LL>
+          </L>
+
+          <L AC="---+--+--+----+-" ERI="soedes" N="4" NS="15" RI="edes">
+            <LT><SEG C="R" ID="5" N="CD">diria lh&#39; eu</SEG>: &#34;Non
+            tardedes<SEG C="M" ID="19" N="CAE"></SEG> <SEG C="I" ID="20"
+            N="RE">amigo, <SEG C="R" ID="4" N="PV">como soedes</SEG></SEG>&#34;</LT>
+
+            <LL>diria lh&#39; eu: &#34;Non tardedes amigo, como soedes&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

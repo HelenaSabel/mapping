@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "125042" TC = "MEST" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Que muyto mi de Fernan Diaz praz</INCIPIT>
+<NUCANT>125 42</NUCANT>
+<RM BCA = "B" NM = "1379" F = "294v" MU = "NON" EM = "NO" I.FI = "lb294v"></RM>
+<RM BCA = "V" NM = "987" F = "157v" MU = "NON" EM = "NO" I.FI = "lv157v"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Burgal&eacute;s, 46</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 381</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1330</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 987</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Arias, Poes&iacute;a obscena, 20</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 346</P></EDIANT>
+<DATOAU NOME = "Blasco" NUA = "46"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>8/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "CSX">
+<SUBTEMA CAT = "MT"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:111</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "az" ERI = "praz" AC = "---+-----+">
+<LT>Que muyto mi de <SEG C = "I" N = "RE" ID = "1">F</SEG>ernan <SEG C = "I" N = "RE" ID = "2">D</SEG>iaz praz,</LT>
+<LL>Que muyto mi de Fernan Diaz praz,</LL>
+<ANTRO T = "REAL">Fernan Diaz</ANTRO></L>
+<L N = "2" NS = "10" RI = "inho" ERI = "meyrinho" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "3">que fez el Rey <SEG C = "I" N = "RE" ID = "4">D</SEG>on <SEG C = "I" N = "RE" ID = "5">A</SEG>fonso meyrinho</SEG>,</LT>
+<LL>que fez el Rey Don Afonso meyrinho,</LL>
+<ANTRO T = "REAL">Alfonso X (el Rey Don Afonso)</ANTRO></L>
+<L N = "3" NS = "10" RI = "inho" ERI = "vezinho" AC = "--+------+-">
+<LT>e non cata parente nen vezinho,</LT>
+<LL>e non cata parente nen vezinho,</LL>
+</L>
+<L N = "4" NS = "10" RI = "az" ERI = "paz" AC = "--+------+">
+<LT>con sabor de teela te<SEG C = "M" N = "SIN" ID = "7"><SEG C = "I" N = "RE" ID = "6">r</SEG>ra en</SEG> paz.</LT>
+<LL>con sabor de teela terra en paz.</LL>
+</L>
+<L N = "5" NS = "10" RI = "er" ERI = "saber" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "8">Se o pode por mal feytor saber</SEG>,</LT>
+<LL>Se o pode por mal feytor saber,</LL>
+</L>
+<L N = "6" NS = "10" RI = "er" ERI = "colher" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "8"><SEG C = "R" N = "CD" ID = "9">vay sobr' el</SEG>, e se o pode colher</SEG></LT>
+<LL>vay sobr' el, e se o pode colher</LL>
+</L>
+<L N = "7" NS = "10" RI = "az" ERI = "faz" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "8">na m&atilde;o, logo del justi&ccedil;a <SEG C = "R" N = "RD" ID = "10">faz</SEG></SEG>.</LT>
+<LL>na m&atilde;o, logo del justi&ccedil;a faz.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:111</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "ez" ERI = "prez" AC = "---+-----+">
+<LT>E por que &aacute; <SEG C = "I" N = "RE" ID = "11">D</SEG>on <SEG C = "I" N = "RE" ID = "12">F</SEG>ernando gran prez</LT>
+<LL>E por que &aacute; Don Fernando gran prez</LL>
+<ANTRO T = "REAL">Fernan D&iacute;az (Don Fernando)</ANTRO></L>
+<L N = "2" NS = "10" RI = "eiro" ERI = "justiceyro" AC = "---+-----+-">
+<LT>das gentes todas de mui justiceyro,</LT>
+<LL>das gentes todas de mui justiceyro,</LL>
+</L>
+<L N = "3" NS = "10" RI = "eiro" ERI = "Viveyro" AC = "---+-----+-">
+<LT><SEG C = "R" N = "CP" ID = "3">o fez el Rey meyrinho des Viveyro</SEG></LT>
+<LL>o fez el Rey meyrinho des Viveyro</LL>
+<ANTRO T = "REAL">Alfonso X (el Rey)</ANTRO>
+<TOPO CAT = "CIUDAD">Viveyro</TOPO></L>
+<L N = "4" NS = "10" RI = "ez" ERI = "fez" AC = "---+-----+">
+<LT>ata <SEG C = "I" N = "RE" ID = "13">C</SEG>arron, ond' outro nunca <SEG C = "R" N = "RD" ID = "10">fez</SEG>;</LT>
+<LL>ata Carron, ond' outro nunca fez;</LL>
+<TOPO CAT = "CIUDAD">Carri&oacute;n (Carron)</TOPO></L>
+<L N = "5" NS = "10" RI = "ar" ERI = "falar" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "8">e se ouve de mal feitor falar</SEG>,</LT>
+<LL>e se ouve de mal feitor falar,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "escapar" AC = "--+------+">
+<LT><SEG C = "R" N = "CP" ID = "8"><SEG C = "R" N = "CD" ID = "9">vay sobr' el</SEG>, e non lhi pod' escapar</SEG>,</LT>
+<LL>vay sobr' el, e non lhi pod' escapar,</LL>
+</L>
+<L N = "7" NS = "10" RI = "ez" ERI = "vez" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "8"><SEG C = "R" N = "CD" ID = "14">e faz</SEG> lhi mal jogo por h&utilde;a vez</SEG>.</LT>
+<LL>e faz lhi mal jogo por h&utilde;a vez.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10' 10' 10 10 10 10</ESQMET>
+<NOTMET>
+<P>Os versos segundo e terceiro desta estrofa son
+hip&oacute;metros.</P></NOTMET>
+</INFMET>
+<NUMESQ>161:111</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "i" ERI = "aqui" AC = "---+-----+">
+<LT>E cuydar&aacute; del queno vir aqui,</LT>
+<LL>E cuydar&aacute; del queno vir aqui,</LL>
+</L>
+<L N = "2" NS = "9" RI = "ado" ERI = "calado" AC = "--+-----+-">
+<LT>que o vir andar assy calado,</LT>
+<LL>que o vir andar assy calado,</LL>
+</L>
+<L N = "3" NS = "9" RI = "ado" ERI = "mandado" AC = "--+-----+-">
+<LT>ca non sabe parte nen mandado</LT>
+<LL>ca non sabe parte nen mandado</LL>
+</L>
+<L N = "4" NS = "10" RI = "i" ERI = "vi" AC = "---+-----+">
+<LT>de tal justi&ccedil;a fazer qual lh' eu vi:</LT>
+<LL>de tal justi&ccedil;a fazer qual lh' eu vi:</LL>
+</L>
+<L N = "5" NS = "10" RI = "on" ERI = "enton" AC = "---+-----+">
+<LT>leixou a gen<SEG C = "M" N = "SIN" ID = "15">te a</SEG>dormecer enton</LT>
+<LL>leixou a gente adormecer enton</LL>
+</L>
+<L N = "6" NS = "10" RI = "on" ERI = "Leon" AC = "---+-----+">
+<LT>e trasnoytou sobr' un hom' a Leon</LT>
+<LL>e trasnoytou sobr' un hom' a Leon</LL>
+<TOPO CAT = "CIUDAD">Leon</TOPO></L>
+<L N = "7" NS = "10" RI = "i" ERI = "i" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "14">e fez</SEG> sobr' el gran justi&ccedil;a logu' i.</LT>
+<LL>e fez sobr' el gran justi&ccedil;a logu' i.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

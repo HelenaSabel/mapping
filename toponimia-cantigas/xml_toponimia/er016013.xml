@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "016013" TC = "MEST" NE = "3" SG = "NO" XE = "EL" OL = "NON">
+<INCIPIT>Joan So&aacute;rez, pero v&oacute;s teedes</INCIPIT>
+<NUCANT>16 13</NUCANT>
+<RM BCA = "B" NM = "1481" F = "310v" MU = "NON" EM = "NO" I.FI = "lb310v"></RM>
+<RM BCA = "V" NM = "1092" F = "179r" MU = "NON" EM = "NO" I.FI = "lv179r"></RM>
+<RM BCA = "V" NM = "1092" F = "179v" MU = "NON" EM = "NO" I.FI = "lv179v"></RM>
+<EDIANT T = "CRITI">
+<P>Randgl. I, p. 155</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>machado 1394</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1092</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 92</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "82"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>30/01/97</DATE>
+</RESP>
+<FRI>c. unis.</FRI>
+<TEMA CAT = "BT">
+<SUBTEMA CAT = "XT"></SUBTEMA></TEMA>
+<TEMA CAT = "AMA"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:128</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edes" ERI = "teedes" AC = "-+-+---+-+-">
+<LT>Joan So&aacute;rez, pero v&oacute;s teedes</LT>
+<LL>Joan So&aacute;rez, pero v&oacute;s teedes</LL>
+<ANTRO T = "REAL">Johan Soarez Coelho (Joan So&aacute;rez)</ANTRO></L>
+<L N = "2" NS = "10" RI = "en" ERI = "ben" AC = "--+--+-+-+">
+<LT>que trobades en esta terra ben,</LT>
+<LL>que trobades en esta terra ben,</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "ren" AC = "+-----+--+">
+<LT>quero-vos en conselhar &utilde;a ren:</LT>
+<LL>quero-vos en conselhar &utilde;a ren:</LL>
+</L>
+<L N = "4" NS = "10" RI = "edes" ERI = "sabedes" AC = "-+-+---+-+-">
+<LT><SEG C = "R" N = "CD" ID = "1">aqui</SEG> fazed' esso que <SEG C = "I" N = "RE" ID = "2">b</SEG>en <SEG C = "R" N = "RD" ID = "3">sabedes</SEG>,</LT>
+<LL>aqui fazed' esso que ben sabedes,</LL>
+</L>
+<L N = "5" NS = "10" RI = "or" ERI = "sabedor" AC = "---+-+---+">
+<LT>ca aqui t&etilde;e v&oacute;s por <SEG C = "R" N = "RD" ID = "3">sabedor</SEG></LT>
+<LL>ca aqui t&etilde;e v&oacute;s por sabedor</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "melhor" AC = "--+-+-+--+">
+<LT>de trobar; mais n&oacute;s trobamos melhor</LT>
+<LL>de trobar; mais n&oacute;s trobamos melhor</LL>
+</L>
+<L N = "7" NS = "10" RI = "edes" ERI = "fazedes" AC = "-+--+----+-">
+<LT><SEG C = "I" N = "RE" ID = "4">e</SEG> ben entendemos com' o faz<SEG C = "R" N = "CC" ID = "5">edes</SEG>.</LT>
+<LL>e ben entendemos com' o fazedes.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:128</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edes" ERI = "avedes" AC = "--+--+-+-+-">
+<LT><SEG C = "R" N = "CPL" ID = "6">E se v&oacute;s de trobar sabor av<SEG C = "R" N = "CC" ID = "5">edes</SEG></SEG>,</LT>
+<LL>E se v&oacute;s de trobar sabor avedes,</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "sen" AC = "---+--+--+">
+<LT><SEG C = "R" N = "CD" ID = "1">aqui</SEG> trobade - faredes i sen - </LT>
+<LL>aqui trobade - faredes i sen - </LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "Santar&eacute;n" AC = "---+-+---+">
+<LT>e non trobedes cabo Santar&eacute;n,</LT>
+<LL>e non trobedes cabo Santar&eacute;n,</LL>
+<TOPO CAT = "CIUDAD">Santar&eacute;n</TOPO></L>
+<L N = "4" NS = "10" RI = "edes" ERI = "queredes" AC = "-+--+--+-+-">
+<LT>con esses juizes que v&oacute;s queredes,</LT>
+<LL>con esses juizes que v&oacute;s queredes,</LL>
+</L>
+<L N = "5" NS = "10" RI = "or" ERI = "amor" AC = "-+-+--+--+">
+<LT>ca ben trobamos d' escarnh' e d' amor;</LT>
+<LL>ca ben trobamos d' escarnh' e d' amor;</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "sabor" AC = "---+---+-+">
+<LT><SEG C = "R" N = "CPL" ID = "6"><SEG C = "R" N = "CD" ID = "7">mais</SEG> se avedes de trobar sabor</SEG>,</LT>
+<LL>mais se avedes de trobar sabor,</LL>
+</L>
+<L N = "7" NS = "10" RI = "edes" ERI = "trobedes" AC = "-+-+-+---+-">
+<LT>Martin Alve<SEG C = "M" N = "SIN" ID = "8">l' &eacute; a</SEG>qui con que <SEG C = "R" N = "RD" ID = "9">trob<SEG C = "R" N = "CC" ID = "10">edes</SEG></SEG>.</LT>
+<LL>Martin Alvel' &eacute; aqui con que trobedes.</LL>
+<ANTRO T = "REAL">Martin Alvelo</ANTRO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:128</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "edes" ERI = "conhocedes" AC = "---+--+--+-">
+<LT>E por travar no que non conhoc<SEG C = "R" N = "CC" ID = "10">edes</SEG></LT>
+<LL>E por travar no que non conhocedes</LL>
+</L>
+<L N = "2" NS = "10" RI = "en" ERI = "poren" AC = "--+---+--+">
+<LT>non dar&iacute;amos n&oacute;s nada poren,</LT>
+<LL>non dar&iacute;amos n&oacute;s nada poren,</LL>
+</L>
+<L N = "3" NS = "10" RI = "en" ERI = "aven" AC = "---+-----+">
+<LT>ca vos direi <SEG C = "I" N = "RE" ID = "11">or</SEG>' o que vos aven</LT>
+<LL>ca vos direi or' o que vos aven</LL>
+</L>
+<L N = "4" NS = "10" RI = "edes" ERI = "dizedes" AC = "-+--+--+-+-">
+<LT>en estes juizes que v&oacute;s dizedes:</LT>
+<LL>en estes juizes que v&oacute;s dizedes:</LL>
+</L>
+<L N = "5" NS = "10" RI = "or" ERI = "trobador" AC = "-+-+--+--+">
+<LT>cantar julgamos de bon <SEG C = "R" N = "RD" ID = "9">trobador</SEG>,</LT>
+<LL>cantar julgamos de bon trobador,</LL>
+</L>
+<L N = "6" NS = "10" RI = "or" ERI = "tecedor" AC = "--++-----+">
+<LT><SEG C = "R" N = "CD" ID = "7">mais</SEG> cantar d' ama nen de tecedor</LT>
+<LL>mais cantar d' ama nen de tecedor</LL>
+</L>
+<L N = "7" NS = "10" RI = "edes" ERI = "saberedes" AC = "---+-+---+-">
+<LT>nunca julgamos: v&oacute;-lo <SEG C = "R" N = "RD" ID = "3">saberedes</SEG>.</LT>
+<LL>nunca julgamos: v&oacute;-lo saberedes.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

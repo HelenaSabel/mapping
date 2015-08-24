@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="157003" NE="3" OL="NON" SG="NO" TC="REFR" XE="A">
+      <INCIPIT>A mais fremosa de quantas vejo</INCIPIT>
+
+      <NUCANT>157 3</NUCANT>
+
+      <RM BCA="A" EM="YES" F="78r" I.FI="la078r" MU="NON" NM="278"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1621</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Arias, Antoloxía, 250</P>
+      </EDIANT>
+
+      <DATOAU NOME="CA" NUA="278"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>4/05/00</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="SA"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 9' 9' 9' 9'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:25</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="vejo" N="1" NS="9" RI="ejo">
+          <LT>A mais fremosa de quantas vejo</LT>
+
+          <LL>A mais fremosa de quantas vejo</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="desejo" N="2" NS="9" RI="ejo">
+          <LT>en Santaren, e que mais desejo,</LT>
+
+          <LL>en Santaren, e que mais desejo,</LL>
+
+          <TOPO CAT="CIUDAD">Santaren</TOPO>
+        </L>
+
+        <L AC="---+----+-" ERI="sejo" N="3" NS="9" RI="ejo">
+          <LT>e en que sempre cuidando sejo,</LT>
+
+          <LL>e en que sempre cuidando sejo,</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="amigo" N="4" NS="9" RI="igo">
+          <LT><SEG C="R" ID="1" N="CD">non ch' a direi</SEG>, mais direi-ch',
+          <SEG C="R" ID="2" N="CF">amigo</SEG>:</LT>
+
+          <LL>non ch' a direi, mais direi-ch', amigo:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="Sentirigo" N="5" NS="9" RI="igo">
+            <LT>ay Sentirigo! ay Sentirigo!</LT>
+
+            <LL>ay Sentirigo! ay Sentirigo!</LL>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx' e al Seserigo!</LT>
+
+            <LL>al é Alfanx' e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx')</TOPO>
+
+            <TOPO CAT="ALDEA">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 9' 9' 9' 9'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:25</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="vi-as" N="1" NS="9" RI="ias">
+          <LT>Ela e outra, <SEG C="R" ID="2" N="CF">amigo</SEG>, vi-as.</LT>
+
+          <LL>Ela e outra, amigo, vi-as.</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="dias" N="2" NS="9" RI="ias">
+          <LT>¡se Deus me valha! non á dous dias!</LT>
+
+          <LL>¡se Deus me valha! non á dous dias!</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="dirias" N="3" NS="9" RI="ias">
+          <LT><SEG C="R" ID="1" N="CD">Non ch' a direi</SEG> eu, ca o <SEG
+          C="R" ID="3" N="RD">dirias</SEG></LT>
+
+          <LL>Non ch' a direi eu, ca o dirias</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="comigo" N="4" NS="9" RI="igo">
+          <LT>e <SEG C="R" ID="4" N="CF">perder</SEG>-t'-ias por én
+          comigo!</LT>
+
+          <LL>e perder-t'-ias por én comigo!</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="Sentirigo" N="5" NS="9" RI="igo">
+            <LT>ay Sentirigo! ay Sentirigo!</LT>
+
+            <LL>ay Sentirigo! ay Sentirigo!</LL>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx' e al Seserigo!</LT>
+
+            <LL>al é Alfanx' e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx')</TOPO>
+
+            <TOPO CAT="ALDEA">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+2">
+        <ESQRIM TIPO="aaabBB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>9' 9' 9' 9' 9' 9'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>19:25</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+----+-" ERI="perdudo" N="1" NS="9" RI="udo">
+          <LT>Cuidand' <SEG C="R" ID="5" N="RE">en</SEG> ela ja ei <SEG C="R"
+          ID="4" N="CF">perdudo</SEG></LT>
+
+          <LL>Cuidand' en ela ja ei perdudo</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="mudo" N="2" NS="9" RI="udo">
+          <LT>o sen, amigo, e ando mudo;</LT>
+
+          <LL>o sen, amigo, e ando mudo;</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="entendudo" N="3" NS="9" RI="udo">
+          <LT>e non sei ome tan entendudo</LT>
+
+          <LL>e non sei ome tan entendudo</LL>
+        </L>
+
+        <L AC="---+----+-" ERI="digo" N="4" NS="9" RI="igo">
+          <LT>que m' og' entenda o por que <SEG C="R" ID="3" N="RD">digo</SEG>:</LT>
+
+          <LL>que m' og' entenda o por que digo:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="---+----+-" ERI="Sentirigo" N="5" NS="9" RI="igo">
+            <LT>ay Sentirigo! ay Sentirigo!</LT>
+
+            <LL>ay Sentirigo! ay Sentirigo!</LL>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+
+            <TOPO CAT="ALDEA">Sentirigo</TOPO>
+          </L>
+
+          <L AC="---+----+-" ERI="Seserigo" N="6" NS="9" RI="igo">
+            <LT>al é Alfanx' e al Seserigo!</LT>
+
+            <LL>al é Alfanx' e al Seserigo!</LL>
+
+            <TOPO CAT="TOPOME">Alfanxe (Alfanx')</TOPO>
+
+            <TOPO CAT="ALDEA">Seserigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

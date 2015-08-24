@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "018015" TC = "REFR" NE = "3" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>Don Meendo, Don Meendo</INCIPIT>
+<NUCANT>18 15</NUCANT>
+<RM BCA = "B" NM = "474bis" F = "105r" MU = "NON" EM = "NO" I.FI = "lb105r">
+</RM>
+<EDIANT T = "PALEO">
+<P>Machado 419</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 368</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Carballo/Garc&iacute;a, Afonso X, p. 33</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Paredes N&uacute;&ntilde;ez 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 6</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 33</P></EDIANT>
+<DATOAU NOME = "Paredes" NUA = "20"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gaiferos</NOME>
+<DATE>21/10/04</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "COV">
+<SUBTEMA CAT = "IN"></SUBTEMA>
+</TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 10'</ESQMET></INFMET>
+<NUMESQ>26:108</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "endo" ERI = "Meendo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">Don Meendo</SEG>, Don Meendo</SEG>,</LT>
+<LL>Don Meendo, Don Meendo,</LL>
+
+<ANTRO T = "REAL">Don Meendo de Candarei (Don Meendo)</ANTRO></L>
+<L N = "2" NS = "7" RI = "endo" ERI = "entendo" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">por quant'</SEG> ora eu entendo</SEG>,</LT>
+<LL>por quant' ora eu entendo,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "ela" ERI = "sela" AC = "----+----+-">
+<LT>quen leva o baio, non lei<SEG C = "M" N = "SIN" ID = "5">xa a</SEG> sela.</LT>
+<LL>quen leva o baio, non leixa a sela.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 10'</ESQMET></INFMET>
+<NUMESQ>26:104</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "or" ERI = "Maior" AC = "----+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">Amigo de Souto Maior</SEG>,</LT>
+<LL>Amigo de Souto Maior,</LL>
+
+<TOPO CAT = "ALDEA">Souto Maior</TOPO></L>
+<L N = "2" NS = "8" RI = "or" ERI = "sabedor" AC = "----+--+">
+<LT><SEG C = "R" N = "CP" ID = "1">daquesto soon sabedor</SEG>:</LT>
+<LL>daquesto soon sabedor:</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "ela" ERI = "sela" AC = "----+----+-">
+<LT>quen leva o baio, non lei<SEG C = "M" N = "SIN" ID = "5">xa a</SEG> sela.</LT>
+<LL>quen leva o baio, non leixa a sela.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 10'</ESQMET></INFMET>
+<NUMESQ>26:104</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "ei" ERI = "Candarei" AC = "--+----+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "2">Don Meendo</SEG> de Candarei</SEG>,</LT>
+<LL>Don Meendo de Candarei,</LL>
+
+<ANTRO T = "REAL">Don Meendo de Candarei</ANTRO></L>
+<L N = "2" NS = "8" RI = "ei" ERI = "ei" AC = "--+-+--+">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CD" ID = "3">per quant'</SEG> eu de v&oacute;s apres' ei</SEG>,</LT>
+<LL>per quant' eu de v&oacute;s apres' ei,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "10" RI = "ela" ERI = "sela" AC = "----+----+-">
+<LT>quen leva o baio, non lei<SEG C = "M" N = "SIN" ID = "6">xa a</SEG> sela.</LT>
+<LL>quen leva o baio, non leixa a sela.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

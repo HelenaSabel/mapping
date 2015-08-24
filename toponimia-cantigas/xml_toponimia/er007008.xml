@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "007008" TC = "RINT" NE = "4" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>O arraiz de Ro&iacute; Garcia</INCIPIT>
+<NUCANT>7 8</NUCANT>
+<RM BCA = "B" NM = "1560" F = "325v" MU = "NON" EM = "NO" I.FI = "lb325v">
+</RM>
+<EDIANT T = "PALEO">
+<P>Molteni 433</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1472</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 80</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "62"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>11/11/96</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "CSX"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 3' 7' 3'</ESQMET></INFMET>
+<NUMESQ>33:22</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "Garcia" AC = "----+-+">
+<LT><SEG C = "M" N = "SIN" ID = "1">O a</SEG>rraiz de Ro&iacute; Garcia,</LT>
+<LL>O arraiz de Ro&iacute; Garcia,</LL>
+<ANTRO T = "REAL">Ro&iacute; Garcia</ANTRO></L>
+<L N = "2" NS = "7" RI = "ia" ERI = "tragia" AC = "---+--+">
+<LT>que en Leirea tragia,</LT>
+<LL>que en Leirea tragia,</LL>
+<TOPO CAT = "CIUDAD">Leirea</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>dessei<SEG C = "M" N = "SIN" ID = "2">n&ocirc;-o</SEG>:</LT>
+<LL>dessein&ocirc;-o:</LL>
+</L>
+</REFRAN>
+<L N = "4" NS = "7" RI = "ia" ERI = "ia" AC = "--+---+">
+<LT><SEG C = "R" N = "CD" ID = "3">e pois</SEG> v&etilde;o outro dia,</LT>
+<LL>e pois v&etilde;o outro dia,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT><SEG C = "M" N = "SIN" ID = "4">e en</SEG>sei<SEG C = "M" N = "SIN" ID = "5">n&ocirc;-o</SEG>.</LT>
+<LL>e ensein&ocirc;-o.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 3' 7 3'</ESQMET></INFMET>
+<NUMESQ>33:21</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "en" ERI = "sen" AC = "--+---+">
+<LT><SEG C = "R" N = "CD" ID = "6">Non vos foi</SEG> el de mal sen:</LT>
+<LL>Non vos foi el de mal sen:</LL>
+</L>
+<L N = "2" NS = "7" RI = "en" ERI = "ben" AC = "-+-+--+">
+<LT>serviu-se del<SEG C = "I" N = "RE" ID = "7">e</SEG> mui ben,</LT>
+<LL>serviu-se dele mui ben,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>dessei<SEG C = "M" N = "SIN" ID = "8">n&ocirc;-o</SEG>;</LT>
+<LL>dessein&ocirc;-o;</LL>
+</L>
+</REFRAN>
+<L N = "4" NS = "7" RI = "en" ERI = "Santaren" AC = "--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "9"><SEG C = "R" N = "CD" ID = "3">e pois</SEG> v&etilde;<SEG C = "M" N = "SIN" ID = "10">o a</SEG> Santaren</SEG>,</LT>
+<LL>e pois v&etilde;o a Santaren,</LL>
+<TOPO CAT = "CIUDAD">Santaren</TOPO></L>
+<REFRAN>
+<L N = "5" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT><SEG C = "M" N = "SIN" ID = "11">e en</SEG>sei<SEG C = "M" N = "SIN" ID = "12">n&ocirc;-o</SEG>.</LT>
+<LL>e ensein&ocirc;-o.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 3' 7' 3'</ESQMET></INFMET>
+<NUMESQ>33:22</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "inho" ERI = "mezquinho" AC = "--+---+">
+<LT><SEG C = "R" N = "CD" ID = "6">Non vos foi</SEG> del mui mezquinho:</LT>
+<LL>Non vos foi del mui mezquinho:</LL>
+</L>
+<L N = "2" NS = "7" RI = "inho" ERI = "Cogominho" AC = "---+--+">
+<LT><SEG C = "R" N = "CD" ID = "13">per</SEG> como diz Cogominho,</LT>
+<LL>per como diz Cogominho,</LL>
+<ANTRO T = "REAL">Cogominho</ANTRO></L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>dessei<SEG C = "M" N = "SIN" ID = "14">n&ocirc;-o</SEG>;</LT>
+<LL>dessein&ocirc;-o;</LL>
+</L>
+</REFRAN>
+<L N = "4" NS = "7" RI = "inho" ERI = "Martinho" AC = "---+--+">
+<LT><SEG C = "R" N = "CD" ID = "3">e pois</SEG> morreu Don Martinho,</LT>
+<LL>e pois morreu Don Martinho,</LL>
+<ANTRO T = "REAL">Don Martinho</ANTRO></L>
+<REFRAN>
+<L N = "5" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>ensei<SEG C = "M" N = "SIN" ID = "15">n&ocirc;-o</SEG>.</LT>
+<LL>ensein&ocirc;-o.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "3+2">
+<ESQRIM TIPO = "aaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 3' 7 3'</ESQMET></INFMET>
+<NUMESQ>33:21</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ei" ERI = "direi" AC = "+-----+">
+<LT><SEG C = "M" N = "SIN" ID = "16">Ain</SEG>da vos eu mais direi:</LT>
+<LL>Ainda vos eu mais direi:</LL>
+</L>
+<L N = "2" NS = "7" RI = "ei" ERI = "sei" AC = "--+---+">
+<LT><SEG C = "R" N = "CD" ID = "13">per</SEG> quuant' eu del vej' e sei,</LT>
+<LL>per quuant' eu del vej' e sei,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>dessei<SEG C = "M" N = "SIN" ID = "17">n&ocirc;-o</SEG>;</LT>
+<LL>dessein&ocirc;-o;</LL>
+</L>
+</REFRAN>
+<L N = "4" NS = "7" RI = "ei" ERI = "Rei" AC = "--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "9"><SEG C = "R" N = "CD" ID = "3">e pois</SEG> v&etilde;<SEG C = "M" N = "SIN" ID = "18">o a</SEG> cas del-Rei,</SEG></LT>
+<LL>e pois v&etilde;o a cas del-Rei,</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "3" RI = "o" ERI = "o" AC = "--+">
+<LT>ensei<SEG C = "M" N = "SIN" ID = "19">n&ocirc;-o</SEG>.</LT>
+<LL>ensein&ocirc;-o.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

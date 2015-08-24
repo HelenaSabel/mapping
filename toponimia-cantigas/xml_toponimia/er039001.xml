@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="039001" NE="4" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>D' ir a Santa Maria do Lagu' ei gram sabor</INCIPIT>
+
+      <NUCANT>39 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="270v" I.FI="lb270v" MU="NON" NM="1288"></RM>
+
+      <RM BCA="B" EM="NO" F="271r" I.FI="Ib271r" MU="NON" NM="1288"></RM>
+
+      <RM BCA="V" EM="NO" F="140v" I.FI="lv140v" MU="NON" NM="893"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Toriello 5</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 219</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1236</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 893</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Oliveira/Machado, p. 121</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 522</P>
+      </EDIANT>
+
+      <DATOAU NOME="Amigo" NUA="498"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>9/04/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Fernã do Lago <COMRUBRI>
+          <P>Rúbrica atributiva que precede á cantiga V 893. Está situada na
+          columna a do folio 140v. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="SN"></TEMA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+--+" ERI="sabor" N="1" NS="13" RI="or">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="2" N="CP"><SEG C="R"
+                  ID="3" N="CD">D' ir a Santa Maria</SEG> do Lagu' ei gram sabor</SEG></SEG></LT>
+
+          <LL>D' ir a Santa Maria do Lagu' ei gram sabor</LL>
+
+          <TOPO CAT="LCULTO">Santa Maria do Lago</TOPO>
+        </L>
+
+        <L AC="-----+----+-+" ERI="fôr" N="2" NS="13" RI="or">
+          <LT><SEG C="R" ID="4" N="PL"><SEG C="R" ID="5" N="CP">e pero non <SEG
+                  C="R" ID="6" N="CF">irei</SEG> alá, se ant' i non <SEG C="R"
+                  ID="6" N="CF">fôr</SEG></SEG></SEG>,</LT>
+
+          <LL>e pero non irei alá, se ant' i non fôr,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="amigo" N="3" NS="7" RI="igo">
+            <LT>irmãa, o meu amigo.</LT>
+
+            <LL>irmãa, o meu amigo.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+---+--+" ERI="ben" N="1" NS="13" RI="en">
+          <LT><SEG C="R" ID="1" N="PL"><SEG C="R" ID="2" N="CP"><SEG C="R"
+                  ID="3" N="CD">D' ir a Santa Maria</SEG> do Lagu' é-mi gran ben</SEG></SEG>,</LT>
+
+          <LL>D' ir a Santa Maria do Lagu' é-mi gran ben,</LL>
+
+          <TOPO CAT="LCULTO">Santa Maria do Lago</TOPO>
+        </L>
+
+        <L AC="-----+----+-+" ERI="ven" N="2" NS="13" RI="en">
+          <LT><SEG C="R" ID="4" N="PL"><SEG C="R" ID="5" N="CP">e pero non irei alá, se ant' i non ven</SEG></SEG>,</LT>
+
+          <LL>e pero non irei alá, se ant' i non ven,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="amigo" N="3" NS="7" RI="igo">
+            <LT>irmãa, o meu amigo.</LT>
+
+            <LL>irmãa, o meu amigo.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-----+------+" ERI="coraçon" N="1" NS="13" RI="on">
+          <LT><SEG C="R" ID="2" N="CP">Gram sabor averia <SEG C="I" ID="7"
+                N="RE">e</SEG>no meu coraçon</SEG></LT>
+
+          <LL>Gram sabor averia eno meu coraçon</LL>
+        </L>
+
+        <L AC="-----+----+-+" ERI="enton" N="2" NS="13" RI="on">
+          <LT><SEG C="R" ID="2" N="CP"><SEG C="R" ID="3" N="CD">d' ir a Santa Maria</SEG>, se i achass' enton</SEG>,</LT>
+
+          <LL>d' ir a Santa Maria, se i achass' enton,</LL>
+
+          <TOPO CAT="LCULTO">Santa Maria do Lago (Santa Maria)</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="amigo" N="3" NS="7" RI="igo">
+            <LT>irmãa, o meu amigo.</LT>
+
+            <LL>irmãa, o meu amigo.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>13 13 7'</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+--+------+" ERI="parti" N="1" NS="13" RI="i">
+          <LT>Já jurei noutro dia, quando m' ende parti,</LT>
+
+          <LL>Já jurei noutro dia, quando m' ende parti,</LL>
+        </L>
+
+        <L AC="--+--+------+" ERI="i" N="2" NS="13" RI="i">
+          <LT><SEG C="R" ID="5" N="CP">que non foss' a l' ermida, se ante non foss' i</SEG>,</LT>
+
+          <LL>que non foss' a l' ermida, se ante non foss' i,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="--+---+-" ERI="amigo" N="3" NS="7" RI="igo">
+            <LT>irmãa, o meu amigo.</LT>
+
+            <LL>irmãa, o meu amigo.</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

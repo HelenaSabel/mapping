@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="058001" NE="2" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Mal faç&#39; eu velida, que ora non vou</INCIPIT>
+
+      <NUCANT>58 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="267v" I.FI="lb267v" MU="NON" NM="1266"></RM>
+
+      <RM BCA="V" EM="NO" F="137v" I.FI="lv137v" MU="NON" NM="872"></RM>
+
+      <RM BCA="V" EM="NO" F="138r" I.FI="lv138r" MU="NON" NM="872"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1215</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 872</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 479</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="501p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>25/02/05</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>Golparro <COMRUBRI><P>Rúbrica atributiva que precede á cantiga
+      B 1266. Está situada no folio 267v, columna b. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Golparro <COMRUBRI><P>Rúbrica atributiva que precede á cantiga
+      V 872. Está situada no folio 137v, columna b. Man de Colocci.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aabbB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>NA <NOTNESQ><P>Tavani, seguindo a Nunes, Amigo 479, ofrece o
+        esquema 44:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+-+-+-/-+--+" ERI="vou" N="1" NS="11" RI="ou">
+          <LT>Mal faç&#39; eu velida, <SEG C="M" ID="1" N="CAE"></SEG>que ora
+          non vou</LT>
+
+          <LL>Mal faç&#39; eu velida, que ora non vou</LL>
+        </L>
+
+        <L AC="-+--+-/----+" ERI="mandou" N="2" NS="11" RI="ou">
+          <LT>veer meu amigo, <SEG C="M" ID="2" N="CAE"></SEG>pois que me
+          mandou</LT>
+
+          <LL>veer meu amigo, pois que me mandou</LL>
+        </L>
+
+        <L AC="--+-+/----+" ERI="sagraçon" N="3" NS="10" RI="on">
+          <LT>que foss&#39; eu con el <SEG C="M" ID="3" N="CAE"></SEG>ena
+          sagraçon</LT>
+
+          <LL>que foss&#39; eu con el ena sagraçon</LL>
+        </L>
+
+        <L AC="-+--+/-+--+" ERI="Treeçon" N="4" NS="10" RI="on">
+          <LT>fazer oraçon<SEG C="M" ID="4" N="CAE"></SEG> <SEG C="R" ID="5"
+          N="PV">a San Treeçon</SEG>,</LT>
+
+          <LL>fazer oraçon a San Treeçon,</LL>
+
+          <TOPO CAT="LCULTO">San Treeçon</TOPO>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+/-+--+" ERI="Treeçon" N="5" NS="10" RI="on">
+            <LT>d&#39; ir ei coraçon<SEG C="M" ID="6" N="CAE"></SEG> <SEG
+            C="R" ID="5" N="PV">a San Treeçon</SEG></LT>
+
+            <LL>d&#39; ir ei coraçon a San Treeçon</LL>
+
+            <TOPO CAT="LCULTO">San Treeçon</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="4+1">
+        <ESQRIM TIPO="aa-bB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>11 11 - 11 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>NA <NOTNESQ><P>Tavani, seguindo a Nunes, Amigo 479, ofrece o
+        esquema 44:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+-/-+--+" ERI="guardar" N="1" NS="11" RI="ar">
+          <LT>E non me devedes, <SEG C="M" ID="7" N="CAE"></SEG>mha madr&#39;,
+          a guardar,</LT>
+
+          <LL>E non me devedes, mha madr&#39;, a guardar,</LL>
+        </L>
+
+        <L AC="--+-+/--+--+" ERI="pesar" N="2" NS="11" RI="ar">
+          <LT>ca, se lá non for, <SEG C="M" ID="8" N="CAE"></SEG>morrerei con
+          pesar</LT>
+
+          <LL>ca, se lá non for, morrerei con pesar</LL>
+        </L>
+
+        <L AC="na" ERI="na" N="3" NS="0" RI="na">
+          <LT><SEG C="I" ID="9" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="-+-+-/+-+--+" ERI="razon" N="4" NS="11" RI="on">
+          <LT>ca, u s&#39; el ia, <SEG C="M" ID="10" N="CAE"></SEG>disse
+          m&#39; esta razon:</LT>
+
+          <LL>ca, u s&#39; el ia, disse m&#39; esta razon:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-+--+/-+--+" ERI="Treeçon" N="5" NS="10" RI="on">
+            <LT>&#34;d&#39; ir ei coraçon<SEG C="M" ID="11" N="CAE"></SEG>
+            <SEG C="R" ID="5" N="PV">a San <SEG C="I" ID="12" N="RE">Treeçon</SEG></SEG>&#34;</LT>
+
+            <LL>&#34;d&#39; ir ei coraçon a San Treeçon&#34;</LL>
+
+            <TOPO CAT="LCULTO">San Treeçon</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

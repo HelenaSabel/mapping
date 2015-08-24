@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "147001" TC = "REFR" NE = "3" SG = "NO" XE = "EA" OL = "NON">
+<INCIPIT>A donzela de Bizcaya</INCIPIT>
+<NUCANT>147 1</NUCANT>
+<RM BCA = "B" NM = "1435" F = "298v" MU = "NON" EM = "NO" I.FI = "lb298v"></RM>
+<RM BCA = "B" NM = "1435" F = "299r" MU = "NON" EM = "NO" I.FI = "lb299r"></RM>
+<RM BCA = "V" NM = "1045" F = "170r" MU = "NON" EM = "NO" I.FI = "lv170r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 412</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Monaci 1045</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1347</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1045</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 381</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 50</P></EDIANT>
+<DATOAU NOME = "Barbieri" NUA = "16"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>28/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana situada na columna b do folio 298v, enriba da cantiga B
+1435. A nota fai referencia &aacute; presencia de refr&aacute;n na cantiga.
+Enriba  do &quot;o&quot; hai unha especie de til agudo que est&aacute;
+abreviando un &quot;r&quot;.</P></COMNOTC></NOTC>
+<RUBRICA>Roy paez de ribe
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na columna b do folio 298v, enriba da
+cantiga B 1435, &aacute; dereita. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<RUBRICA>Roy paez de rribela
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na columna b do folio 170r, enriba da
+cantiga V 1045. Man de Colocci.</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "IND">
+<SUBTEMA CAT = "P"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:112</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "aya" ERI = "Bizcaya" AC = "--+---+-">
+<LT>A donzela de Bizcaya</LT>
+<LL>A donzela de Bizcaya</LL>
+<TOPO CAT = "CIRCUNS">Bizcaya</TOPO></L>
+<L N = "2" NS = "7" RI = "aya" ERI = "saya" AC = "---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">ainda<SEG C = "M" N = "SIN" ID = "2"> mh-a</SEG> preyto saya</SEG></LT>
+<LL>ainda mh-a preyto saya</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ar" ERI = "l&utilde;ar" AC = "-+--+">
+<LT>de noyt' ou l&utilde;ar.</LT>
+<LL>de noyt' ou l&utilde;ar.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:112</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "enha" ERI = "desdenha" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">Poys</SEG> m' ago<SEG C = "M" N = "SIN" ID = "5">ra a</SEG>ssy desdenha</SEG>,</LT>
+<LL>Poys m' agora assy desdenha,</LL>
+</L>
+<L N = "2" NS = "7" RI = "enha" ERI = "venha" AC = "---+--+-">
+<LT><SEG C = "R" N = "PL" ID = "1">ainda<SEG C = "M" N = "SIN" ID = "6"> mh-a</SEG> preyto venha</SEG></LT>
+<LL>ainda mh-a preyto venha</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ar" ERI = "l&utilde;ar" AC = "-+--+">
+<LT>de noyt' ou l&utilde;ar.</LT>
+<LL>de noyt' ou l&utilde;ar.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:112</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "eito" ERI = "maltreyto" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "3"><SEG C = "R" N = "CD" ID = "4">Poys</SEG> dela s&otilde;o maltreyto</SEG>,</LT>
+<LL>Poys dela s&otilde;o maltreyto,</LL>
+</L>
+<L N = "2" NS = "7" RI = "eito" ERI = "preyto" AC = "----+-+-">
+<LT><SEG C = "R" N = "PL" ID = "1">ainda mi ve<SEG C = "M" N = "SIN" ID = "7">nha a</SEG> preyto</SEG></LT>
+<LL>ainda mi venha a preyto</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "ar" ERI = "l&utilde;ar" AC = "-+--+">
+<LT>de noyt' ou l&utilde;ar.</LT>
+<LL>de noyt' ou l&utilde;ar.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+

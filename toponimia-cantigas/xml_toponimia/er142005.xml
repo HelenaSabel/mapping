@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "142005" TC = "RINT" NE = "3" SG = "NO" XE = "M D" OL = "NON">
+<INCIPIT>Madre, quer' oj' eu ir veer</INCIPIT>
+<NUCANT>142 5</NUCANT>
+<RM BCA = "B" NM = "932" F = "200r" MU = "NON" EM = "NO" I.FI = "lb200r"></RM>
+<RM BCA = "V" NM = "520" F = "82v" MU = "NON" EM = "NO" I.FI = "lv082v"></RM>
+<EDIANT T = "PALEO">
+<P>Machado 876</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 520</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 288</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 82-83</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Tese, XXV</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 333</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "271"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>23/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tonel
+<COMNOTC>
+<P>Nota colocciana que precede &aacute; cantiga B 932.
+Est&aacute; situada na columna a do folio 200r. Enriba do aparece
+un sinal de abreviatura que indica que falta o r.</P></COMNOTC></NOTC>
+<TEMA CAT = "PA"></TEMA>
+<TEMA CAT = "COR"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "5+2">
+<ESQRIM TIPO = "abbaCaC"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>156:7</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "er" ERI = "veer" AC = "----+--+">
+<LT>- <SEG C = "R" N = "CD" ID = "1">Madre</SEG>, quer' oj' eu ir <SEG C = "R" N = "DOI" ID = "2"><SEG C = "R" N = "RD" ID = "3">veer</SEG></SEG></LT>
+<LL>- Madre, quer' oj' eu ir veer</LL>
+</L>
+<L N = "2" NS = "8" RI = "ir" ERI = "ir" AC = "--+----+">
+<LT><SEG C = "R" N = "CD" ID = "4">meu amigo</SEG> que se quer <SEG C = "R" N = "RD" ID = "5">ir</SEG></LT>
+<LL>meu amigo que se quer ir</LL>
+</L>
+<L N = "3" NS = "8" RI = "ir" ERI = "servir" AC = "--+----+">
+<LT><SEG C = "R" N = "CD" ID = "6">a Sevilha</SEG> el-rei servir;</LT>
+<LL>a Sevilha el-rei servir;</LL>
+
+<TOPO CAT = "CIUDAD">Sevilha</TOPO></L>
+<L N = "4" NS = "8" RI = "er" ERI = "veer" AC = "-+-----+">
+<LT><SEG C = "R" N = "CP" ID = "7"><SEG C = "R" N = "CD" ID = "1">ai madre</SEG>, ir-lo-ei <SEG C = "R" N = "DOI" ID = "2"><SEG C = "R" N = "RD" ID = "3">veer</SEG></SEG></SEG>.</LT>
+<LL>ai madre, ir-lo-ei veer.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ei" ERI = "irei" AC = "--+----+">
+<LT>- Filha, ide; eu vosqu' <SEG C = "R" N = "RD" ID = "5">irei</SEG>.</LT>
+<LL>- Filha, ide; eu vosqu' irei.</LL>
+</L></REFRAN>
+<L N = "6" NS = "8" RI = "er" ERI = "prazer" AC = "-+-----+">
+<LT>- <SEG C = "R" N = "CPL" ID = "8">Faredes-me atan <SEG C = "R" N = "RD" ID = "9">prazer</SEG></SEG>!</LT>
+<LL>- Faredes-me atan prazer!</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "8" RI = "ei" ERI = "verei" AC = "--+----+">
+<LT>ca non <SEG C = "R" N = "CFR" ID = "10">sei</SEG> quando <SEG C = "M" N = "SIN" ID = "11">mi-o</SEG> <SEG C = "R" N = "RD" ID = "3">verei</SEG>.</LT>
+<LL>ca non sei quando mi-o verei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "5+2">
+<ESQRIM TIPO = "abbaCaC"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>156:7</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "or" ERI = "Senhor" AC = "--+----+">
+<LT>- Ben o <SEG C = "R" N = "CFR" ID = "10">sabe</SEG> Nostro <SEG C = "R" N = "DOI" ID = "2"><SEG C = "R" N = "PE" ID = "12">Senhor</SEG></SEG></LT>
+<LL>- Ben o sabe Nostro Senhor</LL>
+</L>
+<L N = "2" NS = "8" RI = "er" ERI = "quer" AC = "--+----+">
+<LT>que me pesa, pois que s' ir quer,</LT>
+<LL>que me pesa, pois que s' ir quer,</LL>
+</L>
+<L N = "3" NS = "8" RI = "er" ERI = "prouguer" AC = "---+---+">
+<LT><SEG C = "R" N = "CP" ID = "7">e veer-<SEG C = "M" N = "SIN" ID = "13">lo-ei</SEG>, se vos <SEG C = "R" N = "RD" ID = "9">prouguer</SEG></SEG>,</LT>
+<LL>e veer-lo-ei, se vos prouguer,</LL>
+</L>
+<L N = "4" NS = "8" RI = "or" ERI = "senhor" AC = "-+-----+">
+<LT><SEG C = "R" N = "CP" ID = "7">por Deus, mia madr' e mia <SEG C = "R" N = "DOI" ID = "2"><SEG C = "R" N = "PE" ID = "12">senhor</SEG></SEG></SEG>.</LT>
+<LL>por Deus, mia madr' e mia senhor.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ei" ERI = "irei" AC = "--+----+">
+<LT>- Filha, ide; eu vosqu' <SEG C = "R" N = "RD" ID = "5">irei</SEG>.</LT>
+<LL>- Filha, ide; eu vosqu' irei.</LL>
+</L></REFRAN>
+<L N = "6" NS = "8" RI = "or" ERI = "amor" AC = "---+---+">
+<LT>- <SEG C = "R" N = "CPL" ID = "8"><SEG C = "R" N = "CD" ID = "1">Madre</SEG>, faredes mi amor</SEG>,</LT>
+<LL>- Madre, faredes mi amor,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "8" RI = "ei" ERI = "verei" AC = "--+----+">
+<LT>ca non sei quando <SEG C = "M" N = "SIN" ID = "14">mi-o</SEG> <SEG C = "R" N = "RD" ID = "3">verei</SEG>.</LT>
+<LL>ca non sei quando mi-o verei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "5+2">
+<ESQRIM TIPO = "abbaCaC"></ESQRIM>
+<INFMET>
+<ESQMET>8 8 8 8 8 8 8</ESQMET></INFMET>
+<NUMESQ>156:7</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "8" RI = "i" ERI = "aqui" AC = "--+----+">
+<LT>- <SEG C = "R" N = "CD" ID = "6">A Sevilha</SEG> se vai d' aqui</LT>
+<LL>- A Sevilha se vai d' aqui</LL>
+
+<TOPO CAT = "CIUDAD">Sevilha</TOPO></L>
+<L N = "2" NS = "8" RI = "en" ERI = "ben" AC = "--+----+">
+<LT><SEG C = "R" N = "CD" ID = "4">meu amigo</SEG>, por fazer ben,</LT>
+<LL>meu amigo, por fazer ben,</LL>
+</L>
+<L N = "3" NS = "8" RI = "en" ERI = "en" AC = "---+---+">
+<LT><SEG C = "R" N = "CP" ID = "7">e i-lo-ei veer por en</SEG>,</LT>
+<LL>e i-lo-ei veer por en,</LL>
+</L>
+<L N = "4" NS = "8" RI = "i" ERI = "i" AC = "+------+">
+<LT><SEG C = "R" N = "CP" ID = "7"><SEG C = "R" N = "CD" ID = "1">madre</SEG>, se vos prouguer d' ir <SEG C = "R" N = "PV" ID = "15">i</SEG></SEG>.</LT>
+<LL>madre, se vos prouguer d' ir i.</LL>
+</L>
+<REFRAN>
+<L N = "5" NS = "8" RI = "ei" ERI = "irei" AC = "--+----+">
+<LT>- Filha, ide; eu vosqu' <SEG C = "R" N = "RD" ID = "5">irei</SEG>.</LT>
+<LL>- Filha, ide; eu vosqu' irei.</LL>
+</L></REFRAN>
+<L N = "6" NS = "8" RI = "i" ERI = "i" AC = "---+---+">
+<LT>- <SEG C = "R" N = "CPL" ID = "8"><SEG C = "R" N = "CD" ID = "1">Madre</SEG>, faredes-me ben <SEG C = "R" N = "PV" ID = "15">i</SEG></SEG>,</LT>
+<LL>- Madre, faredes-me ben i,</LL>
+</L>
+<REFRAN>
+<L N = "7" NS = "8" RI = "ei" ERI = "verei" AC = "--+----+">
+<LT>ca non sei quando <SEG C = "M" N = "SIN" ID = "16">mi-o</SEG> <SEG C = "R" N = "RD" ID = "3">verei</SEG>.</LT>
+<LL>ca non sei quando mi-o verei.</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

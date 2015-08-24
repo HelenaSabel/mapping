@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "147007" TC = "REFR" NE = "4" SG = "NO" XE = "EA" OL = "NON">
+<INCIPIT>Mala ventura mi venha</INCIPIT>
+<NUCANT>147 7</NUCANT>
+<RM BCA = "V" NM = "1026" F = "166r" MU = "NON" EM = "NO" I.FI = "lv166r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 410</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Monaci 1026</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1673</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1026</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Alvar/Beltr&aacute;n, Antolog&iacute;a, 81</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Varnhagen, Cancioneirinho, 30</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, pp. 49-50</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 218</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 379</P></EDIANT>
+<DATOAU NOME = "Barbieri" NUA = "14"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Gerardo P&eacute;rez Barcala</NOME>
+<DATE>30/03/00</DATE></RESP>
+<FRI>c. sing.</FRI>
+<RUBRICA>Roy paez de rribela
+<COMRUBRI>
+<P>R&uacute;brica atributiva situada na columna a do folio 166r, enriba da
+cantiga V 1026. Man de Colocci</P></COMRUBRI></RUBRICA>
+<TEMA CAT = "IND">
+<SUBTEMA CAT = "P"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:113</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "enha" ERI = "venha" AC = "---+--+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Mala ventura mi venha</SEG></LT>
+<LL>Mala ventura mi venha</LL>
+</L>
+<L N = "2" NS = "7" RI = "enha" ERI = "Belenha" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "PL" ID = "2">se eu pola de Belenha</SEG></SEG></LT>
+<LL>se eu pola de Belenha</LL>
+<TOPO CAT = "TOPOME">Belenha</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "al" ERI = "mal" AC = "----+">
+<LT><SEG C = "R" N = "CP" ID = "1">d' amores ey mal</SEG>.</LT>
+<LL>d' amores ey mal.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:113</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "arcos" ERI = "Marcos" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">E confonda-me San Marcos</SEG></LT>
+<LL>E confonda-me San Marcos</LL>
+<ANTRO T = "ALTER">San Marcos</ANTRO></L>
+<L N = "2" NS = "7" RI = "arcos" ERI = "Arcos" AC = "----+-+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "PL" ID = "2">se pola donzela d' Arcos</SEG></SEG></LT>
+<LL>se pola donzela d' Arcos</LL>
+<TOPO CAT = "TOPOME">Arcos</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "al" ERI = "mal" AC = "----+">
+<LT><SEG C = "R" N = "CP" ID = "1">d' amores ey <SEG C = "R" N = "CFR" ID = "3">mal</SEG></SEG></LT>
+<LL>d' amores ey mal</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:113</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ia" ERI = "dia" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "CFR" ID = "3">Mal</SEG> mi venha cada dia</SEG></LT>
+<LL>Mal mi venha cada dia</LL>
+</L>
+<L N = "2" NS = "7" RI = "ia" ERI = "Maria" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "PL" ID = "2">se eu por Dona Maria</SEG></SEG></LT>
+<LL>se eu por Dona Maria</LL>
+<ANTRO T = "REAL">Dona Maria</ANTRO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "al" ERI = "mal" AC = "----+">
+<LT><SEG C = "R" N = "CP" ID = "1">d' amores ey mal</SEG>.</LT>
+<LL>d' amores ey mal.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 5</ESQMET></INFMET>
+<NUMESQ>26:113</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ique" ERI = "pique" AC = "--+---+-">
+<LT><SEG C = "R" N = "CP" ID = "1">Fernand-Escalho me pique</SEG></LT>
+<LL>Fernand-Escalho me pique</LL>
+<ANTRO T = "REAL">Fernand' Escalho</ANTRO></L>
+<L N = "2" NS = "7" RI = "ique" ERI = "Anrique" AC = "-+----+-">
+<LT><SEG C = "R" N = "CP" ID = "1"><SEG C = "R" N = "PL" ID = "2">se eu por Sevilh' Anrique</SEG></SEG></LT>
+<LL>se eu por Sevilh' Anrique</LL>
+<ANTRO T = "REAL">Sevilla Enr&iacute;quez (Sevilh' Anrique)</ANTRO></L>
+<REFRAN>
+<L N = "3" NS = "5" RI = "al" ERI = "mal" AC = "----+">
+<LT><SEG C = "R" N = "CP" ID = "1">d' amores ey mal</SEG>.</LT>
+<LL>d' amores ey mal.</LL>
+</L>
+</REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+

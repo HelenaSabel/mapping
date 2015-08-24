@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "087020" TC = "REFR" NE = "3" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Tercer dia ante Natal</INCIPIT>
+<NUCANT>87 20</NUCANT>
+<RM BCA = "B" NM = "1339" F = "287r" MU = "NON" EM = "NO" I.FI = "lb287r"></RM>
+<RM BCA = "V" NM = "946" F = "150r" MU = "NON" EM = "NO" I.FI = "lv150r"></RM>
+<RM BCA = "V" NM = "946" F = "150v" MU = "NON" EM = "NO" I.FI = "lv150v"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 253</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1289</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 946</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 216</P></EDIANT>
+<DATOAU NOME = "Pellegrini, Lopo Li&aacute;ns" NUA = "2"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>30/04/99</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<NOTC>tornel
+<COMNOTC>
+<P>Nota colocciana que precede a cantiga B 1339. Est&aacute; situada no folio
+287r, columna a.</P></COMNOTC></NOTC>
+<TEMA CAT = "POB"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+4">
+<ESQRIM TIPO = "aaBBBB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 8' 8' 8' 8'</ESQMET></INFMET>
+<NUMESQ>43:2</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "al" ERI = "Natal" AC = "--+---+">
+<LT>Tercer di<SEG C = "M" N = "SIN" ID = "1">a an</SEG>te Natal</LT>
+<LL>Tercer dia ante Natal</LL>
+</L>
+<L N = "2" NS = "7" RI = "ar" ERI = "dar" AC = "--+---+">
+<LT>de Lecia lhi foi dar</LT>
+<LL>de Lecia lhi foi dar</LL>
+
+<TOPO CAT = "TOPOME">Lecia??</TOPO>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2">hun brial a mha senhor bela</SEG>;</LT>
+<LL>hun brial a mha senhor bela;</LL>
+</L>
+<L N = "4" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3">e ao Zevron renge-lh' a sela</SEG>.</LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+<L N = "5" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2">Hun brial a mha senhor bela</SEG>;</LT>
+<LL>Hun brial a mha senhor bela;</LL>
+</L>
+<L N = "6" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3">e ao Zevron renge-lh' a sela</SEG>.</LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+4">
+<ESQRIM TIPO = "aaBBBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 8' 8' 8' 8'</ESQMET></INFMET>
+<NUMESQ>43:3</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "eiro" ERI = "cavaleiro" AC = "-+----+-">
+<LT>Sey eu hun tal cavaleiro</LT>
+<LL>Sey eu hun tal cavaleiro</LL>
+</L>
+<L N = "2" NS = "7" RI = "eiro" ERI = "ianeyro" AC = "---+--+-">
+<LT>que lhi talhou en ianeyro</LT>
+<LL>que lhi talhou en ianeyro</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2">hun brial a mha senhor bela</SEG>;</LT>
+<LL>hun brial a mha senhor bela;</LL>
+</L>
+<L N = "4" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3">e ao Zevron renge-lh' a sela</SEG>.</LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+<L N = "5" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2"><SEG C = "I" N = "RE" ID = "4">hun brial a mha senhor bela</SEG></SEG>;</LT>
+<LL>hun brial a mha senhor bela;</LL>
+</L>
+<L N = "6" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3"><SEG C = "I" N = "RE" ID = "4">e ao Zevron renge-lh' a sela</SEG></SEG>.</LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "2+4">
+<ESQRIM TIPO = "aaBBBB"></ESQRIM>
+<INFMET>
+<ESQMET>7' 7' 8' 8' 8' 8'</ESQMET></INFMET>
+<NUMESQ>43:3</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "ente" ERI = "caente" AC = "-+-+--+-">
+<LT>Filhou-lh' o manto caente</LT>
+<LL>Filhou-lh' o manto caente</LL>
+</L>
+<L N = "2" NS = "7" RI = "en" ERI = "Benavente" AC = "--+---+-">
+<LT>e talhou<SEG C = "M" N = "SIN" ID = "5">-lh' o en</SEG> Benavente</LT>
+<LL>e talhou-lh' o en Benavente</LL>
+
+<TOPO CAT = "CIRCUNS">Benavente</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2">hun brial a mha senhor bela</SEG>;</LT>
+<LL>hun brial a mha senhor bela;</LL>
+</L>
+<L N = "4" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3"><SEG C = "I" N = "RE" ID = "6">e ao Zevron renge-lh' a sela</SEG>.</SEG></LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+<L N = "5" NS = "8" RI = "ela" ERI = "bela" AC = "--+----+-">
+<LT><SEG C = "R" N = "RR" ID = "2"><SEG C = "I" N = "RE" ID = "6">hun brial a mha senhor bela</SEG></SEG></LT>
+<LL>hun brial a mha senhor bela</LL>
+</L>
+<L N = "6" NS = "9" RI = "ela" ERI = "sela" AC = "---+--+-">
+<LT><SEG C = "R" N = "RR" ID = "3"><SEG C = "I" N = "RE" ID = "6">e ao Zevron renge-lh' a sela</SEG></SEG>.</LT>
+<LL>e ao Zevron renge-lh' a sela.</LL>
+
+<ANTRO T = "ALTER">Zevron</ANTRO></L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

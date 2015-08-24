@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="064023" NE="3" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Pero d&#39; Anbroa prometeu de pram</INCIPIT>
+
+      <NUCANT>64 23</NUCANT>
+
+      <RM BCA="B" EM="NO" F="305r" I.FI="lb305r" MU="NON" NM="1456"><NOTMAN
+      N="1">As lagoas das estrofas II e III márcanse co cruces desperationis.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="173v" I.FI="lv173v" MU="NON" NM="1066"><NOTMAN
+      N="1">En V só aparece a primeira estrofa.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 191</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. VII, pp. 560 e 681-682 (sobre V, só I)</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1368</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Monaci 1066</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1066</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 130</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 156</P>
+      </EDIANT>
+
+      <DATOAU NOME="Zilli" NUA="25"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>24/06/97</DATE>
+      </RESP>
+
+      <FRI>c. unis.</FRI>
+
+      <FRI>c. sing.<P>Se a cobra é unis. presenta rima c sing.; se é sing.
+      presenta rima a unis.</P><P>fragm.</P></FRI>
+
+      <TEMA CAT="VIX"><SUBTEMA CAT="XT"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10&#39; 10&#39; 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:110</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+--+---+-+" ERI="pram" N="1" NS="10" RI="an">
+          <LT>Pero d&#39; Anbroa prometeu de pram</LT>
+
+          <LL>Pero d&#39; Anbroa prometeu de pram</LL>
+
+          <ANTRO T="REAL">Pero Garcia d&#39; Ambroa (Pero d&#39; Anbroa)</ANTRO>
+        </L>
+
+        <L AC="-+--+-+--+-" ERI="Maria" N="2" NS="10" RI="ia">
+          <LT>que fosse romeu de Sancta Maria,</LT>
+
+          <LL>que fosse romeu de Sancta Maria,</LL>
+        </L>
+
+        <L AC="---+-+---+-" ERI="romaria" N="3" NS="10" RI="ia">
+          <LT>e acabou assy ssa romaria</LT>
+
+          <LL>e acabou assy ssa romaria</LL>
+        </L>
+
+        <L AC="---+--+--+" ERI="Jordan" N="4" NS="10" RI="an">
+          <LT>com&#39; acabou a do frume Jordan:</LT>
+
+          <LL>com&#39; acabou a do frume Jordan:</LL>
+
+          <TOPO CAT="HIDRON">Jordan</TOPO>
+        </L>
+
+        <L AC="--+----+-+" ERI="chegou" N="5" NS="10" RI="ou">
+          <LT>ca enton<SEG C="M" ID="1" N="SIN">ce a</SEG>ta Monpilier chegou</LT>
+
+          <LL>ca entonce ata Monpilier chegou</LL>
+
+          <TOPO CAT="CIUDAD">Monpilier</TOPO>
+        </L>
+
+        <L AC="-+----+--+" ERI="passou" N="6" NS="10" RI="ou">
+          <LT>e ora per Roçavales passou</LT>
+
+          <LL>e ora per Roçavales passou</LL>
+
+          <TOPO CAT="ORON">Roçavales</TOPO>
+        </L>
+
+        <L AC="--+--+---+" ERI="Roldam" N="7" NS="10" RI="an">
+          <LT>e tornou-sse do poio <SEG C="R" ID="2" N="PRI">de Rold<SEG C="R"
+ID="3" N="CC">am</SEG></SEG>.</LT>
+
+          <LL>e tornou-sse do poio de Roldam.</LL>
+
+          <ANTRO T="REAL">Roldan (Roldam)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="na" ERI="-" N="1" NS="0" RI="an">
+          <LT>E poys <SEG C="I" ID="4" N="AU">...</SEG> <SEG C="I" ID="5"
+          N="RE">-am</SEG></LT>
+
+          <LL>E poys ... -am</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="2" NS="0" RI="-">
+          <LT><SEG C="I" ID="6" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="7" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="an">
+          <LT><SEG C="I" ID="8" N="AU">...</SEG> <SEG C="I" ID="9" N="RE">-am</SEG></LT>
+
+          <LL>... -am</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="5" NS="0" RI="-">
+          <LT><SEG C="I" ID="10" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="6" NS="0" RI="-">
+          <LT><SEG C="I" ID="11" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="7" NS="0" RI="an">
+          <LT><SEG C="I" ID="12" N="AU">...</SEG><SEG C="R" ID="13" N="CC"> <SEG
+C="I" ID="14" N="RE">-am</SEG></SEG></LT>
+
+          <LL>... -am</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="NA"></ESQRIM>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-+---+" ERI="diran" N="1" NS="10" RI="an">
+          <LT>Ca, poys aqui cheguey, ja non dir<SEG C="R" ID="13" N="CC">an</SEG></LT>
+
+          <LL>Ca, poys aqui cheguey, ja non diran</LL>
+        </L>
+
+        <L AC="--+..." ERI="-" N="2" NS="0" RI="-">
+          <LT>que non foy <SEG C="I" ID="15" N="AU">...</SEG></LT>
+
+          <LL>que non foy ...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="3" NS="0" RI="-">
+          <LT><SEG C="I" ID="16" N="AU">...</SEG></LT>
+
+          <LL>...</LL>
+        </L>
+
+        <L AC="na" ERI="-" N="4" NS="0" RI="an">
+          <LT><SEG C="I" ID="117" N="AU">...</SEG> <SEG C="I" ID="18" N="RE">-am</SEG></LT>
+
+          <LL>... -am</LL>
+        </L>
+
+        <L AC="...--+" ERI="buscar" N="5" NS="0" RI="ar">
+          <LT><SEG C="I" ID="19" N="AU">...</SEG> en buscar,</LT>
+
+          <LL>... en buscar,</LL>
+        </L>
+
+        <L AC="-+---+---+" ERI="chufar" N="6" NS="10" RI="ar">
+          <LT>se non de que podesse poys chufar,</LT>
+
+          <LL>se non de que podesse poys chufar,</LL>
+        </L>
+
+        <L AC="-+-+-+---+" ERI="Rroldam" N="7" NS="10" RI="an">
+          <LT>e ach&#39; aqui o corno <SEG C="R" ID="2" N="PRI">de Rroldam</SEG>.</LT>
+
+          <LL>e ach&#39; aqui o corno de Rroldam.</LL>
+
+          <ANTRO T="REAL">Roldan (Rroldam)</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

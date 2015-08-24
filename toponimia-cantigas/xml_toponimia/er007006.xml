@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "007006" TC = "RINT" NE = "4" SG = "NO" XE = "EPO" OL = "NON">
+<INCIPIT>J&aacute; lhi nunca pediran</INCIPIT>
+<NUCANT>7 6</NUCANT>
+<RM BCA = "B" NM = "1559" F = "325r" MU = "NON" EM = "NO" I.FI = "lb325r"></RM>
+<RM BCA = "B" NM = "1559" F = "325v" MU = "NON" EM = "NO" I.FI = "lb325v"></RM>
+<EDIANT T = "CRITI">
+<P>CA II, p. 562</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. VI, pp. 307-308</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 432</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1471</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Gon&ccedil;alves/Ramos, A l&iacute;rica, 32</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 29</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Torres, Poesia trovadoresca, p. 77</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Jensen, Medieval, pp. 16-17, 410-411</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 79</P></EDIANT>
+<DATOAU NOME = "Lapa" NUA = "61"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Antonio Fern&aacute;ndez Guiadanes</NOME>
+<DATE>14/02/97</DATE>
+</RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "POB"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 6' 7 6'</ESQMET></INFMET>
+<NUMESQ>13:69</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "an" ERI = "pediran" AC = "--+---+">
+<LT>J&aacute; lhi nunca pediran</LT>
+<LL>J&aacute; lhi nunca pediran</LL>
+</L>
+<L N = "2" NS = "7" RI = "an" ERI = "Foan" AC = "--+---+">
+<LT>O castel' a Don Foan;</LT>
+<LL>O castel' a Don Foan;</LL>
+<ANTRO T = "REAL">Don Foan</ANTRO></L>
+<L N = "3" NS = "7" RI = "an" ERI = "pan" AC = "---+--+">
+<LT><SEG C = "R" N = "CPL" ID = "1">ca non tiinha el de pan</SEG></LT>
+<LL>ca non tiinha el de pan</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "6" RI = "ia" ERI = "queria" AC = "-+---+-">
+<LT>senon quanto queria,</LT>
+<LL>senon quanto queria,</LL>
+</L>
+</REFRAN>
+<L N = "5" NS = "7" RI = "an" ERI = "pran" AC = "-+--+-+">
+<LT><SEG C = "R" N = "CPL" ID = "2">e <SEG C = "R" N = "CF" ID = "3">foi</SEG>-o vender de pran</SEG></LT>
+<LL>e foi-o vender de pran</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "6" RI = "ia" ERI = "avia" AC = "-+---+-">
+<LT>con m&iacute;nguas que avia.</LT>
+<LL>con m&iacute;nguas que avia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 6' 7 6'</ESQMET></INFMET>
+<NUMESQ>13:69</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "er" ERI = "apoer" AC = "--+---+">
+<LT>Por que lh' <SEG C = "R" N = "CF" ID = "3">ides</SEG> <SEG C = "I" N = "RE" ID = "4">a</SEG>poer</LT>
+<LL>Por que lh' ides apoer</LL>
+</L>
+<L N = "2" NS = "7" RI = "er" ERI = "teer" AC = "+--+--+">
+<LT>culpa <SEG C = "I" N = "RE" ID = "5">por</SEG> non <SEG C = "I" N = "RE" ID = "6">no</SEG> <SEG C = "R" N = "RD" ID = "7">teer</SEG>?,</LT>
+<LL>culpa por non no teer?,</LL>
+</L>
+<L N = "3" NS = "7" RI = "er" ERI = "comer" AC = "--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "1">ca non tiinha que comer</SEG></LT>
+<LL>ca non tiinha que comer</LL>
+</L>
+<REFRAN>
+<L N = "4" NS = "6" RI = "ia" ERI = "queria" AC = "-+---+-">
+<LT>senon quanto queria,</LT>
+<LL>senon quanto queria,</LL>
+</L>
+</REFRAN>
+<L N = "5" NS = "7" RI = "er" ERI = "vender" AC = "-+--+-+">
+<LT><SEG C = "R" N = "CPL" ID = "2">e foi-o enton vender</SEG></LT>
+<LL>e foi-o enton vender</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "6" RI = "ia" ERI = "avia" AC = "-+---+-">
+<LT>con m&iacute;nguas que avia.</LT>
+<LL>con m&iacute;nguas que avia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 6' 7 6'</ESQMET></INFMET>
+<NUMESQ>13:69</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "on" ERI = "razon" AC = "+-----+">
+<LT>Travan-lhi mui sen razon</LT>
+<LL>Travan-lhi mui sen razon</LL>
+</L>
+<L N = "2" NS = "7" RI = "on" ERI = "cora&ccedil;on" AC = "+-----+">
+<LT><SEG C = "M" N = "SIN" ID = "8">a o</SEG>me de tal cora&ccedil;on:</LT>
+<LL>a ome de tal cora&ccedil;on:</LL>
+</L>
+<L N = "3" NS = "7" RI = "on" ERI = "Leon" AC = "--+---+">
+<LT><SEG C = "R" N = "CPL" ID = "9">- En fronteira de Leon-</SEG></LT>
+<LL>- En fronteira de Leon-</LL>
+<TOPO CAT = "CIRCUNS">Leon</TOPO></L>
+<REFRAN>
+<L N = "4" NS = "6" RI = "ia" ERI = "terria" AC = "+-+--+-">
+<LT>-diz- con quen no <SEG C = "R" N = "RD" ID = "7">terria</SEG>?</LT>
+<LL>-diz- con quen no terria?</LL>
+</L>
+</REFRAN>
+<L N = "5" NS = "7" RI = "on" ERI = "enton" AC = "-+--+-+">
+<LT><SEG C = "R" N = "CPL" ID = "2">E foi-o vender enton</SEG></LT>
+<LL>E foi-o vender enton</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "6" RI = "ia" ERI = "avia" AC = "-+---+-">
+<LT>con m&iacute;nguas que avia.</LT>
+<LL>con m&iacute;nguas que avia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "4+2">
+<ESQRIM TIPO = "aaaBaB"></ESQRIM>
+<INFMET>
+<ESQMET>7 7 7 6' 7 6'</ESQMET></INFMET>
+<NUMESQ>13:69</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "7" RI = "al" ERI = "val" AC = "+-----+">
+<LT>Dizen que lh' a el mais val</LT>
+<LL>Dizen que lh' a el mais val</LL>
+</L>
+<L N = "2" NS = "7" RI = "al" ERI = "al" AC = "---+--+">
+<LT>esto que diz, ca non al:</LT>
+<LL>esto que diz, ca non al:</LL>
+</L>
+<L N = "3" NS = "7" RI = "al" ERI = "Portugal" AC = "-+----+">
+<LT><SEG C = "R" N = "CPL" ID = "9">- En cabo de Portugal-</SEG></LT>
+<LL>- En cabo de Portugal-</LL>
+<TOPO CAT = "CIRCUNS">Portugal</TOPO></L>
+<REFRAN>
+<L N = "4" NS = "6" RI = "ia" ERI = "terria" AC = "+-+--+-">
+<LT>-diz- con quen no <SEG C = "R" N = "RD" ID = "7">terria</SEG>?</LT>
+<LL>-diz- con quen no terria?</LL>
+</L>
+</REFRAN>
+<L N = "5" NS = "7" RI = "al" ERI = "mal" AC = "-+----+">
+<LT><SEG C = "R" N = "CPL" ID = "2">E vend&ecirc;-o enton mal</SEG></LT>
+<LL>E vend&ecirc;-o enton mal</LL>
+</L>
+<REFRAN>
+<L N = "6" NS = "6" RI = "ia" ERI = "avia" AC = "-+---+-">
+<LT>con m&iacute;nguas que avia.</LT>
+<LL>con m&iacute;nguas que avia.</LL>
+</L>
+</REFRAN></BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

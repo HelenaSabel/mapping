@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="087017" NE="1" OL="NON" SG="NO" TC="NA" XE="EP">
+      <INCIPIT>Saben en Morraz&#39; e en Salnês</INCIPIT>
+
+      <NUCANT>87 17</NUCANT>
+
+      <RM BCA="B" EM="NO" F="289v" I.FI="lb289v" MU="NON" NM="1352bis"></RM>
+
+      <RM BCA="V" EM="NO" F="152v" I.FI="lv152v" MU="NON" NM="960"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Pellegrini, Lopo Liáns, 15 (estr. II). A estr. I da cantiga editada
+        por Pellegrini é a cantiga 87,1.</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1303</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 960</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="267"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Antonio Fernández Guiadanes</NOME>
+
+        <DATE>27/04/99</DATE>
+      </RESP>
+
+      <FRI>NA<P>fragm.</P></FRI>
+
+      <TEMA CAT="CSX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="8">
+        <ESQRIM TIPO="aaaabbba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 4&#39; 4&#39; 4&#39; 8</ESQMET>
+
+          <NOTMET>
+            <P>O verso 8 é hipérmetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>8:1</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="+---+--+" ERI="Salnês" N="1" NS="8" RI="es">
+          <LT>Saben en Morraz&#39;<SEG C="M" ID="1" N="SIN">e en</SEG> Salnês</LT>
+
+          <LL>Saben en Morraz&#39;e en Salnês</LL>
+
+          <TOPO CAT="CIRCUNS">Morrazo</TOPO>
+
+          <TOPO CAT="CIRCUNS">Salnês</TOPO>
+        </L>
+
+        <L AC="-+-+---+" ERI="pês" N="2" NS="8" RI="es">
+          <LT>meu preit&#39; e seu; e non lhis pês</LT>
+
+          <LL>meu preit&#39; e seu; e non lhis pês</LL>
+        </L>
+
+        <L AC="-+-+-+-+" ERI="mês" N="3" NS="8" RI="es">
+          <LT>que á de min mais á dun mês</LT>
+
+          <LL>que á de min mais á dun mês</LL>
+        </L>
+
+        <L AC="-+-+-+-+" ERI="três" N="4" NS="8" RI="es">
+          <LT>un sold&#39; e dous e dez e três;</LT>
+
+          <LL>un sold&#39; e dous e dez e três;</LL>
+        </L>
+
+        <L AC="---+-" ERI="dizia" N="5" NS="4" RI="ia">
+          <LT>de mais dizia</LT>
+
+          <LL>de mais dizia</LL>
+        </L>
+
+        <L AC="---+-" ERI="dia" N="6" NS="8" RI="ia">
+          <LT>que tercer dia</LT>
+
+          <LL>que tercer dia</LL>
+        </L>
+
+        <L AC="+--+-" ERI="seeria" N="7" NS="4" RI="ia">
+          <LT><SEG C="I" ID="2" N="RE">ela seeria</SEG></LT>
+
+          <LL>ela seeria</LL>
+        </L>
+
+        <L AC="-+---+--+" ERI="burguês" N="8" NS="9" RI="es">
+          <LT>en cas de Don Corral, o burguês.</LT>
+
+          <LL>en cas de Don Corral, o burguês.</LL>
+
+          <ANTRO T="REAL">Don Corral , o brguês</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

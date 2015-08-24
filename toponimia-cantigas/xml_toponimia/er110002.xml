@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="110002" NE="6" OL="NON" SG="NO" TC="REFR" XE="M R">
+      <INCIPIT>Estava m&#39; en San Clemenço, u fora fazer oraçon</INCIPIT>
+
+      <NUCANT>110 2</NUCANT>
+
+      <RM BCA="B" EM="NO" F="255v" I.FI="lb255v" MU="NON" NM="1203"></RM>
+
+      <RM BCA="V" EM="NO" F="127r" I.FI="lv127r" MU="NON" NM="808"><NOTMAN
+      N="1">En V 808 as cobras IV e VI están cambiadas de orde con respecto a
+      B.</NOTMAN></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, pp. 269-270</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1151</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 808</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 77</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, p. 182</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 34</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 430</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cohen" NUA="436p"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Déborah González Martínez</NOME>
+
+        <DATE>23/11/04</DATE>
+      </RESP>
+
+      <FRI>c. alt.<P>(cada 3)</P><P>Tavani chámaas simplemente alternas e
+      sinala a existencia dun paralelismo do tipo C3, do que non hai máis
+      casos nos cancioneiros. Por tanto, estamos ante un verdadeiro
+      leixa-prén, pero único na lírica medieval.</P></FRI>
+
+      <NOTC>tonel <COMNOTC><P>Nota colocciana referida á cantiga B 1203 e
+      situada no fol. 2rrv, na columna a, enriba da cantiga, marxe dereita. A
+      nota fai referencia á existencia de refrán na cantiga. Enriba do
+      &#34;o&#34; hai un til agudo que está abreviando un &#34;r&#34;.</P></COMNOTC></NOTC>
+
+      <NOTC>16 syll <COMNOTC><P>Nota colocciana referida á cantiga B 1203 e
+      situada no fol. 255v, columna a, marxe inferior. É unha indicación de
+      que a cantiga está disposta en versos curtos, pero en realidade cada
+      dous versos constitúen un único verso de 16 sílabas. Colocci indica
+      ademais este aspecto cun trazo de unión en cada par de versos curtos, co
+      que quere marcar que deben ser unidos nun só verso.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/-+-----+" ERI="oraçon" N="1" NS="16" RI="on">
+          <LT><SEG C="R" ID="1" N="PL">Estava m&#39; en San Clemenço<SEG C="M"
+ID="2" N="CAE">,</SEG> u fora fazer oraçon</SEG>,</LT>
+
+          <LL>Estava m&#39; en San Clemenço, u fora fazer oraçon,</LL>
+
+          <TOPO CAT="LCULTO">San Clemenço</TOPO>
+        </L>
+
+        <L AC="-+----+-/--+----+" ERI="coraçon" N="2" NS="16" RI="on">
+          <LT><SEG C="R" ID="3" N="PL"><SEG C="R" ID="4" N="LP">e disse<SEG
+C="M" ID="5" N="SIN"> mh o</SEG> mandadeiro<SEG C="M" ID="6" N="CAE">,</SEG> que mi prougue de coraçon</SEG></SEG>:</LT>
+
+          <LL>e disse mh o mandadeiro, que mi prougue de coraçon:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="10" RI="igo">
+            <LT>&#34;Agora verrá aqui voss&#39; amigo&#34;</LT>
+
+            <LL>&#34;Agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/-+-----+" ERI="queimar" N="1" NS="16" RI="ar">
+          <LT><SEG C="R" ID="1" N="PL">Estava <SEG C="I" ID="7" N="RE">m&#39;</SEG> en San Clemenço<SEG
+C="M" ID="8" N="CAE">,</SEG> u fora candeas queimar</SEG>,</LT>
+
+          <LL>Estava m&#39; en San Clemenço, u fora candeas queimar,</LL>
+
+          <TOPO CAT="LCULTO">San Clemenço</TOPO>
+        </L>
+
+        <L AC="-+----+-/-+-----+" ERI="semelhar" N="2" NS="16" RI="ar">
+          <LT><SEG C="R" ID="3" N="PL"><SEG C="R" ID="4" N="LP">e disse<SEG
+C="M" ID="9" N="SIN"> mh o</SEG> mandadeiro<SEG C="M" ID="10" N="CAE">:</SEG> &#34;Fremosa de bon semelhar</SEG></SEG>,</LT>
+
+          <LL>e disse mh o mandadeiro: &#34;Fremosa de bon semelhar,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="10" RI="igo">
+            <LT>agora verrá aqui <SEG C="I" ID="11" N="RE">voss&#39; amigo</SEG>&#34;</LT>
+
+            <LL>agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/-+-----+" ERI="fazer" N="1" NS="16" RI="er">
+          <LT><SEG C="R" ID="1" N="PL">Estava m&#39; en San Clemenço<SEG C="M"
+ID="12" N="CAE">,</SEG> u fora oraçon fazer</SEG>,</LT>
+
+          <LL>Estava m&#39; en San Clemenço, u fora oraçon fazer,</LL>
+
+          <TOPO CAT="LCULTO">San Clemenço</TOPO>
+        </L>
+
+        <L AC="-+----+-/-+-----+" ERI="parecer" N="2" NS="16" RI="er">
+          <LT><SEG C="R" ID="3" N="PL"><SEG C="R" ID="4" N="LP">e disse<SEG
+C="M" ID="13" N="SIN"> mh o</SEG> mandadeiro<SEG C="M" ID="14" N="CAE">:</SEG> &#34;Fremosa de bon parecer</SEG></SEG>,</LT>
+
+          <LL>e disse mh o mandadeiro: &#34;Fremosa de bon parecer,</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="10" RI="igo">
+            <LT>agora verrá aqui <SEG C="I" ID="15" N="RE">voss&#39; amigo</SEG>&#34;</LT>
+
+            <LL>agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/--+----+" ERI="semelhar" N="1" NS="16" RI="ar">
+          <LT><SEG C="R" ID="4" N="LP">E disse<SEG C="M" ID="16" N="SIN"> mh o</SEG> mandadeiro<SEG
+C="M" ID="17" N="CAE">:</SEG> &#34;Fremosa de bon semelhar,&#34;</SEG></LT>
+
+          <LL>E disse mh o mandadeiro: &#34;Fremosa de bon semelhar,&#34;</LL>
+        </L>
+
+        <L AC="--+---+-/-+-----+" ERI="falar" N="2" NS="16" RI="ar">
+          <LT><SEG C="R" ID="18" N="PL">por que viu que mi prazia<SEG C="M"
+ID="19" N="CAE"></SEG>, ar começou m<SEG C="I" ID="20" N="RE">e</SEG> a falar</SEG></LT>
+
+          <LL>por que viu que mi prazia, ar começou me a falar</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="10" RI="igo">
+            <LT>&#34;Agora verrá aqui <SEG C="I" ID="21" N="RE">voss&#39; amigo</SEG>&#34;</LT>
+
+            <LL>&#34;Agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/-+-----+" ERI="parecer" N="1" NS="16" RI="er">
+          <LT><SEG C="R" ID="4" N="LP">E disse<SEG C="M" ID="22" N="SIN"> mh o</SEG> mandadeiro<SEG
+C="M" ID="23" N="CAE">:</SEG> &#34;Fremosa de bon parecer</SEG>,&#34;</LT>
+
+          <LL>E disse mh o mandadeiro: &#34;Fremosa de bon parecer,&#34;</LL>
+        </L>
+
+        <L AC="--+---+-/---+---+" ERI="dizer" N="2" NS="16" RI="er">
+          <LT><SEG C="R" ID="18" N="PL">por que viu que mi prazia<SEG C="M"
+ID="24" N="CAE">,</SEG> ar começou <SEG C="I" ID="25" N="RE">me</SEG> a dizer</SEG>:</LT>
+
+          <LL>por que viu que mi prazia, ar começou me a dizer:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="9" RI="igo">
+            <LT>&#34;agora verrá aqui <SEG C="I" ID="26" N="RE">voss&#39; amigo</SEG>&#34;</LT>
+
+            <LL>&#34;agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>16 16 10&#39;</ESQMET>
+
+          <NOTMET>
+            <P>O verso 3, que constitúe o refrán é hipómetro</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>26:5 <NOTNESQ><P>Outra posibilidade 230:1</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+----+-/-+-----+" ERI="coraçon" N="1" NS="16" RI="on">
+          <LT><SEG C="R" ID="4" N="LP">E disse<SEG C="M" ID="27" N="SIN"> mh o</SEG> mandadeiro<SEG
+C="M" ID="28" N="CAE">,</SEG> que mi prougue de coraçon</SEG>,</LT>
+
+          <LL>E disse mh o mandadeiro, que mi prougue de coraçon,</LL>
+        </L>
+
+        <L AC="--+---+-/---+---+" ERI="enton" N="2" NS="16" RI="on">
+          <LT><SEG C="R" ID="18" N="PL">por que viu que mi prazia<SEG C="M"
+ID="29" N="CAE">,</SEG> ar disse mh outra vez enton</SEG>:</LT>
+
+          <LL>por que viu que mi prazia, ar disse mh outra vez enton:</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+---+-" ERI="amigo" N="3" NS="9" RI="igo">
+            <LT>&#34;Agora verrá aqui <SEG C="I" ID="30" N="RE">voss&#39; amigo</SEG>&#34;</LT>
+
+            <LL>&#34;Agora verrá aqui voss&#39; amigo&#34;</LL>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

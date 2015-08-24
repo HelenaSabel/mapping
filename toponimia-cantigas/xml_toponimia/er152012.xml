@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="152012" NE="4" OL="NON" SG="NO" TC="MEST" XE="T ES">
+      <INCIPIT>Rei Don Alfonso, se Deus vos pardon</INCIPIT>
+
+      <NUCANT>152 12</NUCANT>
+
+      <TENSO NOME="Alfonso X o Sabio"><NUCANT>18 38</NUCANT></TENSO>
+
+      <RM BCA="B" EM="NO" F="316v" I.FI="lb316v" MU="NON" NM="1512"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Piccat, Vasco Gil, 16</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA II, pp. 352-354</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Randgl. II, p. 131</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 385</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1424</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 54</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 422</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 395</P>
+      </EDIANT>
+
+      <DATOAU NOME="Paredes" NUA="43"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>27/10/04</DATE>
+      </RESP>
+
+      <FRI>c. doblas</FRI>
+
+      <RUBRICA>Vaasco Gil <COMRUBRI><P>Rúbrica atributiva situada na columna a
+      do folio 316v, enriba da cantiga B 1512. O texto da rúbrica está
+      subliñado. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <RUBRICA>Vaasco gil fez esta catiga e descarnhe de mal dizer
+      <COMRUBRI><P>Rúbrica explicativa situada na columna a do folio 316v,
+      enriba da cantiga B 1512 e máis concretamente, enriba da rúbrica
+      atributiva. A rúbrica non só identifica a Vasco Gil como autor da
+      cantiga por ser o primeiro en falar na tensó, senón que ademais
+      identifica o xénero ó que pertence. Enriba do &#34;a&#34; de
+      &#34;catiga&#34; hai como unha especie de til que está abreviando unha
+      nasal. Man do copista.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="POB"><SUBTEMA CAT="CL"></SUBTEMA></TEMA>
+
+      <TEMA CAT="POB"><SUBTEMA CAT="RE"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:101</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="pardon" N="1" NS="10" RI="on">
+          <LT>- <SEG C="R" ID="1" N="CD">Rei Don Alfonso</SEG>, se Deus vos
+          pardon,</LT>
+
+          <LL>- Rei Don Alfonso, se Deus vos pardon,</LL>
+
+          <ANTRO T="REAL">Alfonso X o Sabio (Don Alfonso)</ANTRO>
+        </L>
+
+        <L AC="---+-----+" ERI="preguntar" N="2" NS="10" RI="ar">
+          <LT>desto vos venho <SEG C="I" ID="2" N="RE">aqui</SEG> preguntar;</LT>
+
+          <LL>desto vos venho aqui preguntar;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="dar" N="3" NS="10" RI="ar">
+          <LT><SEG C="I" ID="3" N="RE">se</SEG>quer ora punhade de mi dar</LT>
+
+          <LL>sequer ora punhade de mi dar</LL>
+        </L>
+
+        <L AC="--+------+" ERI="razon" N="4" NS="10" RI="on">
+          <LT>tal recado, que seja con razon:</LT>
+
+          <LL>tal recado, que seja con razon:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="alguen" N="5" NS="10" RI="en">
+          <LT><SEG C="R" ID="4" N="CD">Quen</SEG> dá seu manto, que lho
+          guard&#39; alguen,</LT>
+
+          <LL>Quen dá seu manto, que lho guard&#39; alguen,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="poren" N="6" NS="10" RI="en">
+          <LT>e lho non dá tal qual o deu, poren,</LT>
+
+          <LL>e lho non dá tal qual o deu, poren,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Leon" N="7" NS="10" RI="on">
+          <LT>que manda <SEG C="I" ID="5" N="RE">end&#39;</SEG> o Livro de Le<SEG
+          C="R" ID="6" N="CC">on</SEG>?</LT>
+
+          <LL>que manda end&#39; o Livro de Leon?</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:101</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="clerizon" N="1" NS="10" RI="on">
+          <LT>- <SEG C="R" ID="7" N="CD">Don Vaasco</SEG>, eu fui ja cleriz<SEG
+          C="R" ID="6" N="CC">on</SEG></LT>
+
+          <LL>- Don Vaasco, eu fui ja clerizon</LL>
+
+          <ANTRO T="REAL">Vasco Gil (Don Vaasco)</ANTRO>
+        </L>
+
+        <L AC="--+------+" ERI="estudar" N="2" NS="10" RI="ar">
+          <LT>e degredo soía estudar;</LT>
+
+          <LL>e degredo soía estudar;</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="entrar" N="3" NS="10" RI="ar">
+          <LT>e nas escolas, u soi<SEG C="M" ID="8" N="SIN">a en</SEG>trar,</LT>
+
+          <LL>e nas escolas, u soia entrar,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="liçon" N="4" NS="10" RI="on">
+          <LT>dos maestres aprendi tal liçon:</LT>
+
+          <LL>dos maestres aprendi tal liçon:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="ren" N="5" NS="10" RI="en">
+          <LT>que manto doutren non filhe per ren;</LT>
+
+          <LL>que manto doutren non filhe per ren;</LL>
+        </L>
+
+        <L AC="--+------+" ERI="ben" N="6" NS="10" RI="en">
+          <LT>mais se o m&#39; eu melhoro, faço ben,</LT>
+
+          <LL>mais se o m&#39; eu melhoro, faço ben,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="ladron" N="7" NS="10" RI="on">
+          <LT>e non sõo, por aquesto, <SEG C="R" ID="9" N="CF">ladron</SEG>.</LT>
+
+          <LL>e non sõo, por aquesto, ladron.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:101</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+-----+" ERI="atal" N="1" NS="10" RI="al">
+          <LT>- <SEG C="R" ID="1" N="CD">Rei Don Alfonso</SEG>, <SEG C="R"
+          ID="9" N="CF">ladron</SEG> por atal</LT>
+
+          <LL>- Rei Don Alfonso, ladron por atal</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="vi" N="2" NS="10" RI="i">
+          <LT>en nulha terra nunca chamar vi,</LT>
+
+          <LL>en nulha terra nunca chamar vi,</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="min" N="3" NS="10" RI="in">
+          <LT>nen vós, senhor, no<SEG C="M" ID="10" N="SIN">no o</SEG>istes a
+          min,</LT>
+
+          <LL>nen vós, senhor, nono oistes a min,</LL>
+        </L>
+
+        <L AC="----+----+" ERI="mal" N="4" NS="10" RI="al">
+          <LT>ca, se o dissesse, diria mal;</LT>
+
+          <LL>ca, se o dissesse, diria mal;</LL>
+        </L>
+
+        <L AC="----+----+" ERI="trajeitador" N="5" NS="10" RI="or">
+          <LT>ante tenho-<SEG C="I" ID="11" N="RE">o</SEG> por trajeitador</LT>
+
+          <LL>ante tenho-o por trajeitador</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="melhor" N="6" NS="10" RI="or">
+          <LT>-se Deus mi valha, nunca vi melhor-</LT>
+
+          <LL>-se Deus mi valha, nunca vi melhor-</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="cendal" N="7" NS="10" RI="al">
+          <LT><SEG C="R" ID="4" N="CD">quen</SEG> assi torna pena de cend<SEG
+          C="R" ID="12" N="CC">al</SEG>.</LT>
+
+          <LL>quen assi torna pena de cendal.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbacca"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>10 10 10 10 10 10 10</ESQMET>
+        </INFMET>
+
+        <NUMESQ>161:101</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+------+" ERI="al" N="1" NS="10" RI="al">
+          <LT>- <SEG C="R" ID="7" N="CD">Don Vaasco</SEG>, dizer-vos quer&#39;
+          eu <SEG C="R" ID="12" N="CC">al</SEG></LT>
+
+          <LL>- Don Vaasco, dizer-vos quer&#39; eu al</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="aprendi" N="2" NS="10" RI="i">
+          <LT>daqueste preito, que eu aprendi:</LT>
+
+          <LL>daqueste preito, que eu aprendi:</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="assi" N="3" NS="10" RI="i">
+          <LT>oí dizer que trajeitou assi</LT>
+
+          <LL>oí dizer que trajeitou assi</LL>
+        </L>
+
+        <L AC="---+-----+" ERI="Portugal" N="4" NS="10" RI="al">
+          <LT>ja ũa vez un rei en Portugal:</LT>
+
+          <LL>ja ũa vez un rei en Portugal:</LL>
+
+          <TOPO CAT="CIRCUNS">Portugal</TOPO>
+        </L>
+
+        <L AC="--+------+" ERI="sabor" N="5" NS="10" RI="or">
+          <LT>ou<SEG C="M" ID="13" N="SIN">ve un</SEG> dia de trajeitar sabor</LT>
+
+          <LL>ouve un dia de trajeitar sabor</LL>
+        </L>
+
+        <L AC="----+----+" ERI="sabedor" N="6" NS="10" RI="or">
+          <LT>e, por se meter por mais sabedor,</LT>
+
+          <LL>e, por se meter por mais sabedor,</LL>
+        </L>
+
+        <L AC="--+------+" ERI="Espital" N="7" NS="10" RI="al">
+          <LT>fez <SEG C="I" ID="14" N="AU">...</SEG> cavaleiro<SEG C="M"
+          ID="15" N="SIN"> do Es</SEG>pital.</LT>
+
+          <LL>fez ... cavaleiro do Espital.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

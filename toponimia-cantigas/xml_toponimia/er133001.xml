@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="133001" NE="3" OL="NON" SG="NO" TC="REFR" XE="EP">
+      <INCIPIT>Chegou Paio de maas artes</INCIPIT>
+
+      <NUCANT>133 1</NUCANT>
+
+      <RM BCA="B" EM="NO" F="336v" I.FI="lb336v" MU="NON" NM="1600"></RM>
+
+      <RM BCA="V" EM="NO" F="186r" I.FI="lv186r" MU="NON" NM="1132"></RM>
+
+      <RM BCA="V" EM="NO" F="186v" I.FI="lv186v" MU="NON" NM="1132"></RM>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1502</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1132</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 370</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lapa 402</P>
+      </EDIANT>
+
+      <DATOAU NOME="Tato" NUA="6">Tato Fontaíña</DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>David González Couso</NOME>
+
+        <DATE>12/11/2008</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <RUBRICA>pero mendz da fonseca <COMRUBRI>
+          <P>Rúbrica atributiva situada na columna a do folio 336v, enriba da
+          cantiga B 1600. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <RUBRICA>pero Medz de fon seca <COMRUBRI>
+          <P>Rúbrica atributiva situada na columna b do folio 186r, enriba da
+          cantiga V1132. Man de Colocci.</P>
+        </COMRUBRI></RUBRICA>
+
+      <TEMA CAT="AVA"><SUBTEMA CAT="CA"></SUBTEMA></TEMA>
+
+      <TEMA CAT="FAL"><SUBTEMA CAT="CA"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+1">
+        <ESQRIM TIPO="aaabaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7' 7' 7 7' 7</ESQMET>
+        </INFMET>
+
+        <NUMESQ>13:63</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="artes" N="1" NS="7" RI="artes">
+          <LT><SEG C="R" ID="1" N="CD">Chegou</SEG> Paio de maas artes</LT>
+
+          <LL>Chegou Paio de maas artes</LL>
+
+          <ANTRO T="REAL">Paio</ANTRO>
+        </L>
+
+        <L AC="---+--+-" ERI="Chartes" N="2" NS="7" RI="artes">
+          <LT>con seu cerome de Chartes,</LT>
+
+          <LL>con seu cerome de Chartes,</LL>
+
+          <TOPO CAT="LCULTO">Chartes</TOPO>
+        </L>
+
+        <L AC="---+--+-" ERI="partes" N="3" NS="7" RI="artes">
+          <LT>e non leeu el nas partes</LT>
+
+          <LL>e non leeu el nas partes</LL>
+        </L>
+
+        <L AC="---+---+" ERI="es" N="4" NS="7" RI="es">
+          <LT>que chega<SEG C="M" ID="2" N="SIN">sse á</SEG> ũu mes,</LT>
+
+          <LL>que chegasse á ũu mes,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="martes" N="5" NS="7" RI="artes">
+          <LT>e do lũes ao martes</LT>
+
+          <LL>e do lũes ao martes</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="Ocres" N="6" NS="7" RI="es">
+            <LT>foi comendador d' Ocres.</LT>
+
+            <LL>foi comendador d' Ocres.</LL>
+
+            <TOPO CAT="TOPOME">Uclés (Ocrês)</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+1">
+        <ESQRIM TIPO="aaabaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7' 7' 7 7' 7</ESQMET>
+
+          <NOTMET>
+            <P>O verso 6, o que constitúe o refrán, é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:63</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="busnardo" N="1" NS="7" RI="ardo">
+          <LT><SEG C="I" ID="3" N="RE"></SEG> Semelha-me busnardo</LT>
+
+          <LL>Semelha-me busnardo</LL>
+        </L>
+
+        <L AC="----+-+-" ERI="pardo" N="2" NS="7" RI="ardo">
+          <LT>viind' en seu ceramen pardo,</LT>
+
+          <LL>viind' en seu ceramen pardo,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="reguardo" N="3" NS="7" RI="ardo">
+          <LT><SEG C="R" ID="4" N="CD"><SEG C="M" ID="5" N="SIN">e u</SEG></SEG>
+          non ouvesse reguardo</LT>
+
+          <LL>e u non ouvesse reguardo</LL>
+        </L>
+
+        <L AC="--+---+" ERI="tres" N="4" NS="7" RI="es">
+          <LT>en nen ũu dos dez e tres;</LT>
+
+          <LL>en nen ũu dos dez e tres;</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="tabardo" N="5" NS="7" RI="ardo">
+          <LT>log' ouve mant' e tabardo</LT>
+
+          <LL>log' ouve mant' e tabardo</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="Ocres" N="6" NS="8" RI="es">
+            <LT>e foi comendador d' Ocres.</LT>
+
+            <LL>e foi comendador d' Ocres.</LL>
+
+            <TOPO CAT="TOPOME">Uclés (Ocrês)</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="5+1">
+        <ESQRIM TIPO="aaabaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>7' 7' 7' 7 7' 7</ESQMET>
+
+          <NOTMET>
+            <P>O verso 6, o que constitúe o refrán, é hipómetro.</P>
+          </NOTMET>
+        </INFMET>
+
+        <NUMESQ>13:63</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+---+-" ERI="Gra[a]da" N="1" NS="7" RI="ada">
+          <LT><SEG C="R" ID="1" N="CD">Chegou,</SEG> per u an Gra[a]da,</LT>
+
+          <LL>Chegou per u an Gra[a]da,</LL>
+        </L>
+
+        <L AC="-+----+-" ERI="madurgada" N="2" NS="7" RI="ada">
+          <LT>descalço, gran madurgada,</LT>
+
+          <LL>descalço, gran madurgada,</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="nada" N="3" NS="7" RI="ada">
+          <LT><SEG C="R" ID="4" N="CD">u</SEG> se non catavan nada</LT>
+
+          <LL>u se non catavan nada</LL>
+        </L>
+
+        <L AC="--+---+" ERI="rafez" N="4" NS="7" RI="ez">
+          <LT>d' ũu ome atan rafez;</LT>
+
+          <LL>d' ũu ome atan rafez;</LL>
+        </L>
+
+        <L AC="--+---+-" ERI="espada" N="5" NS="7" RI="ada">
+          <LT>cobrou manto con espada</LT>
+
+          <LL>cobrou manto con espada</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="----+-+" ERI="Ocres" N="6" NS="8" RI="es">
+            <LT>e foi comendador d' Ocres.</LT>
+
+            <LL>e foi comendador d' Ocres.</LL>
+
+            <TOPO CAT="TOPOME">Uclés (Ocrês)</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

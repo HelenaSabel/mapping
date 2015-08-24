@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="002024" NE="3" OL="NON" SG="NO" TC="MEST" XE="EA">
+      <INCIPIT>Veeron-m' agora dizer</INCIPIT>
+
+      <NUCANT>2 24</NUCANT>
+
+      <RM BCA="B" EM="NO" F="332v" I.FI="lb332v" MU="NON" NM="1581"></RM>
+
+      <RM BCA="B" EM="NO" F="333v" I.FI="lb333v" MU="NON" NM="1581"></RM>
+
+      <RM BCA="V" EM="NO" F="183r" I.FI="lv183r" MU="NON" NM="1113"></RM>
+
+      <RM BCA="V" EM="NO" F="183v" I.FI="Iv183v" MU="NON" NM="1113"></RM>
+
+      <EDIANT T="DIVUL">
+        <P>Gaspar 10</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1483</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 1113</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, pp. 208-209</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Lopes 59</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="39"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>María del Carmen Vázquez Pacho</NOME>
+
+        <DATE>18/02/97</DATE>
+      </RESP>
+
+      <FRI>c. sing.</FRI>
+
+      <TEMA CAT="CSX"><SUBTEMA CAT="P"></SUBTEMA></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+--+--+" ERI="dizer" N="1" NS="8" RI="er">
+          <LT>Veeron-m' agora dizer</LT>
+
+          <LL>Veeron-m' agora dizer</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ben" N="2" NS="8" RI="en">
+          <LT>dũa molher que quero ben,</LT>
+
+          <LL>dũa molher que quero ben,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="creer" N="3" NS="8" RI="er">
+          <LT><SEG C="M" ID="1" N="SIN">que e</SEG>ra prenhe, e já creer</LT>
+
+          <LL>que era prenhe, e já creer</LL>
+        </L>
+
+        <L AC="---+---+" ERI="ren" N="4" NS="8" RI="en">
+          <LT>non lho quig' eu per nulha ren;</LT>
+
+          <LL>non lho quig' eu per nulha ren;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="assi" N="5" NS="8" RI="i">
+          <LT>pero dix' eu: - Se est' assi,</LT>
+
+          <LL>pero dix' eu: - Se est' assi,</LL>
+        </L>
+
+        <L AC="-+--+--+" ERI="mi" N="6" NS="8" RI="i">
+          <LT>ôi-mais non creades per mi,</LT>
+
+          <LL>ôi-mais non creades per mi,</LL>
+        </L>
+
+        <L AC="-----+-+" ERI="alguen" N="7" NS="8" RI="en">
+          <LT>se a non emprenhou alguen.</LT>
+
+          <LL>se a non emprenhou alguen.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+---+-+" ERI="mal" N="1" NS="8" RI="al">
+          <LT>E digo-vos que m' é gran mal</LT>
+
+          <LL>E digo-vos que m' é gran mal</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="conteceu" N="2" NS="8" RI="eu">
+          <LT>daquesto que lhi conteceu,</LT>
+
+          <LL>daquesto que lhi conteceu,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="leal" N="3" NS="8" RI="al">
+          <LT><SEG C="R" ID="2" N="CD">ca</SEG> sõo eu cord' e leal,</LT>
+
+          <LL>ca sõo eu cord' e leal,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="sandeu" N="4" NS="8" RI="eu">
+          <LT>pero me dan prez de sandeu;</LT>
+
+          <LL>pero me dan prez de sandeu;</LL>
+        </L>
+
+        <L AC="-+---+-+" ERI="pesar" N="5" NS="8" RI="ar">
+          <LT><SEG C="R" ID="3" N="CD">mais</SEG> vedes de que ei pesar</LT>
+
+          <LL>mais vedes de que ei pesar</LL>
+        </L>
+
+        <L AC="-+--+--+" ERI="emprenhar" N="6" NS="8" RI="ar">
+          <LT>daquel que a foi emprenhar:</LT>
+
+          <LL>daquel que a foi emprenhar:</LL>
+        </L>
+
+        <L AC="--+----+" ERI="fodeu" N="7" NS="8" RI="eu">
+          <LT>de que cuidan que xa fodeu.</LT>
+
+          <LL>de que cuidan que xa fodeu.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="ababccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>101:40</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="sei" N="1" NS="8" RI="ei">
+          <LT>Pero juro-vos que non sei</LT>
+
+          <LL>Pero juro-vos que non sei</LL>
+        </L>
+
+        <L AC="+--+---+" ERI="Leon" N="2" NS="8" RI="on">
+          <LT>ben este foro de Leon,</LT>
+
+          <LL>ben este foro de Leon,</LL>
+
+          <TOPO CAT="CIUDAD">Leon</TOPO>
+        </L>
+
+        <L AC="--+--+-+" ERI="cheguei" N="3" NS="8" RI="ei">
+          <LT><SEG C="R" ID="2" N="CD">ca</SEG> pouc' á que aqui cheguei;</LT>
+
+          <LL>ca pouc' á que aqui cheguei;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="razon" N="4" NS="8" RI="on">
+          <LT><SEG C="R" ID="3" N="CD">mais</SEG> direi-vos ũa razon:</LT>
+
+          <LL>mais direi-vos ũa razon:</LL>
+        </L>
+
+        <L AC="--+----+" ERI="fé" N="5" NS="8" RI="e">
+          <LT>en mia terra, per boa fé,</LT>
+
+          <LL>en mia terra, per boa fé,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="é" N="6" NS="8" RI="e">
+          <LT>a toda molher que prenh' é</LT>
+
+          <LL>a toda molher que prenh' é</LL>
+        </L>
+
+        <L AC="---+---+" ERI="baron" N="7" NS="8" RI="on">
+          <LT>logo lhi dizen: - Ten baron!</LT>
+
+          <LL>logo lhi dizen: - Ten baron!</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

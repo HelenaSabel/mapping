@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "154008" TC = "MEST" NE = "4+2F" SG = "NO" XE = "T EP" OL = "NON">
+<INCIPIT>Pedr' Amigo, quero de v&oacute;s saber</INCIPIT>
+<NUCANT>154 8</NUCANT>
+<TENSO NOME = "Pedr' Amigo de Sevilha">
+<NUCANT>116 24</NUCANT></TENSO>
+<RM BCA = "B" NM = "1509" F = "315v" MU = "NON" EM = "NO" I.FI = "lb315v"></RM>
+<RM BCA = "B" NM = "1509" F = "316r" MU = "NON" EM = "NO" I.FI = "lb316r"></RM>
+<EDIANT T = "CRITI">
+<P>Lapa 428</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Randgl. VII, pp. 559 e 677-678</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Molteni 1421</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1421</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Fonseca, Esc&aacute;rnio, 31</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>Deluy, Troubadours, pp. 241-242</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Jensen, Medieval, pp. 388-391, 609-611</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Arias, Antolox&iacute;a, 229</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 401</P></EDIANT>
+<DATOAU NOME = "Majorano" NUA = "13"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Carlos Cordeiro Moledo</NOME>
+<DATE>25/04/00</DATE></RESP>
+<FRI>c. doblas</FRI>
+<NOTC>&con;gedi 2
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 1509 de B. Est&aacute; situada na parte
+superior da cantiga, na columna b do folio 315v dese manuscrito. Marca a
+existencia de d&uacute;as fiimdas na composici&oacute;n.</P></COMNOTC></NOTC>
+<NOTC>Tenz&otilde;
+<COMNOTC>
+<P>Nota de Colocci &aacute; cantiga 1509 de B. Est&aacute; situada na marxe
+dereita, na columna b do folio 315v dese manuscrito. Ref&iacute;rese &aacute;
+modalidade xen&eacute;rica da composici&oacute;.</P></COMNOTC></NOTC>
+<TEMA CAT = "FAL">
+<SUBTEMA CAT = "S"></SUBTEMA></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:103</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "saber" AC = "--+------+">
+<LT>- <SEG C = "R" N = "CD" ID = "1">Pedr' Amigo</SEG>, quero de v&oacute;s <SEG C = "R" N = "RD" ID = "2">saber</SEG></LT>
+<LL>- Pedr' Amigo, quero de v&oacute;s saber</LL>
+<ANTRO T = "REAL">Pedr' Amigo de Sevilha (Pedr' Amigo)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ei" ERI = "direy" AC = "--+------+">
+<LT>hunha cousa que vus ora <SEG C = "R" N = "RD" ID = "3">direy</SEG>,</LT>
+<LL>hunha cousa que vus ora direy,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ei" ERI = "sey" AC = "------+--+">
+<LT>e venho-vus preguntar, porque <SEG C = "R" N = "RD" ID = "2">sey</SEG></LT>
+<LL>e venho-vus preguntar, porque sey</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "dizer" AC = "---+-----+">
+<LT>que saberedes recado <SEG C = "R" N = "RD" ID = "3">dizer</SEG>,</LT>
+<LL>que saberedes recado dizer,</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "andar" AC = "--+------+">
+<LT>de Balteyra que vej' aqui andar</LT>
+<LL>de Balteyra que vej' aqui andar</LL>
+<ANTRO T = "ALTER">Maria Balteira (Balteyra)</ANTRO></L>
+<L N = "6" NS = "10" RI = "ar" ERI = "escomungar" AC = "----+----+">
+<LT><SEG C = "R" N = "CP" ID = "4">e vejo-lhi muytus <SEG C = "R" N = "RD" ID = "5">escomungar</SEG></SEG>.</LT>
+<LL>e vejo-lhi muytus escomungar.</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "poder" AC = "-+-------+">
+<LT>Dizede: quen lhi deu end' o pod<SEG C = "R" N = "CC" ID = "6">er</SEG>?</LT>
+<LL>Dizede: quen lhi deu end' o poder?</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:103</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "er" ERI = "aprender" AC = "---+-----+">
+<LT>- <SEG C = "R" N = "CD" ID = "7">Vaasco Perez</SEG>, quant' eu aprend<SEG C = "R" N = "CC" ID = "6">er</SEG></LT>
+<LL>- Vaasco Perez, quant' eu aprender</LL>
+<ANTRO T = "REAL">Vasco Perez Pardal (Vaasco Perez)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ei" ERI = "contarey" AC = "--+------+">
+<LT>pudi d' esto, ben vo-lo contarey:</LT>
+<LL>pudi d' esto, ben vo-lo contarey:</LL>
+</L>
+<L N = "3" NS = "10" RI = "ei" ERI = "Rey" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "8">este poder</SEG> ante tenpo del-Rey</LT>
+<LL>este poder ante tenpo del-Rey</LL>
+</L>
+<L N = "4" NS = "10" RI = "er" ERI = "aver" AC = "--+------+">
+<LT>Don Fernando ja lhi viron aver,</LT>
+<LL>Don Fernando ja lhi viron aver,</LL>
+<ANTRO T = "REAL">Don Fernando (Fernando III, rei de Castela)</ANTRO></L>
+<L N = "5" NS = "10" RI = "ar" ERI = "soltar" AC = "---+-----+">
+<LT>mays non avia poder de <SEG C = "R" N = "RD" ID = "9">soltar</SEG>;</LT>
+<LL>mays non avia poder de soltar;</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "buscar" AC = "---+-----+">
+<LT>mays foy poys hu<SEG C = "I" N = "RE" ID = "10">n</SEG> patriarcha buscar,</LT>
+<LL>mays foy poys hun patriarcha buscar,</LL>
+</L>
+<L N = "7" NS = "10" RI = "er" ERI = "fazer" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "11">fi-d' Escallola</SEG>, que lh' o fez fazer.</LT>
+<LL>fi-d' Escallola, que lh' o fez fazer.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "3">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:103</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "ben" AC = "--+------+">
+<LT>- <SEG C = "R" N = "CD" ID = "1">Pedr' Amigo</SEG>, sey-m' eu esto mui ben</LT>
+<LL>- Pedr' Amigo, sey-m' eu esto mui ben</LL>
+<ANTRO T = "REAL">Pedr' Amigo de Sevilha (Pedr' Amigo)</ANTRO></L>
+<L N = "2" NS = "10" RI = "ou" ERI = "soltou" AC = "--+------+">
+<LT>que Balteyra nunca home <SEG C = "R" N = "RD" ID = "9">soltou</SEG>,</LT>
+<LL>que Balteyra nunca home soltou,</LL>
+<ANTRO T = "ALTER">Maria Balteira (Balteyra)</ANTRO></L>
+<L N = "3" NS = "10" RI = "ou" ERI = "escomungou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CP" ID = "4">e vi-lh' eu muytus que <SEG C = "R" N = "RD" ID = "5">escomungou</SEG></SEG>,</LT>
+<LL>e vi-lh' eu muytus que escomungou,</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "poren" AC = "---+-----+">
+<LT>que lhi peytaron grand' algo poren</LT>
+<LL>que lhi peytaron grand' algo poren</LL>
+</L>
+<L N = "5" NS = "10" RI = "al" ERI = "al" AC = "---+-----+">
+<LT>que os soltass' e direy-vus eu al:</LT>
+<LL>que os soltass' e direy-vus eu al:</LL>
+</L>
+<L N = "6" NS = "10" RI = "al" ERI = "tal" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "11">fi-d' Escallola</SEG> non &aacute; poder tal</LT>
+<LL>fi-d' Escallola non &aacute; poder tal</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "ten" AC = "---+-----+">
+<LT>perque solt' ergo seus presus, que <SEG C = "R" N = "PV" ID = "12">t<SEG C = "R" N = "CC" ID = "13">en</SEG></SEG>.</LT>
+<LL>perque solt' ergo seus presus, que ten.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "4">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10 10 10 10 10</ESQMET></INFMET>
+<NUMESQ>161:103</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "en" ERI = "ven" AC = "---+-----+">
+<LT>- <SEG C = "R" N = "CD" ID = "7">Vaasco Perez</SEG>, ben de Meca v<SEG C = "R" N = "CC" ID = "13">en</SEG></LT>
+<LL>- Vaasco Perez, ben de Meca ven</LL>
+<ANTRO T = "REAL">Vasco Perez Pardal (Vaaco Perez)</ANTRO>
+<TOPO CAT = "LCULTO">Meca</TOPO></L>
+<L N = "2" NS = "10" RI = "ou" ERI = "outorgou" AC = "---+-----+">
+<LT><SEG C = "R" N = "CD" ID = "8">este poder</SEG>; e, poy-lo outorgou</LT>
+<LL>este poder; e, poy-lo outorgou</LL>
+</L>
+<L N = "3" NS = "10" RI = "ou" ERI = "levou" AC = "---+-----+">
+<LT>o patriarcha, des y mal levou</LT>
+<LL>o patriarcha, des y mal levou</LL>
+</L>
+<L N = "4" NS = "10" RI = "en" ERI = "Ja&eacute;n" AC = "---+-----+">
+<LT>sobre ssy quanto sse fez en Ja&eacute;n</LT>
+<LL>sobre ssy quanto sse fez en Ja&eacute;n</LL>
+<TOPO CAT = "CIUDAD">Ja&eacute;n</TOPO></L>
+<L N = "5" NS = "10" RI = "al" ERI = "mal" AC = "--+------+">
+<LT><SEG C = "M" N = "SIN" ID = "14">e en</SEG> Eixares, hu sse fez muyto mal;</LT>
+<LL>e en Eixares, hu sse fez muyto mal;</LL>
+<TOPO CAT = "CIUDAD">Jerez (Eixares)</TOPO></L>
+<L N = "6" NS = "10" RI = "al" ERI = "qual" AC = "---+-----+">
+<LT>e poren met' en escomunhon qual</LT>
+<LL>e poren met' en escomunhon qual</LL>
+</L>
+<L N = "7" NS = "10" RI = "en" ERI = "&eacute;n" AC = "---+-----+">
+<LT>xi quer meter e qual quer saca &eacute;n.</LT>
+<LL>xi quer meter e qual quer saca &eacute;n.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "1">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "dda">
+<NOTRIM>
+<P>Sobre III-IV.</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eu" ERI = "eu" AC = "--+------+">
+<LT>- <SEG C = "R" N = "CD" ID = "1">Pedr' Ami<SEG C = "M" N = "SIN" ID = "15">go</SEG></SEG>, <SEG C = "M" N = "SIN" ID = "15">es</SEG>to vus non creo eu:</LT>
+<LL>- Pedr' Amigo, esto vus non creo eu:</LL>
+</L>
+<L N = "2" NS = "10" RI = "eu" ERI = "deu" AC = "-----+---+">
+<LT>que o poder que Deus en Roma <SEG C = "R" N = "PV" ID = "16">deu</SEG>,</LT>
+<LL>que o poder que Deus en Roma deu,</LL>
+<TOPO CAT = "LCULTO">Roma</TOPO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "ten" AC = "-----+---+">
+<LT>que o Balteira tal de <SEG C = "R" N = "CF" ID = "17">Meca</SEG> <SEG C = "R" N = "PV" ID = "12">ten</SEG>.</LT>
+<LL>que o Balteira tal de Meca ten.</LL>
+<ANTRO T = "REAL">Maria Balteira (Balteira)</ANTRO>
+<TOPO CAT = "LCULTO">Meca</TOPO></L>
+</BODY></GRUPO>
+<GRUPO TIPO = "FIINDA" NUM = "2">
+<CABGRU NUTOTVER = "3">
+<ESQRIM TIPO = "dda">
+<NOTRIM>
+<P>Sobre III-IV.</P></NOTRIM></ESQRIM>
+<INFMET>
+<ESQMET>10 10 10</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eu" ERI = "seu" AC = "---+-----+">
+<LT>- <SEG C = "R" N = "CD" ID = "7">Vaasco Perez</SEG>, &aacute;-x' en <SEG C = "R" N = "CF" ID = "17">Meca</SEG> seu</LT>
+<LL>- Vaasco Perez, &aacute;-x' en Meca seu</LL>
+<ANTRO T = "REAL">Vasco Perez Pardal (Vaasco Perez)</ANTRO></L>
+<L N = "2" NS = "10" RI = "eu" ERI = "deu" AC = "-----+---+">
+<LT>poder, e o que Deus en Roma <SEG C = "R" N = "PV" ID = "16">deu</SEG>,</LT>
+<LL>poder, e o que Deus en Roma deu,</LL>
+<TOPO CAT = "LCULTO">Roma</TOPO></L>
+<L N = "3" NS = "10" RI = "en" ERI = "ren" AC = "--+------+">
+<LT>diz Balteyra que todo non &eacute; ren.</LT>
+<LL>diz Balteyra que todo non &eacute; ren.</LL>
+<ANTRO T = "ALTER">Maria Balteira (Balteyra)</ANTRO></L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="091004" NE="6" OL="NON" SG="NO" TC="REFR" XE="M">
+      <INCIPIT>Mandad&#39; ei comigo</INCIPIT>
+
+      <NUCANT>91 4</NUCANT>
+
+      <RM BCA="B" EM="NO" F="269v" I.FI="lb269v" MU="NON" NM="1279"><NOTMAN
+      N="1">En B esta cantiga está formada por cinco estrofas. O carácter
+      repetitivo, derivado do paralelismo e do leixaprén, provocou que o
+      copista saltase do verso 2 da segunda estrofa ó verso 2 da terceira,
+      quedando sen copiar tres versos. Deste xeito a estrofa II desta
+      composición aparece neste manuscrito formada por unha mistura de versos
+      da segunda (v. 1) e da terceira (v. 2) estrofas do orixinal.</NOTMAN></RM>
+
+      <RM BCA="V" EM="NO" F="139v" I.FI="lv139v" MU="NON" NM="885"></RM>
+
+      <RM BCA="K" EM="NO" F="198r" I.FI="lk198r" MU="NON" NM="885"></RM>
+
+      <RM BCA="N" EM="NO" F="1r" I.FI="ln001r" MU="SI" NM="2"><NOTMAN N="1">O
+      texto da cantiga está copiado nas columnas a, b do Pergamiño.</NOTMAN></RM>
+
+      <EDIANT T="CRITI">
+        <P>Cunha, Codax, 2</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Oviedo y Arce 2</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Nunes, Martim Codax, 2</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Amigo 492</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Crestomatia, p. 258</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 1228</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Braga 885</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Auswahl 49</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves/Ramos, A lírica, 69</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Alvar/Beltrán, Antología, 153</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Reckert/Macedo, Cinquenta cant., 28</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Torres, Poesia trovadoresca, p. 158</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Álvarez Blázquez, Escolma, pp. 160-161</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Pena, Lit. Galega, II, 68</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Deluy, Troubadours, p. 107</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Cohen, p. 514</P>
+      </EDIANT>
+
+      <DATOAU NOME="Cantigas, Codax" NUA="2"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gaiferos</NOME>
+
+        <DATE>03/11/04</DATE>
+      </RESP>
+
+      <FRI>c. alt.<P>(A = B)</P></FRI>
+
+      <NOTC>tornel <COMNOTC><P>Nota colocciana situada na columna a do folio
+      269v, enriba da cantiga B 1279, á dereita. Marca a presencia de refrán
+      na cantiga.</P></COMNOTC></NOTC>
+
+      <NOTC>hirey <COMNOTC><P>Reclamo situado ó final da columna a do folio
+      198r, centrado no folio. Marca a copia na seguinte columna do refrán da
+      última estrofa da cantiga K 885.</P></COMNOTC></NOTC>
+
+      <TEMA CAT="EN"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaA"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="comigo" N="1" NS="5" RI="igo">
+          <LT><SEG C="R" ID="1" N="PL">Mandad&#39; ei comigo</SEG></LT>
+
+          <LL>Mandad&#39; ei comigo</LL>
+        </L>
+
+        <L AC="----+-" ERI="amigo" N="2" NS="5" RI="igo">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">ca ven meu <SEG
+C="R" ID="4" N="PV"><SEG C="R" ID="5" N="RD">amigo</SEG></SEG></SEG></SEG>.</LT>
+
+          <LL>ca ven meu amigo.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a Vigo.</LT>
+
+            <LL>E irei, madr&#39;, a Vigo.</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:135 <NOTNESQ><P>Tavani sinala este esquema para toda a
+        composición.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="mandado" N="1" NS="5" RI="ado">
+          <LT><SEG C="R" ID="1" N="PL">Comig&#39; ei mandado</SEG></LT>
+
+          <LL>Comig&#39; ei mandado</LL>
+        </L>
+
+        <L AC="----+-" ERI="amado" N="2" NS="5" RI="ado">
+          <LT><SEG C="R" ID="2" N="PL"><SEG C="R" ID="3" N="LP">ca ven meu <SEG
+C="R" ID="5" N="RD">amado</SEG></SEG></SEG>.</LT>
+
+          <LL>ca ven meu amado.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a V<SEG C="R" ID="6" N="CCR">igo</SEG></LT>
+
+            <LL>E irei, madr&#39;, a Vigo</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaA"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="amigo" N="1" NS="5" RI="igo">
+          <LT><SEG C="R" ID="3" N="LP"><SEG C="R" ID="7" N="CD">Ca ven</SEG> meu <SEG
+C="R" ID="4" N="PV"><SEG C="R" ID="5" N="RD">am<SEG C="R" ID="6" N="CCR">igo</SEG></SEG></SEG></SEG>,</LT>
+
+          <LL>Ca ven meu amigo,</LL>
+        </L>
+
+        <L AC="----+-" ERI="vivo" N="2" NS="5" RI="ivo">
+          <LT><SEG C="R" ID="8" N="PL"><SEG C="R" ID="3" N="LP">e <SEG C="R"
+ID="9" N="CF">ven</SEG> san&#39; e vivo</SEG></SEG>.</LT>
+
+          <LL>e ven san&#39; e vivo.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a Vigo.</LT>
+
+            <LL>E irei, madr&#39;, a Vigo.</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:135 <NOTNESQ><P>Tavani sinala este esquema para toda a
+        composición.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="amado" N="1" NS="5" RI="ado">
+          <LT><SEG C="R" ID="3" N="LP"><SEG C="R" ID="7" N="CD">Ca <SEG C="R"
+ID="9" N="CF">ven</SEG></SEG> meu <SEG C="R" ID="5" N="RD">amado</SEG></SEG>,</LT>
+
+          <LL>Ca ven meu amado,</LL>
+        </L>
+
+        <L AC="----+-" ERI="sano" N="2" NS="5" RI="ano">
+          <LT><SEG C="R" ID="8" N="PL"><SEG C="R" ID="3" N="LP">e <SEG C="R"
+ID="10" N="CF">ven</SEG> <SEG C="R" ID="10" N="CF">viv&#39;</SEG> e <SEG C="R"
+ID="10" N="CF">sano</SEG></SEG></SEG>.</LT>
+
+          <LL>e ven viv&#39; e sano.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a V<SEG C="R" ID="11" N="CCR">igo</SEG></LT>
+
+            <LL>E irei, madr&#39;, a Vigo</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaA"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="vivo" N="1" NS="5" RI="ivo">
+          <LT><SEG C="R" ID="3" N="LP"><SEG C="R" ID="7" N="CD">Ca <SEG C="R"
+ID="10" N="CF">ven</SEG> <SEG C="R" ID="10" N="CF">san&#39;</SEG> e <SEG C="R"
+ID="10" N="CF">v<SEG C="R" ID="11" N="CCR">ivo</SEG></SEG></SEG></SEG>.</LT>
+
+          <LL>Ca ven san&#39; e vivo.</LL>
+        </L>
+
+        <L AC="----+-" ERI="amigo" N="2" NS="5" RI="igo">
+          <LT><SEG C="R" ID="12" N="PL">e d&#39; el rei <SEG C="R" ID="4"
+N="PV"><SEG C="R" ID="5" N="RD">amigo</SEG></SEG></SEG>.</LT>
+
+          <LL>e d&#39; el rei amigo.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a Vigo.</LT>
+
+            <LL>E irei, madr&#39;, a Vigo.</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="6" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="2+1">
+        <ESQRIM TIPO="aaB"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>5&#39; 5&#39; 6&#39;</ESQMET>
+        </INFMET>
+
+        <NUMESQ>26:135 <NOTNESQ><P>Tavani sinala este esquema para toda a
+        composición.</P></NOTNESQ></NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="----+-" ERI="sano" N="1" NS="5" RI="ano">
+          <LT><SEG C="R" ID="3" N="LP">Ca ven viv&#39; e sano</SEG>,</LT>
+
+          <LL>Ca ven viv&#39; e sano,</LL>
+        </L>
+
+        <L AC="----+-" ERI="privado" N="2" NS="5" RI="ado">
+          <LT><SEG C="R" ID="12" N="PL">e d&#39; el rei privado</SEG>.</LT>
+
+          <LL>e d&#39; el rei privado.</LL>
+        </L>
+
+        <REFRAN>
+          <L AC="-----+-" ERI="Vigo" N="3" NS="6" RI="igo">
+            <LT>E irei, madr&#39;, a Vigo.</LT>
+
+            <LL>E irei, madr&#39;, a Vigo.</LL>
+
+            <TOPO CAT="CIUDAD">Vigo</TOPO>
+          </L>
+        </REFRAN>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>

@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "077013" TC = "REFR" NE = "2" SG = "NO" XE = "M R" OL = "NON">
+<INCIPIT>Fui eu a San Servando por veer meu amigo</INCIPIT>
+<NUCANT>77 13</NUCANT>
+<RM BCA = "B" NM = "1151" F = "245r" MU = "NON" EM = "NO" I.FI = "lb245r"></RM>
+<RM BCA = "V" NM = "744" F = "118r" MU = "NON" EM = "NO" I.FI = "lv118r"></RM>
+<EDIANT T = "CRITI">
+<P>Camargo et alii, Jo&atilde;o Servando, 13</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1086</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 744</P></EDIANT>
+<EDIANT T = "DIVUL">
+<P>&Aacute;lvarez Bl&aacute;zquez, Escolma, p. 86</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Cohen, p. 379</P></EDIANT>
+<DATOAU NOME = "Amigo" NUA = "374">
+<COMAU>
+<P>Tavani, 230:14, non contempla a posibidade de estructura-la
+cantiga en vv. longos (esquema n&uacute;mero 26), o cal preferimos n&oacute;s,
+como xa suxiren Lapa, O texto, p. 185, e o propio Nunes, Amigo, I,
+p. 414 e III, p. 324. Por outra banda, na lectura do v. 2 II
+tam&eacute;n seguimos a Lapa, fronte a Nunes, que ofrece: ca verria
+a San Servando, / e pois eu non o vejo.</P></COMAU></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>17/02/99</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "SN"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 3'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "igo" ERI = "amigo" AC = "-----+------+-">
+<LT>Fui eu a San Servando por veer meu amigo</LT>
+<LL>Fui eu a San Servando por veer meu amigo</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<L N = "2" NS = "13" RI = "igo" ERI = "comigo" AC = "-----+------+-">
+<LT>e non o vi<SEG C = "M" N = "SIN" ID = "1"> na er</SEG>mida nen falou el comigo,</LT>
+<LL>e non o vi na ermida nen falou el comigo,</LL>
+</L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ada" ERI = "namorada" AC = "--+-">
+<LT>namorada!</LT>
+<LL>namorada!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "2+1">
+<ESQRIM TIPO = "aaB"></ESQRIM>
+<INFMET>
+<ESQMET>13' 13' 3'</ESQMET></INFMET>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "13" RI = "ejo" ERI = "desejo" AC = "-----+------+-">
+<LT>Disseron-mi mandado do que muito desejo,</LT>
+<LL>Disseron-mi mandado do que muito desejo,</LL>
+</L>
+<L N = "2" NS = "13" RI = "ejo" ERI = "vejo" AC = "------+-----+-">
+<LT>ca verri' a San Servand' e pois eu non o vejo,</LT>
+<LL>ca verri' a San Servand' e pois eu non o vejo,</LL>
+<TOPO CAT = "LCULTO">San Servando</TOPO></L>
+<REFRAN>
+<L N = "3" NS = "3" RI = "ada" ERI = "namorada" AC = "--+-">
+<LT>namorada!</LT>
+<LL>namorada!</LL>
+</L></REFRAN>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

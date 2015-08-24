@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+<TEXTOCER>
+<CT IDE = "063023" TC = "MEST" NE = "2" SG = "NO" XE = "EP" OL = "NON">
+<INCIPIT>Dizen que ora chegou don Beeito</INCIPIT>
+<NUCANT>63 23</NUCANT>
+<RM BCA = "B" NM = "1463" F = "306r" MU = "NON" EM = "NO" I.FI = "lb306r"></RM>
+<RM BCA = "B" NM = "1463" F = "306v" MU = "NON" EM = "NO" I.FI = "lb306v"></RM>
+<RM BCA = "V" NM = "1073" F = "175r" MU = "NON" EM = "NO" I.FI = "lv175r"></RM>
+<EDIANT T = "CRITI">
+<P>Fdez. Pousa, Jo&aacute;n Airas, 76</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lapa 182</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Machado 1375</P></EDIANT>
+<EDIANT T = "PALEO">
+<P>Braga 1073</P></EDIANT>
+<EDIANT T = "CRITI">
+<P>Lopes 143</P></EDIANT>
+<DATOAU NOME = "Rodr&iacute;guez" NUA = "75"></DATOAU>
+<RESP ROLE = "TR">
+<NOME>Mar&iacute;a del Carmen V&aacute;zquez Pacho</NOME>
+<DATE>24/06/97</DATE></RESP>
+<FRI>c. sing.</FRI>
+<TEMA CAT = "IPR">
+<SUBTEMA CAT = "MC"></SUBTEMA></TEMA>
+<TEMA CAT = "SUP"></TEMA>
+</CT>
+<GRUPO TIPO = "ESTROFA" NUM = "1">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:140</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "eito" ERI = "Beeito" AC = "---+-----+-">
+<LT>Dizen que ora chegou don Beeito,</LT>
+<LL>Dizen que ora chegou don Beeito,</LL>
+<ANTRO T = "REAL">Don Beeito</ANTRO></L>
+<L N = "2" NS = "10" RI = "er" ERI = "molher" AC = "---+-----+">
+<LT>muit<SEG C = "I" N = "RE" ID = "1">o</SEG> alegre pera sa molher,</LT>
+<LL>muito alegre pera sa molher,</LL>
+</L>
+<L N = "3" NS = "10" RI = "er" ERI = "Mompiler" AC = "----+----+">
+<LT><SEG C = "R" N = "CD" ID = "2">con sas merchandias</SEG> de Mompiler;</LT>
+<LL>con sas merchandias de Mompiler;</LL>
+<TOPO CAT = "CIUDAD">Mompiler</TOPO></L>
+<L N = "4" NS = "10" RI = "eito" ERI = "preito" AC = "--+-----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">mais dizer</SEG>-vos quer' ora un preito:</LT>
+<LL>mais dizer-vos quer' ora un preito:</LL>
+</L>
+<L N = "5" NS = "10" RI = "ar" ERI = "mar" AC = "----+----+">
+<LT>ja Deus no<SEG C = "I" N = "RE" ID = "4">n</SEG> me lei<SEG C = "M" N = "SIN" ID = "5">xe en</SEG>trar sobre mar,</LT>
+<LL>ja Deus non me leixe entrar sobre mar,</LL>
+</L>
+<L N = "6" NS = "10" RI = "ar" ERI = "filhar" AC = "---+-----+">
+<LT>se, polo custo, queria filhar</LT>
+<LL>se, polo custo, queria filhar</LL>
+</L>
+<L N = "7" NS = "10" RI = "eito" ERI = "feito" AC = "--+------+-">
+<LT>o mercado que <SEG C = "I" N = "RE" ID = "6">e</SEG>l <SEG C = "I" N = "RE" ID = "7">&aacute;</SEG> algur <SEG C = "R" N = "RD" ID = "8">feito</SEG>.</LT>
+<LL>o mercado que el &aacute; algur feito.</LL>
+</L>
+</BODY></GRUPO>
+<GRUPO TIPO = "ESTROFA" NUM = "2">
+<CABGRU NUTOTVER = "7">
+<ESQRIM TIPO = "abbacca"></ESQRIM>
+<INFMET>
+<ESQMET>10' 10 10 10' 10 10 10'</ESQMET></INFMET>
+<NUMESQ>161:140</NUMESQ>
+</CABGRU>
+<BODY>
+<L N = "1" NS = "10" RI = "oiros" ERI = "miradoiros" AC = "---+-----+-">
+<LT>E por un d' estes nossos miradoiros</LT>
+<LL>E por un d' estes nossos miradoiros</LL>
+</L>
+<L N = "2" NS = "10" RI = "ez" ERI = "vez" AC = "---+-----+">
+<LT>ve<SEG C = "M" N = "SIN" ID = "9">o a</SEG>qui, ben guisado, esta vez,</LT>
+<LL>veo aqui, ben guisado, esta vez,</LL>
+</L>
+<L N = "3" NS = "10" RI = "ez" ERI = "fez" AC = "----+----+">
+<LT><SEG C = "R" N = "CD" ID = "2">con sas merchandias</SEG> que ala <SEG C = "R" N = "RD" ID = "8">fez</SEG>;</LT>
+<LL>con sas merchandias que ala fez;</LL>
+</L>
+<L N = "4" NS = "10" RI = "oiros" ERI = "agoiros" AC = "----+----+-">
+<LT><SEG C = "R" N = "CD" ID = "3">mais dizen</SEG> que ouve maos agoiros</LT>
+<LL>mais dizen que ouve maos agoiros</LL>
+</L>
+<L N = "5" NS = "10" RI = "al" ERI = "mal" AC = "--+------+">
+<LT>e ar dizen que mercou atan mal,</LT>
+<LL>e ar dizen que mercou atan mal,</LL>
+</L>
+<L N = "6" NS = "10" RI = "al" ERI = "cadal" AC = "---+-----+">
+<LT>que nunca end' avera seu cadal,</LT>
+<LL>que nunca end' avera seu cadal,</LL>
+</L>
+<L N = "7" NS = "10" RI = "oiros" ERI = "coiros" AC = "-----+---+-">
+<LT>ca se lhi danar&aacute;n mui mal os coiros.</LT>
+<LL>ca se lhi danar&aacute;n mui mal os coiros.</LL>
+</L>
+</BODY></GRUPO>
+</TEXTOCER></TEXTOCBD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

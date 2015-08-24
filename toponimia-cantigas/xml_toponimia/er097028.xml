@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXTOCBD SYSTEM "http://local.cirp.es:4080/dtd/xtbd.dtd">
+<TEXTOCBD>
+  <TEXTOCER>
+    <CT IDE="097028" NE="5" OL="NON" SG="NO" TC="MEST" XE="EP">
+      <INCIPIT>Pero non fui a Ultramar</INCIPIT>
+
+      <NUCANT>97 28</NUCANT>
+
+      <RM BCA="B" EM="NO" F="36r" I.FI="lb036r" MU="NON" NM="143"></RM>
+
+      <EDIANT T="CRITI">
+        <P>Bertolucci 1</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>CA 395</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Molteni 115</P>
+      </EDIANT>
+
+      <EDIANT T="PALEO">
+        <P>Machado 115</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Gonçalves-Ramos, A lírica, 7</P>
+      </EDIANT>
+
+      <EDIANT T="DIVUL">
+        <P>Piccolo 27</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Jensen, Medieval, pp. 228-231, 523-525</P>
+      </EDIANT>
+
+      <EDIANT T="CRITI">
+        <P>Lopes 247</P>
+      </EDIANT>
+
+      <DATOAU NOME="Lapa" NUA="284"></DATOAU>
+
+      <RESP ROLE="TR">
+        <NOME>Gerardo Pérez Barcala</NOME>
+
+        <DATE>8/09/99</DATE>
+      </RESP>
+
+      <FRI>c. sing.<P>(a I = b II; b I = a II; a III = b V; b III = a V)</P></FRI>
+
+      <RUBRICA>Esta cantiga fez Martin Soares a un cavaleiro que era chufador
+      que dezia que vinha d&#39; Outramar. <COMRUBRI><P>Rúbrica explicativa,
+      colocada en B no fol. 36r, na columna a, enriba da cantiga.</P></COMRUBRI></RUBRICA>
+
+      <TEMA CAT="VIX"></TEMA>
+    </CT>
+
+    <GRUPO NUM="1" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>152:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="Ultramar" N="1" NS="8" RI="ar">
+          <LT>Pero non fui a Ultramar,</LT>
+
+          <LL>Pero non fui a Ultramar,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="ben" N="2" NS="8" RI="en">
+          <LT>muito sei eu a terra <SEG C="R" ID="1" N="PV">ben</SEG></LT>
+
+          <LL>muito sei eu a terra ben</LL>
+        </L>
+
+        <L AC="--+----+" ERI="ven" N="3" NS="8" RI="en">
+          <LT>per Soeir&#39; Eanes,<SEG C="M" ID="2" N="SIN"> que en</SEG>
+          ven,</LT>
+
+          <LL>per Soeir&#39; Eanes, que en ven,</LL>
+
+          <ANTRO T="REAL">Soeir&#39; Eanes</ANTRO>
+        </L>
+
+        <L AC="---+---+" ERI="contar" N="4" NS="8" RI="ar">
+          <LT>segundo lh&#39; eu oí contar.</LT>
+
+          <LL>segundo lh&#39; eu oí contar.</LL>
+        </L>
+
+        <L AC="---+---+" ERI="alen" N="5" NS="8" RI="en">
+          <LT><SEG C="R" ID="3" N="CD">Diz que</SEG> Marselha jaz alen</LT>
+
+          <LL>Diz que Marselha jaz alen</LL>
+
+          <TOPO CAT="LCULTO">Marselha</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="aquen" N="6" NS="8" RI="en">
+          <LT>do mar e Acre jaz aquen,</LT>
+
+          <LL>do mar e Acre jaz aquen,</LL>
+
+          <TOPO CAT="LCULTO">Acre</TOPO>
+        </L>
+
+        <L AC="--+----+" ERI="par" N="7" NS="8" RI="ar">
+          <LT>e Somportes logu&#39; i a par.</LT>
+
+          <LL>e Somportes logu&#39; i a par.</LL>
+
+          <TOPO CAT="LCULTO">Somportes</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="2" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>152:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="---+---+" ERI="ben" N="1" NS="8" RI="en">
+          <LT>E as jornadas sei eu <SEG C="R" ID="1" N="PV">ben</SEG>,</LT>
+
+          <LL>E as jornadas sei eu ben,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="falar" N="2" NS="8" RI="ar">
+          <LT>como<SEG C="M" ID="4" N="SIN"> lhi éi</SEG>ri oí falar:</LT>
+
+          <LL>como lhi éiri oí falar:</LL>
+        </L>
+
+        <L AC="--+----+" ERI="andar" N="3" NS="8" RI="ar">
+          <LT><SEG C="R" ID="3" N="CD">diz que</SEG> pod&#39; ir quen ben
+          andar</LT>
+
+          <LL>diz que pod&#39; ir quen ben andar</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Santarem" N="4" NS="8" RI="en">
+          <LT>de Belfurad&#39; a Santarem,</LT>
+
+          <LL>de Belfurad&#39; a Santarem,</LL>
+
+          <TOPO CAT="LCULTO">Belfurado (Belfurad&#39;)</TOPO>
+
+          <TOPO CAT="LCULTO">Santarem</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="madrugar" N="5" NS="8" RI="ar">
+          <LT>se noutro dia madrugar,</LT>
+
+          <LL>se noutro dia madrugar,</LL>
+        </L>
+
+        <L AC="-+-----+" ERI="jantar" N="6" NS="8" RI="ar">
+          <LT>e ir a Nogueirol jantar</LT>
+
+          <LL>e ir a Nogueirol jantar</LL>
+
+          <TOPO CAT="LCULTO">Nogueirol</TOPO>
+        </L>
+
+        <L AC="--+----+" ERI="Jerusalen" N="7" NS="8" RI="en">
+          <LT>e maer a Jerusalen.</LT>
+
+          <LL>e maer a Jerusalen.</LL>
+
+          <TOPO CAT="LCULTO">Jerusalen</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="3" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>152:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+" ERI="judeu" N="1" NS="8" RI="eu">
+          <LT>E <SEG C="R" ID="3" N="CD">diz que</SEG> vio ũu judeu,</LT>
+
+          <LL>E diz que vio ũu judeu,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Senhor" N="2" NS="8" RI="or">
+          <LT>que vio prender <SEG C="R" ID="5" N="PV">Nostro Senhor</SEG>;</LT>
+
+          <LL>que vio prender Nostro Senhor;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="sabor" N="3" NS="8" RI="or">
+          <LT><SEG C="M" ID="6" N="SIN">e a</SEG>veredes i gran sabor,</LT>
+
+          <LL>e averedes i gran sabor,</LL>
+        </L>
+
+        <L AC="----+--+" ERI="eu" N="4" NS="8" RI="eu">
+          <LT>se vo-lo contar cuido-m&#39; eu;</LT>
+
+          <LL>se vo-lo contar cuido-m&#39; eu;</LL>
+        </L>
+
+        <L AC="--+----+" ERI="pastor" N="5" NS="8" RI="or">
+          <LT><SEG C="R" ID="3" N="CD">diz que</SEG> é <SEG C="I" ID="7"
+          N="RE">un</SEG> judeu pastor,</LT>
+
+          <LL>diz que é un judeu pastor,</LL>
+        </L>
+
+        <L AC="--+----+" ERI="Rocamador" N="6" NS="8" RI="or">
+          <LT>natural de Rocamador,</LT>
+
+          <LL>natural de Rocamador,</LL>
+
+          <TOPO CAT="LCULTO">Rocamador</TOPO>
+        </L>
+
+        <L AC="--+----+" ERI="Andreu" N="7" NS="8" RI="eu">
+          <LT>e que á nom<SEG C="I" ID="8" N="RE">e</SEG> Don Andreu.</LT>
+
+          <LL>e que á nome Don Andreu.</LL>
+
+          <ANTRO T="REAL">Don Andreu</ANTRO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="4" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbaccb"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>163:31</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="--+----+" ERI="direi" N="1" NS="8" RI="ei">
+          <LT>Do sepulcro vos <SEG C="I" ID="10" N="RE">er</SEG> <SEG C="R"
+          ID="9" N="PV">direi</SEG>,</LT>
+
+          <LL>Do sepulcro vos er direi,</LL>
+        </L>
+
+        <L AC="---+---+" ERI="oí" N="2" NS="8" RI="i">
+          <LT><SEG C="R" ID="11" N="CD">per u andou</SEG>, ca lho oí</LT>
+
+          <LL>per u andou, ca lho oí</LL>
+        </L>
+
+        <L AC="---+---+" ERI="assi" N="3" NS="8" RI="i">
+          <LT>a Don Soeiro; ben assi</LT>
+
+          <LL>a Don Soeiro; ben assi</LL>
+
+          <ANTRO T="REAL">Don Soeiro Eanes (Don Soeiro)</ANTRO>
+        </L>
+
+        <L AC="---+---+" ERI="direi" N="4" NS="8" RI="ei">
+          <LT>como m&#39; el disse, vos <SEG C="R" ID="9" N="PV">direi</SEG>:</LT>
+
+          <LL>como m&#39; el disse, vos direi:</LL>
+        </L>
+
+        <L AC="---+---+" ERI="é" N="5" NS="8" RI="e">
+          <LT>de Santarem três légoas é</LT>
+
+          <LL>de Santarem três légoas é</LL>
+        </L>
+
+        <L AC="---+---+" ERI="Loulé" N="6" NS="8" RI="lé">
+          <LT>e quatr&#39; ou cinco de Loulé,</LT>
+
+          <LL>e quatr&#39; ou cinco de Loulé,</LL>
+
+          <TOPO CAT="LCULTO">Loulé</TOPO>
+        </L>
+
+        <L AC="---+---+" ERI="i" N="7" NS="8" RI="i">
+          <LT>e Belfurado jaz logu&#39; <SEG C="R" ID="12" N="CF">i</SEG>.</LT>
+
+          <LL>e Belfurado jaz logu&#39; i.</LL>
+
+          <TOPO CAT="LCULTO">Belfurado</TOPO>
+        </L>
+      </BODY>
+    </GRUPO>
+
+    <GRUPO NUM="5" TIPO="ESTROFA">
+      <CABGRU NUTOTVER="7">
+        <ESQRIM TIPO="abbabba"></ESQRIM>
+
+        <INFMET>
+          <ESQMET>8 8 8 8 8 8 8</ESQMET>
+        </INFMET>
+
+        <NUMESQ>152:3</NUMESQ>
+      </CABGRU>
+
+      <BODY>
+        <L AC="-+-----+" ERI="Senhor" N="1" NS="8" RI="or">
+          <LT><SEG C="R" ID="11" N="CD">Per <SEG C="R" ID="12" N="CF">i</SEG> andou</SEG>
+          <SEG C="R" ID="5" N="PV">Nostro Senhor</SEG>;</LT>
+
+          <LL>Per i andou Nostro Senhor;</LL>
+        </L>
+
+        <L AC="---+---+" ERI="romeu" N="2" NS="8" RI="eu">
+          <LT>dali diz el que foi romeu;</LT>
+
+          <LL>dali diz el que foi romeu;</LL>
+        </L>
+
+        <L AC="-------+" ERI="deu" N="3" NS="8" RI="eu">
+          <LT>e depois que lh&#39; o Soldan deu</LT>
+
+          <LL>e depois que lh&#39; o Soldan deu</LL>
+        </L>
+
+        <L AC="---+---+" ERI="sabor" N="4" NS="8" RI="or">
+          <LT>o perdon, ouve gran sabor</LT>
+
+          <LL>o perdon, ouve gran sabor</LL>
+        </L>
+
+        <L AC="---+---+" ERI="greu" N="5" NS="8" RI="eu">
+          <LT>de se tornar; e foi-lhi greu</LT>
+
+          <LL>de se tornar; e foi-lhi greu</LL>
+        </L>
+
+        <L AC="--+----+" ERI="Galisteu" N="6" NS="8" RI="eu">
+          <LT>d&#39; andar Coira e Galisteu</LT>
+
+          <LL>d&#39; andar Coira e Galisteu</LL>
+
+          <TOPO CAT="LCULTO">Coira</TOPO>
+
+          <TOPO CAT="LCULTO">Galisteu</TOPO>
+        </L>
+
+        <L AC="-+-----+" ERI="Emperador" N="7" NS="8" RI="or">
+          <LT>con torquis do Emperador.</LT>
+
+          <LL>con torquis do Emperador.</LL>
+        </L>
+      </BODY>
+    </GRUPO>
+  </TEXTOCER>
+</TEXTOCBD>
