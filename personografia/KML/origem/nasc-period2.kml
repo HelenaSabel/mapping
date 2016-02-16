@@ -1,0 +1,299 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1220-1240</name>
+      <Placemark>
+         <name>Abril Perez</name>
+         <description>Toroño</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.397806,43.289839,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Afonso Soarez Sarraça</name>
+         <description>Cercedo de Montes</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.966667,42.466667,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Airas Moniz</name>
+         <description>Asma</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.884611,42.565248,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bernal de Bonaval</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fernan Garcia Esgaravunha</name>
+         <description>Terras de Sousa</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.520278,41.087778,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fernan Padron</name>
+         <description>Padrón</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7,42.8,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fernan Paez de Tamallancos</name>
+         <description>Tamallancos</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.903228,42.425060,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fernan Rodriguez de Calheiros</name>
+         <description>Calheiros</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.568889,41.806389,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gonçalo Garcia</name>
+         <description>Eixo</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.570415,40.631709,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Johan Soarez Somesso</name>
+         <description>Fornelos</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.495883,42.136781,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Juião Bolseiro</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lopo Lias</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nuno (Monio) Fernandez de Mirapeixe</name>
+         <description>Rábade (Lugo)</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.623114,43.123492,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nuno Rodriguez de Candarei</name>
+         <description>Penafiel</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.290484,41.206058,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Osoir' Anes</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pai Soarez de Taveirós</name>
+         <description>Tabeirós</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.492129,42.686679,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pero Garcia d' Ambroa</name>
+         <description>San Tirso de Ambroa</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.604003,43.133772,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pero Pais Bazaco</name>
+         <description>Vilamarín</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.890,42.4652933,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pero Velho de Taveirós</name>
+         <description>Tabeirós</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.5,42.7,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roi Gomez de Briteiros</name>
+         <description>Briteiros</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.319,41.5165051,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vasco Fernandez Praga de Sandin</name>
+         <description>Parga (Lugo)</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.836350,43.162582,100</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

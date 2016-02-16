@@ -2,10 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
    <Document>
       <name>1300-1350</name>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Martin Perez Alvin</name>
          <description>Alvim, Guimaraes
                             </description>
@@ -20,9 +20,9 @@
             <coordinates>-8.287752,41.436622,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Martin Perez Alvin</name>
          <Style>
             <LineStyle>
@@ -34,7 +34,7 @@
             <coordinates>-8.287752,41.436622,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Martin Perez Alvin</name>
          <Style>
             <LineStyle>
@@ -46,13 +46,13 @@
             <coordinates>-8.287752,41.436622,100 -9.133333,38.716667,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Johan de Gaia</name>
          <description>Gaia
                         </description>
@@ -67,8 +67,8 @@
             <coordinates>-8.620010,41.127441,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Johan de Gaia</name>
          <Style>
             <LineStyle>
@@ -80,17 +80,17 @@
             <coordinates>-8.620010,41.127441,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                                        
-                    <Placemark>
+
+
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Vasco Martins de Resende</name>
          <Style>
             <LineStyle>
@@ -102,7 +102,7 @@
             <coordinates>-7.95,41.1,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Vasco Martins de Resende</name>
          <Style>
             <LineStyle>
@@ -114,7 +114,7 @@
             <coordinates>-7.95,41.1,100 -9.133333,38.716667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Vasco Martins de Resende</name>
          <Style>
             <LineStyle>
@@ -126,9 +126,9 @@
             <coordinates>-7.95,41.1,100 -7,39.216667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Vasco Martins de Resende</name>
          <description>Resende </description>
          <Style>
@@ -142,13 +142,13 @@
             <coordinates>-7.95,41.1,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Pedro de Portugal, Conde de Barcelos</name>
          <description>Desconhecido </description>
          <Style>
@@ -162,7 +162,7 @@
             <coordinates>-9.266667,39.083333,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pedro de Portugal, Conde de Barcelos</name>
          <Style>
             <LineStyle>
@@ -174,7 +174,7 @@
             <coordinates>-9.266667,39.083333,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pedro de Portugal, Conde de Barcelos</name>
          <Style>
             <LineStyle>
@@ -186,7 +186,7 @@
             <coordinates>-9.266667,39.083333,100 -4.8,41.7,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pedro de Portugal, Conde de Barcelos</name>
          <Style>
             <LineStyle>
@@ -198,7 +198,7 @@
             <coordinates>-9.266667,39.083333,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pedro de Portugal, Conde de Barcelos</name>
          <Style>
             <LineStyle>
@@ -210,14 +210,14 @@
             <coordinates>-9.266667,39.083333,100 -7.816667,41.033333,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Estevan da Guarda</name>
          <Style>
             <LineStyle>
@@ -229,7 +229,7 @@
             <coordinates>-7.266249,40.538230,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Estevan da Guarda</name>
          <Style>
             <LineStyle>
@@ -241,7 +241,7 @@
             <coordinates>-7.266249,40.538230,100 -7.816667,41.033333,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Estevan da Guarda</name>
          <description>Guarda
                         </description>
@@ -256,10 +256,10 @@
             <coordinates>-7.266249,40.538230,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Johan, jograr morador en León</name>
          <description>León </description>
          <Style>
@@ -273,10 +273,10 @@
             <coordinates>-5.54,42.57,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Johan, jograr morador en León</name>
          <Style>
             <LineStyle>
@@ -288,7 +288,7 @@
             <coordinates>-5.54,42.57,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan, jograr morador en León</name>
          <Style>
             <LineStyle>
@@ -300,10 +300,10 @@
             <coordinates>-5.54,42.57,100 -7.816667,41.033333,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Afonso Sanchez</name>
          <description>Lumiar </description>
          <Style>
@@ -317,10 +317,10 @@
             <coordinates> -9.160879,38.768700,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Afonso Sanchez</name>
          <Style>
             <LineStyle>
@@ -332,7 +332,7 @@
             <coordinates> -9.160879,38.768700,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Afonso Sanchez</name>
          <Style>
             <LineStyle>
@@ -344,14 +344,14 @@
             <coordinates> -9.160879,38.768700,100 -7,39.216667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Estevan Coelho</name>
          <Style>
             <LineStyle>
@@ -363,7 +363,7 @@
             <coordinates>-8.314163,41.719828,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Estevan Coelho</name>
          <description>Riba Homem
                         </description>
@@ -378,10 +378,10 @@
             <coordinates>-8.314163,41.719828,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Johan Mendiz de Briteiros</name>
          <description>Briteiros </description>
          <Style>
@@ -395,7 +395,7 @@
             <coordinates>-8.319,41.5165051,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Mendiz de Briteiros</name>
          <Style>
             <LineStyle>
@@ -407,7 +407,7 @@
             <coordinates>-8.319,41.5165051,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                <Placemark>
+      <Placemark>
          <name>Afonso Sanchez</name>
          <description>Corte de Afonso Sanchez no exílio</description>
          <Style>

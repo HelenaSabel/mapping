@@ -1,0 +1,89 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1170-1220</name>
+      <Placemark>
+         <name>Airas Fernandes "Carpancho"</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Garcia Mendiz d' Eixo</name>
+         <description>Eixo</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.570415,40.631709,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Johan Soarez de Pavia </name>
+         <description>Paiva</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.269722,41.046389,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Osoir' Anes</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pedro Rodriguez da Palmeira</name>
+         <description>Palmeira</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.50545,41.3994888,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Cameros</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.55,42.2130,100</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

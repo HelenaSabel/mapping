@@ -2,10 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
    <Document>
       <name>1240-1300</name>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Afons' Eanes do Coton</name>
          <description>Negreira
                         </description>
@@ -20,7 +20,7 @@
             <coordinates>-8.736629,42.910065,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Afons' Eanes do Coton</name>
          <Style>
             <LineStyle>
@@ -32,7 +32,7 @@
             <coordinates>-8.736629,42.910065,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Afons' Eanes do Coton</name>
          <Style>
             <LineStyle>
@@ -44,13 +44,13 @@
             <coordinates>-8.736629,42.910065,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                   
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Johan Romeu de Lugo</name>
          <description>Lugo
                         </description>
@@ -65,14 +65,14 @@
             <coordinates>-7.554869,43.010338,100</coordinates>
          </Point>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Alfonso Lopez de Baião</name>
          <Style>
             <LineStyle>
@@ -84,7 +84,7 @@
             <coordinates>-8.050259,41.177488,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Alfonso Lopez de Baião</name>
          <Style>
             <LineStyle>
@@ -96,8 +96,8 @@
             <coordinates>-8.050259,41.177488,100 -8.3028088,41.300088,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Alfonso Lopez de Baião</name>
          <description>Baião
                         </description>
@@ -113,11 +113,11 @@
          </Point>
       </Placemark>
 
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Afonso Mendez de Besteiros</name>
          <description>São Cosme de Besteiros
                             </description>
@@ -132,8 +132,8 @@
             <coordinates>-8.348087,41.221282,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Afonso Mendez de Besteiros</name>
          <Style>
             <LineStyle>
@@ -145,10 +145,10 @@
             <coordinates>-8.348087,41.221282,100 -8.45,40.25,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Estevan Faian</name>
          <description>Leon </description>
          <Style>
@@ -162,10 +162,10 @@
             <coordinates>-5.6,42.5,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Estevan Faian</name>
          <Style>
             <LineStyle>
@@ -177,7 +177,7 @@
             <coordinates>-5.6,42.5,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Estevan Faian</name>
          <description>Faian (Ribadavia)
                             </description>
@@ -192,13 +192,13 @@
             <coordinates>-7.485082,43.475226,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Estevan Perez Froian</name>
          <description>Froião, Paredes de
                             Coura </description>
@@ -213,9 +213,9 @@
             <coordinates>-8.558,41.912,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Estevan Perez Froian</name>
          <Style>
             <LineStyle>
@@ -227,7 +227,7 @@
             <coordinates>-8.558,41.912,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Estevan Perez Froian</name>
          <Style>
             <LineStyle>
@@ -239,12 +239,12 @@
             <coordinates>-8.558,41.912,100 -4.72856,41.65198,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+      <Placemark>
          <name>Men Rodriguez Tenoiro</name>
          <description>Pontevedra
                         </description>
@@ -259,7 +259,7 @@
             <coordinates>-8.644538,42.429078,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Men Rodriguez Tenoiro</name>
          <Style>
             <LineStyle>
@@ -271,15 +271,15 @@
             <coordinates>-8.644538,42.429078,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Martin Moxa</name>
          <Style>
             <LineStyle>
@@ -291,7 +291,7 @@
             <coordinates>-8.541251,42.880771,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Martin Moxa</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -305,10 +305,10 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Johan Vello de Pedrogaez</name>
          <description>Forjães
                         </description>
@@ -323,9 +323,9 @@
             <coordinates>-8.742969,41.604657,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Johan Vello de Pedrogaez</name>
          <Style>
             <LineStyle>
@@ -337,13 +337,13 @@
             <coordinates>-8.742969,41.604657,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Martin Soarez</name>
          <description>Riba de Lima (Minho)
                             </description>
@@ -358,9 +358,9 @@
             <coordinates>-8.833333,41.683333,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Martin Soarez</name>
          <Style>
             <LineStyle>
@@ -372,7 +372,7 @@
             <coordinates>-8.833333,41.683333,100 -8.45,40.25,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Martin Soarez</name>
          <Style>
             <LineStyle>
@@ -384,13 +384,13 @@
             <coordinates>-8.833333,41.683333,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Nuno Fernandez Torneol</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -404,7 +404,7 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Nuno Fernandez Torneol</name>
          <Style>
             <LineStyle>
@@ -416,7 +416,7 @@
             <coordinates>-8.541251,42.880771,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Nuno Fernandez Torneol</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -430,14 +430,14 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Roi Queimado</name>
          <Style>
             <LineStyle>
@@ -449,7 +449,7 @@
             <coordinates>-8.4425,41.906111,100 -8.3028088,41.300088,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Roi Queimado</name>
          <Style>
             <LineStyle>
@@ -461,7 +461,7 @@
             <coordinates>-8.4425,41.906111,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Roi Queimado</name>
          <Style>
             <LineStyle>
@@ -473,7 +473,7 @@
             <coordinates>-8.4425,41.906111,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Roi Queimado</name>
          <description>Sabadim
                         </description>
@@ -488,10 +488,10 @@
             <coordinates>-8.4425,41.906111,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Vasco Gil</name>
          <description>Sousa </description>
          <Style>
@@ -505,10 +505,10 @@
             <coordinates>-8.245,41.35,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Vasco Gil</name>
          <Style>
             <LineStyle>
@@ -520,7 +520,7 @@
             <coordinates>-8.245,41.35,100 -8.463789,42.206017,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Vasco Gil</name>
          <Style>
             <LineStyle>
@@ -532,7 +532,7 @@
             <coordinates>-8.245,41.35,100 -8.45,40.25,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Vasco Gil</name>
          <Style>
             <LineStyle>
@@ -544,7 +544,7 @@
             <coordinates>-8.245,41.35,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Vasco Gil</name>
          <Style>
             <LineStyle>
@@ -556,13 +556,13 @@
             <coordinates>-8.245,41.35,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Johan Soarez Coelho</name>
          <Style>
             <LineStyle>
@@ -574,7 +574,7 @@
             <coordinates>-8.076944,41.098333,100 -7.909444,38.570833,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Soarez Coelho</name>
          <Style>
             <LineStyle>
@@ -586,7 +586,7 @@
             <coordinates>-8.076944,41.098333,100 5.445429,43.526304,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Soarez Coelho</name>
          <Style>
             <LineStyle>
@@ -598,7 +598,7 @@
             <coordinates>-8.076944,41.098333,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Soarez Coelho</name>
          <Style>
             <LineStyle>
@@ -610,7 +610,7 @@
             <coordinates>-8.076944,41.098333,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Johan Soarez Coelho</name>
          <description>Ribadouro
                         </description>
@@ -625,11 +625,11 @@
             <coordinates>-8.076944,41.098333,100</coordinates>
          </Point>
       </Placemark>
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Roi Paez de Ribela</name>
          <description>Monfero </description>
          <Style>
@@ -643,10 +643,10 @@
             <coordinates>-8.008970,43.308654,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Roi Paez de Ribela</name>
          <Style>
             <LineStyle>
@@ -658,12 +658,12 @@
             <coordinates>-8.008970,43.308654,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+      <Placemark>
          <name>Afonso Paez de Braga</name>
          <description>Braga </description>
          <Style>
@@ -677,11 +677,11 @@
             <coordinates>-8.419533,41.549331,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Trajeto de Afonso Paez de Braga</name>
          <Style>
             <LineStyle>
@@ -693,7 +693,7 @@
             <coordinates>-8.419533,41.549331,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Afonso Paez de Braga</name>
          <Style>
             <LineStyle>
@@ -705,13 +705,13 @@
             <coordinates>-8.419533,41.549331,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Johan Lopez de Ulhoa</name>
          <Style>
             <LineStyle>
@@ -723,7 +723,7 @@
             <coordinates>-7.833271,42.794063,100 -7.583333,43.65,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Johan Lopez de Ulhoa</name>
          <description>Terras de Monterroso
                             </description>
@@ -738,14 +738,14 @@
             <coordinates>-7.833271,42.794063,100</coordinates>
          </Point>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Fernan Gonçalvez de Seabra</name>
          <Style>
             <LineStyle>
@@ -758,7 +758,7 @@
          </LineString>
       </Placemark>
 
-                    <Placemark>
+      <Placemark>
          <name>Fernan Gonçalvez de Seabra</name>
          <description>Vinhais, Trás-os-Montes (Brahança)
                             </description>
@@ -773,13 +773,13 @@
             <coordinates>-7.006722,41.832233,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Pero Gomez Barroso</name>
          <description>Terras de Barroso
                         </description>
@@ -794,7 +794,7 @@
             <coordinates>-7.79,41.823889,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero Gomez Barroso</name>
          <Style>
             <LineStyle>
@@ -806,11 +806,11 @@
             <coordinates>-7.79,41.823889,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Pero Gonçalvez de Porto Carreiro</name>
          <description>Porto Carreiro
                         </description>
@@ -825,8 +825,8 @@
             <coordinates>-8.595628,41.435510,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Pero Gonçalvez de Porto Carreiro</name>
          <Style>
             <LineStyle>
@@ -838,10 +838,10 @@
             <coordinates>-8.595628,41.435510,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Pero Mafaldo</name>
          <description>Souto de Rebordões
                             </description>
@@ -856,7 +856,7 @@
             <coordinates>-8.561696,41.724558,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero Mafaldo</name>
          <Style>
             <LineStyle>
@@ -868,10 +868,10 @@
             <coordinates>-8.561696,41.724558,100 -8.3028088,41.300088,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Pero Mendiz da Fonseca</name>
          <description>São Martinho de Mouros (Lamego)
                             </description>
@@ -886,7 +886,7 @@
             <coordinates>-7.896737,41.103286,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero Mendiz da Fonseca</name>
          <Style>
             <LineStyle>
@@ -898,7 +898,7 @@
             <coordinates>-7.896737,41.103286,100 </coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero Mendiz da Fonseca</name>
          <Style>
             <LineStyle>
@@ -910,11 +910,11 @@
             <coordinates>-7.896737,41.103286,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Johan Baveca</name>
          <description>Galiza </description>
          <Style>
@@ -928,7 +928,7 @@
             <coordinates>-8.097385,42.743476,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Baveca</name>
          <Style>
             <LineStyle>
@@ -940,7 +940,7 @@
             <coordinates>-8.097385,42.743476,100 -7.583333,43.65,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Baveca</name>
          <Style>
             <LineStyle>
@@ -952,14 +952,14 @@
             <coordinates>-8.097385,42.743476,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Gonçal' Eanes do Vinhal</name>
          <description>Rexión entre Felgueiras e Celorico de Basto</description>
          <Style>
@@ -973,7 +973,7 @@
             <coordinates>-8.077491,41.370758,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Gonçal' Eanes do Vinhal</name>
          <Style>
             <LineStyle>
@@ -985,7 +985,7 @@
             <coordinates>-8.077491,41.370758,100 -8.45,40.25,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Gonçal' Eanes do Vinhal</name>
          <Style>
             <LineStyle>
@@ -997,20 +997,20 @@
             <coordinates>-8.077491,41.370758,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Johan Garcia de Guilhade</name>
          <Style>
             <LineStyle>
@@ -1022,7 +1022,7 @@
             <coordinates>-8.660556,41.490833,100 -8.3028088,41.300088,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Garcia de Guilhade</name>
          <Style>
             <LineStyle>
@@ -1034,7 +1034,7 @@
             <coordinates>-8.660556,41.490833,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Garcia de Guilhade</name>
          <Style>
             <LineStyle>
@@ -1046,7 +1046,7 @@
             <coordinates>-8.660556,41.490833,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Garcia de Guilhade</name>
          <Style>
             <LineStyle>
@@ -1058,7 +1058,7 @@
             <coordinates>-8.660556,41.490833,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Johan Garcia de Guilhade</name>
          <description>Milhazes, Barcelos
                             </description>
@@ -1073,11 +1073,11 @@
             <coordinates>-8.660556,41.490833,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Johan Lobeira</name>
          <description>Lobeira
                         </description>
@@ -1092,8 +1092,8 @@
             <coordinates>-8.039395,41.984776,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Johan Lobeira</name>
          <Style>
             <LineStyle>
@@ -1105,13 +1105,13 @@
             <coordinates>-8.039395,41.984776,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Johan Vasquis de Talaveira</name>
          <Style>
             <LineStyle>
@@ -1123,8 +1123,8 @@
             <coordinates>-4.830143,39.961801,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Johan Vasquis de Talaveira</name>
          <Style>
             <LineStyle>
@@ -1136,7 +1136,7 @@
             <coordinates>-4.830143,39.961801,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Johan Vasquis de Talaveira</name>
          <description>Talavera de la Reina
                             </description>
@@ -1151,13 +1151,13 @@
             <coordinates>-4.830143,39.961801,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Pero da Ponte</name>
          <description>Pontevedra </description>
          <Style>
@@ -1171,7 +1171,7 @@
             <coordinates>-8.667735,42.463092,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero da Ponte</name>
          <Style>
             <LineStyle>
@@ -1183,7 +1183,7 @@
             <coordinates>-8.667735,42.463092,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero da Ponte</name>
          <Style>
             <LineStyle>
@@ -1195,7 +1195,7 @@
             <coordinates>-8.667735,42.463092,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero da Ponte</name>
          <Style>
             <LineStyle>
@@ -1207,7 +1207,7 @@
             <coordinates>-8.667735,42.463092,100 -2.8,42.6,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero da Ponte</name>
          <Style>
             <LineStyle>
@@ -1219,11 +1219,11 @@
             <coordinates>-8.667735,42.463092,100 -4.92,41.941667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Johan Perez d' Aboim</name>
          <description>Aboim da Nóbrega </description>
          <Style>
@@ -1234,11 +1234,10 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates>
-                            -8.391344,41.750190,100</coordinates>
+            <coordinates> -8.391344,41.750190,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Perez d' Aboim</name>
          <Style>
             <LineStyle>
@@ -1247,12 +1246,11 @@
             </LineStyle>
          </Style>
          <LineString>
-            <coordinates>
-                            -8.391344,41.750190,100 -8.46,40.26,100</coordinates>
+            <coordinates> -8.391344,41.750190,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Johan Perez d' Aboim</name>
          <Style>
             <LineStyle>
@@ -1261,17 +1259,16 @@
             </LineStyle>
          </Style>
          <LineString>
-            <coordinates>
-                            -8.391344,41.750190,100 -9.1334,38.7167,100</coordinates>
+            <coordinates> -8.391344,41.750190,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Pai Gomez Charinho</name>
          <description>Pontevedra
                         </description>
@@ -1286,7 +1283,7 @@
             <coordinates>-8.65,42.433333,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pai Gomez Charinho</name>
          <Style>
             <LineStyle>
@@ -1298,9 +1295,9 @@
             <coordinates>-8.65,42.433333,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Pai Gomez Charinho</name>
          <Style>
             <LineStyle>
@@ -1312,15 +1309,15 @@
             <coordinates>-8.65,42.433333,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Fernan Velho</name>
          <Style>
             <LineStyle>
@@ -1333,14 +1330,14 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Gil Peres Conde</name>
          <Style>
             <LineStyle>
@@ -1352,7 +1349,7 @@
             <coordinates> -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Gil Peres Conde</name>
          <Style>
             <LineStyle>
@@ -1364,11 +1361,11 @@
             <coordinates> -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Bonifaci Calvo</name>
          <description>Genoa </description>
          <Style>
@@ -1382,10 +1379,10 @@
             <coordinates>8.932778,44.411111,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Bonifaci Calvo</name>
          <Style>
             <LineStyle>
@@ -1398,13 +1395,13 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Roi Fernandiz de Santiago</name>
          <Style>
             <LineStyle>
@@ -1417,7 +1414,7 @@
          </LineString>
       </Placemark>
 
-                    <Placemark>
+      <Placemark>
          <name>Roi Fernandiz de Santiago</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -1431,11 +1428,11 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Roi Martinz d' Ulveira</name>
          <description>Oliveira, Arcos de Valdevez
                             </description>
@@ -1450,7 +1447,7 @@
             <coordinates>-8.393688,41.825125,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Roi Martinz d' Ulveira</name>
          <Style>
             <LineStyle>
@@ -1462,11 +1459,11 @@
             <coordinates>-8.393688,41.825125,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Roi Martinz do Casal</name>
          <description>Outeiro, Vila do Conde
                             </description>
@@ -1481,8 +1478,8 @@
             <coordinates>-8.703222,41.342444,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Roi Martinz do Casal</name>
          <Style>
             <LineStyle>
@@ -1494,13 +1491,13 @@
             <coordinates>-8.703222,41.342444,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Fernand' Esquio</name>
          <Style>
             <LineStyle>
@@ -1512,9 +1509,9 @@
             <coordinates>-8.156906,43.499886,100 -7.583333,43.65,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Fernand' Esquio</name>
          <description>Terras do Neda
                         </description>
@@ -1529,10 +1526,10 @@
             <coordinates>-8.156906,43.499886,100</coordinates>
          </Point>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Fernan Fernandez Cogominho</name>
          <description>Chaves
                         </description>
@@ -1547,9 +1544,9 @@
             <coordinates>-7.468215,41.740926,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Fernan Fernandez Cogominho</name>
          <Style>
             <LineStyle>
@@ -1561,13 +1558,13 @@
             <coordinates>-7.468215,41.740926,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Fernan Figueira</name>
          <description>Lemos
                         </description>
@@ -1582,7 +1579,7 @@
             <coordinates>-7.519520,42.549670,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Fernan Figueira</name>
          <Style>
             <LineStyle>
@@ -1594,13 +1591,13 @@
             <coordinates>-7.519520,42.549670,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Pedr'Amigo de Sevilha</name>
          <Style>
             <LineStyle>
@@ -1612,12 +1609,12 @@
             <coordinates> -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+      <Placemark>
          <name>Estevan Reimondo</name>
          <description>Porto Carreiro
                         </description>
@@ -1632,9 +1629,9 @@
             <coordinates>-8.416648,41.266480,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Estevan Reimondo</name>
          <Style>
             <LineStyle>
@@ -1646,7 +1643,7 @@
             <coordinates>-8.416648,41.266480,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Estevan Reimondo</name>
          <Style>
             <LineStyle>
@@ -1658,10 +1655,10 @@
             <coordinates>-8.416648,41.266480,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Pai da Cana</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -1675,9 +1672,9 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Pai da Cana</name>
          <Style>
             <LineStyle>
@@ -1689,10 +1686,10 @@
             <coordinates>-8.541251,42.880771,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Nun´Eanes Cêrzeo</name>
          <description>Cercio (Lalín)
                         </description>
@@ -1707,9 +1704,9 @@
             <coordinates>-8.119226,42.756304,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Nun´Eanes Cêrzeo</name>
          <Style>
             <LineStyle>
@@ -1721,7 +1718,7 @@
             <coordinates>-8.119226,42.756304,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Nun´Eanes Cêrzeo</name>
          <Style>
             <LineStyle>
@@ -1733,14 +1730,14 @@
             <coordinates>-8.119226,42.756304,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Rodrigu' Eanes d' Alvares</name>
          <description>Dálvares
                         </description>
@@ -1755,9 +1752,9 @@
             <coordinates>-7.758272,41.036356,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    <Placemark>
+
+
+      <Placemark>
          <name>Trajeto de Rodrigu' Eanes d' Alvares</name>
          <Style>
             <LineStyle>
@@ -1769,11 +1766,11 @@
             <coordinates>-7.758272,41.036356,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Rodrigu' Eanes de Vasconcelos</name>
          <description>Santa Maria dos Ferreiros (Amares) </description>
          <Style>
@@ -1787,14 +1784,14 @@
             <coordinates>-8.362,41.626,100</coordinates>
          </Point>
       </Placemark>
-                                        
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Rodrigu' Eanes Redondo</name>
          <description>Barcelos
                         </description>
@@ -1809,7 +1806,7 @@
             <coordinates>-8.6202183,41.5342131,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Rodrigu' Eanes Redondo</name>
          <Style>
             <LineStyle>
@@ -1821,8 +1818,8 @@
             <coordinates>-8.6202183,41.5342131,100 -8.45,40.25,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    <Placemark>
+
+      <Placemark>
          <name>Trajeto de Rodrigu' Eanes Redondo</name>
          <Style>
             <LineStyle>
@@ -1834,14 +1831,14 @@
             <coordinates>-8.6202183,41.5342131,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Men Rodriguez de Briteiros</name>
          <description>Briteiros </description>
          <Style>
@@ -1855,7 +1852,7 @@
             <coordinates>-8.319,41.5165051,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Men Rodriguez de Briteiros</name>
          <Style>
             <LineStyle>
@@ -1867,7 +1864,7 @@
             <coordinates>-8.319,41.5165051,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Men Rodriguez de Briteiros</name>
          <Style>
             <LineStyle>
@@ -1879,7 +1876,7 @@
             <coordinates>-8.319,41.5165051,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Men Rodriguez de Briteiros</name>
          <Style>
             <LineStyle>
@@ -1891,10 +1888,10 @@
             <coordinates>-8.319,41.5165051,100 -9.1334,38.7167,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Pero d'Armea</name>
          <description>Armea (Betanzos)
                         </description>
@@ -1909,7 +1906,7 @@
             <coordinates>-8.183,43.2728212,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero d'Armea</name>
          <Style>
             <LineStyle>
@@ -1921,16 +1918,16 @@
             <coordinates>-8.183,43.2728212,100 -7.583333,43.65,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Johan Airas</name>
          <Style>
             <LineStyle>
@@ -1942,7 +1939,7 @@
             <coordinates>-8.541251,42.880771,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Johan Airas</name>
          <Style>
             <LineStyle>
@@ -1954,7 +1951,7 @@
             <coordinates>-8.541251,42.880771,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Johan Airas</name>
          <description>Santiago de Compostela</description>
          <Style>
@@ -1968,14 +1965,14 @@
             <coordinates>-8.541251,42.880771,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+      <Placemark>
          <name>Trajeto de Per' Eanes Marinho</name>
          <Style>
             <LineStyle>
@@ -1987,7 +1984,7 @@
             <coordinates> -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Per' Eanes Marinho</name>
          <Style>
             <LineStyle>
@@ -1999,7 +1996,7 @@
             <coordinates> -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Per' Eanes Marinho</name>
          <Style>
             <LineStyle>
@@ -2011,12 +2008,12 @@
             <coordinates> -4.72856,41.65198,100</coordinates>
          </LineString>
       </Placemark>
-                    
-                    
-                
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+      <Placemark>
          <name>Fernan Soarez de Quinhones</name>
          <description> Quiñones del Río
                             </description>
@@ -2032,10 +2029,10 @@
          </Point>
       </Placemark>
 
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Fernan Soarez de Quinhones</name>
          <Style>
             <LineStyle>
@@ -2047,7 +2044,7 @@
             <coordinates>-5.826969,42.552194,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Fernan Soarez de Quinhones</name>
          <Style>
             <LineStyle>
@@ -2060,10 +2057,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Pero Goterrez</name>
          <description>Leão
                         </description>
@@ -2078,10 +2075,10 @@
             <coordinates>-5.57,42.7,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Pero Goterrez</name>
          <Style>
             <LineStyle>
@@ -2094,10 +2091,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Caldeiron</name>
          <description>Aragão
                         </description>
@@ -2112,10 +2109,10 @@
             <coordinates>-0.9,42,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Caldeiron</name>
          <Style>
             <LineStyle>
@@ -2127,7 +2124,7 @@
             <coordinates>-0.9,42,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Caldeiron</name>
          <Style>
             <LineStyle>
@@ -2140,10 +2137,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Picandon</name>
          <description>Occitania
                         </description>
@@ -2158,10 +2155,10 @@
             <coordinates>-0.578333,44.838611,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Picandon</name>
          <Style>
             <LineStyle>
@@ -2173,7 +2170,7 @@
             <coordinates>-0.578333,44.838611,100 -3.790256,37.765406,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Picandon</name>
          <Style>
             <LineStyle>
@@ -2186,10 +2183,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Lourenzo</name>
          <description>Portugal
                         </description>
@@ -2204,10 +2201,10 @@
             <coordinates>-8.1,39.8,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Lourenzo</name>
          <Style>
             <LineStyle>
@@ -2219,7 +2216,7 @@
             <coordinates>-8.1,39.8,100 -8.46,40.26,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Lourenzo</name>
          <Style>
             <LineStyle>
@@ -2232,10 +2229,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Arnaldo</name>
          <description>Tolosa
                         </description>
@@ -2250,10 +2247,10 @@
             <coordinates>1.444,43.6045,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Arnaldo</name>
          <Style>
             <LineStyle>
@@ -2265,7 +2262,7 @@
             <coordinates>1.444,43.6045,100 5.445429,43.526304,100</coordinates>
          </LineString>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Arnaldo</name>
          <Style>
             <LineStyle>
@@ -2278,10 +2275,10 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Afonso Fernandez Cebolhilha</name>
          <description>Sevilla </description>
          <Style>
@@ -2296,10 +2293,10 @@
          </Point>
       </Placemark>
 
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Trajeto de Afonso Fernandez Cebolhilha</name>
          <Style>
             <LineStyle>
@@ -2312,11 +2309,11 @@
          </LineString>
       </Placemark>
 
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Airas Paez</name>
          <description>Reza
                         </description>
@@ -2331,7 +2328,7 @@
             <coordinates>-7.89,42.3492067,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Airas Paez</name>
          <Style>
             <LineStyle>
@@ -2343,18 +2340,18 @@
             <coordinates>-7.89,42.3492067,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+
+
+
+
+
+
+      <Placemark>
          <name>Airas Perez Vuitoron</name>
          <description>Terras do Deza
                         </description>
@@ -2369,12 +2366,12 @@
             <coordinates>-8.110096,42.660024,100</coordinates>
          </Point>
       </Placemark>
-                    
-                
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+
+      <Placemark>
          <name>Pero Garcia Burgalês</name>
          <description>Burgos </description>
          <Style>
@@ -2388,7 +2385,7 @@
             <coordinates>-3.6946,42.344126,100</coordinates>
          </Point>
       </Placemark>
-                    <Placemark>
+      <Placemark>
          <name>Trajeto de Pero Garcia Burgalês</name>
          <Style>
             <LineStyle>
@@ -2400,10 +2397,10 @@
             <coordinates>-3.6946,42.344126,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
-                
-                    
-                    
-                    <Placemark>
+
+
+
+      <Placemark>
          <name>Gomez Garcia</name>
          <description>Toledo
                         </description>
@@ -2418,11 +2415,11 @@
             <coordinates>-4.024815,39.860365,100</coordinates>
          </Point>
       </Placemark>
-                    
-                    
-                    
-                    
-                    <Placemark>
+
+
+
+
+      <Placemark>
          <name>Trajeto de Gomez Garcia</name>
          <Style>
             <LineStyle>
@@ -2434,7 +2431,7 @@
             <coordinates>-4.024815,39.860365,100 -4.024444,39.856667,100</coordinates>
          </LineString>
       </Placemark>
-                <Placemark>
+      <Placemark>
          <name>Os Soverosas</name>
          <description>Corte da família Soverosas</description>
          <Style>

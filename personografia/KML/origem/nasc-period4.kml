@@ -1,0 +1,131 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1300-1350</name>
+      <Placemark>
+         <name>Afonso Sanchez</name>
+         <description>Lumiar</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates> -9.160879,38.768700,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Estevan Coelho</name>
+         <description>Riba Homem</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.314163,41.719828,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Estevan da Guarda</name>
+         <description>Guarda</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.266249,40.538230,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Johan Mendiz de Briteiros</name>
+         <description>Briteiros</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.319,41.5165051,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Johan de Gaia</name>
+         <description>Gaia</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.620010,41.127441,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Johan, jograr morador en León</name>
+         <description>León</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.54,42.57,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Martin Perez Alvin</name>
+         <description>Alvim, Guimaraes</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.287752,41.436622,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pedro de Portugal, Conde de Barcelos</name>
+         <description>Desconhecido</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-9.266667,39.083333,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Vasco Martins de Resende</name>
+         <description>Resende</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.95,41.1,100</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
